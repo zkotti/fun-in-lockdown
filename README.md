@@ -6,7 +6,7 @@ The purpose of this repository is to get familiar with Git and GitHub's concepts
 
 ## Tasks
 - Clone this repository.
-- Add information about interesting things to do in lockdown to the **guide.md** file.
+- Add information about interesting things to do in lockdown to the **guide.md** file. (Create the file if it does not already exist.)
 - Contribute generously and in several categories.
 - In case you reuse other people's material, make sure to:
     1. rephrase the content, and
@@ -25,6 +25,7 @@ The purpose of this repository is to get familiar with Git and GitHub's concepts
 - Rearrange text if you think it should be organized differently&mdash;refactorings are always welcome!
 - You can include images and videos, but don't forget to commit and push them. Images and videos should be placed in the ```media/``` directory. (Create the directory if it does not already exist.)
 - Again, use references for images and videos&mdash;you cannot reuse web content without citing the original source.
+- Be creative! Take it a step further by including a file with guidelines to contributing for newcomers, and a code of conduct file.
 
 ## Grading System
 - Number of contributions&mdash;the more the better!
