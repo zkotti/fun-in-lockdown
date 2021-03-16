@@ -21,6 +21,7 @@ The purpose of this repository is to get familiar with Git and GitHub's concepts
 
 ## Tips
 - Copy-pasting text is considered plagiarism, so make sure to rephrase it.
+- Configure your editor to use a spellchecker (in case you have not already done so).
 - Include links where necessary (*e.g.,* locations, online courses, *etc.*).
 - Rearrange text if you think it should be organized differently&mdash;refactorings are always welcome!
 - You can include images and videos, but don't forget to commit and push them. Images and videos should be placed in the ```media/``` directory. (Create the directory if it does not already exist.)
