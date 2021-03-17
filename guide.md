@@ -81,10 +81,25 @@ Amazing video games you must try out:
 This category has no interesting activities yet.
 
 ## <a name="music"></a>Music
-Music is probably the best way to survive while at home. Whether you headbang while doing your assignments, sing at the shower or leave the computer to stretch your fingers with that chord, you have probably already noticed that slight brightening to your soul.
+Music is probably the best way to survive while at home. Whether you headbang while doing your assignments, sing in the shower or leave the computer to stretch your fingers with that chord, you have probably already noticed that slight brightening to your soul.
 
 ### Musical Instruments
 You are never actually too old to learn to play an instrument you have always liked. It is a perfect break from your laptop's screen.
+
+#### Guitar
+You will get surprised from how easily you can produce nice sounds. All you need to begin is:
+* a [tuning app](https://play.google.com/store/apps/details?id=com.ovelin.guitartuna&hl=en&gl=US)
+* a set of strings
+* a footstool (recommended for classical guitar)
+* and of course the guitar
+
+You can either teach yourself with a huge collection of online tutorials and tabs or find a teacher and have online lessons. There are 3 major guitar types.
+
+* *Nylon acoustic (classical):* It produces a mellow sound and it's ideal for beginners, as the strings are easy to pick and it is lightweight and cheap. However, it has wider fretboard.
+* *Steel string acoustic:* The strings produce a brighter tone and they are ideal for strumming. However, building calluses can be really painful for beginners.
+* *Electric:* You will need at least an amp as the sound is produced from electric signals. It also uses steel strings and it is a bit heavier. Nonetheless, it is great for creativity with many technics and effects. 
+
+Used information from: https://www.artistguitars.com.au/buying/how-to-choose-a-guitar-in-2-simple-steps
 
 ## <a name="facetime"></a>Facetime your long-distance friends
 Have video chats to remember the nights when you used to hangout for hours with your friends.Use Skype, FaceTime and Microsoft Teams to help you with that!
