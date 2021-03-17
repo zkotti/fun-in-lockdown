@@ -29,7 +29,9 @@ This category has no interesting activities yet.
 
 ## <a name="trips-tours"></a>Virtual Tours-Trips
 Tired of sitting at home?
+
 Why don't you take a virtual tour via **youtube**?
+
 [Come and relax on youtube's virtual trips now!](https://www.youtube.com/watch?v=2Qcf1K3hP2g)
 
 ## <a name="movies-docum-series"></a>Movies-Documentaries-Series
