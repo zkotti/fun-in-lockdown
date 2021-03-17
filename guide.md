@@ -29,7 +29,7 @@ This category has no interesting activities yet.
 ## <a name="trips-tours"></a>Virtual Tours-Trips
 This category has no interesting activities yet.
 
-## <a name="movies-docum-series"></a>Movies-Documentaries-TV Series
+## <a name="movies-docum-series"></a>Movies-Documentaries-Series
 _The most common activity during  lock-down has been watching movies. So here are my recommendations for movies, series and documentaries:_
 
 |TITLE| TYPE| AVAILABLE ON| MY RATING| TRAILER|
