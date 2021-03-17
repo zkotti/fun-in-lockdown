@@ -86,6 +86,9 @@ Music is probably the best way to survive while at home. Whether you headbang wh
 ### Musical Instruments
 You are never actually too old to learn to play an instrument you have always liked. It is a perfect break from your laptop's screen.
 
+## <a name="facetime"></a>Facetime your long-distance friends
+Have video chats to remember the nights when you used to hangout for hours with your friends.Use Skype, FaceTime and Microsoft Teams to help you with that!
+
 ## Before you head outside
 1. *Be sure you wear a mask*
 2. *Don't forget to sent the obligatory SMS text message to 13033*:
