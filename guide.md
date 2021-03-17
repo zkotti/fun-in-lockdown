@@ -20,6 +20,7 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 * [Music](#music)
 * [Facetime your long-distance friends](#facetime)
 * [Art](#art)
+* [Clean and organize](#clean)
 
 [!Note : Before you head outside](#note)
 
@@ -125,6 +126,10 @@ Have video chats to remember the nights when you used to hangout for hours with 
 
 ## <a name="art"></a>Art
 This category has no interesting activities yet.
+
+## <a name="clean"></a> Clean and organize
+This is a great opportunity for you to clean and organize your space. Declutter, get rid of all the things you never use and organize the ones that you use. It will make you feel useful and you will have a clean, organized space at the end of the day.
+
 
 ## <a name="note"></a>!Note : Before you head outside
 1. *Be sure you wear a mask*
