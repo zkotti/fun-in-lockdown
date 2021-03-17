@@ -28,7 +28,9 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 This category has no interesting activities yet.
 
 ## <a name="trips-tours"></a>Virtual Tours-Trips
-This category has no interesting activities yet.
+Tired of sitting at home?
+Why don't you take a virtual tour via **youtube**?
+[Come and relax on youtube's virtual trips now!](https://www.youtube.com/watch?v=2Qcf1K3hP2g)
 
 ## <a name="movies-docum-series"></a>Movies-Documentaries-Series
 _The most common activity during  lock-down has been watching movies. So here are my recommendations for movies, series and documentaries:_
