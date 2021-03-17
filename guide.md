@@ -19,6 +19,7 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 * [Board Games](#board-games)
 * [Music](#music)
 * [Facetime your long-distance friends](#facetime)
+* [Art](#art)
 
 ## <a name="walks"></a>Walks in Town
 This category has no interesting activities yet.
@@ -37,10 +38,14 @@ _The most common activity during  lock-down has been watching movies. So here ar
 |Connected| Documentary - TV series| Netflix| 8.5/10| [TRAILER](https://www.youtube.com/watch?v=B-aZrftUPlk&ab_channel=Netflix "Connected")|
 |Lupin| TV series| Netflix| 7.5/10| [TRAILER](https://www.youtube.com/watch?v=ga0iTWXCGa0&ab_channel=Netflix "Lupin")|
 |The Social Dilemma| Documentary| Netflix| 7/10| [TRAILER](https://www.youtube.com/watch?v=uaaC57tcci0&ab_channel=Netflix "The Social Dilemma")|
+|Joker| Drama | Amazon | 10/10 | [TRAILER](https://www.youtube.com/watch?v=zAGVQLHvwOY "Joker")|
+
 
 ## <a name="books"></a>Books
-This category has no interesting activities yet.
 
+|TITLE| TOPIC | AVAILABLE ON| MY RATING| Link |
+|---| ---| ---| ---| ---|
+|Thinking, Fast and Slow | Psychology | Amazon | 9/10| [Link](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=391NW1M3NG4SX&dchild=1&keywords=think+fast+and+slow&qid=1616005195&sprefix=think+fast%2Caps%2C216&sr=8-1 "Thinking, Fast and Slow")|
 ## <a name="exercise"></a>Exercise 
 This category has no interesting activities yet.
 
@@ -48,8 +53,10 @@ This category has no interesting activities yet.
 This category has no interesting activities yet.
 
 ## <a name="cooking"></a>Cooking
-This category has no interesting activities yet.
 
+|Receipt| Country |  MY RATING| Link |
+|---| ---| ---| ---|
+| Tzatziki | Greece | 10/10| [Link](https://cookieandkate.com/how-to-make-tzatziki/ "How to Make Tzatziki")|
 ## <a name="projects"></a>Start a new Project
 This category has no interesting activities yet.
 
@@ -88,3 +95,6 @@ The SMS must be in the following format:
 
     *Source:* https://forma.gov.gr/en/
 3. *Be sure to comply with the law*: (description needed)
+
+## <a name="art"></a>Art
+This category has no interesting activities yet.
