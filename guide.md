@@ -51,10 +51,27 @@ _The most common activity during  lock-down has been watching movies. So here ar
 |Thinking, Fast and Slow | Psychology | Amazon | 9/10| [Link](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=391NW1M3NG4SX&dchild=1&keywords=think+fast+and+slow&qid=1616005195&sprefix=think+fast%2Caps%2C216&sr=8-1 "Thinking, Fast and Slow")|
 
 ## <a name="exercise"></a>Exercise 
-Different kind of exercises and sports you can do during the pandemic:
+My gym is closed for almost 6 months now, and I think yours is, too.
+
+If you are lucky to continue your workout via online courses, then, maybe, you won’t be interested in this section. 
+
+If not, below there are some recommendations and really helpful videos.
+
+Different kinds of exercises and sports:
 
 * Freeletics (bodyweight workout)
 * HIT (High Intensity Training)
+
+“Burning” particular muscle groups:
+
+* Arms & Back + Core training [video](https://www.youtube.com/watch?v=-UmT4WYhqH4)
+* Buttocks lifting workout [video](https://www.youtube.com/watch?v=el1Cpk5B6OU)
+
+Full body workout:
+
+* Boxing cardio burn [video](https://www.youtube.com/watch?v=0Y8cy6qtIgg)
+* Dance fitness workout [video](https://www.youtube.com/watch?v=1XU4RCD85jM) (Lots of fun and sweat, trust me!)
+
 
 ## <a name="new-skill"></a>Learn a new skill
 Great ideas to learn new skills:
