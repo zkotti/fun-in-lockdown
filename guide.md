@@ -12,7 +12,7 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 * [Movies](#movies)
 * [Books](#books)
 * [Exercise](#exercise)
-* [Learning a new Skill](#new-skill)
+* [Learn a new skill](#new-skill)
 * [Cooking](#cooking)
 * [Start a new Project](#projects)
 * [Video Games](#video-games)
@@ -33,7 +33,7 @@ This category has no interesting activities yet.
 ## <a name="exercise"></a>Exercise 
 This category has no interesting activities yet.
 
-## <a name="new-skill"></a>Learning a new Skill
+## <a name="new-skill"></a>Learn a new skill
 This category has no interesting activities yet.
 
 ## <a name="cooking"></a>Cooking
@@ -45,5 +45,5 @@ This category has no interesting activities yet.
 ## <a name="video-games"></a>Video Games
 This category has no interesting activities yet.
 
-## <a name="board-games"></a>Board Game
+## <a name="board-games"></a>Board Games
 This category has no interesting activities yet.
