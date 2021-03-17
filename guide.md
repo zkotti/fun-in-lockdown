@@ -9,7 +9,7 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 ## <a name="categories"></a>Categories
 * [Walks in Town](#walks)
 * [Virtual Tours-Trips](#trips-tours)
-* [Movies](#movies)
+* [Movies-Documentaries-Series](#movies-docum-series)
 * [Books](#books)
 * [Exercise](#exercise)
 * [Learn a new skill](#new-skill)
@@ -21,13 +21,15 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 * [Facetime your long-distance friends](#facetime)
 * [Art](#art)
 
+[!Note : Before you head outside](#note)
+
 ## <a name="walks"></a>Walks in Town
 This category has no interesting activities yet.
 
 ## <a name="trips-tours"></a>Virtual Tours-Trips
 This category has no interesting activities yet.
 
-## <a name="movies"></a>Movies
+## <a name="movies-docum-series"></a>Movies-Documentaries-TV Series
 _The most common activity during  lock-down has been watching movies. So here are my recommendations for movies, series and documentaries:_
 
 |TITLE| TYPE| AVAILABLE ON| MY RATING| TRAILER|
@@ -59,7 +61,6 @@ Great ideas to learn new skills:
 * Learn a new programming language
 * Learn new foreign language
 
-
 ## <a name="cooking"></a>Cooking
 
 |Receipt| Country |  MY RATING| Link |
@@ -77,6 +78,7 @@ Amazing video games you must try out:
 
 * FIFA 2021
 * GTA San Andreas
+
 ## <a name="board-games"></a>Board Games
 This category has no interesting activities yet.
 
@@ -89,7 +91,10 @@ You are never actually too old to learn to play an instrument you have always li
 ## <a name="facetime"></a>Facetime your long-distance friends
 Have video chats to remember the nights when you used to hangout for hours with your friends.Use Skype, FaceTime and Microsoft Teams to help you with that!
 
-## Before you head outside
+## <a name="art"></a>Art
+This category has no interesting activities yet.
+
+## <a name="note"></a>!Note : Before you head outside
 1. *Be sure you wear a mask*
 2. *Don't forget to sent the obligatory SMS text message to 13033*:
 You can send SMS from your mobile phone to 13033 free of charge.
@@ -112,6 +117,3 @@ The SMS must be in the following format:
 
     *Source:* https://forma.gov.gr/en/
 3. *Be sure to comply with the law*: (description needed)
-
-## <a name="art"></a>Art
-This category has no interesting activities yet.
