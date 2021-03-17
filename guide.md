@@ -79,7 +79,7 @@ Full body workout:
 Great ideas to learn new skills:
 
 * Learn a new programming language
-* Learn new foreign language
+* Learn a new foreign language
 
 ## <a name="cooking"></a>Cooking
 
