@@ -18,6 +18,7 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 * [Video Games](#video-games)
 * [Board Games](#board-games)
 * [Music](#music)
+* [Facetime your long-distance friends](#facetime)
 
 ## <a name="walks"></a>Walks in Town
 This category has no interesting activities yet.
