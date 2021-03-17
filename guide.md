@@ -17,6 +17,7 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 * [Start a new Project](#projects)
 * [Video Games](#video-games)
 * [Board Games](#board-games)
+* [Music](#music)
 
 ## <a name="walks"></a>Walks in Town
 This category has no interesting activities yet.
@@ -47,6 +48,12 @@ This category has no interesting activities yet.
 
 ## <a name="board-games"></a>Board Games
 This category has no interesting activities yet.
+
+## <a name="music"></a>Music
+Music is probably the best way to survive while at home. Whether you headbang while doing your assignments, sing at the shower or leave the computer to stretch your fingers with that chord, you have probably already noticed that slight brightening to your soul.
+
+### Musical Instruments
+You are never actually too old to learn to play an instrument you have always liked. It is a perfect break from your laptop's screen.
 
 ## Before you head outside
 1. *Be sure you wear a mask*
