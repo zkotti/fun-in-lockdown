@@ -25,7 +25,16 @@ This category has no interesting activities yet.
 This category has no interesting activities yet.
 
 ## <a name="movies"></a>Movies
-This category has no interesting activities yet.
+_The most common activity during  lock-down has been watching movies. So here are my recommendations for movies, series and documentaries:_
+
+|TITLE| TYPE| AVAILABLE ON| MY RATING| TRAILER|
+|---| ---| ---| ---| ---|
+|Don't f**k with cats| Documentary - TV series| Netflix| 9/10| [TRAILER](https://www.youtube.com/watch?v=x41SMm-9-i4&ab_channel=Netflix "Don't f**k with cats")|
+|Breaking Bad| TV series| Netflix| 9/10| [TRAILER](https://www.youtube.com/watch?v=HhesaQXLuRY&ab_channel=TrailerBlend "Breaking Bad")|
+|The Boys| TV series| AmazonPrime| 7/10| [TRAILER](https://www.youtube.com/watch?v=M1bhOaLV4FU&ab_channel=AmazonPrimeVideoUK "The Boys")|
+|Connected| Documentary - TV series| Netflix| 8.5/10| [TRAILER](https://www.youtube.com/watch?v=B-aZrftUPlk&ab_channel=Netflix "Connected")|
+|Lupin| TV series| Netflix| 7.5/10| [TRAILER](https://www.youtube.com/watch?v=ga0iTWXCGa0&ab_channel=Netflix "Lupin")|
+|The Social Dilemma| Documentary| Netflix| 7/10| [TRAILER](https://www.youtube.com/watch?v=uaaC57tcci0&ab_channel=Netflix "The Social Dilemma")|
 
 ## <a name="books"></a>Books
 This category has no interesting activities yet.
