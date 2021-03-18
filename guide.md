@@ -50,6 +50,8 @@ _The most common activity during  lock-down has been watching movies. So here ar
 |Lupin| TV series| Netflix| 7.5/10| [TRAILER](https://www.youtube.com/watch?v=ga0iTWXCGa0&ab_channel=Netflix "Lupin")|
 |The Social Dilemma| Documentary| Netflix| 7/10| [TRAILER](https://www.youtube.com/watch?v=uaaC57tcci0&ab_channel=Netflix "The Social Dilemma")|
 |Joker| Drama | Amazon | 10/10 | [TRAILER](https://www.youtube.com/watch?v=zAGVQLHvwOY "Joker")|
+|Miracle in Cell No. 7 (2019)| Drama | Netflix | 9/10 | [TRAILER](https://www.youtube.com/watch?v=MHdBW0gSsjo "Miracle in Cell No. 7")|
+
 
 
 ## <a name="books"></a>Books
