@@ -35,7 +35,12 @@ Here a some sights and places which are definitely worth to make a walk at:
 * Climb to the Acropolis
 * Take a walk to the Likavitou hill
 * Run around the Philopappos monument
+<<<<<<< HEAD
+* Stroll around in the harbour of Piräus 
+* Go walk at Stavros Niarchos Foundation Cultural Center
+=======
 * Stroll around in the harbour of Piraeus 
+>>>>>>> a022fcc576d63654a56ee9754372a3c54a245d4b
 
 ---
 
