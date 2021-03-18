@@ -57,6 +57,7 @@ _The most common activity during  lock-down has been watching movies. So here ar
 |TITLE| TOPIC | AVAILABLE ON| MY RATING| Link |
 |---| ---| ---| ---| ---|
 |Thinking, Fast and Slow | Psychology | Amazon | 9/10| [Link](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=391NW1M3NG4SX&dchild=1&keywords=think+fast+and+slow&qid=1616005195&sprefix=think+fast%2Caps%2C216&sr=8-1 "Thinking, Fast and Slow")|
+|Zero to One| Management | Public | 9.5/10| [Link](https://www.public.gr/product/books/greek-books/economics/management/zero-to-one/prod6840642pp/ "Zero to One")
 
 ## <a name="exercise"></a>Exercise 
 My gym is closed for almost 6 months now, and I think yours is, too.
