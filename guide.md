@@ -30,7 +30,11 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 <img align="left" width="40" height="40" src="media/walk.png">
 
 ## <a name="walks"></a>Walks in Town
-This category has no interesting activities yet.
+Here a some sights and places which are definitely worth to make a walk at: 
+* Climb to the Acropolis
+* Take a walk to the Likavitou hill
+* Run around the Philopappos monument
+* Stroll around in the harbour of Piräus 
 
 ---
 
@@ -210,7 +214,14 @@ Have video chats to remember the nights when you used to hangout for hours with 
 <img align="left" width="40" height="40" src="media/art.png">
 
 ## <a name="art"></a>Art
-This category has no interesting activities yet.
+Creating art can be of so many different types. It can be painting, constructing some art piece from recycled 
+materials, or also decorating your apartment/room. Especially painting can calm you really down and give you the 
+opportunity to express your feelings and emotions by using colors. The following tutorials will help you to make 
+the first step to become an artist and use the time during the pandemic more efficiently:
+
+* [Acrylic Painting Tutorial - Ocean Sunset (Beginner to Intermediate)](https://www.youtube.com/watch?v=VjCGJb5ltZM)
+* [10 wonderful recycle do it yourself crafts that will brighten your room](https://www.youtube.com/watch?v=HkHEJEzMKwc)
+* [24 cool decorative ideas you can do it yourself](https://www.youtube.com/watch?v=Uv-KC7szPN0)
 
 
 ---
