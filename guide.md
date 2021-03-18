@@ -67,7 +67,7 @@ _The most common activity during  lock-down has been watching movies. So here ar
 |The Social Dilemma| Documentary| Netflix| 7/10| [TRAILER](https://www.youtube.com/watch?v=uaaC57tcci0&ab_channel=Netflix "The Social Dilemma")|
 |Joker| Drama | Amazon | 10/10 | [TRAILER](https://www.youtube.com/watch?v=zAGVQLHvwOY "Joker")|
 |Miracle in Cell No. 7 (2019)| Drama | Netflix | 9/10 | [TRAILER](https://www.youtube.com/watch?v=MHdBW0gSsjo "Miracle in Cell No. 7")|
-
+| The 100 | Sci-Fi | Netflix | 9.5/10 | [TRAILER](https://www.youtube.com/watch?v=ia1Fbg96vL0 "The 100")|
 
 ---
 
@@ -75,7 +75,7 @@ _The most common activity during  lock-down has been watching movies. So here ar
 
 ## <a name="books"></a>Books
 
-|TITLE| TOPIC | AVAILABLE ON| MY RATING| Link |
+|TITLE| TOPIC | AVAILABLE ON| MY RATING| LINK |
 |---| ---| ---| ---| ---|
 |Thinking, Fast and Slow | Psychology | Amazon | 9/10| [Link](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=391NW1M3NG4SX&dchild=1&keywords=think+fast+and+slow&qid=1616005195&sprefix=think+fast%2Caps%2C216&sr=8-1 "Thinking, Fast and Slow")|
 |Zero to One| Management | Public | 9.5/10| [Link](https://www.public.gr/product/books/greek-books/economics/management/zero-to-one/prod6840642pp/ "Zero to One")
@@ -130,10 +130,10 @@ Enjoy different kind of meals from around the world:
 
 Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/brunch-choice-crowd-dining-food-options-384205462)
 
-|Receipt| Country |  MY RATING| Link |
+|FOOD | COUNTRY |  MY RATING | RECIPE |
 |---| ---| ---| ---|
 | Tzatziki | Greece | 10/10| [Link](https://cookieandkate.com/how-to-make-tzatziki/ "How to Make Tzatziki")|
-
+| Sushi | Japan | 10/10| [Link](https://akispetretzikis.com/en/categories/ryzi-amp-patates/soysi "How to Make Sushi")|
 
 ---
 
@@ -222,7 +222,7 @@ the first step to become an artist and use the time during the pandemic more eff
 * [Acrylic Painting Tutorial - Ocean Sunset (Beginner to Intermediate)](https://www.youtube.com/watch?v=VjCGJb5ltZM)
 * [10 wonderful recycle do it yourself crafts that will brighten your room](https://www.youtube.com/watch?v=HkHEJEzMKwc)
 * [24 cool decorative ideas you can do it yourself](https://www.youtube.com/watch?v=Uv-KC7szPN0)
-
+* [Origami - Japanese Paperfolding Technique](https://www.origamiway.com/easy-origami.shtml)
 
 ---
 
