@@ -24,12 +24,20 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 
 [!Note : Before you head outside](#note)
 
+
+---
+
+<img align="left" width="40" height="40" src="media/walk.png">
+
 ## <a name="walks"></a>Walks in Town
 This category has no interesting activities yet.
 
+---
+
+<img align="left" width="40" height="40" src="media/vr.png">
+
 ## <a name="trips-tours"></a>Virtual Tours-Trips
 Tired of sitting at home?
-
 Why don't you take a virtual tour via **youtube**?
 
 [Come and relax on youtube's virtual trips now!](https://www.youtube.com/watch?v=2Qcf1K3hP2g)
@@ -37,6 +45,10 @@ Why don't you take a virtual tour via **youtube**?
 Do you want to drive around your favourite cities while listening to their local radios?
 
 If yes, then you should definitely try the [Drive & Listen APP](https://driveandlisten.herokuapp.com/?fbclid=IwAR2jQV27oRk5A4UmCgGNEKwu2JXxDCuqm-6sqKrmLalAnO2N7bjXGVgcnhg)!
+
+---
+
+<img align="left" width="40" height="40" src="media/movie.png">
 
 ## <a name="movies-docum-series"></a>Movies-Documentaries-Series
 _The most common activity during  lock-down has been watching movies. So here are my recommendations for movies, series and documentaries:_
@@ -53,6 +65,9 @@ _The most common activity during  lock-down has been watching movies. So here ar
 |Miracle in Cell No. 7 (2019)| Drama | Netflix | 9/10 | [TRAILER](https://www.youtube.com/watch?v=MHdBW0gSsjo "Miracle in Cell No. 7")|
 
 
+---
+
+<img align="left" width="40" height="40" src="media/books.png">
 
 ## <a name="books"></a>Books
 
@@ -60,6 +75,11 @@ _The most common activity during  lock-down has been watching movies. So here ar
 |---| ---| ---| ---| ---|
 |Thinking, Fast and Slow | Psychology | Amazon | 9/10| [Link](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=391NW1M3NG4SX&dchild=1&keywords=think+fast+and+slow&qid=1616005195&sprefix=think+fast%2Caps%2C216&sr=8-1 "Thinking, Fast and Slow")|
 |Zero to One| Management | Public | 9.5/10| [Link](https://www.public.gr/product/books/greek-books/economics/management/zero-to-one/prod6840642pp/ "Zero to One")
+
+
+---
+
+<img align="left" width="40" height="40" src="media/exercise.png">
 
 ## <a name="exercise"></a>Exercise 
 My gym is closed for almost 6 months now, and I think yours is, too.
@@ -84,11 +104,20 @@ Full body workout:
 * Dance fitness workout [video](https://www.youtube.com/watch?v=1XU4RCD85jM) (Lots of fun and sweat, trust me!)
 
 
+---
+
+<img align="left" width="40" height="40" src="media/skill.png">
+
 ## <a name="new-skill"></a>Learn a new skill
 Great ideas to learn new skills:
 
 * Learn a new programming language
 * Learn a new foreign language
+
+
+---
+
+<img align="left" width="40" height="40" src="media/cook.png">
 
 ## <a name="cooking"></a>Cooking
 Enjoy different kind of meals from around the world:
@@ -100,11 +129,22 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 |Receipt| Country |  MY RATING| Link |
 |---| ---| ---| ---|
 | Tzatziki | Greece | 10/10| [Link](https://cookieandkate.com/how-to-make-tzatziki/ "How to Make Tzatziki")|
+
+
+---
+
+<img align="left" width="40" height="40" src="media/project.png">
+
 ## <a name="projects"></a>Start a new Project
 
 Ideas for interesting projects:
 
 * Use a Raspberry Pi to measure the room temperature and humidity 
+
+
+---
+
+<img align="left" width="40" height="40" src="media/videoGames.png">
 
 ## <a name="video-games"></a>Video Games
 
@@ -112,6 +152,11 @@ Amazing video games you must try out:
 
 * FIFA 2021
 * GTA San Andreas
+
+
+---
+
+<img align="left" width="40" height="40" src="media/boardGame.png">
 
 ## <a name="board-games"></a>Board Games
 This category has no interesting activities yet.
@@ -123,6 +168,11 @@ Below you may find some interesting websites where you can play different board 
 * [Playing cards](https://playingcards.io/): PlayingCards.io simply provides a synchronized card playspace. It's up to you to start the game, enforce rules, and determine the winner, just like a real deck of cards!
 * [Rento](https://playrento.com/): Rento is online multiplayer monopoly clone. The game is for 2 to 6 players and you can play it online versus friends, offline versus bots. In the game you trade lands, build houses, win auctions, go and most importantly - have fun. Your goal is to acquire monopoly and bankrupt the other players. (*Source: https://playrento.com/*)
 * [Pretend you 're xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp): Pretend You're Xyzzy is a Cards Against Humanity clone! *([github repo](https://github.com/ajanata/PretendYoureXyzzy))*
+
+
+---
+
+<img align="left" width="40" height="40" src="media/music.png">
 
 ## <a name="music"></a>Music
 Music is probably the best way to survive while at home. Whether you headbang while doing your assignments, sing in the shower or leave the computer to stretch your fingers with that chord, you have probably already noticed that slight brightening to your soul.
@@ -145,14 +195,34 @@ You can either teach yourself with a huge collection of online tutorials and tab
 
 Used information from: https://www.artistguitars.com.au/buying/how-to-choose-a-guitar-in-2-simple-steps
 
+
+---
+
+<img align="left" width="40" height="40" src="media/videoCall.png">
+
 ## <a name="facetime"></a>Facetime your long-distance friends
 Have video chats to remember the nights when you used to hangout for hours with your friends.Use Skype, FaceTime and Microsoft Teams to help you with that!
+
+
+---
+
+
+<img align="left" width="40" height="40" src="media/art.png">
 
 ## <a name="art"></a>Art
 This category has no interesting activities yet.
 
+
+---
+
+
+<img align="left" width="40" height="40" src="media/todo.png">
+
 ## <a name="clean"></a> Clean and organize
 This is a great opportunity for you to clean and organize your space. Declutter, get rid of all the things you never use and organize the ones that you use. It will make you feel useful and you will have a clean, organized space at the end of the day.
+
+
+---
 
 
 ## <a name="note"></a>!Note : Before you head outside
@@ -178,3 +248,6 @@ The SMS must be in the following format:
 
     *Source:* https://forma.gov.gr/en/
 3. *Be sure to comply with the law*: (description needed)
+
+---
+_Section icons owned by [Pichon](https://icons8.com/app/windows)_
