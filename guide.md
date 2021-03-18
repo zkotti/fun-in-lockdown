@@ -73,6 +73,9 @@ _The most common activity during  lock-down has been watching movies. So here ar
 | The 100 | Sci-Fi | Netflix | 9.5/10 | [TRAILER](https://www.youtube.com/watch?v=ia1Fbg96vL0 "The 100")|
 | Attack On Titan | Fantasy / Action | Crunchyroll | 9.9/10 | [TRAILER](https://www.youtube.com/watch?v=MGRm4IzK1SQ "Attack On Titan")|
 | Infinity War | Action / Adventure / Sci-Fi | Netflix | 10/10 | [TRAILER](https://youtu.be/6ZfuNTqbHE8)|
+|The Last Dance| Documentary - TV series| Netflix| 9.5/10| [TRAILER](https://www.youtube.com/watch?v=N9Z9JtNcCWY&ab_channel=ESPN)|
+|Unsolved Mysteries| Documentary - TV series| Netflix| 9/10| [TRAILER](https://www.youtube.com/watch?v=oZ4FrgGILM8&ab_channel=Netflix)|
+
 
 ---
 
