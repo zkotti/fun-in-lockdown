@@ -157,6 +157,13 @@ Amazing video games you must try out:
 
 * FIFA 2021
 * GTA San Andreas
+* League of Legends
+* NBA 2K21
+* Call of Duty: Warzone
+* Fortnite
+* World of Warcraft
+* Minecraft
+* Dota 2
 
 
 ---
