@@ -58,7 +58,7 @@ If yes, then you should definitely try the [Drive & Listen APP](https://driveand
 <img align="left" width="40" height="40" src="media/icons/movie.png">
 
 ## <a name="movies-docum-series"></a>Movies-Documentaries-Series
-_The most common activity during  lock-down has been watching movies. So here are my recommendations for movies, series and documentaries:_
+_The most common activity during  lock-down has been watching movies. So here are our recommendations for movies, series and documentaries:_
 
 |TITLE| TYPE| AVAILABLE ON| MY RATING| TRAILER|
 |---| ---| ---| ---| ---|
@@ -76,6 +76,8 @@ _The most common activity during  lock-down has been watching movies. So here ar
 |The Last Dance| Documentary - TV series| Netflix| 9.5/10| [TRAILER](https://www.youtube.com/watch?v=N9Z9JtNcCWY&ab_channel=ESPN)|
 |Unsolved Mysteries| Documentary - TV series| Netflix| 9/10| [TRAILER](https://www.youtube.com/watch?v=oZ4FrgGILM8&ab_channel=Netflix)|
 |Peaky Blinders | Documentary - TV series | Netflix | 8/10 | [TRAILER](https://youtu.be/oVzVdvGIC7U)|
+|Suits | TV series | Netflix | 9/10 | [TRAILER](https://www.youtube.com/watch?v=85z53bAebsI)|
+|Mr. Robot | TV series | Netflix | 10/10 | [TRAILER](https://www.youtube.com/watch?v=xIBiJ_SzJTA)|
 
 
 ---
@@ -91,6 +93,8 @@ _The most common activity during  lock-down has been watching movies. So here ar
 |Crime and Punishment| Crime fiction | Amazon| 9/10| [Link](https://www.amazon.com/Crime-Punishment-Volokhonsky-Translation-Classics/dp/0679734503/ref=sr_1_1?crid=2ECOFGIAH7E7F&dchild=1&keywords=crime+and+punishment&qid=1616082855&sprefix=crime+and%2Caps%2C312&sr=8-1)|
 |The Sixth Man: A Memoir| Autobiography| Amazon| 9.5/10| [Link](https://www.amazon.com/The-Sixth-Man-audiobook/dp/B07N487TMC/ref=sr_1_1?crid=12L3C7BF27NT6&dchild=1&keywords=the+sixth+man+iguodala&qid=1616082921&sprefix=the+sixth+man+iguo%2Caps%2C384&sr=8-1)|
 |The Royal Game| Novella| Amazon| 8.5/10| [Link](https://www.amazon.com/Royal-Game-translated-Stefan-Zweig-ebook/dp/B08LBT67W2/ref=sr_1_4?dchild=1&keywords=the+royal+game&qid=1616082952&sr=8-4)|
+|Atlantis | Historical Novel | Amazon| 10/10| [Link](https://www.amazon.com/gp/product/0755324226/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0755324226&SubscriptionId=1MGPYB6YW3HWK55XCGG2) |
+|Pharaoh | Historical Novel | Amazon| 10/10| [Link](https://www.amazon.com/gp/product/0230530737/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0230530737&SubscriptionId=1MGPYB6YW3HWK55XCGG2) |
 ---
 
 <img align="left" width="40" height="40" src="media/icons/exercise.png">
