@@ -136,7 +136,8 @@ Great ideas to learn new skills:
 * Learn how to play a music instrument
 * Learn [a new subject](https://www.futurelearn.com/subjects)
 * Learn [how to start a garden](https://www.youtube.com/watch?v=B0DrWAUsNSc&ab_channel=SSLFamilyDad)
-* Learn self-defense
+* Learn self-defenseι
+* Learn how to embroider / knit
 
 ---
 
@@ -169,6 +170,7 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 Ideas for interesting projects:
 
 * Use a Raspberry Pi to measure the room temperature and humidity 
+* Turn your balcony into a small garden
 
 ---
 
@@ -187,6 +189,8 @@ Amazing video games you must try out:
 * World of Warcraft
 * Minecraft
 * Dota 2
+* Among Us
+* Vendetta Online
 
 ---
 
@@ -275,6 +279,7 @@ the first step to become an artist and use the time during the pandemic more eff
 * [10 wonderful recycle do it yourself crafts that will brighten your room](https://www.youtube.com/watch?v=HkHEJEzMKwc)
 * [24 cool decorative ideas you can do it yourself](https://www.youtube.com/watch?v=Uv-KC7szPN0)
 * [Origami - Japanese Paperfolding Technique](https://www.origamiway.com/easy-origami.shtml)
+* [EASY Step By Step Digital Collage TUTORIAL | NO DRAWING SKILLS REQUIRED | How To For Beginners](https://www.youtube.com/watch?v=xl3Zj_JgYKk)
 
 ---
 
