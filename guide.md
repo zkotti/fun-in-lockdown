@@ -25,7 +25,11 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 [!Note : Before you head outside](#note)
 
 ## <a name="walks"></a>Walks in Town
-This category has no interesting activities yet.
+Here a some sights and places which are definitely worth to make a walk at: 
+* Climb to the Acropolis
+* Take a walk to the Likavitou hill
+* Run around the Philopappos monument
+* Stroll around in the harbour of Piräus 
 
 ## <a name="trips-tours"></a>Virtual Tours-Trips
 Tired of sitting at home?
@@ -149,7 +153,14 @@ Used information from: https://www.artistguitars.com.au/buying/how-to-choose-a-g
 Have video chats to remember the nights when you used to hangout for hours with your friends.Use Skype, FaceTime and Microsoft Teams to help you with that!
 
 ## <a name="art"></a>Art
-This category has no interesting activities yet.
+Creating art can be of so many different types. It can be painting, constructing some art piece from recycled 
+materials, or also decorating your apartment/room. Especially painting can calm you really down and give you the 
+opportunity to express your feelings and emotions by using colors. The following tutorials will help you to make 
+the first step to become an artist and use the time during the pandemic more efficiently:
+
+* [Acrylic Painting Tutorial - Ocean Sunset (Beginner to Intermediate)](https://www.youtube.com/watch?v=VjCGJb5ltZM)
+* [10 wonderful recycle do it yourself crafts that will brighten your room](https://www.youtube.com/watch?v=HkHEJEzMKwc)
+* [24 cool decorative ideas you can do it yourself](https://www.youtube.com/watch?v=Uv-KC7szPN0)
 
 ## <a name="clean"></a> Clean and organize
 This is a great opportunity for you to clean and organize your space. Declutter, get rid of all the things you never use and organize the ones that you use. It will make you feel useful and you will have a clean, organized space at the end of the day.
