@@ -75,6 +75,7 @@ _The most common activity during  lock-down has been watching movies. So here ar
 | Infinity War | Action / Adventure / Sci-Fi | Netflix | 10/10 | [TRAILER](https://youtu.be/6ZfuNTqbHE8)|
 |The Last Dance| Documentary - TV series| Netflix| 9.5/10| [TRAILER](https://www.youtube.com/watch?v=N9Z9JtNcCWY&ab_channel=ESPN)|
 |Unsolved Mysteries| Documentary - TV series| Netflix| 9/10| [TRAILER](https://www.youtube.com/watch?v=oZ4FrgGILM8&ab_channel=Netflix)|
+|Peaky Blinders | Documentary - TV series | Netflix | 8/10 | [TRAILER](https://youtu.be/oVzVdvGIC7U)|
 
 
 ---
