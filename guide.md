@@ -292,7 +292,8 @@ The SMS must be in the following format:
 3. *Be sure to comply with the law*: (description needed)
 
 **Important:** Depending on your area of residence, a different type of lockdown may be imposed.
-Before any outdoor activity, you should visit [the official Covid-19 map](https://covid19.gov.gr/covid-map/), which contains information about the different safety regulations that are currently active on every Greek regional unit.
+Before any outdoor activity, you should visit [the official Covid-19 map](https://covid19.gov.gr/covid-map/), which contains information about the different safety 
+regulations that are currently active on every Greek regional unit. For information in english check out the [ESN Greece website](https://esngreece.gr/covid-19-official-announcements-news?fbclid=IwAR2oBA5IpSgOAEUHQpEcHa3UwRY3XgJDFZZ9GtFot1GrPDaxrb775dnh_oM)
 
 ---
 
