@@ -160,7 +160,7 @@ Amazing video games you must try out:
 
 ---
 
-<img align="left" width="40" height="40" src="media/boardGame.png">
+<img align="left" width="40" height="40" src="media/boardgame.png">
 
 ## <a name="board-games"></a>Board Games
 This category has no interesting activities yet.
@@ -202,7 +202,7 @@ Used information from: https://www.artistguitars.com.au/buying/how-to-choose-a-g
 
 ---
 
-<img align="left" width="40" height="40" src="media/videoCall.png">
+<img align="left" width="40" height="40" src="media/videocall.png">
 
 ## <a name="facetime"></a>Facetime your long-distance friends
 Have video chats to remember the nights when you used to hangout for hours with your friends.Use Skype, FaceTime and Microsoft Teams to help you with that!
