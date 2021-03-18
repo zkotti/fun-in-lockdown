@@ -183,7 +183,7 @@ Amazing video games you must try out:
 <img align="left" width="40" height="40" src="media/icons/boardgame.png">
 
 ## <a name="board-games"></a>Board Games
-This category has no interesting activities yet.
+Board Games are great way to have fun and spend your time with family and friends!
 
 ### Online board games
 Below you may find some interesting websites where you can play different board games along with your friends:
@@ -192,6 +192,14 @@ Below you may find some interesting websites where you can play different board 
 * [Playing cards](https://playingcards.io/): PlayingCards.io simply provides a synchronized card playspace. It's up to you to start the game, enforce rules, and determine the winner, just like a real deck of cards!
 * [Rento](https://playrento.com/): Rento is online multiplayer monopoly clone. The game is for 2 to 6 players and you can play it online versus friends, offline versus bots. In the game you trade lands, build houses, win auctions, go and most importantly - have fun. Your goal is to acquire monopoly and bankrupt the other players. (*Source: https://playrento.com/*)
 * [Pretend you 're xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp): Pretend You're Xyzzy is a Cards Against Humanity clone! *([github repo](https://github.com/ajanata/PretendYoureXyzzy))*
+
+### Classic board games
+If you are stuck at home with your family or your roommate(s), you could try one of these fun board games:
+
+* Clue: Clue is a suspenseful murder mystery game that turns everyone into a detective. More info [here](https://en.wikipedia.org/wiki/Cluedo).
+* Taboo: Taboo is the game of forbidden words. In Taboo, your goal is to get your teammate to say the word written on one of the game cards without saying that word or any of the “taboo” words also listed with it. More info [here](https://en.wikipedia.org/wiki/Taboo_(game)).
+* Twister: Twister will, as the box promises, have you twisted up in knots and probably doubled over laughing, too. More info [here](https://en.wikipedia.org/wiki/Twister_(game)).
+* Stratego: Stratego is like a Napoleonic version of capture the flag! More info [here](https://en.wikipedia.org/wiki/Stratego).
 
 ---
 
