@@ -194,6 +194,15 @@ Amazing video games you must try out:
 * Among Us
 * Vendetta Online
 
+You can buy amazing video games for Windows, Mac and Linux computers in the following online stores:
+* [Steam](https://store.steampowered.com/)
+* [Good Old Games (GOG)](https://www.gog.com/)
+* [Origin](https://www.origin.com/irl/en-us/store)
+* [Ubisoft Store](https://store.ubi.com/ie/home)
+* [Epic Games Store](https://www.epicgames.com/store/en-US/)
+
+The stores above usually feature deals and discounts on specific games. In order to be informed about the best current deals about a specific game, check out [IsThereAnyDeal](https://isthereanydeal.com)!
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/boardgame.png">
