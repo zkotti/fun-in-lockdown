@@ -121,8 +121,8 @@ Great ideas to learn new skills:
 * Learn how to draw
 * Learn basic home repairs
 * Learn how to play a music instrument
-* Learn a new [subject](https://www.futurelearn.com/subjects)
-* Learn how to start a [garden] (https://www.youtube.com/watch?v=B0DrWAUsNSc&ab_channel=SSLFamilyDad)
+* Learn [a new subject](https://www.futurelearn.com/subjects)
+* Learn [how to start a garden](https://www.youtube.com/watch?v=B0DrWAUsNSc&ab_channel=SSLFamilyDad)
 * Learn self-defense
 
 
