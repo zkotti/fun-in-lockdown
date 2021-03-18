@@ -196,10 +196,10 @@ Below you may find some interesting websites where you can play different board 
 ### Classic board games
 If you are stuck at home with your family or your roommate(s), you could try one of these fun board games:
 
-* Clue: Clue is a suspenseful murder mystery game that turns everyone into a detective. More info [here](https://en.wikipedia.org/wiki/Cluedo).
-* Taboo: Taboo is the game of forbidden words. In Taboo, your goal is to get your teammate to say the word written on one of the game cards without saying that word or any of the “taboo” words also listed with it. More info [here](https://en.wikipedia.org/wiki/Taboo_(game)).
-* Twister: Twister will, as the box promises, have you twisted up in knots and probably doubled over laughing, too. More info [here](https://en.wikipedia.org/wiki/Twister_(game)).
-* Stratego: Stratego is like a Napoleonic version of capture the flag! More info [here](https://en.wikipedia.org/wiki/Stratego).
+* Clue: A suspenseful murder mystery game that turns everyone into a detective. More info [here](https://en.wikipedia.org/wiki/Cluedo).
+* Taboo: The game of forbidden words. In Taboo, your goal is to get your teammate to say the word written on one of the game cards without saying that word or any of the “taboo” words also listed with it. More info [here](https://en.wikipedia.org/wiki/Taboo_(game)).
+* Twister: As the box promises, have you twisted up in knots and probably doubled over laughing, too. More info [here](https://en.wikipedia.org/wiki/Twister_(game)).
+* Stratego: A Napoleonic version of capture the flag! More info [here](https://en.wikipedia.org/wiki/Stratego).
 
 ---
 
