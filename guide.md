@@ -72,6 +72,7 @@ _The most common activity during  lock-down has been watching movies. So here ar
 |Miracle in Cell No. 7 (2019)| Drama | Netflix | 9/10 | [TRAILER](https://www.youtube.com/watch?v=MHdBW0gSsjo "Miracle in Cell No. 7")|
 | The 100 | Sci-Fi | Netflix | 9.5/10 | [TRAILER](https://www.youtube.com/watch?v=ia1Fbg96vL0 "The 100")|
 | Attack On Titan | Fantasy / Action | Crunchyroll | 9.9/10 | [TRAILER](https://www.youtube.com/watch?v=MGRm4IzK1SQ "Attack On Titan")|
+| Infinity War | Action / Adventure / Sci-Fi | Netflix | 10/10 | [TRAILER](https://youtu.be/6ZfuNTqbHE8)|
 
 ---
 
@@ -83,7 +84,6 @@ _The most common activity during  lock-down has been watching movies. So here ar
 |---| ---| ---| ---| ---|
 |Thinking, Fast and Slow | Psychology | Amazon | 9/10| [Link](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=391NW1M3NG4SX&dchild=1&keywords=think+fast+and+slow&qid=1616005195&sprefix=think+fast%2Caps%2C216&sr=8-1 "Thinking, Fast and Slow")|
 |Zero to One| Management | Public | 9.5/10| [Link](https://www.public.gr/product/books/greek-books/economics/management/zero-to-one/prod6840642pp/ "Zero to One")
-
 
 ---
 
@@ -111,7 +111,6 @@ Full body workout:
 * Boxing cardio burn [video](https://www.youtube.com/watch?v=0Y8cy6qtIgg)
 * Dance fitness workout [video](https://www.youtube.com/watch?v=1XU4RCD85jM) (Lots of fun and sweat, trust me!)
 
-
 ---
 
 <img align="left" width="40" height="40" src="media/skill.png">
@@ -127,7 +126,6 @@ Great ideas to learn new skills:
 * Learn [a new subject](https://www.futurelearn.com/subjects)
 * Learn [how to start a garden](https://www.youtube.com/watch?v=B0DrWAUsNSc&ab_channel=SSLFamilyDad)
 * Learn self-defense
-
 
 ---
 
@@ -155,7 +153,6 @@ Ideas for interesting projects:
 
 * Use a Raspberry Pi to measure the room temperature and humidity 
 
-
 ---
 
 <img align="left" width="40" height="40" src="media/videoGames.png">
@@ -174,7 +171,6 @@ Amazing video games you must try out:
 * Minecraft
 * Dota 2
 
-
 ---
 
 <img align="left" width="40" height="40" src="media/boardgame.png">
@@ -189,7 +185,6 @@ Below you may find some interesting websites where you can play different board 
 * [Playing cards](https://playingcards.io/): PlayingCards.io simply provides a synchronized card playspace. It's up to you to start the game, enforce rules, and determine the winner, just like a real deck of cards!
 * [Rento](https://playrento.com/): Rento is online multiplayer monopoly clone. The game is for 2 to 6 players and you can play it online versus friends, offline versus bots. In the game you trade lands, build houses, win auctions, go and most importantly - have fun. Your goal is to acquire monopoly and bankrupt the other players. (*Source: https://playrento.com/*)
 * [Pretend you 're xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp): Pretend You're Xyzzy is a Cards Against Humanity clone! *([github repo](https://github.com/ajanata/PretendYoureXyzzy))*
-
 
 ---
 
@@ -216,7 +211,6 @@ You can either teach yourself with a huge collection of online tutorials and tab
 
 Used information from: https://www.artistguitars.com.au/buying/how-to-choose-a-guitar-in-2-simple-steps
 
-
 ---
 
 <img align="left" width="40" height="40" src="media/videocall.png">
@@ -229,9 +223,7 @@ Do you remember the nights when you used to hang out for hours with your friends
 - Zoom
 - Or check out these [open source alternatives](https://opensource.com/alternatives/skype)
 
-
 ---
-
 
 <img align="left" width="40" height="40" src="media/art.png">
 
@@ -247,7 +239,6 @@ the first step to become an artist and use the time during the pandemic more eff
 * [Origami - Japanese Paperfolding Technique](https://www.origamiway.com/easy-origami.shtml)
 
 ---
-
 
 <img align="left" width="40" height="40" src="media/todo.png">
 
@@ -272,7 +263,6 @@ Writing is most often a solitary activity, except for people who like to write i
 __Editing__ and __Writing__ are not the same thing. Whenever you write something, leave it for a few hours or maybe a few days. And then come back to it as an __editor__ to find ways to make it more captivating and understandable for the readers.
 
 ---
-
 
 ## <a name="note"></a>!Note : Before you head outside
 1. *Be sure you wear a mask*
@@ -302,4 +292,5 @@ The SMS must be in the following format:
 Before any outdoor activity, you should visit [the official Covid-19 map](https://covid19.gov.gr/covid-map/), which contains information about the different safety regulations that are currently active on every Greek regional unit.
 
 ---
+
 _Section icons owned by [Pichon](https://icons8.com/app/windows)_
