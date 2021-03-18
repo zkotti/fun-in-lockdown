@@ -69,6 +69,7 @@ _The most common activity during  lock-down has been watching movies. So here ar
 |Joker| Drama | Amazon | 10/10 | [TRAILER](https://www.youtube.com/watch?v=zAGVQLHvwOY "Joker")|
 |Miracle in Cell No. 7 (2019)| Drama | Netflix | 9/10 | [TRAILER](https://www.youtube.com/watch?v=MHdBW0gSsjo "Miracle in Cell No. 7")|
 | The 100 | Sci-Fi | Netflix | 9.5/10 | [TRAILER](https://www.youtube.com/watch?v=ia1Fbg96vL0 "The 100")|
+| Attack On Titan | Fantasy / Action | Crunchyroll | 9.9/10 | [TRAILER](https://www.youtube.com/watch?v=MGRm4IzK1SQ "Attack On Titan")|
 
 ---
 
