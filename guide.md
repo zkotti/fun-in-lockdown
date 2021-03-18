@@ -145,10 +145,10 @@ In the following table, you can view recipes from different countries, along wit
 
 Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/brunch-choice-crowd-dining-food-options-384205462)
 
-|FOOD | COUNTRY |  MY RATING | RECIPE |
-|---| ---| ---| ---|
-| Tzatziki | Greece | 10/10| [Link](https://cookieandkate.com/how-to-make-tzatziki/ "How to Make Tzatziki")|
-| Sushi | Japan | 10/10| [Link](https://akispetretzikis.com/en/categories/ryzi-amp-patates/soysi "How to Make Sushi")|
+|DISH| ORIGIN| MY RATING| RECIPE| PRO-TIP|
+|---| ---| ---| ---| ---|
+| Tzatziki | Greece | 10/10| [Link](https://cookieandkate.com/how-to-make-tzatziki/ "How to Make Tzatziki")| Choose a creamy yoghurt to create the perfect spread! |
+| Sushi | Japan | 10/10| [Link](https://akispetretzikis.com/en/categories/ryzi-amp-patates/soysi "How to Make Sushi")| Experiment with different types of fish. |
 
 ---
 
