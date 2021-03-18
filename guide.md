@@ -91,6 +91,11 @@ Great ideas to learn new skills:
 * Learn a new foreign language
 
 ## <a name="cooking"></a>Cooking
+Enjoy different kind of meals from around the world:
+
+<img src="media/food-around-the-world.png" alt="Food around the world" width="500"/>
+
+Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/brunch-choice-crowd-dining-food-options-384205462)
 
 |Receipt| Country |  MY RATING| Link |
 |---| ---| ---| ---|
