@@ -37,6 +37,7 @@ Here a some sights and places which are definitely worth to make a walk at:
 * Run around the Philopappos monument
 * Stroll around in the harbour of Piräus 
 * Go walk at Stavros Niarchos Foundation Cultural Center
+* A walk in Sygrou Park
 
 ---
 
