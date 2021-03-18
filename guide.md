@@ -121,6 +121,8 @@ Full body workout:
 
 * Boxing cardio burn [video](https://www.youtube.com/watch?v=0Y8cy6qtIgg)
 * Dance fitness workout [video](https://www.youtube.com/watch?v=1XU4RCD85jM) (Lots of fun and sweat, trust me!)
+* 20 Minute easy mode (NO EQUIPMENT) [video](https://youtu.be/oAPCPjnU1wA)
+* 20 Minute hard mode (NO EQUIPMENT) [video](https://youtu.be/yDQQVU__6Uc)
 
 ---
 
