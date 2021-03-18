@@ -149,6 +149,8 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 |---| ---| ---| ---| ---|
 | Tzatziki | Greece | 10/10| [Link](https://cookieandkate.com/how-to-make-tzatziki/ "How to Make Tzatziki")| Choose a creamy yoghurt to create the perfect spread! |
 | Sushi | Japan | 10/10| [Link](https://akispetretzikis.com/en/categories/ryzi-amp-patates/soysi "How to Make Sushi")| Experiment with different types of fish. |
+| Pastitsio | Greece | 10/10| [Link](https://akispetretzikis.com/en/categories/zymarika/to-pastitsio-toy-akh "How to Make Pastitsio")|It's all about the Bechamel sauce. |
+| Pancakes | Universal | 10/10| [Link](https://akispetretzikis.com/en/categories/glyka/pancakes "How to Make Pancakes")|  Flip when the small bubbles appear. |
 
 ---
 
@@ -183,7 +185,7 @@ Amazing video games you must try out:
 <img align="left" width="40" height="40" src="media/icons/boardgame.png">
 
 ## <a name="board-games"></a>Board Games
-Board Games are great way to have fun and spend your time with family and friends!
+Board Games are a great way to have fun and spend your time with family and friends!
 
 ### Online board games
 Below you may find some interesting websites where you can play different board games along with your friends:
