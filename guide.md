@@ -123,6 +123,12 @@ Great ideas to learn new skills:
 
 * Learn a new programming language
 * Learn a new foreign language
+* Learn how to draw
+* Learn basic home repairs
+* Learn how to play a music instrument
+* Learn [a new subject](https://www.futurelearn.com/subjects)
+* Learn [how to start a garden](https://www.youtube.com/watch?v=B0DrWAUsNSc&ab_channel=SSLFamilyDad)
+* Learn self-defense
 
 
 ---
@@ -217,8 +223,13 @@ Used information from: https://www.artistguitars.com.au/buying/how-to-choose-a-g
 
 <img align="left" width="40" height="40" src="media/videocall.png">
 
-## <a name="facetime"></a>Facetime your long-distance friends
-Have video chats to remember the nights when you used to hangout for hours with your friends.Use Skype, FaceTime and Microsoft Teams to help you with that!
+## <a name="facetime"></a>Video call your long-distance friends
+Do you remember the nights when you used to hang out for hours with your friends? Since that is not possible any more you can use the following software to replicate the group feeling:
+- Skype
+- FaceTime
+- Microsoft Teams
+- Zoom
+- Or check out these [open source alternatives](https://opensource.com/alternatives/skype)
 
 
 ---
