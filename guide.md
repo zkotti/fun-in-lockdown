@@ -21,6 +21,7 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 * [Facetime your long-distance friends](#facetime)
 * [Art](#art)
 * [Clean and organize](#clean)
+* [Writing](#writing)
 
 [!Note : Before you head outside](#note)
 
@@ -232,6 +233,22 @@ the first step to become an artist and use the time during the pandemic more eff
 ## <a name="clean"></a> Clean and organize
 This is a great opportunity for you to clean and organize your space. Declutter, get rid of all the things you never use and organize the ones that you use. It will make you feel useful and you will have a clean, organized space at the end of the day.
 
+<img align="left" width="40" height="40" src="media/pen.png">
+
+## <a name="writing"></a> Writing
+Writing is a skill that I consider to be underestimated. Written communication is everywhere around us; in emails, articles or even in remote work where slack messages are the default form of communication.
+There are many types of content produced by writing, like for example:
+- Novels
+- Short stories
+- Academic papers
+- Personal journals
+- Technology documentations
+- Blog posts
+- And the list goes on
+
+Writing is most often a solitary activity, except for people who like to write in cafe's. The ongoing lockdown is a great opportunity to start practicing writing. I will kick it off with one important tip that I've found to be helpful whenever I'm writing something for other people to read.
+
+__Editing__ and __Writing__ are not the same thing. Whenever you write something, leave it for a few hours or maybe a few days. And then come back to it as an __editor__ to find ways to make it more captivating and understandable for the readers.
 
 ---
 
