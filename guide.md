@@ -224,7 +224,7 @@ Do you remember the nights when you used to hang out for hours with your friends
 - FaceTime
 - Microsoft Teams
 - Zoom
-- Or checkout [open source alternatives](https://opensource.com/alternatives/skype)
+- Or check out these [open source alternatives](https://opensource.com/alternatives/skype)
 
 
 ---
