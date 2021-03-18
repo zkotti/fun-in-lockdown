@@ -1,6 +1,6 @@
 # A guide to survive the COVID-19 lockdown(s)
 
-<img src="media/quarantine-activities-image.png" alt="Quarantine Activities" width="500"/>
+<img src="media/images/quarantine-activities-image.png" alt="Quarantine Activities" width="500"/>
 
 Photo owned by [csuchico.edu](https://www.csuchico.edu/)
 
@@ -28,7 +28,7 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 
 ---
 
-<img align="left" width="40" height="40" src="media/walk.png">
+<img align="left" width="40" height="40" src="media/icons/walk.png">
 
 ## <a name="walks"></a>Walks in Town
 Here a some sights and places which are definitely worth to make a walk at: 
@@ -41,7 +41,7 @@ Here a some sights and places which are definitely worth to make a walk at:
 
 ---
 
-<img align="left" width="40" height="40" src="media/vr.png">
+<img align="left" width="40" height="40" src="media/icons/vr.png">
 
 ## <a name="trips-tours"></a>Virtual Tours-Trips
 Tired of sitting at home?
@@ -55,7 +55,7 @@ If yes, then you should definitely try the [Drive & Listen APP](https://driveand
 
 ---
 
-<img align="left" width="40" height="40" src="media/movie.png">
+<img align="left" width="40" height="40" src="media/icons/movie.png">
 
 ## <a name="movies-docum-series"></a>Movies-Documentaries-Series
 _The most common activity during  lock-down has been watching movies. So here are my recommendations for movies, series and documentaries:_
@@ -79,7 +79,7 @@ _The most common activity during  lock-down has been watching movies. So here ar
 
 ---
 
-<img align="left" width="40" height="40" src="media/books.png">
+<img align="left" width="40" height="40" src="media/icons/books.png">
 
 ## <a name="books"></a>Books
 
@@ -90,7 +90,7 @@ _The most common activity during  lock-down has been watching movies. So here ar
 
 ---
 
-<img align="left" width="40" height="40" src="media/exercise.png">
+<img align="left" width="40" height="40" src="media/icons/exercise.png">
 
 ## <a name="exercise"></a>Exercise 
 My gym is closed for almost 6 months now, and I think yours is, too.
@@ -116,7 +116,7 @@ Full body workout:
 
 ---
 
-<img align="left" width="40" height="40" src="media/skill.png">
+<img align="left" width="40" height="40" src="media/icons/skill.png">
 
 ## <a name="new-skill"></a>Learn a new skill
 Great ideas to learn new skills:
@@ -132,12 +132,12 @@ Great ideas to learn new skills:
 
 ---
 
-<img align="left" width="40" height="40" src="media/cook.png">
+<img align="left" width="40" height="40" src="media/icons/cook.png">
 
 ## <a name="cooking"></a>Cooking
 Enjoy different kind of meals from around the world:
 
-<img src="media/food-around-the-world.png" alt="Food around the world" width="500"/>
+<img src="media/images/food-around-the-world.png" alt="Food around the world" width="500"/>
 
 Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/brunch-choice-crowd-dining-food-options-384205462)
 
@@ -148,7 +148,7 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 
 ---
 
-<img align="left" width="40" height="40" src="media/project.png">
+<img align="left" width="40" height="40" src="media/icons/project.png">
 
 ## <a name="projects"></a>Start a new Project
 
@@ -158,7 +158,7 @@ Ideas for interesting projects:
 
 ---
 
-<img align="left" width="40" height="40" src="media/videoGames.png">
+<img align="left" width="40" height="40" src="media/icons/videoGames.png">
 
 ## <a name="video-games"></a>Video Games
 
@@ -176,7 +176,7 @@ Amazing video games you must try out:
 
 ---
 
-<img align="left" width="40" height="40" src="media/boardgame.png">
+<img align="left" width="40" height="40" src="media/icons/boardgame.png">
 
 ## <a name="board-games"></a>Board Games
 This category has no interesting activities yet.
@@ -191,7 +191,7 @@ Below you may find some interesting websites where you can play different board 
 
 ---
 
-<img align="left" width="40" height="40" src="media/music.png">
+<img align="left" width="40" height="40" src="media/icons/music.png">
 
 ## <a name="music"></a>Music
 Music is probably the best way to survive while at home. Whether you headbang while doing your assignments, sing in the shower or leave the computer to stretch your fingers with that chord, you have probably already noticed that slight brightening to your soul.
@@ -216,7 +216,7 @@ Used information from: https://www.artistguitars.com.au/buying/how-to-choose-a-g
 
 ---
 
-<img align="left" width="40" height="40" src="media/videocall.png">
+<img align="left" width="40" height="40" src="media/icons/videocall.png">
 
 ## <a name="facetime"></a>Video call your long-distance friends
 Do you remember the nights when you used to hang out for hours with your friends? Since that is not possible any more you can use the following software to replicate the group feeling:
@@ -228,7 +228,7 @@ Do you remember the nights when you used to hang out for hours with your friends
 
 ---
 
-<img align="left" width="40" height="40" src="media/art.png">
+<img align="left" width="40" height="40" src="media/icons/art.png">
 
 ## <a name="art"></a>Art
 Creating art can be of so many different types. It can be painting, constructing some art piece from recycled 
@@ -243,12 +243,12 @@ the first step to become an artist and use the time during the pandemic more eff
 
 ---
 
-<img align="left" width="40" height="40" src="media/todo.png">
+<img align="left" width="40" height="40" src="media/icons/todo.png">
 
 ## <a name="clean"></a> Clean and organize
 This is a great opportunity for you to clean and organize your space. Declutter, get rid of all the things you never use and organize the ones that you use. It will make you feel useful and you will have a clean, organized space at the end of the day.
 
-<img align="left" width="40" height="40" src="media/pen.png">
+<img align="left" width="40" height="40" src="media/icons/pen.png">
 
 ## <a name="writing"></a> Writing
 Writing is a skill that I consider to be underestimated. Written communication is everywhere around us; in emails, articles or even in remote work where slack messages are the default form of communication.
