@@ -208,7 +208,9 @@ You will get surprised from how easily you can produce nice sounds. All you need
 * a footstool (recommended for classical guitar)
 * and of course the guitar
 
-You can either teach yourself with a huge collection of online tutorials and tabs or find a teacher and have online lessons. There are 3 major guitar types.
+You can either teach yourself with a huge collection of online tutorials and tabs or find a teacher and have online lessons. You can check out [Kurt Berg's](https://www.youtube.com/channel/UCOSmaT73sJrjOmf6PHjxVAQ) YouTube channel for easy beginner tutorials.
+
+There are 3 major guitar types:
 
 * *Nylon acoustic (classical):* It produces a mellow sound and it's ideal for beginners, as the strings are easy to pick and it is lightweight and cheap. However, it has wider fretboard.
 * *Steel string acoustic:* The strings produce a brighter tone and they are ideal for strumming. However, building calluses can be really painful for beginners.
