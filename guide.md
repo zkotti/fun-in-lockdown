@@ -240,15 +240,15 @@ Writing is a skill that I consider to be underestimated. Written communication i
 There are many types of content produced by writing, like for example:
 - Novels
 - Short stories
-- Academic Papers
+- Academic papers
 - Personal journals
-- Technology Documentations
-- Blog Posts
+- Technology documentations
+- Blog posts
 - And the list goes on
 
-Writing is most often a solitary activity, except for people who like to write in cafe's. The ongoing lockdown is a great opportunity to start practicting writing. I will kick it off with one important tip, that I've found to be helpful whenever I'm writing something for other people to read.
+Writing is most often a solitary activity, except for people who like to write in cafe's. The ongoing lockdown is a great opportunity to start practicing writing. I will kick it off with one important tip that I've found to be helpful whenever I'm writing something for other people to read.
 
-__Editing__ and __Writing__ are not the same thing. Whenever you write something, leave it for a few hours or maybe a few days. And then come back as an __editor__ next time to find ways to make it more captivating and understandable for the readers.
+__Editing__ and __Writing__ are not the same thing. Whenever you write something, leave it for a few hours or maybe a few days. And then come back to it as an __editor__ to find ways to make it more captivating and understandable for the readers.
 
 ---
 
