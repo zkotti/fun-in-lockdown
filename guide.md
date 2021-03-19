@@ -418,10 +418,11 @@ opportunity to express your feelings and emotions by using colors. The following
 the first step to become an artist and use the time during the pandemic more efficiently:
 
 * [Acrylic Painting Tutorial - Ocean Sunset (Beginner to Intermediate)](https://www.youtube.com/watch?v=VjCGJb5ltZM "Acrylic Painting")
-* [10 wonderful recycle do it yourself crafts that will brighten your room](https://www.youtube.com/watch?v=HkHEJEzMKwc "Recycling crafts")
-* [24 cool decorative ideas you can do it yourself](https://www.youtube.com/watch?v=Uv-KC7szPN0 "Decorating methods")
+* [10 wonderful recycle do it yourself crafts that will brighten your room](https://www.youtube.com/watch?v=HkHEJEzMKwc "Recycling Crafts")
+* [24 cool decorative ideas you can do it yourself](https://www.youtube.com/watch?v=Uv-KC7szPN0 "Decorating Methods")
 * [Origami - Japanese Paperfolding Technique](https://www.origamiway.com/easy-origami.shtml "Origami Technique")
 * [EASY Step By Step Digital Collage TUTORIAL | NO DRAWING SKILLS REQUIRED | How To For Beginners](https://www.youtube.com/watch?v=xl3Zj_JgYKk "Digital Collage Tutorial")
+* [Basics of charcoal drawing](https://www.google.com/search?q=carbon+drawing&sxsrf=ALeKk00M9bDB-PlzL-DCft_0ae4hcXj4Dg%3A1616191227070&ei=-x5VYLHdA-anrgT0yrj4Dw&oq=carbon+drow&gs_lcp=Cgdnd3Mtd2l6EAEYADIICAAQFhAKEB4yBggAEBYQHjIICAAQFhAKEB4yCAgAEBYQChAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIIxAnOgQIABBDOggIABCxAxCDAToLCAAQsQMQxwEQowI6BQgAELEDOggILhCxAxCDAToECC4QQzoHCAAQsQMQQzoFCC4QsQM6AggAOggIABDHARCvAToECAAQCjoKCAAQxwEQrwEQCjoFCAAQywFQ3ClYqkBg9lpoAHACeACAAb4BiAHyDpIBBDAuMTKYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=gws-wiz#kpvalbx=_CB9VYN7QEOKwrgSlxZPQDg19 "Charcoal Drawing")
 
 ---
 
