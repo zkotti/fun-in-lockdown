@@ -261,7 +261,7 @@ If you are stuck at home with your family or your roommate(s), you could try one
 * [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)): The classical buying and trading properties game. 
 * [Halli Galli](https://www.ultraboardgames.com/halli-galli/game-rules.php): A fast game in which you have to ring the bell as soon as 5 same fruits appear. Just watch for your hands!
 * [Citadels](https://en.wikipedia.org/wiki/Citadels_(card_game)): A card game in which on each round, players pick a role, build districts and make actions according to their role.
-* [Trivial-Pursuit] (https://en.wikipedia.org/wiki/Trivial_Pursuit: A game to test your knowledge about things around the globe.
+* [Trivial Pursuit](https://en.wikipedia.org/wiki/Trivial_Pursuit): A game to test your knowledge about things around the globe.
 
 
 ---
