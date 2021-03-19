@@ -312,6 +312,7 @@ If you are stuck at home with your family or your roommate(s), you could try one
 * [Halli Galli](https://www.ultraboardgames.com/halli-galli/game-rules.php): A fast game in which you have to ring the bell as soon as 5 same fruits appear. Just watch for your hands!
 * [Citadels](https://en.wikipedia.org/wiki/Citadels_(card_game)): A card game in which on each round, players pick a role, build districts and make actions according to their role.
 * [Trivial Pursuit](https://en.wikipedia.org/wiki/Trivial_Pursuit): A game to test your knowledge about things around the globe.
+* [Scrabble](https://en.wikipedia.org/wiki/Scrabble): A game in which you use random letters to create words.
 
 
 ---
@@ -320,6 +321,12 @@ If you are stuck at home with your family or your roommate(s), you could try one
 
 ## <a name="music"></a>Music
 Music is probably the best way to survive while at home. Whether you headbang while doing your assignments, sing in the shower or leave the computer to stretch your fingers with that chord, you have probably already noticed that slight brightening to your soul.
+
+### Playlists 
+You can have an amazing time just by relaxing and listening to your favorite music. Here are some music playlists you might enjoy:
+* Cozy evenings (a chill mix) [listen here](https://www.youtube.com/watch?v=tHNSzNlgRZA&t=217s)
+* Top 40 songs of 2020 2021[listen here](https://www.youtube.com/watch?v=_pLO4jFDeIc)
+* Italian songs to dance to [listen here](https://www.youtube.com/watch?v=dsb9Fakq1A8)
 
 ### Musical Instruments
 You are never actually too old to learn to play an instrument you have always liked. It is a perfect break from your laptop's screen.
