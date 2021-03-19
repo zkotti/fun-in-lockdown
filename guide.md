@@ -150,7 +150,7 @@ If not, below there are some recommendations and really helpful videos.
 * 15 min Happy Dance [video](https://www.youtube.com/watch?v=Cw-Wt4xKD2s)
 * 10 min Happy Cardio (AMAZIIIIIING) [video](https://www.youtube.com/watch?v=QPKXw8XEQiA)
 
-Yoga:
+**Yoga:**
 * 20 min Full Body Stress Relief [video](https://www.youtube.com/watch?v=sTANio_2E0Q&t=813s)
 * 30 min Yoga Flow (with Maldives in the background) [video](https://www.youtube.com/watch?v=5v1wqxnrmrk&t=831s)
 
