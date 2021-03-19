@@ -351,6 +351,14 @@ You can have an amazing time just by relaxing and listening to your favorite mus
 * Top 40 songs of 2020 2021[listen here](https://www.youtube.com/watch?v=_pLO4jFDeIc)
 * Italian songs to dance to [listen here](https://www.youtube.com/watch?v=dsb9Fakq1A8)
 
+### Songs
+Most of us can't imagine how lockdown would be like without our favorite songs. Here are some great songs you may don't know:
+<!--- It would be nice to add songs that aren't widely known! In this way we can discover new music!) -->
+* Always, by Isak Danielson [listen here](https://www.youtube.com/watch?v=YZdyIgst-S4)
+* Holding on and Letting Go, by Ross Copperman [listen here](https://www.youtube.com/watch?v=NQv7DL-MAkk)
+* CLOUDS, by NF [listen here](https://www.youtube.com/watch?v=fibYknUCIU4)
+* Spring 1, recomposed by Max Richter (original by Vivaldi) [listen here](https://www.youtube.com/watch?v=41IOkVjy3MM)
+
 ### Musical Instruments
 You are never actually too old to learn to play an instrument you have always liked. It is a perfect break from your laptop's screen.
 
