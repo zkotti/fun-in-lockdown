@@ -215,17 +215,17 @@ Ideas for interesting projects:
 
 Amazing video games you must try out:
 
-* FIFA 2021
-* GTA San Andreas
-* League of Legends
-* NBA 2K21
-* Call of Duty: Warzone
-* Fortnite
-* World of Warcraft
-* Minecraft
-* Dota 2
-* Among Us
-* Vendetta Online
+* [FIFA 2021](https://www.ea.com/games/fifa/fifa-21)
+* [GTA San Andreas](https://www.rockstargames.com/games/sanandreas)
+* [League of Legends](https://na.leagueoflegends.com/en-us/)
+* [NBA 2K21](https://nba.2k.com/)
+* [Call of Duty: Warzone](https://www.callofduty.com/warzone)
+* [Fortnite](https://www.epicgames.com/fortnite/en-US/home)
+* [World of Warcraft](https://worldofwarcraft.com/en-us/)
+* [Minecraft](https://www.minecraft.net/en-us/)
+* [Dota 2](https://blog.dota2.com/?l=greek)
+* [Among Us](https://innersloth.com/gameAmongUs.php)
+* [Vendetta Online](https://www.vendetta-online.com/)
 
 You can buy amazing video games for Windows, Mac and Linux computers in the following online stores:
 * [Steam](https://store.steampowered.com/)
