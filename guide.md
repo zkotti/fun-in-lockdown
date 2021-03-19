@@ -97,6 +97,9 @@ _The most common activity during  lock-down has been watching movies. So here ar
 |The Royal Game| Novella| Amazon| 8.5/10| [Link](https://www.amazon.com/Royal-Game-translated-Stefan-Zweig-ebook/dp/B08LBT67W2/ref=sr_1_4?dchild=1&keywords=the+royal+game&qid=1616082952&sr=8-4)|
 |Atlantis | Historical Novel | Amazon| 10/10| [Link](https://www.amazon.com/gp/product/0755324226/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0755324226&SubscriptionId=1MGPYB6YW3HWK55XCGG2) |
 |Pharaoh | Historical Novel | Amazon| 10/10| [Link](https://www.amazon.com/gp/product/0230530737/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0230530737&SubscriptionId=1MGPYB6YW3HWK55XCGG2) |
+|Rich Dad Poor Dad | Personal Finance | Amazon| 9.5/10| [Link](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194) |
+|Influence: The Psychology of Persuasion | Psychology | Amazon| 9.5/10| [Link](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X) |
+
 
 ---
 
