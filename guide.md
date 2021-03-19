@@ -108,6 +108,8 @@ If you are lucky to continue your workout via online courses, then, maybe, you w
 
 If not, below there are some recommendations and really helpful videos.
 
+<img src="media/images/workoutquote.jpg" alt="Inspiring Work Out Quote" width="500"/>
+
 **Different kinds of exercises and sports:**
 
 * Freeletics (bodyweight workout)
