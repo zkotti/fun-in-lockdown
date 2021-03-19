@@ -22,6 +22,7 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 * [Art](#art)
 * [Clean and organize](#clean)
 * [Writing](#writing)
+* [Start listening to Podcasts](#podcasts)
 
 [!Note : Before you head outside](#note)
 
@@ -119,6 +120,7 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * Pilates
 * Yoga
 * Dance Workouts
+* Running
 
 **“Burning” particular muscle groups:**
 
@@ -181,6 +183,11 @@ The quarantine is a great opportunity to practice your running skills. Running d
 
 You may also find some really useful running guides and training plans for beginner and expericenced runners [here](https://www.runningshoesguru.com/free-running-training-plans/).
 
+* **Running apps:** using exercise tracking apps to train, has been proven to greatly increase motivation ([related paper](https://www.sciencedirect.com/science/article/pii/S0747563220302752?casa_token=DE2BlRmSeAIAAAAA:6DqidfQjZrwM_oiVU2E73e9lxkYNjupnNKCCkGkqbSVXWIzm4PoEtMbJmoiJ000TFQ1zIQ9-)). Downloading a running app may help you achieve your goals faster, keep track of your daily exercise routine as well as socialize with people sharing the same passion for exercise! Below, you may find some useful running apps to download:
+  * Best for getting motivated: [Human](http://human.co/#)
+  * Best for adopting running into your daily routine: [Pacer](https://www.mypacer.com/)
+  * Best professional running app: [Strava](https://www.strava.com)
+  * Best for creating training plans: [Runcoach](https://runcoach.com)
 ---
 
 <img align="left" width="40" height="40" src="media/icons/skill.png">
@@ -399,6 +406,38 @@ There are many types of content produced by writing, like for example:
 Writing is most often a solitary activity, except for people who like to write in cafe's. The ongoing lockdown is a great opportunity to start practicing writing. I will kick it off with one important tip that I've found to be helpful whenever I'm writing something for other people to read.
 
 __Editing__ and __Writing__ are not the same thing. Whenever you write something, leave it for a few hours or maybe a few days. And then come back to it as an __editor__ to find ways to make it more captivating and understandable for the readers.
+
+---
+
+<img align="left" width="40" height="40" src="media/icons/podcasts.jpg">
+
+## <a name="podcasts"></a>Start listening to Podcasts
+Podcasts is a great way to learn from other people about things that interest you and share your thoughts and concerns on different issues with hosts from around the world. They cover a huge variety of topics you can choose from. Here are a few of them!
+
+#### Comedy
+* [Off Menu With Ed Gamble and James Acaster](https://play.acast.com/s/offmenu)
+* [The Bert Show](https://play.acast.com/s/the-bert-show)
+* [The Last Laugh](https://play.acast.com/s/last-laugh-daily-beast)
+
+#### News and Politics
+* [The Economist Asks](https://play.acast.com/s/theeconomistasks)
+* [Intelligence Squared](https://play.acast.com/s/intelligencesquared)
+* [The New Abnormal](https://play.acast.com/s/the-new-abnormal)
+
+#### Education
+* [Connexions](https://play.acast.com/s/connexions-classroom)
+* [BBC Earth Podcast](https://play.acast.com/s/bbcearthpodcast)
+* [Nobel Prize Conversations](https://play.acast.com/s/nobelprizeconversations)
+
+#### Technology
+* [Daily Tech News Show](https://play.acast.com/s/dtns)
+* [Cyber](https://play.acast.com/s/cyber)
+* [Launch Pad](https://play.acast.com/s/wharton-entrep)
+
+#### Business
+* [Business Wars](https://play.acast.com/s/businesswars)
+* [My First Million](https://play.acast.com/s/myfirstmillion)
+* [TED Talks Daily](https://play.acast.com/s/tedtalks)
 
 ---
 
