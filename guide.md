@@ -369,6 +369,9 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Space Song, by Beach House [listen here](https://www.youtube.com/watch?v=RBtlPT23PTM&list=PLRQDSvpEpYzBUdlMzMhAWSD4TyE0ga7Et&index=4)
 * The Best (feat. Alice Merton), by Awolnation [listen here](https://www.youtube.com/watch?v=l-A43Av9ICo&list=PLRQDSvpEpYzBUdlMzMhAWSD4TyE0ga7Et&index=6)
 * Bloom Later (Audio), by Jesse [listen here](https://www.youtube.com/watch?v=XCirsEZCGO4&list=PLRQDSvpEpYzBUdlMzMhAWSD4TyE0ga7Et&index=2)
+* Faith, by the Weeknd [listen here](https://www.youtube.com/watch?v=RcS_8-a-sMg&ab_channel=TheWeekndVEVO)
+* With Ease, by Kelly the Lone [listen here](https://www.youtube.com/watch?v=GehP0qnsTSE&list=OLAK5uy_k75FWZaGaBNvCx6dDQG7OekUxw8P1mCe8&ab_channel=KellyTheLone-Topic)
+* All Around Me, by Aaronya [listen here](https://www.youtube.com/watch?v=min5dZxrXLQ&ab_channel=Aaronya-Topic)
 
 ### Musical Instruments
 You are never actually too old to learn to play an instrument you have always liked. It is a perfect break from your laptop's screen.
