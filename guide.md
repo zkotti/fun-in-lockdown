@@ -246,6 +246,12 @@ Ideas for interesting projects:
 * Raspberry Pi Radio FM Transmitter ([Tutorial](https://circuitdigest.com/microcontroller-projects/raspberry-pi-fm-transmitter)).
 * Become a professional Minecraft Pi player ([Tutorial](https://magpi.raspberrypi.org/books/essentials-minecraft-v1)).
 * Create a Raspberry Pi retro console emulator with [Retropie](https://retropie.org.uk/).
+* Build a motion capture security system using MotionEyeOS ([Tutorial](https://www.youtube.com/watch?v=og-zI0CozLs)).
+* Create Bitcoin Video Jukebox with raspberry pi([Tutorial](https://www.youtube.com/watch?v=uUIdwVXTXRc)).
+* Create cloud storage with raspberry pi ([Tutorial](https://www.youtube.com/watch?v=FQoZuUrabok)).
+* Build a vpn server with raspberry pi ([Tutorial](https://www.pcmag.com/how-to/how-to-create-a-vpn-server-with-raspberry-pi)).
+
+You don't have a raspberry pi, but you want to buy one? You can buy a raspberry pi from [amazon](https://www.amazon.de/s?k=pi+4&language=en_GB&adgrpid=84986351427&gclid=Cj0KCQjwl9GCBhDvARIsAFunhsmpJd4HVuNUOEVw3RX1kIywnHUrA6O3AJadlZU4_ReP6kv28HPH3psaAud8EALw_wcB&hvadid=394689733589&hvdev=c&hvlocphy=9067699&hvnetw=g&hvqmt=b&hvrand=7715166971427816134&hvtargid=kwd-298510980949&hydadcr=27799_1817008&tag=googdemozdesk-21&ref=pd_sl_8sg80mw3d9_b) and [here](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up) you can find instructions on how to set up your raspberry pi.
 
 ### Other projects
 
