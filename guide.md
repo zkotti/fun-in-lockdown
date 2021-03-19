@@ -116,7 +116,7 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 **Different kinds of exercises and sports:**
 
 * Freeletics (bodyweight workout)
-* HIT (High Intensity Training)
+* HIIT (High Intensity Interval Training)
 * Pilates
 * Yoga
 * Dance Workouts
