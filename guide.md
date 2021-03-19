@@ -145,8 +145,7 @@ If not, below there are some recommendations and really helpful videos.
 * 30 min Power pilates workout [video](https://www.youtube.com/watch?v=oLuq_J_ptVw)
 * 50 min Power pilates and cardio wokrout [video](https://www.youtube.com/watch?v=hNfsWaT00rw)
 
-<<<<<<< HEAD
-Best Dance Workouts (Have the best time and burn calories!):
+**Best Dance Workouts (Have the best time and burn calories!):** 
 * 10 min R&B Dance [video](https://www.youtube.com/watch?v=89lzERjtwqE&t=305s)
 * 15 min Happy Dance [video](https://www.youtube.com/watch?v=Cw-Wt4xKD2s)
 * 10 min Happy Cardio (AMAZIIIIIING) [video](https://www.youtube.com/watch?v=QPKXw8XEQiA)
@@ -161,9 +160,6 @@ or you can start a 30day Yoga Challenge with Adriene:
 
 Don't forget to stretch! Here are some videos to help you:
 
-=======
-**Don't forget to stretch! Here are some videos to help you:**
->>>>>>> 7d914b8ccf7922f406b13e99480fb1320c9fbdc6
 * Lower body stretch [video](https://www.youtube.com/watch?v=elcwsSqNhS8)
 * Recovery day stretch [video](https://www.youtube.com/watch?v=2MHGldCeJ04)
 * Foam roller stretch [video](https://www.youtube.com/watch?v=pCX3qmWYkS4)
