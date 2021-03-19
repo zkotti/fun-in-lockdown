@@ -304,6 +304,8 @@ Amazing video games you must try out:
 * [Dota 2](https://blog.dota2.com/?l=greek)
 * [Among Us](https://innersloth.com/gameAmongUs.php)
 * [Vendetta Online](https://www.vendetta-online.com/)
+* [God of War](https://www.playstation.com/el-gr/games/god-of-war/)
+* [Call of Duty: Black Ops](https://www.callofduty.com/blackops)
 
 You can buy amazing video games for Windows, Mac and Linux computers in the following online stores:
 * [Steam](https://store.steampowered.com/)
