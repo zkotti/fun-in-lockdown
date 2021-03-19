@@ -110,6 +110,8 @@ If not, below there are some recommendations and really helpful videos.
 
 <img src="media/images/workoutquote.jpg" alt="Inspiring Work Out Quote" width="500"/>
 
+Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-you-reach-your-fitness-goals)
+
 **Different kinds of exercises and sports:**
 
 * Freeletics (bodyweight workout)
