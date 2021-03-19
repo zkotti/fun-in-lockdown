@@ -274,7 +274,8 @@ My recommendations for kids' projects from raspberrypi.org:
 
 ### Other projects
 
-* Turn your balcony into a small garden
+* Turn your balcony into a small garden.
+* Start a wordpress blog.
 
 ---
 
@@ -372,7 +373,7 @@ Source: https://www.artistguitars.com.au/buying/how-to-choose-a-guitar-in-2-simp
 While there is no doubt that having a good traditional teacher can be helpful, the fact is you can teach yourself how to play piano/keyboard very effectively by attending online piano lessons or watching online guides. You can check out [MangoldProject's Piano Lessons for Beginners](https://www.youtube.com/watch?v=827jmswqnEA&list=PLP9cbwDiLzdL6IS4-rmzR42ghq3T56XnK), which is a helpful step by step guide for leaning to play on a keyboard. 
 
 
-#### Writing/Composing Music
+### Writing/Composing Music
 
 The quarantine is a great opportunity if you want to compose your own music! You can check out [MuseScore](https://musescore.com/), the world's leading free and open-source software for writing music. It offers a user-friendly interface and immensely powerful features. If you are interested, you may also want to check out MuseScore's GitHub reposotory [here](https://github.com/musescore/MuseScore).
 
