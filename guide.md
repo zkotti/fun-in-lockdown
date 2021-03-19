@@ -88,18 +88,17 @@ _The most common activity during  lock-down has been watching movies. So here ar
 
 ## <a name="books"></a>Books
 
-|TITLE| TOPIC | AVAILABLE ON| MY RATING| LINK |
-|---| ---| ---| ---| ---|
-|Thinking, Fast and Slow | Psychology | Amazon | 9/10| [Link](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=391NW1M3NG4SX&dchild=1&keywords=think+fast+and+slow&qid=1616005195&sprefix=think+fast%2Caps%2C216&sr=8-1 "Thinking, Fast and Slow")|
-|Zero to One| Management | Public | 9.5/10| [Link](https://www.public.gr/product/books/greek-books/economics/management/zero-to-one/prod6840642pp/ "Zero to One")|
-|Crime and Punishment| Crime fiction | Amazon| 9/10| [Link](https://www.amazon.com/Crime-Punishment-Volokhonsky-Translation-Classics/dp/0679734503/ref=sr_1_1?crid=2ECOFGIAH7E7F&dchild=1&keywords=crime+and+punishment&qid=1616082855&sprefix=crime+and%2Caps%2C312&sr=8-1)|
-|The Sixth Man: A Memoir| Autobiography| Amazon| 9.5/10| [Link](https://www.amazon.com/The-Sixth-Man-audiobook/dp/B07N487TMC/ref=sr_1_1?crid=12L3C7BF27NT6&dchild=1&keywords=the+sixth+man+iguodala&qid=1616082921&sprefix=the+sixth+man+iguo%2Caps%2C384&sr=8-1)|
-|The Royal Game| Novella| Amazon| 8.5/10| [Link](https://www.amazon.com/Royal-Game-translated-Stefan-Zweig-ebook/dp/B08LBT67W2/ref=sr_1_4?dchild=1&keywords=the+royal+game&qid=1616082952&sr=8-4)|
-|Atlantis | Historical Novel | Amazon| 10/10| [Link](https://www.amazon.com/gp/product/0755324226/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0755324226&SubscriptionId=1MGPYB6YW3HWK55XCGG2) |
-|Pharaoh | Historical Novel | Amazon| 10/10| [Link](https://www.amazon.com/gp/product/0230530737/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0230530737&SubscriptionId=1MGPYB6YW3HWK55XCGG2) |
-|Rich Dad Poor Dad | Personal Finance | Amazon| 9.5/10| [Link](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194) |
-|Influence: The Psychology of Persuasion | Psychology | Amazon| 9.5/10| [Link](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X) |
-
+|TITLE| TOPIC | AUTHOR | AVAILABLE ON| MY RATING| LINK |
+|---| ---| ---| ---| ---| ---|
+|Thinking, Fast and Slow | Psychology | Daniel Kahneman | Amazon | 9/10| [Link](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=391NW1M3NG4SX&dchild=1&keywords=think+fast+and+slow&qid=1616005195&sprefix=think+fast%2Caps%2C216&sr=8-1 "Thinking, Fast and Slow")|
+|Zero to One| Management | Pieter Thiel | Public | 9.5/10| [Link](https://www.public.gr/product/books/greek-books/economics/management/zero-to-one/prod6840642pp/ "Zero to One")|
+|Crime and Punishment| Crime fiction | Fyodor Dostoevsky | Amazon| 9/10| [Link](https://www.amazon.com/Crime-Punishment-Volokhonsky-Translation-Classics/dp/0679734503/ref=sr_1_1?crid=2ECOFGIAH7E7F&dchild=1&keywords=crime+and+punishment&qid=1616082855&sprefix=crime+and%2Caps%2C312&sr=8-1)|
+|The Sixth Man: A Memoir| Autobiography| David Baldacci | Amazon| 9.5/10| [Link](https://www.amazon.com/The-Sixth-Man-audiobook/dp/B07N487TMC/ref=sr_1_1?crid=12L3C7BF27NT6&dchild=1&keywords=the+sixth+man+iguodala&qid=1616082921&sprefix=the+sixth+man+iguo%2Caps%2C384&sr=8-1)|
+|The Royal Game| Novella|  Stefan Zweig | Amazon| 8.5/10| [Link](https://www.amazon.com/Royal-Game-translated-Stefan-Zweig-ebook/dp/B08LBT67W2/ref=sr_1_4?dchild=1&keywords=the+royal+game&qid=1616082952&sr=8-4)|
+|Atlantis | Historical Novel | David Gibbins | Amazon| 10/10| [Link](https://www.amazon.com/gp/product/0755324226/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0755324226&SubscriptionId=1MGPYB6YW3HWK55XCGG2) |
+|Pharaoh | Historical Novel | Valerio Manfredi | Amazon| 10/10| [Link](https://www.amazon.com/gp/product/0230530737/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0230530737&SubscriptionId=1MGPYB6YW3HWK55XCGG2) |
+|Rich Dad Poor Dad | Personal Finance |  Robert T. Kiyosaki | Amazon| 9.5/10| [Link](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194) |
+|Influence: The Psychology of Persuasion | Psychology | Robert B. Cialdini | Amazon| 9.5/10| [Link](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X) |
 
 ---
 
