@@ -227,6 +227,7 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 |---| ---| ---| ---| ---|
 | Tzatziki | Greece | 10/10| [Link](https://cookieandkate.com/how-to-make-tzatziki/ "How to Make Tzatziki")| Choose a creamy yoghurt to create the perfect spread! |
 | Sushi | Japan | 10/10| [Link](https://akispetretzikis.com/en/categories/ryzi-amp-patates/soysi "How to Make Sushi")| Experiment with different types of fish. |
+| Burrito | Mexico | 10/10 | [Link](https://akispetretzikis.com/el/categories/snak-santoyits/burrito) | Add chili sauce to make it spicy.
 | Pastitsio | Greece | 10/10| [Link](https://akispetretzikis.com/en/categories/zymarika/to-pastitsio-toy-akh "How to Make Pastitsio")|It's all about the Bechamel sauce. |
 | Pancakes | Universal | 10/10| [Link](https://akispetretzikis.com/en/categories/glyka/pancakes "How to Make Pancakes")|  Flip when the small bubbles appear. |
 | Tacos | Mexico | 10/10 | [Link](https://www.thewholesomedish.com/the-best-homemade-tacos/) | Add extra cheese!! |
@@ -234,6 +235,8 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 | Feta Pasta Challenge | Universal | 10/10 | [Link](https://www.youtube.com/watch?v=WRzQ-Ngt3Do) | Serve with olives. |
 | Soft Cookies| Universal | 10/10 | [Link](https://www.youtube.com/watch?v=K-YHpNU0Dbk) | Serve with milk. |
 | Handmade Cinnamon Rolls | Northern Europe | 10/10 | [Link](https://www.youtube.com/watch?v=_Q0FYoCl4Cs) | Serve with extra cinnamon. |
+| Brownies | U.S.A. | 10/10 | [Link](https://akispetretzikis.com/el/categories/keik/brownies)| Do not hesitate to serve with a scoop of vanilla ice cream. |
+
 
 
 
