@@ -112,19 +112,43 @@ Different kinds of exercises and sports:
 
 * Freeletics (bodyweight workout)
 * HIT (High Intensity Training)
+* Pilates
 
 “Burning” particular muscle groups:
 
 * Arms & Back + Core training [video](https://www.youtube.com/watch?v=-UmT4WYhqH4)
 * Buttocks lifting workout [video](https://www.youtube.com/watch?v=el1Cpk5B6OU)
+* Lower body workout [video](https://www.youtube.com/watch?v=GPbhp1ENocQ&t=24s)
+* Ab workout (NO EQUIPMENT) [video](https://www.youtube.com/watch?v=LND6Y5a3ks8)
+* 50 min leg day workout [video](https://www.youtube.com/watch?v=9fiP1q2SWwM&t=46s)
+* Arms and shoulders workout [video](https://www.youtube.com/watch?v=ME0cj3FTbms)
 
-Full body workout:
+Full body workouts:
 
 * Boxing cardio burn [video](https://www.youtube.com/watch?v=0Y8cy6qtIgg)
 * Dance fitness workout [video](https://www.youtube.com/watch?v=1XU4RCD85jM) (Lots of fun and sweat, trust me!)
 * 20 Minute easy mode (NO EQUIPMENT) [video](https://youtu.be/oAPCPjnU1wA)
 * 20 Minute hard mode (NO EQUIPMENT) [video](https://youtu.be/yDQQVU__6Uc)
+* Full body Dumbbell workout [video](https://www.youtube.com/watch?v=i-Kq8loq7fA)
 
+HIIT workouts:
+
+* 40 min HIIT + low intensity cardio (NO EQUIPMENT) [video](https://www.youtube.com/watch?v=Muh4Cyis_G8)
+* Full body HIIT (NO EQUIPMENT) [video](https://www.youtube.com/watch?v=ec_buXYn9So)
+* 40 min HIIT full body sculpt [video](https://www.youtube.com/watch?v=D2D9NUptqfk)
+* 45 min full body HIIT workout [video](https://www.youtube.com/watch?v=pAOPPQFQgcQ&t=6s)
+
+Pilates workouts:
+* 40 min Power pilates workout [video](https://www.youtube.com/watch?v=AePgbGKj6yk)
+* 30 min Power pilates workout [video](https://www.youtube.com/watch?v=oLuq_J_ptVw)
+* 50 min Power pilates and cardio wokrout [video](https://www.youtube.com/watch?v=hNfsWaT00rw)
+
+Don't forget to stretch! Here are some videos to help you:
+
+* Lower body stretch [video](https://www.youtube.com/watch?v=elcwsSqNhS8)
+* Recovery day stretch [video](https://www.youtube.com/watch?v=2MHGldCeJ04)
+* Foam roller stretch [video](https://www.youtube.com/watch?v=pCX3qmWYkS4)
+* Hips and back stretch [video](https://www.youtube.com/watch?v=XVC8LGbxVG0)
 ---
 
 <img align="left" width="40" height="40" src="media/icons/skill.png">
