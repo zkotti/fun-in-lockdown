@@ -215,7 +215,10 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 | Pancakes | Universal | 10/10| [Link](https://akispetretzikis.com/en/categories/glyka/pancakes "How to Make Pancakes")|  Flip when the small bubbles appear. |
 | Tacos | Mexico | 10/10 | [Link](https://www.thewholesomedish.com/the-best-homemade-tacos/) | Add extra cheese!! |
 | Cheesecake | Ancient Greece | 10/10 | [Link](https://sugarspunrun.com/best-cheesecake-recipe/) | Serve with sweet apple preserve. |
-| Feta Pasta Challenge| Universal | [Link](https://www.youtube.com/watch?v=WRzQ-Ngt3Do) | Serve with olives. |
+| Feta Pasta Challenge | Universal | 10/10 | [Link](https://www.youtube.com/watch?v=WRzQ-Ngt3Do) | Serve with olives. |
+| Soft Cookies| Universal | 10/10 | [Link](https://www.youtube.com/watch?v=K-YHpNU0Dbk) | Serve with milk. |
+| Handmade Cinnamon Rolls | Northern Europe | 10/10 | [Link](https://www.youtube.com/watch?v=_Q0FYoCl4Cs) | Serve with extra cinnamon. |
+
 
 
 ---
@@ -365,7 +368,14 @@ the first step to become an artist and use the time during the pandemic more eff
 <img align="left" width="40" height="40" src="media/icons/todo.png">
 
 ## <a name="clean"></a> Clean and organize
-This is a great opportunity for you to clean and organize your space. Declutter, get rid of all the things you never use and organize the ones that you use. It will make you feel useful and you will have a clean, organized space at the end of the day.
+This is a great opportunity for you to clean and organize your space. Declutter, get rid of all the things you never use and organize the ones that you use. It will make you feel useful and you will have a clean, organized space at the end of the day. 
+
+You can also write down your to-dos and organize your schedule and notes. It is best that you stay organized in order to achieve high productivity!
+
+Best Apps for Organization and Productivity:
+* Notion [Find it here](https://www.notion.so)
+* Momentum Google Extension [Find it here](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)
+
 
 ---
 
