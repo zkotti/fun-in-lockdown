@@ -171,7 +171,15 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 
 Ideas for interesting projects:
 
-* Use a Raspberry Pi to measure the room temperature and humidity 
+### Raspberry Pi projects:
+
+* Use a Raspberry Pi to measure the room temperature and humidity ([Tutorial](https://www.instructables.com/Raspberry-Pi-IoT-Temperature-and-Humidity-Monitor/))
+* Raspberry Pi Radio FM Transmitter ([Tutorial](https://circuitdigest.com/microcontroller-projects/raspberry-pi-fm-transmitter)).
+* Become a professional Minecraft Pi player ([Tutorial](https://magpi.raspberrypi.org/books/essentials-minecraft-v1)).
+* Create a Raspberry Pi retro console emulator with [Retropie](https://retropie.org.uk/).
+
+### Other projects
+
 * Turn your balcony into a small garden
 
 ---
