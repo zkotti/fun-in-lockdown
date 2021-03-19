@@ -255,7 +255,7 @@ You will get surprised from how easily you can produce nice sounds. All you need
 * a footstool (recommended for classical guitar)
 * and of course the guitar
 
-You can either teach yourself with a huge collection of online tutorials and tabs or find a teacher and have online lessons. You can check out [Kurt Berg's](https://www.youtube.com/channel/UCOSmaT73sJrjOmf6PHjxVAQ) YouTube channel for easy beginner tutorials.
+You can either teach yourself with a huge collection of online tutorials and tabs or find a teacher and have online lessons. You can check out [Kurt Berg's](https://www.youtube.com/channel/UCOSmaT73sJrjOmf6PHjxVAQ) YouTube channel for easy beginner tutorials. [Sky Guitar](https://www.youtube.com/channel/UCDlfXUX_wYgyfiXbfQh96Eg) also has a good deal of classical guitar tutorials for different levels.
 
 There are 3 major guitar types:
 
@@ -263,7 +263,7 @@ There are 3 major guitar types:
 * *Steel string acoustic:* The strings produce a brighter tone and they are ideal for strumming. However, building calluses can be really painful for beginners.
 * *Electric:* You will need at least an amp as the sound is produced from electric signals. It also uses steel strings and it is a bit heavier. Nonetheless, it is great for creativity with many technics and effects. 
 
-Used information from: https://www.artistguitars.com.au/buying/how-to-choose-a-guitar-in-2-simple-steps
+Source: https://www.artistguitars.com.au/buying/how-to-choose-a-guitar-in-2-simple-steps
 
 #### Piano
 
