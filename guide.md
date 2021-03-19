@@ -494,6 +494,25 @@ Podcasts is a great way to learn from other people about things that interest yo
 
 ---
 
+## Plan your next trip
+Tired of daydreaming about future trips? Get hands-on and start rganizing your next journey!
+
+You could start by selecting your travel destination. There are a lot of websites, like [Triptile](https://triptile.com/), 
+that let you plan your trip by first selecting a country or a city that you would like to visit (you could also add multiple stops to your trip)
+and then select among a number af activities that you could engage in during your trip. Triptile also recommends hotels to stay in and then
+calculates your estimated cost, depending on the days you spend on each city, the hotel room price per day and the extra activities that you have added on your trip.
+
+### Planning a trip in Europe
+In Europe, you have many options regarding the places you can visit. However, traveling from one country to another is relatively easy.
+
+[Rail Europe](https://www.raileurope.com/) is a great option for adventurous people that want to have a truly memorable experience. 
+You can book tickets connecting one country to another and enjoy the beautiful European landscapes.
+
+Do you want to explore Europe on a ship? There are many companies offering cruises in the European seas. For those that prefer a luxurius trip, [Celebrity Cruises](https://www.royalcaribbean.com/european-cruises)
+offers a wide range of different cruise packages, from the Mediterranean to the Baltic sea. 
+
+---
+
 ## <a name="note"></a>!Note : Before you head outside
 1. *Be sure you wear a mask*
 2. *Don't forget to sent the obligatory SMS text message to 13033*:
