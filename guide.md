@@ -242,16 +242,35 @@ Ideas for interesting projects:
 
 ### Raspberry Pi projects:
 
+If you like tech projects and you want to work with a full-on computer in tiny package, you read the right section. Here you can find many raspberry pi projects to do alone or with your children.
+
+#### Projects for adults/students:
 * Use a Raspberry Pi to measure the room temperature and humidity ([Tutorial](https://www.instructables.com/Raspberry-Pi-IoT-Temperature-and-Humidity-Monitor/))
 * Raspberry Pi Radio FM Transmitter ([Tutorial](https://circuitdigest.com/microcontroller-projects/raspberry-pi-fm-transmitter)).
 * Become a professional Minecraft Pi player ([Tutorial](https://magpi.raspberrypi.org/books/essentials-minecraft-v1)).
 * Create a Raspberry Pi retro console emulator with [Retropie](https://retropie.org.uk/).
 * Build a motion capture security system using MotionEyeOS ([Tutorial](https://www.youtube.com/watch?v=og-zI0CozLs)).
-* Create Bitcoin Video Jukebox with raspberry pi([Tutorial](https://www.youtube.com/watch?v=uUIdwVXTXRc)).
+* Create Bitcoin Video Jukebox with raspberry pi ([Tutorial](https://www.youtube.com/watch?v=uUIdwVXTXRc)).
 * Create cloud storage with raspberry pi ([Tutorial](https://www.youtube.com/watch?v=FQoZuUrabok)).
 * Build a vpn server with raspberry pi ([Tutorial](https://www.pcmag.com/how-to/how-to-create-a-vpn-server-with-raspberry-pi)).
 
-You don't have a raspberry pi, but you want to buy one? You can buy a raspberry pi from [amazon](https://www.amazon.de/s?k=pi+4&language=en_GB&adgrpid=84986351427&gclid=Cj0KCQjwl9GCBhDvARIsAFunhsmpJd4HVuNUOEVw3RX1kIywnHUrA6O3AJadlZU4_ReP6kv28HPH3psaAud8EALw_wcB&hvadid=394689733589&hvdev=c&hvlocphy=9067699&hvnetw=g&hvqmt=b&hvrand=7715166971427816134&hvtargid=kwd-298510980949&hydadcr=27799_1817008&tag=googdemozdesk-21&ref=pd_sl_8sg80mw3d9_b) and [here](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up) you can find instructions on how to set up your raspberry pi.
+#### Projects suitable for kids:
+Do you want your kid to learn more about technology that just use facebook? Raspberry pi projects for children are the right choice for you.
+
+Here are some interesting projects:
+* Make Robots with rasberry pi and arduino ([Tutorial](https://create.arduino.cc/projecthub/jithinsanal1610/robotics-for-beginners-and-kids-build-your-robot-now-4b6b27))
+* Program a game using [scratch](https://scratch.mit.edu/) ([Tutorial](https://junilearning.com/blog/coding-projects/how-to-make-a-scratch-game-step-by-step/))
+
+You can also check out a variety of projects for kids at [projects.raspberrypi.org](https://projects.raspberrypi.org/en/projects)
+
+My recommendations for kids' projects from raspberrypi.org:
+* [Pac-Man treasure hunt on the terminal](https://projects.raspberrypi.org/en/projects/pacman-terminal)
+* [Balloon Pi-tay Popper](https://projects.raspberrypi.org/en/projects/balloon-pi-tay-popper)
+* [Beat the goalie](https://projects.raspberrypi.org/en/projects/beat-the-goalie)
+
+\* If this is your first time using raspberry pi with your child, we encourage you to read [Learn at home: a guide for parents #1](https://www.raspberrypi.org/blog/digital-making-at-home-parents-guide/) and [Learn at home: a guide for parents #2](https://www.raspberrypi.org/blog/digital-making-at-home-parents-guide-python/).
+
+\*\* You don't have a raspberry pi, but you want to buy one and start a project? You can [buy a raspberry pi from amazon](https://www.amazon.de/s?k=pi+4&language=en_GB&adgrpid=84986351427&gclid=Cj0KCQjwl9GCBhDvARIsAFunhsmpJd4HVuNUOEVw3RX1kIywnHUrA6O3AJadlZU4_ReP6kv28HPH3psaAud8EALw_wcB&hvadid=394689733589&hvdev=c&hvlocphy=9067699&hvnetw=g&hvqmt=b&hvrand=7715166971427816134&hvtargid=kwd-298510980949&hydadcr=27799_1817008&tag=googdemozdesk-21&ref=pd_sl_8sg80mw3d9_b) and [here](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up) you can find instructions on how to set up your raspberry pi.
 
 ### Other projects
 
