@@ -353,7 +353,7 @@ You can have an amazing time just by relaxing and listening to your favorite mus
 * Italian songs to dance to [listen here](https://www.youtube.com/watch?v=dsb9Fakq1A8)
 
 ### Songs
-Most of us can't imagine how lockdown would be like without our favorite songs. Here are some great songs you may don't know:
+Most of us can't imagine how lockdown would be like without our favorite songs. Here are some great songs you may not know:
 <!--- It would be nice to add songs that aren't widely known! In this way we can discover new music :) -->
 * Always, by Isak Danielson [listen here](https://www.youtube.com/watch?v=YZdyIgst-S4)
 * Holding on and Letting Go, by Ross Copperman [listen here](https://www.youtube.com/watch?v=NQv7DL-MAkk)
