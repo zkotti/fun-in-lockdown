@@ -78,6 +78,7 @@ _The most common activity during  lock-down has been watching movies. So here ar
 |Peaky Blinders | Documentary - TV series | Netflix | 8/10 | [TRAILER](https://youtu.be/oVzVdvGIC7U)|
 |Suits | TV series | Netflix | 9/10 | [TRAILER](https://www.youtube.com/watch?v=85z53bAebsI)|
 |Mr. Robot | TV series | Netflix | 10/10 | [TRAILER](https://www.youtube.com/watch?v=xIBiJ_SzJTA)|
+|Mindhunter | TV series | Netflix | 9.5/10 | [TRAILER](https://www.youtube.com/watch?v=evdxH50J3rs)
 
 
 ---
@@ -138,7 +139,7 @@ Great ideas to learn new skills:
 * Learn how to play a music instrument
 * Learn [a new subject](https://www.futurelearn.com/subjects)
 * Learn [how to start a garden](https://www.youtube.com/watch?v=B0DrWAUsNSc&ab_channel=SSLFamilyDad)
-* Learn self-defenseι
+* Learn self-defense
 * Learn how to embroider / knit
 
 ---
@@ -212,10 +213,13 @@ Below you may find some interesting websites where you can play different board 
 ### Classic board games
 If you are stuck at home with your family or your roommate(s), you could try one of these fun board games:
 
-* [Clue](https://en.wikipedia.org/wiki/Cluedo): A suspenseful murder mystery game that turns everyone into a detective.
+* [Cluedo](https://en.wikipedia.org/wiki/Cluedo): A suspenseful murder mystery game that turns everyone into a detective.
 * [Taboo](https://en.wikipedia.org/wiki/Taboo_(game)): The game of forbidden words. In Taboo, your goal is to get your teammate to say the word written on one of the game cards without saying that word or any of the “taboo” words also listed with it.
 * [Twister](https://en.wikipedia.org/wiki/Twister_(game)): As the box promises, have you twisted up in knots and probably doubled over laughing, too.
 * [Stratego](https://en.wikipedia.org/wiki/Stratego): A Napoleonic version of capture the flag!
+* [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)): The classical buying and trading properties game. 
+* [Halli Galli](https://www.ultraboardgames.com/halli-galli/game-rules.php): A fast game in which you have to ring the bell as soon as 5 same fruits appear. Just watch for your hands!
+* [Citadels](https://en.wikipedia.org/wiki/Citadels_(card_game)): A card game in which on each round, players pick a role, build districts and make actions according to their role.
 
 ---
 
