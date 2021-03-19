@@ -115,6 +115,7 @@ If not, below there are some recommendations and really helpful videos.
 * Pilates
 * Yoga
 * Dance Workouts
+* Running
 
 **“Burning” particular muscle groups:**
 
@@ -177,6 +178,11 @@ The quarantine is a great opportunity to practice your running skills. Running d
 
 You may also find some really useful running guides and training plans for beginner and expericenced runners [here](https://www.runningshoesguru.com/free-running-training-plans/).
 
+* **Running apps:** using exercise tracking apps to train, has been proven to greatly increase motivation ([related paper](https://www.sciencedirect.com/science/article/pii/S0747563220302752?casa_token=DE2BlRmSeAIAAAAA:6DqidfQjZrwM_oiVU2E73e9lxkYNjupnNKCCkGkqbSVXWIzm4PoEtMbJmoiJ000TFQ1zIQ9-)). Downloading a running app may help you achieve your goals faster, keep track of your daily exercise routine as well as socialize with people sharing the same passion for exercise! Below, you may find some useful running apps to download:
+  * Best for getting motivated: [Human](http://human.co/#)
+  * Best for adopting running into your daily routine: [Pacer](https://www.mypacer.com/)
+  * Best professional running app: [Strava](https://www.strava.com)
+  * Best for creating training plans: [Runcoach](https://runcoach.com)
 ---
 
 <img align="left" width="40" height="40" src="media/icons/skill.png">
