@@ -298,6 +298,7 @@ Amazing video games you must try out:
 * [League of Legends](https://na.leagueoflegends.com/en-us/)
 * [NBA 2K21](https://nba.2k.com/)
 * [Call of Duty: Warzone](https://www.callofduty.com/warzone)
+* [Call of Duty: Black Ops](https://www.callofduty.com/blackops)
 * [Fortnite](https://www.epicgames.com/fortnite/en-US/home)
 * [World of Warcraft](https://worldofwarcraft.com/en-us/)
 * [Minecraft](https://www.minecraft.net/en-us/)
