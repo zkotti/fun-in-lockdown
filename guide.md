@@ -80,7 +80,7 @@ _The most common activity during  lock-down has been watching movies. So here ar
 |Suits | TV series | Netflix | 9/10 | [TRAILER](https://www.youtube.com/watch?v=85z53bAebsI)|
 |Mr. Robot | TV series | Netflix | 10/10 | [TRAILER](https://www.youtube.com/watch?v=xIBiJ_SzJTA)|
 |Mindhunter | TV series | Netflix | 9.5/10 | [TRAILER](https://www.youtube.com/watch?v=evdxH50J3rs)
-
+|Blacklist | TV series | Netflix | 9/10 | [TRAILER](https://www.youtube.com/watch?v=-WYdUaK54fU)
 
 ---
 
