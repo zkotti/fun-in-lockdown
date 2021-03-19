@@ -138,7 +138,7 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 **Full body workouts:**
 
 * Boxing cardio burn [video](https://www.youtube.com/watch?v=0Y8cy6qtIgg)
-* Dance fitness workout [video](https://www.youtube.com/watch?v=1XU4RCD85jM) (Lots of fun and sweat, trust me!)
+* Dance fitness workout [video](https://www.youtube.com/watch?v=1XU4RCD85jM)
 * 20 Minute easy mode (NO EQUIPMENT) [video](https://youtu.be/oAPCPjnU1wA)
 * 20 Minute hard mode (NO EQUIPMENT) [video](https://youtu.be/yDQQVU__6Uc)
 * Full body Dumbbell workout [video](https://www.youtube.com/watch?v=i-Kq8loq7fA)
