@@ -354,7 +354,7 @@ You can have an amazing time just by relaxing and listening to your favorite mus
 
 ### Songs
 Most of us can't imagine how lockdown would be like without our favorite songs. Here are some great songs you may don't know:
-<!--- It would be nice to add songs that aren't widely known! In this way we can discover new music!) -->
+<!--- It would be nice to add songs that aren't widely known! In this way we can discover new music :) -->
 * Always, by Isak Danielson [listen here](https://www.youtube.com/watch?v=YZdyIgst-S4)
 * Holding on and Letting Go, by Ross Copperman [listen here](https://www.youtube.com/watch?v=NQv7DL-MAkk)
 * CLOUDS, by NF [listen here](https://www.youtube.com/watch?v=fibYknUCIU4)
