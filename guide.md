@@ -113,6 +113,8 @@ Different kinds of exercises and sports:
 * Freeletics (bodyweight workout)
 * HIT (High Intensity Training)
 * Pilates
+* Yoga
+* Dance Workouts
 
 “Burning” particular muscle groups:
 
@@ -142,6 +144,19 @@ Pilates workouts:
 * 40 min Power pilates workout [video](https://www.youtube.com/watch?v=AePgbGKj6yk)
 * 30 min Power pilates workout [video](https://www.youtube.com/watch?v=oLuq_J_ptVw)
 * 50 min Power pilates and cardio wokrout [video](https://www.youtube.com/watch?v=hNfsWaT00rw)
+
+Best Dance Workouts (Have the best time and burn calories!):
+* 10 min R&B Dance [video](https://www.youtube.com/watch?v=89lzERjtwqE&t=305s)
+* 15 min Happy Dance [video](https://www.youtube.com/watch?v=Cw-Wt4xKD2s)
+* 10 min Happy Cardio (AMAZIIIIIING) [video](https://www.youtube.com/watch?v=QPKXw8XEQiA)
+
+Yoga:
+* 20 min Full Body Stress Relief [video](https://www.youtube.com/watch?v=sTANio_2E0Q&t=813s)
+* 30 min Yoga Flow (with Maldives in the background) [video](https://www.youtube.com/watch?v=5v1wqxnrmrk&t=831s)
+
+or you can start a 30day Yoga Challenge with Adriene:
+* Day 0 [video](https://www.youtube.com/watch?v=AjhvRX57XkE)
+* Day 1 [video](https://www.youtube.com/watch?v=ZSIp00SewO8&t=1236s)
 
 Don't forget to stretch! Here are some videos to help you:
 
@@ -187,6 +202,8 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 | Pancakes | Universal | 10/10| [Link](https://akispetretzikis.com/en/categories/glyka/pancakes "How to Make Pancakes")|  Flip when the small bubbles appear. |
 | Tacos | Mexico | 10/10 | [Link](https://www.thewholesomedish.com/the-best-homemade-tacos/) | Add extra cheese!! |
 | Cheesecake | Ancient Greece | 10/10 | [Link](https://sugarspunrun.com/best-cheesecake-recipe/) | Serve with sweet apple preserve. |
+| Feta Pasta Challenge| Universal | [Link](https://www.youtube.com/watch?v=WRzQ-Ngt3Do) | Serve with olives. |
+
 
 ---
 
