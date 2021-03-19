@@ -366,6 +366,9 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Holding on and Letting Go, by Ross Copperman [listen here](https://www.youtube.com/watch?v=NQv7DL-MAkk)
 * CLOUDS, by NF [listen here](https://www.youtube.com/watch?v=fibYknUCIU4)
 * Spring 1, recomposed by Max Richter (original by Vivaldi) [listen here](https://www.youtube.com/watch?v=41IOkVjy3MM)
+* Space Song, by Beach House [listen here](https://www.youtube.com/watch?v=RBtlPT23PTM&list=PLRQDSvpEpYzBUdlMzMhAWSD4TyE0ga7Et&index=4)
+* The Best (feat. Alice Merton), by Awolnation [listen here](https://www.youtube.com/watch?v=l-A43Av9ICo&list=PLRQDSvpEpYzBUdlMzMhAWSD4TyE0ga7Et&index=6)
+* Bloom Later (Audio), by Jesse [listen here](https://www.youtube.com/watch?v=XCirsEZCGO4&list=PLRQDSvpEpYzBUdlMzMhAWSD4TyE0ga7Et&index=2)
 
 ### Musical Instruments
 You are never actually too old to learn to play an instrument you have always liked. It is a perfect break from your laptop's screen.
