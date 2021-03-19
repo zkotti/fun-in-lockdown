@@ -412,26 +412,30 @@ __Editing__ and __Writing__ are not the same thing. Whenever you write something
 ## <a name="podcasts"></a>Start listening to Podcasts
 Podcasts is a great way to learn from other people about things that interest you and share your thoughts and concerns on different issues with hosts from around the world. They cover a huge variety of topics you can choose from. Here are a few of them!
 
-**Comedy**
-*[Off Menu With Ed Gamble and James Acaster](https://play.acast.com/s/offmenu)
-*[The Bert Show](https://play.acast.com/s/the-bert-show)
-*[The Last Laugh](https://play.acast.com/s/last-laugh-daily-beast)
-**News and Politics**
-*[The Economist Asks](https://play.acast.com/s/theeconomistasks)
-*[Intelligence Squared](https://play.acast.com/s/intelligencesquared)
-*[The New Abnormal](https://play.acast.com/s/the-new-abnormal)
-**Education**
-*[Connexions](https://play.acast.com/s/connexions-classroom)
-*[BBC Earth Podcast](https://play.acast.com/s/bbcearthpodcast)
-*[Nobel Prize Conversations](https://play.acast.com/s/nobelprizeconversations)
-**Technology**
-*[Daily Tech News Show](https://play.acast.com/s/dtns)
-*[Cyber](https://play.acast.com/s/cyber)
-*[Launch Pad](https://play.acast.com/s/wharton-entrep)
-**Business**
-*[Business Wars](https://play.acast.com/s/businesswars)
-*[My First Million](https://play.acast.com/s/myfirstmillion)
-*[TED Talks Daily](https://play.acast.com/s/tedtalks)
+#### Comedy
+* [Off Menu With Ed Gamble and James Acaster](https://play.acast.com/s/offmenu)
+* [The Bert Show](https://play.acast.com/s/the-bert-show)
+* [The Last Laugh](https://play.acast.com/s/last-laugh-daily-beast)
+
+#### News and Politics
+* [The Economist Asks](https://play.acast.com/s/theeconomistasks)
+* [Intelligence Squared](https://play.acast.com/s/intelligencesquared)
+* [The New Abnormal](https://play.acast.com/s/the-new-abnormal)
+
+#### Education
+* [Connexions](https://play.acast.com/s/connexions-classroom)
+* [BBC Earth Podcast](https://play.acast.com/s/bbcearthpodcast)
+* [Nobel Prize Conversations](https://play.acast.com/s/nobelprizeconversations)
+
+#### Technology
+* [Daily Tech News Show](https://play.acast.com/s/dtns)
+* [Cyber](https://play.acast.com/s/cyber)
+* [Launch Pad](https://play.acast.com/s/wharton-entrep)
+
+#### Business
+* [Business Wars](https://play.acast.com/s/businesswars)
+* [My First Million](https://play.acast.com/s/myfirstmillion)
+* [TED Talks Daily](https://play.acast.com/s/tedtalks)
 
 ---
 
