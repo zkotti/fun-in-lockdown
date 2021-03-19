@@ -207,6 +207,7 @@ Great ideas to learn new skills:
 * Learn [how to start a garden](https://www.youtube.com/watch?v=B0DrWAUsNSc&ab_channel=SSLFamilyDad)
 * Learn self-defense
 * Learn how to embroider / knit
+* Learn to type, [here is a useful platform](https://www.typingclub.com/)
 
 ---
 
