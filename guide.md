@@ -64,28 +64,28 @@ If yes, then you should definitely try the [Drive & Listen APP](https://driveand
 ## <a name="movies-docum-series"></a>Movies-Documentaries-Series
 _The most common activity during lock-down has been watching movies. So here are our recommendations for movies, series and documentaries:_
 
-|TITLE| TYPE| AVAILABLE ON| MY RATING| IMDb RATING| TRAILER|
-|---| ---| ---| ---| ---|---|
-|Don't f**k with cats| Documentary - TV series| Netflix| 9/10| 8/10|[TRAILER](https://www.youtube.com/watch?v=x41SMm-9-i4&ab_channel=Netflix "Don't f**k with cats")|
-|Breaking Bad| TV series| Netflix| 9/10| 9.5/10|[TRAILER](https://www.youtube.com/watch?v=HhesaQXLuRY&ab_channel=TrailerBlend "Breaking Bad")|
-|The Boys| TV series| AmazonPrime| 7/10| 8.7/10|[TRAILER](https://www.youtube.com/watch?v=M1bhOaLV4FU&ab_channel=AmazonPrimeVideoUK "The Boys")|
-|Connected| Documentary - TV series| Netflix| 8.5/10| 7.5/10|[TRAILER](https://www.youtube.com/watch?v=B-aZrftUPlk&ab_channel=Netflix "Connected")|
-|Lupin| TV series| Netflix| 7.5/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=ga0iTWXCGa0&ab_channel=Netflix "Lupin")|
-|The Social Dilemma| Documentary| Netflix| 7/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=uaaC57tcci0&ab_channel=Netflix "The Social Dilemma")|
-|Joker| Drama | Amazon | 10/10 | 8.4/10|[TRAILER](https://www.youtube.com/watch?v=zAGVQLHvwOY "Joker")|
-|Miracle in Cell No. 7 (2019)| Drama | Netflix | 9/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=MHdBW0gSsjo "Miracle in Cell No. 7")|
-| The 100 | Sci-Fi | Netflix | 9.5/10 | 7.6/10|[TRAILER](https://www.youtube.com/watch?v=ia1Fbg96vL0 "The 100")|
-| Attack On Titan | Fantasy / Action | Crunchyroll | 9.9/10 | 8.9/10|[TRAILER](https://www.youtube.com/watch?v=MGRm4IzK1SQ "Attack On Titan")|
-| Infinity War | Action / Adventure / Sci-Fi | Netflix | 10/10 | 8.4/10|[TRAILER](https://youtu.be/6ZfuNTqbHE8)|
-|The Last Dance| Documentary - TV series| Netflix| 9.5/10| 9.1/10|[TRAILER](https://www.youtube.com/watch?v=N9Z9JtNcCWY&ab_channel=ESPN)|
-|Unsolved Mysteries| Documentary - TV series| Netflix| 9/10| 7.3/10|[TRAILER](https://www.youtube.com/watch?v=oZ4FrgGILM8&ab_channel=Netflix)|
-|Peaky Blinders | Documentary - TV series | Netflix | 8/10 | 8.8/10|[TRAILER](https://youtu.be/oVzVdvGIC7U)|
-|Suits | TV series | Netflix | 9/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=85z53bAebsI)|
-|Mr. Robot | TV series | Netflix | 10/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=xIBiJ_SzJTA)|
-|Mindhunter | TV series | Netflix | 9.5/10 | 8.6/10|[TRAILER](https://www.youtube.com/watch?v=evdxH50J3rs)|
-|Blacklist | TV series | Netflix | 9/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=-WYdUaK54fU)|
-|The Queen's Gambit | TV series | Netflix | 9/10 | 8.6/10|[TRAILER](https://www.youtube.com/watch?v=CDrieqwSdgI)|
-|Brooklyn Nine-Nine | TV series | Netflix | 8.5/10 | 8.4/10|[TRAILER](https://www.youtube.com/watch?v=sEOuJ4z5aTc)|
+|TITLE| TYPE| AVAILABLE ON| MY RATING| IMDb RATING| TRAILER| INFO|
+|---| ---| ---| ---| ---|---|---|
+|Don't f**k with cats| Documentary - TV series| Netflix| 9/10| 8/10|[TRAILER](https://www.youtube.com/watch?v=x41SMm-9-i4&ab_channel=Netflix "Don't f**k with cats")|[INFO](https://www.imdb.com/title/tt11318602/?ref_=fn_al_tt_2 "Don't f**k with cats IMDb")|
+|Breaking Bad| TV series| Netflix| 9/10| 9.5/10|[TRAILER](https://www.youtube.com/watch?v=HhesaQXLuRY&ab_channel=TrailerBlend "Breaking Bad")|[INFO](https://www.imdb.com/title/tt0903747/?ref_=nv_sr_srsg_0 "Breaking Bad IMDb")|
+|The Boys| TV series| AmazonPrime| 7/10| 8.7/10|[TRAILER](https://www.youtube.com/watch?v=M1bhOaLV4FU&ab_channel=AmazonPrimeVideoUK "The Boys")|[INFO](https://www.imdb.com/title/tt1190634/?ref_=nv_sr_srsg_0 "The Boys IMDb")|
+|Connected| Documentary - TV series| Netflix| 8.5/10| 7.5/10|[TRAILER](https://www.youtube.com/watch?v=B-aZrftUPlk&ab_channel=Netflix "Connected")|[INFO](https://www.imdb.com/title/tt12753692/?ref_=nv_sr_srsg_3 "Connected IMDb")|
+|Lupin| TV series| Netflix| 7.5/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=ga0iTWXCGa0&ab_channel=Netflix "Lupin")|[INFO](https://www.imdb.com/title/tt2531336/?ref_=nv_sr_srsg_0 "Lupin IMDb")|
+|The Social Dilemma| Documentary| Netflix| 7/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=uaaC57tcci0&ab_channel=Netflix "The Social Dilemma")|[INFO](https://www.imdb.com/title/tt11464826/?ref_=nv_sr_srsg_0 "The Social Dilemma IMDb")|
+|Joker| Drama | Amazon | 10/10 | 8.4/10|[TRAILER](https://www.youtube.com/watch?v=zAGVQLHvwOY "Joker")|[INFO](https://www.imdb.com/title/tt7286456/?ref_=nv_sr_srsg_0 "Joker IMDb")|
+|Miracle in Cell No. 7 (2019)| Drama | Netflix | 9/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=MHdBW0gSsjo "Miracle in Cell No. 7")|[INFO](https://www.imdb.com/title/tt2659414/?ref_=nv_sr_srsg_0 "Miracle in Cell No. 7 IMDb")|
+| The 100 | Sci-Fi | Netflix | 9.5/10 | 7.6/10|[TRAILER](https://www.youtube.com/watch?v=ia1Fbg96vL0 "The 100")|[INFO](https://www.imdb.com/title/tt2661044/?ref_=nv_sr_srsg_0 "The 100 IMDb")|
+| Attack On Titan | Fantasy / Action | Crunchyroll | 9.9/10 | 8.9/10|[TRAILER](https://www.youtube.com/watch?v=MGRm4IzK1SQ "Attack On Titan")|[INFO](https://www.imdb.com/title/tt2560140/?ref_=nv_sr_srsg_0 "Attack On Titan IMDb")|
+| Infinity War | Action / Adventure / Sci-Fi | Netflix | 10/10 | 8.4/10|[TRAILER](https://youtu.be/6ZfuNTqbHE8 "Infinity War")|[INFO](https://www.imdb.com/title/tt4154756/?ref_=nv_sr_srsg_0 "Infinity War IMDb")|
+|The Last Dance| Documentary - TV series| Netflix| 9.5/10| 9.1/10|[TRAILER](https://www.youtube.com/watch?v=N9Z9JtNcCWY&ab_channel=ESPN "The Last Dance")|[INFO](https://www.imdb.com/title/tt8420184/?ref_=fn_al_tt_1 "The Last Dance IMDb")
+|Unsolved Mysteries| Documentary - TV series| Netflix| 9/10| 7.3/10|[TRAILER](https://www.youtube.com/watch?v=oZ4FrgGILM8&ab_channel=Netflix "Unsolved Mysteries")|[INFO](https://www.imdb.com/title/tt9642938/?ref_=nv_sr_srsg_3 "Unsolved Mysteries IMDb")|
+|Peaky Blinders | Documentary - TV series | Netflix | 8/10 | 8.8/10|[TRAILER](https://youtu.be/oVzVdvGIC7U "Peaky Blinders")|[INFO](https://www.imdb.com/title/tt2442560/?ref_=nv_sr_srsg_0 "Peaky Blinders IMDb")|
+|Suits | TV series | Netflix | 9/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=85z53bAebsI "Suits")|[INFO](https://www.imdb.com/title/tt1632701/?ref_=fn_al_tt_1 "Suits IMDb")|
+|Mr. Robot | TV series | Netflix | 10/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=xIBiJ_SzJTA "Mr. Robot")|[INFO](https://www.imdb.com/title/tt4158110/?ref_=fn_al_tt_1 "Mr. Robot IMDb")|
+|Mindhunter | TV series | Netflix | 9.5/10 | 8.6/10|[TRAILER](https://www.youtube.com/watch?v=evdxH50J3rs "Mindhunter")|[INFO](https://www.imdb.com/title/tt5290382/?ref_=nv_sr_srsg_0 "Mindhunter IMDb")|
+|Blacklist | TV series | Netflix | 9/10 | 8/10|[TRAILER](https://www.youtube.com/watch?v=-WYdUaK54fU "Blacklist")|[INFO](https://www.imdb.com/title/tt2741602/?ref_=nv_sr_srsg_0 "Blacklist IMDb")|
+|The Queen's Gambit | TV series | Netflix | 9/10 | 8.6/10|[TRAILER](https://www.youtube.com/watch?v=CDrieqwSdgI "The Queen's Gambit")|[INFO](https://www.imdb.com/title/tt10048342/?ref_=nv_sr_srsg_0 "The Queen's Gambit IMDb")|
+|Brooklyn Nine-Nine | TV series | Netflix | 8.5/10 | 8.4/10|[TRAILER](https://www.youtube.com/watch?v=sEOuJ4z5aTc "Brooklyn Nine-Nine")|[INFO](https://www.imdb.com/title/tt2467372/?ref_=nv_sr_srsg_0 "Brooklyn Nine-Nine IMDb")|
 
 ---
 
