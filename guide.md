@@ -40,6 +40,8 @@ Here a some sights and places which are definitely worth to make a walk at:
 * Stroll around in the harbour of Piräus 
 * Go walk at Stavros Niarchos Foundation Cultural Center
 * A walk in Sygrou Park
+* Walk alongside Illissos river in Kallithea
+* Explore Plaka alleys and reach Anafiotika
 
 ---
 
