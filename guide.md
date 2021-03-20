@@ -431,6 +431,7 @@ Do you remember the nights when you used to hang out for hours with your friends
 - FaceTime
 - Microsoft Teams
 - Zoom
+- Discord
 - Or check out these [open source alternatives](https://opensource.com/alternatives/skype)
 
 ---
