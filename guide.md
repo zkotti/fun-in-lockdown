@@ -138,6 +138,13 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * Running
 * Aerobic Workouts
 
+**Workout tips :**
+
+* Alsways warm up
+* Make sure to choose the right workout for you
+* Stay Hydrated
+* Don't forget to stretch!
+
 **“Burning” particular muscle groups:**
 
 * Arms & Back + Core training [video](https://www.youtube.com/watch?v=-UmT4WYhqH4)
