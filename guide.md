@@ -497,11 +497,13 @@ Podcasts is a great way to learn from other people about things that interest yo
 * [Daily Tech News Show](https://play.acast.com/s/dtns)
 * [Cyber](https://play.acast.com/s/cyber)
 * [Launch Pad](https://play.acast.com/s/wharton-entrep)
+* [Brave New Planet](https://www.pushkin.fm/show/brave-new-planet/)
 
 #### Business
 * [Business Wars](https://play.acast.com/s/businesswars)
 * [My First Million](https://play.acast.com/s/myfirstmillion)
 * [TED Talks Daily](https://play.acast.com/s/tedtalks)
+* [Planet Money](https://www.npr.org/sections/money/?t=1616235730554)
 
 ---
 
