@@ -257,6 +257,11 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 | Soft Cookies| Universal | 10/10 | [Link](https://www.youtube.com/watch?v=K-YHpNU0Dbk) | Serve with milk. |
 | Handmade Cinnamon Rolls | Northern Europe | 10/10 | [Link](https://www.youtube.com/watch?v=_Q0FYoCl4Cs) | Serve with extra cinnamon. |
 | Brownies | U.S.A. | 10/10 | [Link](https://akispetretzikis.com/el/categories/keik/brownies)| Do not hesitate to serve with a scoop of vanilla ice cream. |
+| Greek Salad | Greece | 10/10 | [Link](https://www.loveandlemons.com/greek-salad/) | Add capers to gain maximum taste. |
+| Pasta Primavera | Italy | 10/10 | [Link](https://www.cookingclassy.com/pasta-primavera/) | Mix up the veggies to create different combinations. |
+| Lemon Rice | India | 9/10 | [Link](https://www.feastingathome.com/indian-lemon-rice/) | Serve it with fish. |
+| Lentil Soup | Morocco | 10/10 | [Link](https://www.simplyquinoa.com/detox-moroccan-lentil-soup/) | Serve with fresh onions. |
+| Italian Pizza | Italy | 10/10 | [Link](https://www.walksofitaly.com/blog/food-and-wine/italian-pizza-dough-recipe) | Keep it simple on the ingredients! |
 
 
 
