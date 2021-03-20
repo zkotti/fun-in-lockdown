@@ -110,6 +110,8 @@ _The most common activity during lock-down has been watching movies. So here are
 |Influence: The Psychology of Persuasion | Psychology | Robert B. Cialdini | Amazon| 9.5/10| [Link](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X) |
 | To Kill a Mocking Bird | Classic Literature | Harper Lee | Public | 9.5/10| [Link](https://www.public.gr/product/to-kill-a-mockingbird/prod1260555pp/) |
 |The Unbearable Lightness of Being | Modern Literature | Milan Kundera | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/modern-literature/the-unbearable-lightness-of-being/prod140346/)|
+|The Ice Princess | Crime Novel | Camilla Läckberg | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/crime-fiction/the-ice-princess/prod1150813pp/)|
+|The Secret History | Modern Literature | Donna Tartt | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/modern-literature/the-secret-history/prod141934/)|
 
 ---
 
