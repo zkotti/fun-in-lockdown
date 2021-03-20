@@ -23,6 +23,7 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 * [Clean and organize](#clean)
 * [Writing](#writing)
 * [Start listening to Podcasts](#podcasts)
+* [Plan your next trip](#trips)
 
 [!Note : Before you head outside](#note)
 
@@ -500,7 +501,7 @@ Podcasts is a great way to learn from other people about things that interest yo
 
 ---
 
-## Plan your next trip
+## <a name="trips"></a>Plan your next trip
 Tired of daydreaming about future trips? Get hands-on and start rganizing your next journey!
 
 You could start by selecting your travel destination. There are a lot of websites, like [Triptile](https://triptile.com/), 
