@@ -505,6 +505,19 @@ Podcasts is a great way to learn from other people about things that interest yo
 * [TED Talks Daily](https://play.acast.com/s/tedtalks)
 * [Planet Money](https://www.npr.org/sections/money/?t=1616235730554)
 
+### Do you have ideas you want to share? Create your own Podcast!
+Here are a few simple steps to help you start:
+
+1. Choose a topic that interests you. You could also pick a co-host to share the journey with and make it more fun!
+2. Choose a name that best describes the content of your Podcast.
+3. Create the cover art of the Podcast. Be creative!
+4. Get a good quality microphone. The sound quality of the Podcast is very important.
+5. Record and edit the episodes. A nice free option to start with is [GarageBand](https://www.apple.com/mac/garageband/).
+6. Upload your episodes!
+7. Spread the word and let people know about your content. You can use [Buzzsprout's](https://www.buzzsprout.com/) social sharing feature to help you.
+
+Source: https://www.podcastinsights.com/start-a-podcast/
+
 ---
 
 ## <a name="trips"></a>Plan your next trip
