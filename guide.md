@@ -310,6 +310,7 @@ Amazing video games you must try out:
 * [Vendetta Online](https://www.vendetta-online.com/)
 * [God of War](https://www.playstation.com/el-gr/games/god-of-war/)
 * [Call of Duty: Black Ops](https://www.callofduty.com/blackops)
+* [PES 2021] (https://www.konami.com/wepes/2021/eu/en/ps4/)
 
 You can buy amazing video games for Windows, Mac and Linux computers in the following online stores:
 * [Steam](https://store.steampowered.com/)
