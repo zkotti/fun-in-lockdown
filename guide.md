@@ -136,6 +136,7 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * Yoga
 * Dance Workouts
 * Running
+* Aerobic Workouts
 
 **“Burning” particular muscle groups:**
 
