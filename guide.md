@@ -502,7 +502,7 @@ __Editing__ and __Writing__ are not the same thing. Whenever you write something
 <img align="left" width="40" height="40" src="media/icons/gardening.png">
 
 ## <a name="gardening"></a> Gardening
-Gardening is a very unique hobbie to relax, feel creative and spend your time.
+Gardening is a very unique hobby to relax, feel creative and spend your time.
 Here are some of the vegetables that you can begin with! 
 
 <img src="media/images/vegetables.jpg" alt="Food around the world" width="500"/>
@@ -519,10 +519,7 @@ Photo owned by [kellogggarden.com](https://www.kellogggarden.com/wp-content/uplo
 | Tomatoes  | 65-85  | 	 A, C, K, and B6|	Tender | Twice a week |
 | Potatoes  | 90-120  | 	B6 and C|	Half-hardy | Regularly, when tubers start to form |
 
-
-Carrots, Broccoli, Pumpkins, Peppers, Zucchini, Tomatoes, Potatoes, 
-
-
+Source: https://www.almanac.com/vegetable-growing-guide
 ---
 
 <img align="left" width="40" height="40" src="media/icons/podcasts.jpg">
