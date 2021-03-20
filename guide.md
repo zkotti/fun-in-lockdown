@@ -448,11 +448,11 @@ This is a great opportunity for you to clean and organize your space. Declutter,
 You can also write down your to-dos and organize your schedule and notes. It is best that you stay organized in order to achieve high productivity!
 
 Best Apps for Organization and Productivity:
-* Notion *[Find it here]*(https://www.notion.so)
-* Momentum Google Extension *[Find it here]*(https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)
-* Trello *[Find it here]*(https://trello.com/en)
-* Jour *[Find it here]*(https://jour.com/)
-* Todoist *[Find it here]*(https://todoist.com/)
+* Notion [Find it here](https://www.notion.so)
+* Momentum Google Extension [Find it here](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)
+* Trello [Find it here](https://trello.com/en)
+* Jour [Find it here](https://jour.com/)
+* Todoist [Find it here](https://todoist.com/)
 
 
 ---
