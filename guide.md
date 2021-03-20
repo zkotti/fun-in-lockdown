@@ -378,6 +378,11 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Faith, by the Weeknd [listen here](https://www.youtube.com/watch?v=RcS_8-a-sMg&ab_channel=TheWeekndVEVO)
 * With Ease, by Kelly the Lone [listen here](https://www.youtube.com/watch?v=GehP0qnsTSE&list=OLAK5uy_k75FWZaGaBNvCx6dDQG7OekUxw8P1mCe8&ab_channel=KellyTheLone-Topic)
 * All Around Me, by Aaronya [listen here](https://www.youtube.com/watch?v=min5dZxrXLQ&ab_channel=Aaronya-Topic)
+* Demons, by Imagine Dragons [listen here](https://www.youtube.com/watch?v=mWRsgZuwf_8)
+* Memories, by Maroon 5 [listen here](https://www.youtube.com/watch?v=SlPhMPnQ58k)
+* Closer, by Chainsmokers [listen here](https://www.youtube.com/watch?v=PT2_F-1esPk)
+* Una volta ancora, by Fred De Palma [listen here](https://www.youtube.com/watch?v=4R5mDpIgwUs)
+* Hypnotized, by Purple Disco Machine, Sophie and the Giants [listen here](https://www.youtube.com/watch?v=UbYQErtM9Zk)
 
 ### Musical Instruments
 You are never actually too old to learn to play an instrument you have always liked. It is a perfect break from your laptop's screen.
