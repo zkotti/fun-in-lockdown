@@ -22,6 +22,7 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 * [Art](#art)
 * [Clean and organize](#clean)
 * [Writing](#writing)
+* [Gardening](#gardening)
 * [Start listening to Podcasts](#podcasts)
 * [Plan your next trip](#trips)
 
@@ -496,6 +497,35 @@ There are many types of content produced by writing, like for example:
 Writing is most often a solitary activity, except for people who like to write in cafe's. The ongoing lockdown is a great opportunity to start practicing writing. I will kick it off with one important tip that I've found to be helpful whenever I'm writing something for other people to read.
 
 __Editing__ and __Writing__ are not the same thing. Whenever you write something, leave it for a few hours or maybe a few days. And then come back to it as an __editor__ to find ways to make it more captivating and understandable for the readers.
+
+---
+<img align="left" width="40" height="40" src="media/icons/gardening.png">
+
+## <a name="gardening"></a> Gardening
+Gardening is a very unique hobbie to relax, feel creative and spend your time.
+Here are some of the vegetables that you can begin with! 
+
+<img src="media/images/vegetables.jpg" alt="Food around the world" width="500"/>
+
+Photo owned by [kellogggarden.com](https://www.kellogggarden.com/wp-content/uploads/2017/07/Leafy-Vegetable-Garden.jpg)
+
+|VEGETABLE| GROW TIME (days)| VITAMINS| COLD HARDNESS | WHEN TO WATER |
+|---| ---| ---| ---| ---|
+| Carrots  | 70-80  | 	A, C, K, and B6|	Half-hardy | Only during drought conditions |
+| Broccoli  | 100-150  | 	A, E, B1, and B6|	Hardy | Only during drought conditions |
+| Pumpkins  |90-100  | 	Fiber, C, and Potassium|	Tender | Only during drought conditions |
+| Peppers  | 60-90 | 	 A, C, B6, B2, and E|	Very tender | Once a week |
+
+
+
+
+| Zucchini  | 50-60  | 	 A, B1, B6, and B2 |		Very tender | Frequently, especially when fruits form |
+| Tomatoes  | 65-85  | 	 A, C, K, and B6|	Tender | Twice a week |
+| Potatoes  | 90-120  | 	B6 and C|	Half-hardy | Regularly, when tubers start to form |
+
+
+Carrots, Broccoli, Pumpkins, Peppers, Zucchini, Tomatoes, Potatoes, 
+
 
 ---
 
