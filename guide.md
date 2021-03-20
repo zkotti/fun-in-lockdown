@@ -88,6 +88,8 @@ _The most common activity during lock-down has been watching movies. So here are
 |Blacklist | TV series | Netflix | 9/10 | 8/10|[TRAILER](https://www.youtube.com/watch?v=-WYdUaK54fU "Blacklist")|[INFO](https://www.imdb.com/title/tt2741602/?ref_=nv_sr_srsg_0 "Blacklist IMDb")|
 |The Queen's Gambit | TV series | Netflix | 9/10 | 8.6/10|[TRAILER](https://www.youtube.com/watch?v=CDrieqwSdgI "The Queen's Gambit")|[INFO](https://www.imdb.com/title/tt10048342/?ref_=nv_sr_srsg_0 "The Queen's Gambit IMDb")|
 |Brooklyn Nine-Nine | TV series | Netflix | 8.5/10 | 8.4/10|[TRAILER](https://www.youtube.com/watch?v=sEOuJ4z5aTc "Brooklyn Nine-Nine")|[INFO](https://www.imdb.com/title/tt2467372/?ref_=nv_sr_srsg_0 "Brooklyn Nine-Nine IMDb")|
+|A Beautiful Mind | Biography / Drama | Netflix | 9/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=nIR3wj9Ssaw "A Beautiful Mind")|[INFO](https://www.imdb.com/title/tt0268978/?ref_=nv_sr_srsg_0 "A Beautiful Mind IMDb")|
+|The Invisible Guest | Crime / Drama / Mystery | Netflix | 8.5/10 | 8.1/10|[TRAILER](https://www.youtube.com/watch?v=epCg2RbyF80 "The Invisible Guest")|[INFO](https://www.imdb.com/title/tt4857264/?ref_=nv_sr_srsg_0 "The Invisible Guest IMDb")|
 
 ---
 
