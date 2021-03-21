@@ -586,6 +586,8 @@ Creating videos is a very fun and creative way to spend your time during lockdow
 - Start live streaming. (More [here](https://www.boxcast.com/blog/how-to-start-live-streaming)).
 - Start a youtube channel. (More [here](https://www.adorama.com/alc/10-tips-for-starting-a-youtube-channel/))
 
+Section icon owned by [freepik](https://www.freepik.com/).
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/podcasts.jpg">
