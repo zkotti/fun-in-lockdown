@@ -448,6 +448,11 @@ Amazing video games you must try out:
 * [Call of Duty: Black Ops](https://www.callofduty.com/blackops)
 * [PES 2021](https://www.konami.com/wepes/2021/eu/en/ps4/)
 * [Hearthstone](https://playhearthstone.com/en-us)
+* [Drakensang Online](https://www.drakensang.com/en)
+* [Forza Horizon 4](https://forzamotorsport.net/en-us/games/fh4)
+* [GTA V](https://www.rockstargames.com/V/restricted-content/agegate/form?redirect=https%3A%2F%2Fwww.rockstargames.com%2FV%2F&options=&locale=en_us)
+* [Assetto Corsa](https://www.assettocorsa.it/home-ac/)
+* [Red Dead Redemption II](https://www.rockstargames.com/reddeadredemption2/restricted-content/agegate/form?redirect=https%3A%2F%2Fwww.rockstargames.com%2Freddeadredemption2%2F&options=&locale=en_us)
 
 You can buy amazing video games for Windows, Mac and Linux computers in the following online stores:
 * [Steam](https://store.steampowered.com/)
