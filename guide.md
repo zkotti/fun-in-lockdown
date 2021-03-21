@@ -149,9 +149,12 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 
 **Workout tips :**
 
+* Set realistic goals
 * Alsways warm up
 * Make sure to choose the right workout for you
 * Stay Hydrated
+* Listen to music
+* Find a workout buddy
 * Don't forget to stretch!
 
 **Different kinds of exercises and sports:**
