@@ -238,6 +238,7 @@ Great ideas to learn new skills:
 * Learn self-defense
 * Learn how to embroider / knit
 * Learn to type, [here is a useful platform](https://www.typingclub.com/)
+* Learn [how to cook, easily among the best!] (https://akispetretzikis.com/ "Akis Petretzikis")
 
 ---
 
