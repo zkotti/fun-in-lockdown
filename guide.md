@@ -106,7 +106,8 @@ _The most common activity during lock-down has been watching movies. So here are
 |The Shutter Island | Thriller/ Mystery | Netflix | 8.5/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=5iaYLCiq5RM "The Shutter Island")|[INFO](https://www.imdb.com/title/tt1130884/ "The Shutter Island IMDb")|
 |Game Of Thrones | TV series | HBO | 10/10 | 9.3/10|[TRAILER](https://www.hbo.com/game-of-thrones "Game Of Thrones")|[INFO](https://www.imdb.com/title/tt0944947/ "Game Of Thrones IMDb")|
 |Cowspiracy: The Sustainability Secret | Documentary | Netflix | 8.3/10 | 9/10|[TRAILER](https://www.youtube.com/watch?v=nV04zyfLyN4 "Cowspiracy: The Sustainability Secret")|[INFO](https://www.imdb.com/title/tt3302820/ "Cowspiracy: The Sustainability Secret")|
-
+|Night Stalker: The Hunt for a Serial Killer  | Documentary/ Crime | Netflix | 9/10 | 7.5/10|[TRAILER](https://www.youtube.com/watch?v=Mva2nGveYss "Night Stalker: The Hunt for a Serial Killer")|[INFO](https://www.imdb.com/title/tt13651632/ "Night Stalker: The Hunt for a Serial Killer")|
+|Jeffrey Epstein: Filthy Rich | Documentary/ Crime | Netflix | 8/10 | 7.1/10|[TRAILER](https://www.youtube.com/watch?v=-j0rjlfmDx4 "Jeffrey Epstein: Filthy Rich")|[INFO](https://www.imdb.com/title/tt12312250/ "Jeffrey Epstein: Filthy Rich")|
 
 ---
 
