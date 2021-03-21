@@ -131,6 +131,13 @@ If not, below there are some recommendations and really helpful videos.
 
 Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-you-reach-your-fitness-goals)
 
+**Workout tips :**
+
+* Alsways warm up
+* Make sure to choose the right workout for you
+* Stay Hydrated
+* Don't forget to stretch!
+
 **Different kinds of exercises and sports:**
 
 * Freeletics (bodyweight workout)
@@ -140,13 +147,6 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * Dance Workouts
 * Running
 * Aerobic Workouts
-
-**Workout tips :**
-
-* Alsways warm up
-* Make sure to choose the right workout for you
-* Stay Hydrated
-* Don't forget to stretch!
 
 **“Burning” particular muscle groups:**
 
