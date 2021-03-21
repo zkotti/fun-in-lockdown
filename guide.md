@@ -47,6 +47,7 @@ Here a some sights and places which are definitely worth to make a walk at:
 * Explore Plaka alleys and reach Anafiotika
 * Walk around the National Garden in the city centre
 * Go on a mountain hike in Mount Ymittos
+* Walk around Koukaki neighbourhood
 
 ---
 
