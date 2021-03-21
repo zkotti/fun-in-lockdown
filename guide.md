@@ -173,6 +173,7 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * Dance Workouts
 * Running
 * Aerobic Workouts
+* Cycling
 
 **“Burning” particular muscle groups:**
 
@@ -243,6 +244,26 @@ You may also find some really useful running guides and training plans for begin
   * Best for adopting running into your daily routine: [Pacer](https://www.mypacer.com/)
   * Best professional running app: [Strava](https://www.strava.com)
   * Best for creating training plans: [Runcoach](https://runcoach.com)
+
+**Cycling**
+
+The quarantine is definitely the perfect period to exercise more and even adopt new ways of exercise. Cycling during the hard times of quarantine can easily boost your mood while improving your stamina, strength and aerobic fitness as well. Don't forget that with a bike you can explore many hidden gems of Athens that you had no idea of. 
+So, what are you waiting? Take your dusty bike and start cycling this moment!
+
+In case you don't already own a bicycle don't worry, you can buy one without much effort. Below, you may easily find some useful tips:
+
+* Picking the perfect bicycle for Beginners [Link](https://lifehacker.com/the-beginners-guide-to-picking-the-perfect-bicycle-1782443592)
+* Five types of bikes to choose from [video](https://www.youtube.com/watch?v=Znt0UuZW2nU)
+
+If not ready to buy a bike, don't forget you can also rent one. Here are some sites:
+
+* Athens Bike Rental [Link](https://www.athensbikerental.gr/rentals)
+* Panorama Bikes [Link](https://panoramabikes.gr/el/134-rent-a-bike-athens-greece)
+* GRCYCLING [Link](https://booking.grcycling.com/bikes)
+
+Once you have all the equipment needed, take many water bottles, maybe a sibling or a friend and go explore. Don't be afraid to go beyond your neighborhood. Here are some interesting ideas of destinations:
+
+* Top Tips for Cycling in Athens [Link](https://www.thisisathens.org/activities/sports-outdoors/biking-cycling)
 ---
 
 <img align="left" width="40" height="40" src="media/icons/skill.png">
