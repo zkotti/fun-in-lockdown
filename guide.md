@@ -406,6 +406,14 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Closer, by Chainsmokers [listen here](https://www.youtube.com/watch?v=PT2_F-1esPk)
 * Una volta ancora, by Fred De Palma [listen here](https://www.youtube.com/watch?v=4R5mDpIgwUs)
 * Hypnotized, by Purple Disco Machine, Sophie and the Giants [listen here](https://www.youtube.com/watch?v=UbYQErtM9Zk)
+* Put Your Hands Up, by Boiling Point Band [listen here](https://www.youtube.com/watch?v=57SKB6Er88c)
+* Wild, Jonas Blue ft. Chelcee Grimes, TINI, Jhay Cortez [listen here](https://www.youtube.com/watch?v=BQogzYUoQWU)
+* Te Quiero Más, TINI and Nacho [listen here](https://www.youtube.com/watch?v=95IaQ8vyqHg)
+* La Cintura, by Alvaro Soler ft. Flo Rida, TINI [listen here](https://www.youtube.com/watch?v=oRMAgjly2UQ)
+* Grey Area, by Sam Tsui [listen here](https://www.youtube.com/watch?v=GNOUmctP3Yo)
+* The Fuss, Against The Current [listen here](https://www.youtube.com/watch?v=y_Qsrt6c9_k)
+* Legends Never Die, League of Legends ft. Against The Current [listen here](https://www.youtube.com/watch?v=4Q46xYqUwZQ)
+
 
 ### Musical Instruments
 You are never actually too old to learn to play an instrument you have always liked. It is a perfect break from your laptop's screen.
@@ -527,6 +535,7 @@ Photo owned by [kellogggarden.com](https://www.kellogggarden.com/wp-content/uplo
 | Potatoes  | 90-120  | 	B6 and C|	Half-hardy | Regularly, when tubers start to form |
 
 Source: https://www.almanac.com/vegetable-growing-guide
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/podcasts.jpg">
