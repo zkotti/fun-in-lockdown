@@ -28,6 +28,7 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 * [Start listening to Podcasts](#podcasts)
 * [Plan your next trip](#trips)
 * [Plan your Erasmus](#erasmus)
+* [Coding Projects](#coding-projects)
 
 [Note : Before you head outside](#note)
 
@@ -669,6 +670,38 @@ about the procedure and the available destinations. Before you decide on your to
 universities you are interested in. In case you need more information on a university or country you can check [this facebook group](https://www.facebook.com/groups/2069463463353183)
 and the [ESN AUEB page](https://www.facebook.com/ESNAthensAUEB), where you can ask to be connected to students with erasmus experiences in the universities that you are interested in.
 Lastly, you can also check [this video](https://www.youtube.com/watch?v=IilqhLVRP6U&t=3s&ab_channel=LosAngie) in order to learn how to apply for an erasmus exchange.
+
+---
+<img align="left" width="40" height="40" src="media/icons/coding.png">
+
+## <a name="coding-projects"></a>Coding Projects
+
+<img align="left" width="40" height="40" src="media/icons/python.jpeg">
+
+### Python
+
+
+* Rock, Paper, Scissors Game
+
+A simple python program to test your skills. Try developing it as a player vs computer game in the beginning. Skills used: Learn how to use while loops and if statements
+
+* Build a Twitter Bot
+
+You can make a program that helps you engage your audience while studying or working on other projects! You will have to sign up as a Twitter developer, but dont worry, it is not that difficult.
+
+* Alarm Clock
+
+Creating an alarm clock is a cool way of demonstrating your coding skills. To begin with, create a program that sends a notification at a designated time. Afterwards, you can add functionality, like music or videos.
+
+* Typing Test
+
+Create a python program with a comple GUI, that gives you a random sentence, and tests your typing speed. It is an advanced project but you can learn a lot about  design.
+
+
+
+
+
+Source : https://careerkarma.com/blog/python-projects-beginners/
 
 ---
 
