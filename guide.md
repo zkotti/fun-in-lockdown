@@ -461,7 +461,7 @@ Source: https://www.artistguitars.com.au/buying/how-to-choose-a-guitar-in-2-simp
 
 #### Piano
 
-While there is no doubt that having a good traditional teacher can be helpful, the fact is you can teach yourself how to play piano/keyboard very effectively by attending online piano lessons or watching online guides. You can check out [MangoldProject's Piano Lessons for Beginners](https://www.youtube.com/watch?v=827jmswqnEA&list=PLP9cbwDiLzdL6IS4-rmzR42ghq3T56XnK), which is a helpful step by step guide for leaning to play on a keyboard. 
+While there is no doubt that having a good traditional teacher can be helpful, the fact is you can teach yourself how to play piano/keyboard very effectively by attending online piano lessons or watching online guides. You can check out [MangoldProject's Piano Lessons for Beginners](https://www.youtube.com/watch?v=827jmswqnEA&list=PLP9cbwDiLzdL6IS4-rmzR42ghq3T56XnK), which is a helpful step by step guide for learning to play on a keyboard.
 
 
 ### Writing/Composing Music
