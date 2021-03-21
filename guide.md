@@ -463,6 +463,7 @@ Additionally, MuseScore offers a large database of free-to-access sheet music. Y
 
 ## <a name="meditation"></a>Meditation
 Meditation is a fun and relaxing way to spend your time in quarantine. Try lying down with your eyes closed and focusing on your breath, breathing in and out. This will help you lower stress levels, boost your mood, allow you to connect better with yourself and improve your focus.
+>[Here is a good playlist to help you relax!](https://www.youtube.com/watch?v=oJnF5VxTO5g "Chill & Relax")
 
 ---
 
