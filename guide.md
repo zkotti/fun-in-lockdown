@@ -67,8 +67,9 @@ Due to the Covid-19 pandemic museums remain closed. Don't worry, art lovers!
 
 You can have a look on the [online exhibition](https://www.vangoghmuseum.nl/en) offered by the Vincent van Gogh Museum in Amsterdam.
 
-Some of us are _bored in the house-in the house bored_! [WindowSwap](https://www.window-swap.com/) is a quarantine project
-which gives you the opportunity to enjoy the view from windows around the world!
+Some of us are _bored in the house-in the house bored_!
+
+[WindowSwap](https://www.window-swap.com/) is a quarantine project which gives you the opportunity to enjoy the view from windows around the world!
 
 ---
 
