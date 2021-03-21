@@ -64,6 +64,7 @@ Do you want to drive around your favourite cities while listening to their local
 If yes, then you should definitely try the [Drive & Listen APP](https://driveandlisten.herokuapp.com/?fbclid=IwAR2jQV27oRk5A4UmCgGNEKwu2JXxDCuqm-6sqKrmLalAnO2N7bjXGVgcnhg)!
 
 Due to the Covid-19 pandemic museums remain closed. Don't worry, art lovers!
+
 You can have a look on the [online exhibition](https://www.vangoghmuseum.nl/en) offered by the Vincent van Gogh Museum in Amsterdam.
 
 ---
