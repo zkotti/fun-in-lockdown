@@ -201,6 +201,8 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * Running
 * Aerobic Workouts
 * Cycling
+* Crossfit
+* Powerlifting
 
 **“Burning” particular muscle groups:**
 
@@ -437,6 +439,7 @@ Amazing video games you must try out:
 * [God of War](https://www.playstation.com/el-gr/games/god-of-war/)
 * [Call of Duty: Black Ops](https://www.callofduty.com/blackops)
 * [PES 2021](https://www.konami.com/wepes/2021/eu/en/ps4/)
+* [Hearthstone](https://playhearthstone.com/en-us)
 
 You can buy amazing video games for Windows, Mac and Linux computers in the following online stores:
 * [Steam](https://store.steampowered.com/)
@@ -444,6 +447,7 @@ You can buy amazing video games for Windows, Mac and Linux computers in the foll
 * [Origin](https://www.origin.com/irl/en-us/store)
 * [Ubisoft Store](https://store.ubi.com/ie/home)
 * [Epic Games Store](https://www.epicgames.com/store/en-US/)
+* [Battle.net](https://eu.shop.battle.net/en-gb)
 
 The stores above usually feature deals and discounts on specific games. In order to be informed about the best current deals about a specific game, check out [IsThereAnyDeal](https://isthereanydeal.com)!
 
