@@ -331,10 +331,6 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 
 Ideas for interesting projects:
 
-### Raspberry Pi projects:
-
-If you like tech projects and you want to work with a full-on computer in tiny package, you read the right section. Here you can find many raspberry pi projects to do alone or with your children.
-
 ### Arduino projects:
 
 Arduino is an open-source platform used for building electronics projects. Arduino consists of both a physical programmable circuit board (often referred to as a microcontroller) and a piece of software, or IDE (Integrated Development Environment) that runs on your computer, used to write and upload computer code to the physical board.
@@ -356,6 +352,10 @@ Arduino is an open-source platform used for building electronics projects. Ardui
 - Home Automations
 
 and many more!!!
+
+### Raspberry Pi projects:
+
+If you like tech projects and you want to work with a full-on computer in tiny package, you read the right section. Here you can find many raspberry pi projects to do alone or with your children.
 
 #### Projects for adults/students:
 * Use a Raspberry Pi to measure the room temperature and humidity ([Tutorial](https://www.instructables.com/Raspberry-Pi-IoT-Temperature-and-Humidity-Monitor/))
