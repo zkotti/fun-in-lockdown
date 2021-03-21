@@ -69,6 +69,7 @@ You can have a look on the [online exhibition](https://www.vangoghmuseum.nl/en) 
 
 Some of us are _bored in the house-in the house bored_! [WindowSwap](https://www.window-swap.com/) is a quarantine project
 which gives you the opportunity to enjoy the view from windows around the world!
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/movie.png">
