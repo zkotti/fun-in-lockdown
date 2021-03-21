@@ -456,6 +456,8 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 ### Albums
 A subsection to add your favorite Music Albums
 
+* Play(2014 Remastered Version), by Moby [listen here](https://open.spotify.com/album/7yqSkf4TGPOHUtDKMVjhbD?si=lCj-kEh1QiuvGlsTQwfLVA)
+
 
 ### Musical Instruments
 You are never actually too old to learn to play an instrument you have always liked. It is a perfect break from your laptop's screen.
