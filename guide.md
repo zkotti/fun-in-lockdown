@@ -59,6 +59,8 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 
 Information was taken from, [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 
+---
+
 <img align="left" width="40" height="40" src="media/icons/walk.png">
 
 ## <a name="walks"></a>Walks in Town
@@ -293,6 +295,8 @@ If not ready to buy a bike, don't forget you can also rent one. Here are some si
 Once you have all the equipment needed, take many water bottles, maybe a sibling or a friend and go explore. Don't be afraid to go beyond your neighborhood. Here are some interesting ideas of destinations:
 
 * Top Tips for Cycling in Athens [Link](https://www.thisisathens.org/activities/sports-outdoors/biking-cycling)
+
+---
 
 <img align="left" width="40" height="40" src="media/icons/skill.png">
 
