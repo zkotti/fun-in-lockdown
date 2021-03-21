@@ -572,6 +572,8 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Paralyzed, Against The Current [listen here](https://www.youtube.com/watch?v=PvVhUo-PvVI) 
 * FEVER, by Megan Nicole [listen here](https://www.youtube.com/watch?v=DV30BtjNNIU) 
 * Obsesión, by Aventura ft. Judy Santos [listen here](https://www.youtube.com/watch?v=8_QY5gFQUTg)
+* More Than Words, by Extreme [listen here](https://www.youtube.com/watch?v=UrIiLvg58SY)
+* From the Woods, James Vincent McMorrow [listen here](https://www.youtube.com/watch?v=ntZG2InulxE)
 
 ### Albums
 A subsection to add your favorite Music Albums
