@@ -614,9 +614,9 @@ An Erasmus exchange is a great way to step out of your comfort zone. Specificall
 improve a foreign language or two, experience university life in a foreign institution and most importantly have the time of your LIFE!
 
 Start by visiting the university [page](https://www.dept.aueb.gr/el/dmst/content/%CF%80%CF%81%CF%8C%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1-erasmus), which includes lots of information
-about the procedure and the available destinations. Before you decide on your top 3 destinations, it is recommended to write down the pros and cons of all the  
+about the procedure and the available destinations. Before you decide on your top 3 destinations, it is recommended to write down the pros and cons of all the
 universities you are interested in. In case you need more information on a university or country you can check [this facebook group](https://www.facebook.com/groups/2069463463353183)
-and the [ESN AUEB page](https://www.facebook.com/ESNAthensAUEB) where you can ask to be connected to students with erasmus experiences in the universities that you are interested in.
+and the [ESN AUEB page](https://www.facebook.com/ESNAthensAUEB), where you can ask to be connected to students with erasmus experiences in the universities that you are interested in.
 Lastly, you can also check [this video](https://www.youtube.com/watch?v=IilqhLVRP6U&t=3s&ab_channel=LosAngie) in order to learn how to apply for an erasmus exchange.
 
 ---
