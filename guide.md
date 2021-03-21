@@ -39,32 +39,32 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 
 ### What should we do if someone is infected from covid?
 
-**FIRST RULE: DON'T PANIC!**
+**FIRST DONT PANIC**
 
-#### Stay home except to get medical care.
+#### Stay gome except to get medical care
 1. Inform you personal doctor!!
-   - if you dont have personal doctor, call someone you know and you can trust.
+   - if you dont have personal doctor call someone you know and you can trust
 2. Stay home!
-3. Take care of yourself.
-4. Stay in touch with your doctor.
-5. Avoid public transportation.
-6. Separate yourself from other people (its bad but not forever!!).
-7. Monitor your symptoms.
-8. Call ahead before visiting your doctor.
-9. Avoid sharing personal household items.
-10. Clean your hands often.
-11. Cover your coughs and sneezes.
-12. Wear a mask over your nose and mouth.
+3. Take care of yourself
+4. Stay in touch with your doctor
+5. Avoid public transportation
+6. Separate yourself from other people (its bad but not forever!!)
+7. Monitor your symptoms
+8. Call ahead before visiting your doctor
+9. Avoid sharing personal household items
+10. Clean your hands often
+11. Cover your coughs and sneezes
+12. Wear a mask over your nose and mouth
 13. Get Tested!!!
 
-Information was taken from, [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
-
----
+information were taken from, [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 
 <img align="left" width="40" height="40" src="media/icons/walk.png">
 
 ## <a name="walks"></a>Walks in Town
 Here a some sights and places which are definitely worth to make a walk at: 
+### Athens
+
 * Climb to the Acropolis
 * Take a walk to the Likavitou hill
 * Run around the Philopappos monument
@@ -72,10 +72,26 @@ Here a some sights and places which are definitely worth to make a walk at:
 * Go walk at Stavros Niarchos Foundation Cultural Center
 * A walk in Sygrou Park
 * Walk alongside Illissos river in Kallithea
-* Explore Plaka alleys and reach Anafiotika
+* Explore Plaka alleys and reach Anafiotika and Monastiraki
+* Walk from Monastiraki all the way to Thisio
 * Walk around the National Garden in the city centre
 * Go on a mountain hike in Mount Ymittos
 * Walk around Koukaki neighbourhood
+
+### Thessaloniki
+
+* Ladadika port
+* Seih Sou forest
+* The Roman Forum and Agios Dimitrios Church
+* Tsimiski Street
+* Along the waterfront
+* Aristotelous square
+* White Tower
+* Navarino square
+* Upper town and Eptapyrgio
+* Western wall
+* Axios Delta National Park
+
 
 ---
 
@@ -193,6 +209,19 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * Find a workout buddy
 * Don't forget to stretch!
 
+**Workoute motivation quotes :**
+
+* No pain, No gain -> shut up and train.
+* Master your mindset, and you'll master your body.
+* Push yourself because no one else is going to do it for you.
+* The pain you feel today will be the strength you need tomorrow.
+* Later = Never (Do it now)
+* Push harder than yesterday if you want a different tomorrow
+* Its you vs you
+* Never forget why you started
+* Impossible is just a word
+* You can if you think you can
+
 **Different kinds of exercises and sports:**
 
 * Freeletics (bodyweight workout)
@@ -295,8 +324,6 @@ If not ready to buy a bike, don't forget you can also rent one. Here are some si
 Once you have all the equipment needed, take many water bottles, maybe a sibling or a friend and go explore. Don't be afraid to go beyond your neighborhood. Here are some interesting ideas of destinations:
 
 * Top Tips for Cycling in Athens [Link](https://www.thisisathens.org/activities/sports-outdoors/biking-cycling)
-
----
 
 <img align="left" width="40" height="40" src="media/icons/skill.png">
 
