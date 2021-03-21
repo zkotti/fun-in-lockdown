@@ -413,7 +413,11 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Grey Area, by Sam Tsui [listen here](https://www.youtube.com/watch?v=GNOUmctP3Yo)
 * The Fuss, Against The Current [listen here](https://www.youtube.com/watch?v=y_Qsrt6c9_k)
 * Legends Never Die, League of Legends ft. Against The Current [listen here](https://www.youtube.com/watch?v=4Q46xYqUwZQ)
-
+* TOP OF THE WORLD, ZAYDE WOLF [listen here](https://www.youtube.com/watch?v=Sdy9PY0CVQ0)
+* Love Is The Name, by Sofia Carson [listen here](https://www.youtube.com/watch?v=fuyVJYP7GJk)
+* All Time, by Tyler Ward, Mike Tompkins and KHS [listen here](https://www.youtube.com/watch?v=dkcs-26PBjY)
+* Paralyzed, Against The Current [listen here](https://www.youtube.com/watch?v=PvVhUo-PvVI) 
+* FEVER, by Megan Nicole [listen here](https://www.youtube.com/watch?v=DV30BtjNNIU) 
 
 ### Musical Instruments
 You are never actually too old to learn to play an instrument you have always liked. It is a perfect break from your laptop's screen.
