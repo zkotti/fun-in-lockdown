@@ -289,6 +289,7 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 | Lemon Rice | India | 9/10 | [Link](https://www.feastingathome.com/indian-lemon-rice/) | Serve it with fish. |
 | Lentil Soup | Morocco | 10/10 | [Link](https://www.simplyquinoa.com/detox-moroccan-lentil-soup/) | Serve with fresh onions. |
 | Italian Pizza | Italy | 10/10 | [Link](https://www.walksofitaly.com/blog/food-and-wine/italian-pizza-dough-recipe) | Keep it simple on the ingredients! |
+| Cupcakes| Universal| 10/10 | [Link](https://sallysbakingaddiction.com/super-moist-chocolate-cupcakes/) | Make sure you’re using natural unsweetened cocoa powder, not dutched cocoa.|
 
 
 
