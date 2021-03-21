@@ -62,8 +62,10 @@ Why don't you take a virtual tour via **youtube**?
 [Come and relax on youtube's virtual trips now!](https://www.youtube.com/watch?v=2Qcf1K3hP2g)
 
 Do you want to drive around your favourite cities while listening to their local radios?
-
 If yes, then you should definitely try the [Drive & Listen APP](https://driveandlisten.herokuapp.com/?fbclid=IwAR2jQV27oRk5A4UmCgGNEKwu2JXxDCuqm-6sqKrmLalAnO2N7bjXGVgcnhg)!
+
+If you prefer exploring a country from above, visit [Fly & Listen](http://flyandlisten.com/?fbclid=IwAR2uuxF_Xd0vKNfpXIlh9N5f4nItuzQ-Lbhbj4WpC4CMWHgKd-EeVrYlvwg)! You can choose
+a destination, pick a local radio station and enjoy your virtual trip. Fly and listen offers you a great variety of places to visiti and a lot of different options regarding the local radio station. You are free to pick your favorite, sit back and relax!
 
 Due to the Covid-19 pandemic museums remain closed. Don't worry, art lovers!
 
@@ -343,7 +345,7 @@ If you like tech projects and you want to work with a full-on computer in tiny p
 * Create cloud storage with raspberry pi ([Tutorial](https://www.youtube.com/watch?v=FQoZuUrabok)).
 * Build a vpn server with raspberry pi ([Tutorial](https://www.pcmag.com/how-to/how-to-create-a-vpn-server-with-raspberry-pi)).
 
-#### Projects suitable for kids:
+#### Projects suitable for children:
 Do you want your kid to learn more about technology that just use facebook? Raspberry pi projects for children are the right choice for you.
 
 Here are some interesting projects:
