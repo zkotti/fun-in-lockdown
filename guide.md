@@ -694,7 +694,7 @@ Here are some of the vegetables that you can begin with!
 
 <img src="media/images/vegetables.jpg" alt="Food around the world" width="500"/>
 
-Photo owned by [kellogggarden.com](https://www.kellogggarden.com/wp-content/uploads/2017/07/Leafy-Vegetable-Garden.jpg)
+
 
 |VEGETABLE| GROW TIME (days)| VITAMINS| COLD HARDNESS | WHEN TO WATER |
 |---| ---| ---| ---| ---|
@@ -706,7 +706,8 @@ Photo owned by [kellogggarden.com](https://www.kellogggarden.com/wp-content/uplo
 | Tomatoes  | 65-85  | 	 A, C, K, and B6|	Tender | Twice a week |
 | Potatoes  | 90-120  | 	B6 and C|	Half-hardy | Regularly, when tubers start to form |
 
-Source: https://www.almanac.com/vegetable-growing-guide
+Photo owned by [kellogggarden.com](https://www.kellogggarden.com/wp-content/uploads/2017/07/Leafy-Vegetable-Garden.jpg)  
+Icon source: [thenounproject.com ](https://thenounproject.com/term/gardening/) 
 
 ---
 <img align="left" width="40" height="40" src="media/icons/online_course.png">
@@ -717,7 +718,6 @@ Learn a topic that interests you from an online class! Below you can find variou
 
 <img src="media/images/online_course.jpg" alt="online course" width="500"/>
 
-Photo owned by [transform-elearning.com](https://www.transform-elearning.com/build-online-course-guide/)
 
 Sites for online courses: 
 * ALISON
@@ -745,6 +745,8 @@ Online courses:
 |Statistics and R|16 hours|Free|HarvardX|Intermidiate|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/statistics-and-r "Statistics and R")|
 |Introduction to Psychology|15 hours|40/month|Yale|Beginner |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/learn/introduction-psychology "Introduction to Psychology")|
 
+Photo owned by [transform-elearning.com](https://www.transform-elearning.com/build-online-course-guide/)  
+Icon source: [iconscout.com ](https://iconscout.com/icon/online-course-8) 
 
 ---
 <img align="left" width="40" height="40" src="media/icons/video.png">
