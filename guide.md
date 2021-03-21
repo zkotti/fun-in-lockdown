@@ -717,6 +717,8 @@ Learn a topic that interests you from an online class! Below you can find variou
 
 <img src="media/images/online_course.jpg" alt="online course" width="500"/>
 
+Photo owned by [transform-elearning.com](https://www.transform-elearning.com/build-online-course-guide/)
+
 Sites for online courses: 
 * ALISON
 * Udemy
