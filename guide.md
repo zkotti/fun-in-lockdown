@@ -447,6 +447,7 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * All Time, by Tyler Ward, Mike Tompkins and KHS [listen here](https://www.youtube.com/watch?v=dkcs-26PBjY)
 * Paralyzed, Against The Current [listen here](https://www.youtube.com/watch?v=PvVhUo-PvVI) 
 * FEVER, by Megan Nicole [listen here](https://www.youtube.com/watch?v=DV30BtjNNIU) 
+* Obsesión, by Aventura ft. Judy Santos [listen here](https://www.youtube.com/watch?v=8_QY5gFQUTg)
 
 ### Musical Instruments
 You are never actually too old to learn to play an instrument you have always liked. It is a perfect break from your laptop's screen.
