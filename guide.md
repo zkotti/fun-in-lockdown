@@ -25,6 +25,7 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 * [Gardening](#gardening)
 * [Start listening to Podcasts](#podcasts)
 * [Plan your next trip](#trips)
+* [Plan your Erasmus](#erasmus)
 
 [!Note : Before you head outside](#note)
 
@@ -605,6 +606,18 @@ You can book tickets connecting one country to another and enjoy the beautiful E
 
 Do you want to explore Europe on a ship? There are many companies offering cruises in the European seas. For those that prefer a luxurius trip, [Celebrity Cruises](https://www.royalcaribbean.com/european-cruises)
 offers a wide range of different cruise packages, from the Mediterranean to the Baltic sea. 
+
+---
+
+## <a name="erasmus"></a>Plan your Erasmus
+An Erasmus exchange is a great way to step out of your comfort zone. Specifically, you will get a taste of living abroad, make valuable new connections from all over the world,
+improve a foreign language or two, experience university life in a foreign institution and most importantly have the time of your LIFE!
+
+Start by visiting the university [page](https://www.dept.aueb.gr/el/dmst/content/%CF%80%CF%81%CF%8C%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1-erasmus), which includes lots of information
+about the procedure and the available destinations. Before you decide on your top 3 destinations, it is recommended to write down the pros and cons of all the  
+universities you are interested in. In case you need more information on a university or country you can check [this facebook group](https://www.facebook.com/groups/2069463463353183)
+and the [ESN AUEB page](https://www.facebook.com/ESNAthensAUEB) where you can ask to be connected to students with erasmus experiences in the universities that you are interested in.
+Lastly, you can also check [this video](https://www.youtube.com/watch?v=IilqhLVRP6U&t=3s&ab_channel=LosAngie) in order to learn how to apply for an erasmus exchange.
 
 ---
 
