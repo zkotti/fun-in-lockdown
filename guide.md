@@ -453,6 +453,10 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * FEVER, by Megan Nicole [listen here](https://www.youtube.com/watch?v=DV30BtjNNIU) 
 * Obsesión, by Aventura ft. Judy Santos [listen here](https://www.youtube.com/watch?v=8_QY5gFQUTg)
 
+### Albums
+A subsection to add your favorite Music Albums
+
+
 ### Musical Instruments
 You are never actually too old to learn to play an instrument you have always liked. It is a perfect break from your laptop's screen.
 
