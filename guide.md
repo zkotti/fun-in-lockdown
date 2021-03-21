@@ -25,6 +25,7 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 * [Clean and organize](#clean)
 * [Writing](#writing)
 * [Gardening](#gardening)
+* [Online Courses](#online_course)
 * [Video Making](#videomaking)
 * [Start listening to Podcasts](#podcasts)
 * [Plan your next trip](#trips)
@@ -708,7 +709,42 @@ Photo owned by [kellogggarden.com](https://www.kellogggarden.com/wp-content/uplo
 Source: https://www.almanac.com/vegetable-growing-guide
 
 ---
+<img align="left" width="40" height="40" src="media/icons/online_course.png">
 
+## <a name="online_course"></a>Study online Courses 
+Take advantage of quarantine by investing in yourself!
+Learn a topic that interests you from an online class! Below you can find various sites for online cources as well as examples of online courses.  
+
+<img src="media/images/online_course.jpg" alt="online course" width="500"/>
+
+Sites for online courses: 
+* ALISON
+* Udemy
+* Coursera
+* edX
+* Udacity
+* LinkedIn Learning
+* General Assembly
+* Skillshare
+* LearnSmart
+* Codecademy
+* Pluralsight
+* Adobe
+* FutureLearn
+* Academic Earth
+
+Online courses: 
+|TITLE|LENGTH|PRICE|INSTITUTION|LEVEL | LANGUAGE| HOST SITE| LINK|
+|---| ---|  ---| ---|---|---|---|---|
+|Project Management Professional |240 hours|32/month|Google|Begginer |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/professional-certificates/google-project-management "Project Management Professional Certificate")|
+|Cybersecurity Fundamentals|96 hours|Free|RITx|Advanced|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/cybersecurity-fundamentals "Cybersecurity Fundamentals")|
+|Bitcoin and Cryptocurrencies|30 hours|Free|BerkleyX|Introductory|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/bitcoin-and-cryptocurrencies?index=product&queryID=b3b6160e788842372317117050e9c774&position=1 "Bitcoin and Cryptocurrencies")|
+|Introduction to Machine Learning|25 hours|Free|Duke|Intermediate |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/learn/machine-learning-duke "Introduction to Machine Learning")|
+|Statistics and R|16 hours|Free|HarvardX|Intermidiate|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/statistics-and-r "Statistics and R")|
+|Introduction to Psychology|15 hours|40/month|Yale|Beginner |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/learn/introduction-psychology "Introduction to Psychology")|
+
+
+---
 <img align="left" width="40" height="40" src="media/icons/video.png">
 
 ## <a name="videomaking"></a> Video Making
