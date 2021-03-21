@@ -40,27 +40,29 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 
 ### What should we do if someone is infected from covid?
 
-**FIRST DONT PANIC**
+**FIRST RULE: DONT PANIC!**
 
-#### Stay gome except to get medical care
+#### Stay home except from when you need medical care
 1. Inform you personal doctor!!
-   - if you dont have personal doctor call someone you know and you can trust
+   - if you dont have personal doctor call someone you know and you can trust.
 2. Stay home!
-3. Take care of yourself
-4. Stay in touch with your doctor
-5. Avoid public transportation
-6. Separate yourself from other people (its bad but not forever!!)
-7. Monitor your symptoms
-8. Call ahead before visiting your doctor
-9. Avoid sharing personal household items
-10. Clean your hands often
-11. Cover your coughs and sneezes
-12. Wear a mask over your nose and mouth
+3. Take care of yourself.
+4. Stay in touch with your doctor.
+5. Avoid public transportation.
+6. Separate yourself from other people (its bad but not forever!!).
+7. Monitor your symptoms.
+8. Call ahead before visiting your doctor.
+9. Avoid sharing personal household items.
+10. Clean your hands often.
+11. Cover your coughs and sneezes.
+12. Wear a mask over your nose and mouth.
 13. Get Tested!!!
 
-information were taken from, [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
+Information was taken from, [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 
 <img align="left" width="40" height="40" src="media/icons/walk.png">
+
+---
 
 ## <a name="walks"></a>Walks in Town
 Here a some sights and places which are definitely worth to make a walk at: 
@@ -325,6 +327,8 @@ If not ready to buy a bike, don't forget you can also rent one. Here are some si
 Once you have all the equipment needed, take many water bottles, maybe a sibling or a friend and go explore. Don't be afraid to go beyond your neighborhood. Here are some interesting ideas of destinations:
 
 * Top Tips for Cycling in Athens [Link](https://www.thisisathens.org/activities/sports-outdoors/biking-cycling)
+
+---
 
 <img align="left" width="40" height="40" src="media/icons/skill.png">
 
