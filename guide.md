@@ -18,6 +18,7 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 * [Video Games](#video-games)
 * [Board Games](#board-games)
 * [Music](#music)
+* [Meditation](#meditation)
 * [Facetime your long-distance friends](#facetime)
 * [Art](#art)
 * [Clean and organize](#clean)
@@ -453,6 +454,11 @@ While there is no doubt that having a good traditional teacher can be helpful, t
 The quarantine is a great opportunity if you want to compose your own music! You can check out [MuseScore](https://musescore.com/), the world's leading free and open-source software for writing music. It offers a user-friendly interface and immensely powerful features. If you are interested, you may also want to check out MuseScore's GitHub reposotory [here](https://github.com/musescore/MuseScore).
 
 Additionally, MuseScore offers a large database of free-to-access sheet music. You can find sheet music ranging from [Imagine by John Lennon](https://musescore.com/user/6662591/scores/4369656) to [Undertale theme song](https://musescore.com/user/5174461/scores/1321576)!
+
+---
+
+## <a name="meditation"></a>Meditation
+Meditation is a fun and relaxing way to spend your time in quarantine. Try lying down with your eyes closed and focusing on your breath, breathing in and out. This will help you lower stress levels, boost your mood, allow you to connect better with yourself and improve your focus.
 
 ---
 
