@@ -332,6 +332,28 @@ Ideas for interesting projects:
 
 If you like tech projects and you want to work with a full-on computer in tiny package, you read the right section. Here you can find many raspberry pi projects to do alone or with your children.
 
+### Arduino projects:
+
+Arduino is an open-source platform used for building electronics projects. Arduino consists of both a physical programmable circuit board (often referred to as a microcontroller) and a piece of software, or IDE (Integrated Development Environment) that runs on your computer, used to write and upload computer code to the physical board.
+
+#### What can you do with arduino?
+- [LED Controller](https://www.youtube.com/watch?v=azxshrFSgnA)
+- Hot Glue LED Matrix Lamp
+- Arduino Mega Chess
+- Robot Arm with Controller
+- [Make Musical Instrument](https://www.youtube.com/watch?v=YF24gxDccVY)
+- Basic Earthquake Detector
+- Security Access Using RFID Reader
+- Smoke Detection using MQ-2 Gas Sensor
+- Audio Spectrum Visualizer
+- Motion Following Motorized Camera
+- Water Quality Monitoring System
+- [Punch Activated Arm Flamethrower](https://www.youtube.com/watch?v=GS9A1JuOKE8&ab_channel=AllenPan-SufficientlyAdvanced)
+- Drawing Machine
+- Home Automations
+
+and many more!!!
+
 #### Projects for adults/students:
 * Use a Raspberry Pi to measure the room temperature and humidity ([Tutorial](https://www.instructables.com/Raspberry-Pi-IoT-Temperature-and-Humidity-Monitor/))
 * Raspberry Pi Radio FM Transmitter ([Tutorial](https://circuitdigest.com/microcontroller-projects/raspberry-pi-fm-transmitter)).
