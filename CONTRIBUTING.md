@@ -4,6 +4,9 @@ First off, thank you for the help!
 Fun in Lockdown is a guide that can give you unique ideas about how to spend your time during lockdown period.
 Keep reading to discover ways in which you can contribute to the guide!
 
+**Important:** Before contributing, make sure that you operate on the newest version of the guide and that your idea hasn't been added by anyone else.
+Again, thank you for offering your unique and fun ideas for everyone to see!
+
 ## Add new categories
 
 Do you think that something is missing? Feel free to add a high-level category and inspire others to add more content.
