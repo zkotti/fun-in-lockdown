@@ -716,7 +716,7 @@ Creating videos is a very fun and creative way to spend your time during lockdow
 
 - Create short films. (More [here](https://www.filmmakingstuff.com/filmmaking-lesson-8-make-some-short-films/)).
 - Create tiktok videos. (More [here](https://www.tiktok.com/?lang=en)).
-- Start vlogging. (More [here](https://www.bloggingbasics101.com/how-do-i-start-a-blog/)).
+- Start vlogging. (More [here](https://nofilmschool.com/how-to-start-vlogging)).
 - Start live streaming. (More [here](https://www.boxcast.com/blog/how-to-start-live-streaming)).
 - Start a youtube channel. (More [here](https://www.adorama.com/alc/10-tips-for-starting-a-youtube-channel/))
 
