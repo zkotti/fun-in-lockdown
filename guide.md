@@ -24,6 +24,7 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 * [Clean and organize](#clean)
 * [Writing](#writing)
 * [Gardening](#gardening)
+* [Video Making](#videomaking)
 * [Start listening to Podcasts](#podcasts)
 * [Plan your next trip](#trips)
 * [Plan your Erasmus](#erasmus)
@@ -567,6 +568,19 @@ Photo owned by [kellogggarden.com](https://www.kellogggarden.com/wp-content/uplo
 | Potatoes  | 90-120  | 	B6 and C|	Half-hardy | Regularly, when tubers start to form |
 
 Source: https://www.almanac.com/vegetable-growing-guide
+
+---
+
+<img align="left" width="40" height="40" src="media/icons/video.png">
+
+## <a name="videomaking"></a> Video Making
+Creating videos is a very fun and creative way to spend your time during lockdown(s) and who knows, you might as well make some money! Below you can find some interesting ideas to start with:
+
+- Create short films. (More [here](https://www.filmmakingstuff.com/filmmaking-lesson-8-make-some-short-films/)).
+- Create tiktok videos. (More [here](https://www.tiktok.com/?lang=en)).
+- Start vlogging. (More [here](https://www.bloggingbasics101.com/how-do-i-start-a-blog/)).
+- Start live streaming. (More [here](https://www.boxcast.com/blog/how-to-start-live-streaming)).
+- Start a youtube channel. (More [here](https://www.adorama.com/alc/10-tips-for-starting-a-youtube-channel/))
 
 ---
 
