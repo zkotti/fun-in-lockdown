@@ -28,7 +28,7 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 * [Plan your next trip](#trips)
 * [Plan your Erasmus](#erasmus)
 
-[!Note : Before you head outside](#note)
+[Note : Before you head outside](#note)
 
 
 ---
@@ -472,6 +472,8 @@ Additionally, MuseScore offers a large database of free-to-access sheet music. Y
 
 ---
 
+<img align="left" width="40" height="40" src="media/icons/meditation.png">
+
 ## <a name="meditation"></a>Meditation
 Meditation is a fun and relaxing way to spend your time in quarantine. Try lying down with your eyes closed and focusing on your breath, breathing in and out. This will help you lower stress levels, boost your mood, allow you to connect better with yourself and improve your focus.
 >[Here is a good playlist to help you relax!](https://www.youtube.com/watch?v=oJnF5VxTO5g "Chill & Relax")
@@ -615,6 +617,8 @@ Source: https://www.podcastinsights.com/start-a-podcast/
 
 ---
 
+<img align="left" width="40" height="40" src="media/icons/traveler.png">
+
 ## <a name="trips"></a>Plan your next trip
 Tired of daydreaming about future trips? Get hands-on and start rganizing your next journey!
 
@@ -634,6 +638,8 @@ offers a wide range of different cruise packages, from the Mediterranean to the 
 
 ---
 
+<img align="left" width="40" height="40" src="media/icons/library.png">
+
 ## <a name="erasmus"></a>Plan your Erasmus
 An Erasmus exchange is a great way to step out of your comfort zone. Specifically, you will get a taste of living abroad, make valuable new connections from all over the world,
 improve a foreign language or two, experience university life in a foreign institution and most importantly have the time of your LIFE!
@@ -646,7 +652,9 @@ Lastly, you can also check [this video](https://www.youtube.com/watch?v=IilqhLVR
 
 ---
 
-## <a name="note"></a>!Note : Before you head outside
+<img align="left" width="40" height="40" src="media/icons/warning-shield.png">
+
+## <a name="note"></a>Note : Before you head outside
 1. *Be sure you wear a mask*
 2. *Don't forget to sent the obligatory SMS text message to 13033*:
 You can send SMS from your mobile phone to 13033 free of charge.
