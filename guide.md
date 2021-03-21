@@ -173,7 +173,6 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * Dance Workouts
 * Running
 * Aerobic Workouts
-* Cycling
 
 **“Burning” particular muscle groups:**
 
@@ -244,26 +243,6 @@ You may also find some really useful running guides and training plans for begin
   * Best for adopting running into your daily routine: [Pacer](https://www.mypacer.com/)
   * Best professional running app: [Strava](https://www.strava.com)
   * Best for creating training plans: [Runcoach](https://runcoach.com)
-
-**Cycling**
-
-The quarantine is definitely the perfect period to exercise more and even adopt new ways of exercise. Cycling during the hard times of quarantine can easily boost your mood while improving your stamina, strength and aerobic fitness as well. Don't forget that with a bike you can explore many hidden gems of Athens that you had no idea of. 
-So, what are you waiting? Take your dusty bike and start cycling this moment!
-
-In case you don't already own a bicycle don't worry, you can buy one without much effort. Below, you may easily find some useful tips:
-
-* Picking the perfect bicycle for Beginners [Link](https://lifehacker.com/the-beginners-guide-to-picking-the-perfect-bicycle-1782443592)
-* Five types of bikes to choose from [video](https://www.youtube.com/watch?v=Znt0UuZW2nU)
-
-If not ready to buy a bike, don't forget you can also rent one. Here are some sites:
-
-* Athens Bike Rental [Link](https://www.athensbikerental.gr/rentals)
-* Panorama Bikes [Link](https://panoramabikes.gr/el/134-rent-a-bike-athens-greece)
-* GRCYCLING [Link](https://booking.grcycling.com/bikes)
-
-Once you have all the equipment needed, take many water bottles, maybe a sibling or a friend and go explore. Don't be afraid to go beyond your neighborhood. Here are some interesting ideas of destinations:
-
-* Top Tips for Cycling in Athens [Link](https://www.thisisathens.org/activities/sports-outdoors/biking-cycling)
 ---
 
 <img align="left" width="40" height="40" src="media/icons/skill.png">
@@ -413,6 +392,8 @@ Below you may find some interesting websites where you can play different board 
 * [Playing cards](https://playingcards.io/): PlayingCards.io simply provides a synchronized card playspace. It's up to you to start the game, enforce rules, and determine the winner, just like a real deck of cards!
 * [Rento](https://playrento.com/): Rento is online multiplayer monopoly clone. The game is for 2 to 6 players and you can play it online versus friends, offline versus bots. In the game you trade lands, build houses, win auctions, go and most importantly - have fun. Your goal is to acquire monopoly and bankrupt the other players. (*Source: https://playrento.com/*)
 * [Pretend you 're xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp): Pretend You're Xyzzy is a Cards Against Humanity clone! *([github repo](https://github.com/ajanata/PretendYoureXyzzy))*
+* [Password](https://www.thegamegal.com/2017/11/10/password): The goal of this game is to get your partner to guess the password by giving him a one word and only one word clue. First, you divide yourselves into 2 teams and in each round one of the members from each team will be given a password. If your partner guesses the password then your team wins the points of the round, but if he doesn't, then it's the other team’s turn. If their team gets the password they get the points. If the other team also doesn’t get the word you get another try. So this goes on for 3 times till someone gets the password and then the next round starts. It's a really entertaining game to play with your friends. **Pro Tip**: Turn this into a drinking game and you'll maximize the fun!*([download it here](https://play.google.com/store/apps/details?id=in.androidmate.password_game))*
+
 
 ### Classic board games
 If you are stuck at home with your family or your roommate(s), you could try one of these fun board games:
