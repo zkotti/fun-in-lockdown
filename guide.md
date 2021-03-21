@@ -113,6 +113,7 @@ _The most common activity during lock-down has been watching movies. So here are
 |Cowspiracy: The Sustainability Secret | Documentary | Netflix | 9/10 | 8.3/10|[TRAILER](https://www.youtube.com/watch?v=nV04zyfLyN4 "Cowspiracy: The Sustainability Secret")|[INFO](https://www.imdb.com/title/tt3302820/ "Cowspiracy: The Sustainability Secret")|
 |Night Stalker: The Hunt for a Serial Killer  | Documentary / Crime | Netflix | 9/10 | 7.5/10|[TRAILER](https://www.youtube.com/watch?v=Mva2nGveYss "Night Stalker: The Hunt for a Serial Killer")|[INFO](https://www.imdb.com/title/tt13651632/ "Night Stalker: The Hunt for a Serial Killer")|
 |Jeffrey Epstein: Filthy Rich | Documentary / Crime | Netflix | 8/10 | 7.1/10|[TRAILER](https://www.youtube.com/watch?v=-j0rjlfmDx4 "Jeffrey Epstein: Filthy Rich")|[INFO](https://www.imdb.com/title/tt12312250/ "Jeffrey Epstein: Filthy Rich")|
+|How I met your mother | Comedy / TV Series | Netflix | 9/10 | 8.3/10|[TRAILER](https://www.youtube.com/watch?v=aJtVL2_fA5w "How I met your mother")|[INFO](https://www.imdb.com/title/tt0460649/ "How I met your mother")|
 
 ---
 
