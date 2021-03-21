@@ -104,7 +104,7 @@ _The most common activity during lock-down has been watching movies. So here are
 |The Invisible Guest | Crime / Drama / Mystery | Netflix | 8.5/10 | 8.1/10|[TRAILER](https://www.youtube.com/watch?v=epCg2RbyF80 "The Invisible Guest")|[INFO](https://www.imdb.com/title/tt4857264/?ref_=nv_sr_srsg_0 "The Invisible Guest IMDb")|
 |The Shutter Island | Thriller/ Mystery | Netflix | 8.5/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=5iaYLCiq5RM "The Shutter Island")|[INFO](https://www.imdb.com/title/tt1130884/ "The Shutter Island IMDb")|
 |Game Of Thrones | TV series | HBO | 10/10 | 9.3/10|[TRAILER](https://www.hbo.com/game-of-thrones "Game Of Thrones")|[INFO](https://www.imdb.com/title/tt0944947/ "Game Of Thrones IMDb")|
-|Cowspiracy: The Sustainability Secret | Political Documentary | Netflix | 8.3/10 | 9/10|[TRAILER](https://www.youtube.com/watch?v=nV04zyfLyN4 "Cowspiracy: The Sustainability Secret")|[INFO](https://www.imdb.com/title/tt3302820/ "Cowspiracy: The Sustainability Secret")|
+|Cowspiracy: The Sustainability Secret | Documentary | Netflix | 8.3/10 | 9/10|[TRAILER](https://www.youtube.com/watch?v=nV04zyfLyN4 "Cowspiracy: The Sustainability Secret")|[INFO](https://www.imdb.com/title/tt3302820/ "Cowspiracy: The Sustainability Secret")|
 
 
 ---
