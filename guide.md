@@ -36,6 +36,8 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 
 
 ---
+<img align="left" width="40" height="40" src="media/icons/coronavirus.png">
+
 ## <a name="covid-infection"></a> Covid-19 Infection
 
 ### What should we do if someone is infected from covid?
@@ -60,9 +62,9 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 
 Information was taken from, [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 
-<img align="left" width="40" height="40" src="media/icons/walk.png">
-
 ---
+
+<img align="left" width="40" height="40" src="media/icons/walk.png">
 
 ## <a name="walks"></a>Walks in Town
 Here a some sights and places which are definitely worth to make a walk at: 
