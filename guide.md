@@ -186,10 +186,14 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 **Yoga:**
 * 20 min Full Body Stress Relief [video](https://www.youtube.com/watch?v=sTANio_2E0Q&t=813s)
 * 30 min Yoga Flow (with Maldives in the background) [video](https://www.youtube.com/watch?v=5v1wqxnrmrk&t=831s)
+* 45 Minute Power Yoga Class with Ally Maz | lululemon [video](https://www.youtube.com/watch?v=lDbJdJWX82M)
+* 45 Minute Everyday Vinyasa Flow Yoga Class | lululemon [video](https://www.youtube.com/watch?v=_kl_DxglATI)
 
 or you can start a 30day Yoga Challenge with Adriene:
 * Day 0 [video](https://www.youtube.com/watch?v=AjhvRX57XkE)
 * Day 1 [video](https://www.youtube.com/watch?v=ZSIp00SewO8&t=1236s)
+* Day 2 [video](https://www.youtube.com/watch?v=GaL3YF1vY2k)
+* Day 3 [video](https://www.youtube.com/watch?v=hJjqx6YlcWs)
 
 Don't forget to stretch! Here are some videos to help you:
 
@@ -198,7 +202,6 @@ Don't forget to stretch! Here are some videos to help you:
 * Foam roller stretch [video](https://www.youtube.com/watch?v=pCX3qmWYkS4)
 * Hips and back stretch [video](https://www.youtube.com/watch?v=XVC8LGbxVG0)
 
-s
 **Running**
 
 The quarantine is a great opportunity to practice your running skills. Running during quarantine is a great way improve your stamina and compete to various virtual running challenges with others around the globe, and why not, attempt to run your first marathon! Below you may find useful running tutorials:
