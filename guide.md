@@ -385,34 +385,34 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 
 |DISH| ORIGIN| MY RATING| RECIPE| PRO-TIP|
 |---| ---| ---| ---| ---|
-| Tzatziki | Greece | 10/10| [Link](https://cookieandkate.com/how-to-make-tzatziki/ "How to Make Tzatziki")| Choose a creamy yoghurt to create the perfect spread! |
-| Sushi | Japan | 10/10| [Link](https://akispetretzikis.com/en/categories/ryzi-amp-patates/soysi "How to Make Sushi")| Experiment with different types of fish. |
-| Burrito | Mexico | 10/10 | [Link](https://akispetretzikis.com/el/categories/snak-santoyits/burrito) | Add chili sauce to make it spicy.
-| Pastitsio | Greece | 10/10| [Link](https://akispetretzikis.com/en/categories/zymarika/to-pastitsio-toy-akh "How to Make Pastitsio")|It's all about the Bechamel sauce. |
-| Pancakes | Universal | 10/10| [Link](https://akispetretzikis.com/en/categories/glyka/pancakes "How to Make Pancakes")|  Flip when the small bubbles appear. |
-| Tacos | Mexico | 10/10 | [Link](https://www.thewholesomedish.com/the-best-homemade-tacos/) | Add extra cheese!! |
-| Cheesecake | Ancient Greece | 10/10 | [Link](https://sugarspunrun.com/best-cheesecake-recipe/) | Serve with sweet apple preserve. |
-| Feta Pasta Challenge | Universal | 10/10 | [Link](https://www.youtube.com/watch?v=WRzQ-Ngt3Do) | Serve with olives. |
-| Soft Cookies| Universal | 10/10 | [Link](https://www.youtube.com/watch?v=K-YHpNU0Dbk) | Serve with milk. |
-| Handmade Cinnamon Rolls | Northern Europe | 10/10 | [Link](https://www.youtube.com/watch?v=_Q0FYoCl4Cs) | Serve with extra cinnamon. |
+| Banana Split | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/all-american-banana-split/) | Mix up the original recipe by adding different kinds of fruit. |
+| Banoffee | England | 10/10 | [Link](https://akispetretzikis.com/en/categories/glyka/banoffee/) | Transform it into a chocolate banoffee by adding some chocolate couverture in the caramel mixture!|
 | Brownies | U.S.A. | 10/10 | [Link](https://akispetretzikis.com/el/categories/keik/brownies)| Do not hesitate to serve with a scoop of vanilla ice cream. |
+| Burrito | Mexico | 10/10 | [Link](https://akispetretzikis.com/el/categories/snak-santoyits/burrito) | Add chili sauce to make it spicy.
+| Cheesecake | Ancient Greece | 10/10 | [Link](https://sugarspunrun.com/best-cheesecake-recipe/) | Serve with sweet apple preserve. |
+| Chocolate chip cookies | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/big-buttery-chocolate-chip-cookies/) | Use pecans instead of walnuts. |
+| Cupcakes| Universal| 10/10 | [Link](https://sallysbakingaddiction.com/super-moist-chocolate-cupcakes/) | Make sure you’re using natural unsweetened cocoa powder, not dutched cocoa.|
+| Egg fried rice | U.S.A. | 10/10 | [Link](https://www.bbcgoodfood.com/recipes/oriental-egg-fried-rice) | Consider adding chicken. |
+| Feta Pasta Challenge | Universal | 10/10 | [Link](https://www.youtube.com/watch?v=WRzQ-Ngt3Do) | Serve with olives. |
 | Greek Salad | Greece | 10/10 | [Link](https://www.loveandlemons.com/greek-salad/) | Add capers to gain maximum taste. |
-| Pasta Primavera | Italy | 10/10 | [Link](https://www.cookingclassy.com/pasta-primavera/) | Mix up the veggies to create different combinations. |
+| Handmade Cinnamon Rolls | Northern Europe | 10/10 | [Link](https://www.youtube.com/watch?v=_Q0FYoCl4Cs) | Serve with extra cinnamon. |
+| Italian Pizza | Italy | 10/10 | [Link](https://www.walksofitaly.com/blog/food-and-wine/italian-pizza-dough-recipe) | Keep it simple on the ingredients! |
 | Lemon Rice | India | 9/10 | [Link](https://www.feastingathome.com/indian-lemon-rice/) | Serve it with fish. |
 | Lentil Soup | Morocco | 10/10 | [Link](https://www.simplyquinoa.com/detox-moroccan-lentil-soup/) | Serve with fresh onions. |
-| Italian Pizza | Italy | 10/10 | [Link](https://www.walksofitaly.com/blog/food-and-wine/italian-pizza-dough-recipe) | Keep it simple on the ingredients! |
-| Cupcakes| Universal| 10/10 | [Link](https://sallysbakingaddiction.com/super-moist-chocolate-cupcakes/) | Make sure you’re using natural unsweetened cocoa powder, not dutched cocoa.|
-| Banoffee | England | 10/10 | [Link](https://akispetretzikis.com/en/categories/glyka/banoffee/) | Transform it into a chocolate banoffee by adding some chocolate couverture in the caramel mixture!|
 | Light Spaghetti Souffle | Italy | 10/10 | [Link](https://akispetretzikis.com/en/categories/zymarika/light-soyfle-me-makaronia-ston-foyrno/) | Mix the spaghetti and heavy cream with the turkey, mushrooms and corn for an even more delicious outcome! |
-| Sweet & Sour Chicken | China | 10/10 | [Link](https://www.bbcgoodfood.com/recipes/sweet-sour-chicken) | Serve with rice. |
-| Onion Rings | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/crispy-fried-onion-rings/) | Serve with different kinds of sauce. |
-| Egg fried rice | U.S.A. | 10/10 | [Link](https://www.bbcgoodfood.com/recipes/oriental-egg-fried-rice) | Consider adding chicken. |
-| Pasta Salad | Italy | 10/10 | [Link](https://carlsbadcravings.com/italian-pasta-salad/) | Experiment with different kinds of pasta. |
-| Chocolate chip cookies | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/big-buttery-chocolate-chip-cookies/) | Use pecans instead of walnuts. |
-| Penne Arrabiata | Italy | 10/10 | [Link](https://www.aline-made.com/penne-arrabiata/) | Serve with parmesan. |
-| Banana Split | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/all-american-banana-split/) | Mix up the original recipe by adding different kinds of fruit. |
-| Parmesan Chicken | Italy | 10/10 | [Link](http://www.itscheatdayeveryday.com/one-pan-parmesan-tuscan-chicken/) | Serve with brown rice. |
 | New York-Style Pizza | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/new-york-style-pizza/) | Reheat in the oven. |
+| Onion Rings | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/crispy-fried-onion-rings/) | Serve with different kinds of sauce. |
+| Pancakes | Universal | 10/10| [Link](https://akispetretzikis.com/en/categories/glyka/pancakes "How to Make Pancakes")|  Flip when the small bubbles appear. |
+| Parmesan Chicken | Italy | 10/10 | [Link](http://www.itscheatdayeveryday.com/one-pan-parmesan-tuscan-chicken/) | Serve with brown rice. |
+| Pasta Primavera | Italy | 10/10 | [Link](https://www.cookingclassy.com/pasta-primavera/) | Mix up the veggies to create different combinations. |
+| Pasta Salad | Italy | 10/10 | [Link](https://carlsbadcravings.com/italian-pasta-salad/) | Experiment with different kinds of pasta. |
+| Pastitsio | Greece | 10/10| [Link](https://akispetretzikis.com/en/categories/zymarika/to-pastitsio-toy-akh "How to Make Pastitsio")|It's all about the Bechamel sauce. |
+| Penne Arrabiata | Italy | 10/10 | [Link](https://www.aline-made.com/penne-arrabiata/) | Serve with parmesan. |
+| Soft Cookies| Universal | 10/10 | [Link](https://www.youtube.com/watch?v=K-YHpNU0Dbk) | Serve with milk. |
+| Sushi | Japan | 10/10| [Link](https://akispetretzikis.com/en/categories/ryzi-amp-patates/soysi "How to Make Sushi")| Experiment with different types of fish. |
+| Sweet & Sour Chicken | China | 10/10 | [Link](https://www.bbcgoodfood.com/recipes/sweet-sour-chicken) | Serve with rice. |
+| Tacos | Mexico | 10/10 | [Link](https://www.thewholesomedish.com/the-best-homemade-tacos/) | Add extra cheese!! |
+| Tzatziki | Greece | 10/10| [Link](https://cookieandkate.com/how-to-make-tzatziki/ "How to Make Tzatziki")| Choose a creamy yoghurt to create the perfect spread! |
 
 
 
