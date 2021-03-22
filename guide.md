@@ -133,7 +133,7 @@ Take a look at any country from a drones perspective while listening to local ra
 _The most common activity during lock-down has been watching movies. So here are our recommendations for movies, series and documentaries:_
 
 |TITLE| TYPE| AVAILABLE ON| MY RATING| IMDb RATING| TRAILER| INFO|
-|---| ---| ---| ---| ---|---|---|
+|:---| :---:| :---:| :---:| :---:|:---:|:---:|
 |A Beautiful Mind | Biography / Drama | Netflix | 9/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=nIR3wj9Ssaw "A Beautiful Mind")|[INFO](https://www.imdb.com/title/tt0268978/?ref_=nv_sr_srsg_0 "A Beautiful Mind IMDb")|
 |Attack On Titan | Fantasy / Action | Crunchyroll | 9.9/10 | 8.9/10|[TRAILER](https://www.youtube.com/watch?v=MGRm4IzK1SQ "Attack On Titan")|[INFO](https://www.imdb.com/title/tt2560140/?ref_=nv_sr_srsg_0 "Attack On Titan IMDb")|
 |Better Call Saul | Crime / TV Series | Netflix | 10/10 | 8.7/10 | [TRAILER](https://www.youtube.com/watch?v=HN4oydykJFc "Better Call Saul")|[INFO](https://www.imdb.com/title/tt3032476/?ref_=nv_sr_srsg_0 "Better Call Saul")|
