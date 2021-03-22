@@ -232,14 +232,17 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 
 * Freeletics (bodyweight workout)
 * HIIT (High Intensity Interval Training)
+* Crossfit
+* Powerlifting
+* Tabata
+* TRX
 * Pilates
 * Yoga
 * Dance Workouts
-* Running
 * Aerobic Workouts
+* Anaerobic workouts
 * Cycling
-* Crossfit
-* Powerlifting
+* Running
 
 **“Burning” particular muscle groups:**
 
