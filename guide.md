@@ -192,7 +192,20 @@ _The most common activity during lock-down has been watching movies. So here are
 |The Baltimore Boys| Fiction | Joël Dicker | Amazon | 9.5/10 | [Link](https://www.amazon.com/Baltimore-Alison-Anderson-translator-Dicker/dp/0857056867)|
 |The Fifth Season| Science fantasy | N. K. Jemisin | Amazon | 9/10 | [Link](https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1616329101&sr=1-1)|
 |Norwegian Wood | Fiction | Haruki Murakami | Amazon | 9/10 | [Link](https://www.amazon.com/Norwegian-Wood-Haruki-Murakami/dp/1860468004)|
+<<<<<<< HEAD
 |We Were Liars | Young Adult Fiction | E. Lockhart | Amazon | 9/10 | [Link](https://www.amazon.com/We-Were-Liars-Lockhart/dp/0385741278/ref=sr_1_1?dchild=1&keywords=we+were+liars&qid=1616411727&s=books&sr=1-1)|
+=======
+|We Were Liars | Young Adult Fiction | E. Lockhart. | Amazon | 9/10 | [Link](https://www.amazon.com/We-Were-Liars-Lockhart/dp/0385741278/ref=sr_1_1?dchild=1&keywords=we+were+liars&qid=1616411727&s=books&sr=1-1)|
+|Murder on the Orient Express | Crime Novel | Agatha Christie | Amazon | 9/10 | [Link](https://www.amazon.com/Murder-Orient-Express-Hercule-Mysteries/dp/0062073508)|
+|The Selfish Gene | Non-Fiction | Richard Dawkins | Amazon | 10/10 | [Link](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Paperback/dp/B0722G5V92/ref=sr_1_2?crid=1Q7ZO9QVZSHC0&dchild=1&keywords=the+selfish+gene&qid=1616416041&s=books&sprefix=the+shelfi%2Cstripbooks-intl-ship%2C269&sr=1-2)|
+|Factfulness | Non-Fiction | Hans Rosling | Amazon | 9/10 | [Link](https://www.amazon.com/Factfulness-Reasons-World-Things-Better/dp/1250123828/ref=sr_1_1?crid=AWTNDRHKCZMH&dchild=1&keywords=factfulness&qid=1616416120&s=books&sprefix=factful%2Cstripbooks-intl-ship%2C266&sr=1-1)|
+|Sapiens: A Brief History of Humankind | Non-Fiction | Yuval Noah Harrari | Amazon | 10/10 | [Link](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)|
+|Homo Deus: A Brief History of Tomorrow | Non-Fiction | Yuval Noah Harrari | Amazon | 10/10 | [Link](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464345/ref=pd_lpo_14_img_0/138-6955471-0282806?_encoding=UTF8&pd_rd_i=0062464345&pd_rd_r=79940c5c-c962-4bff-97f0-d312b9386d69&pd_rd_w=eY4eA&pd_rd_wg=OWlZW&pf_rd_p=337be819-13af-4fb9-8b3e-a5291c097ebb&pf_rd_r=76HARP4SKM7BRFS4FGE9&psc=1&refRID=76HARP4SKM7BRFS4FGE9)|
+|21 Lessons for the 21st Century | Non-Fiction | Yuval Noah Harrari | Amazon | 9/10 | [Link](https://www.amazon.com/gp/product/B079WM7KLS/ref=dbs_a_def_rwt_bibl_vppi_i1)|
+|Algorithms to Live By: The Computer Science of Human Decisions | Non-Fiction | Brian Christian & Tom Griffiths | Amazon | 9.5/10 | [Link](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)|
+
+
+>>>>>>> 965a46c979312cb7741db31ba5133897816b27b5
 
 ---
 
@@ -899,11 +912,14 @@ offers a wide range of different cruise packages, from the Mediterranean to the 
 An Erasmus exchange is a great way to step out of your comfort zone. Specifically, you will get a taste of living abroad, make valuable new connections from all over the world,
 improve a foreign language or two, experience university life in a foreign institution and most importantly have the time of your LIFE!
 
-Start by visiting the university [page](https://www.dept.aueb.gr/el/dmst/content/%CF%80%CF%81%CF%8C%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1-erasmus), which includes lots of information
+<img src="media/images/erasmus.jpg" alt="erasmus" width="500"/>
+
+Start by visiting the [university page](https://www.dept.aueb.gr/el/dmst/content/%CF%80%CF%81%CF%8C%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1-erasmus), which includes lots of information
 about the procedure and the available destinations. Before you decide on your top 3 destinations, it is recommended to write down the pros and cons of all the
 universities you are interested in. In case you need more information on a university or country you can check [this facebook group](https://www.facebook.com/groups/2069463463353183)
 and the [ESN AUEB page](https://www.facebook.com/ESNAthensAUEB), where you can ask to be connected to students with erasmus experiences in the universities that you are interested in.
-Lastly, you can also check [this video](https://www.youtube.com/watch?v=IilqhLVRP6U&t=3s&ab_channel=LosAngie) in order to learn how to apply for an erasmus exchange.
+Lastly, you can also check [this video](https://www.youtube.com/watch?v=IilqhLVRP6U&t=3s&ab_channel=LosAngie) in order to learn how to apply for an erasmus exchange. 
+Photo owned by ied.eu/blog/the-erasmus-plus-programme/
 
 ---
 <img align="left" width="40" height="40" src="media/icons/coding.png">
