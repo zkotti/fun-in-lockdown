@@ -621,7 +621,13 @@ While there is no doubt that having a good traditional teacher can be helpful, t
 
 #### Ukulele
 
-It really doesn't matter how old or young you are, and even if you’ve never played music before in your life, you can learn how to play ukulele… even today! All you need to do is buy a ukulele that feels right for you, get in the right mindset to play, tune your ukulele and practise some chords.
+It really doesn't matter how old or young you are, and even if you’ve never played music before in your life, you can learn how to play ukulele… even today! All you need to do is to:
+* borrow a ukulele from a friend or buy one that feels right for you
+* get in the right mindset to play and put aside your fears and doubts about playing
+* tune your ukulele
+* practise some chords starting with C
+* practise a strumming pattern
+* learn a song and enjoy yourself
 
 Source: https://ukuleletricks.com/how-to-play-ukulele/
 
