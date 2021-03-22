@@ -588,6 +588,18 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Obsesión, by Aventura ft. Judy Santos [listen here](https://www.youtube.com/watch?v=8_QY5gFQUTg)
 * More Than Words, by Extreme [listen here](https://www.youtube.com/watch?v=UrIiLvg58SY)
 * From the Woods, James Vincent McMorrow [listen here](https://www.youtube.com/watch?v=ntZG2InulxE)
+* United States of Eurasia, Muse [listen here](https://www.youtube.com/watch?v=-5-K51jHQ6k)
+* Survival, Muse [listen here](https://www.youtube.com/watch?v=bKFhS0cQLE8)
+* Cat People, David Bowie [listen here](https://www.youtube.com/watch?v=A9I7U4nuR_I)
+* Sleep on the Floor, Lumineers [listen here](https://www.youtube.com/watch?v=v4pi1LxuDHc)
+* Killer Queen, Queen [listen here](https://www.youtube.com/watch?v=2ZBtPf7FOoM)
+* The Logical Song, Supertramp [listen here](https://www.youtube.com/watch?v=low6Coqrw9Y)
+* Brain Damage, Pink Floyd [listen here](https://www.youtube.com/watch?v=BhYKN21olBw)
+* Layla, Eric Clapton [listen here](https://www.youtube.com/watch?v=AVd4WY_Y9Dc)
+* Porcelain, Moby [listen here](https://www.youtube.com/watch?v=13EifDb4GYs)
+* Natural Blues, Moby [listen here](https://www.youtube.com/watch?v=z3YMxM1_S48)
+* White Room, Cream [listen here](https://www.youtube.com/watch?v=V5BF1V1pbTs)
+* Summer Breeze, Seals and Crofts [listen here](https://www.youtube.com/watch?v=GQQbjpomexo)
 
 ### Albums
 A subsection to add your favorite Music Albums
