@@ -988,7 +988,8 @@ Do you like cars? Of course you do! Who doesn't?
 * [VW](https://www.volkswagen.gr/el/models-and-configurator.html)
 
 ### Websites with parts (used and new):
-Car.gr [click](https://www.car.gr)
+* [Car.gr](https://www.car.gr)
+* [Offroad parts](https://www.xtreme4x4.gr)
 
 ---
 
