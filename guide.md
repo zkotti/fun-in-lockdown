@@ -610,6 +610,7 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * More Than Words, by Extreme [listen here](https://www.youtube.com/watch?v=UrIiLvg58SY)
 * Natural Blues, Moby [listen here](https://www.youtube.com/watch?v=z3YMxM1_S48)
 * New Rules, John Legend [listen here](https://www.youtube.com/watch?v=k2qgadSvNyU)
+* Nothing Around us, Mathame [listen here](https://www.youtube.com/watch?v=C0pRbPlTVbo)
 * Obsesión, by Aventura ft. Judy Santos [listen here](https://www.youtube.com/watch?v=8_QY5gFQUTg)
 * Paralyzed, Against The Current [listen here](https://www.youtube.com/watch?v=PvVhUo-PvVI) 
 * Porcelain, Moby [listen here](https://www.youtube.com/watch?v=13EifDb4GYs)
@@ -637,6 +638,9 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 A subsection to add your favorite Music Albums
 
 * Play(2014 Remastered Version), by Moby [listen here](https://open.spotify.com/album/7yqSkf4TGPOHUtDKMVjhbD?si=lCj-kEh1QiuvGlsTQwfLVA)
+* Nothing Around us (2018), by Mathame [Listen here](https://open.spotify.com/album/3S8eBDaNXOgauG0Rtco6Kj?si=ShHzHVxeTeC9-az0szKw4A)
+* Wake me up (2020), by Tale of Us [Listen here](https://open.spotify.com/album/7aeL8XFsUp7BF7Jps0DoRi?si=iZUpANWlRZivHWit3_UTbw)
+* A night at the opera (2011 Remaster), by Queen [listen here](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx?si=bcOcHr7lSbS2PGYLVyT-XQ)
 
 
 ### Musical Instruments
