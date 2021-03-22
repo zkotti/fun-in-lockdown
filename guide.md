@@ -573,6 +573,7 @@ You can have an amazing time just by relaxing and listening to your favorite mus
 * Piano Acoustic Music [listen here](https://www.youtube.com/watch?v=wmFz6CD-MTE)
 * Ambient Study Music [listen here](https://www.youtube.com/watch?v=sjkrrmBnpGE)
 * Relaxing Jazz Music [listen here](https://www.youtube.com/watch?v=neV3EPgvZ3g)
+* Top techno songs [listen here](https://open.spotify.com/playlist/6g7ZfOfEqqSR4o7iPVZggC?si=jDMehvIDSweA0UJqu4Vhng)
 
 
 ### Songs
