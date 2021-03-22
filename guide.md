@@ -189,8 +189,8 @@ _The most common activity during lock-down has been watching movies. So here are
 |Little Women| Classic Novel | Alcott Louisa | Public | 9/10 | [Link](https://www.public.gr/product/mikres-kyries/prod851670pp/)|
 |The Baltimore Boys| Fiction | Joël Dicker | Amazon | 9.5/10 | [Link](https://www.amazon.com/Baltimore-Alison-Anderson-translator-Dicker/dp/0857056867)|
 |The Fifth Season| Science fantasy | N. K. Jemisin | Amazon | 9/10 | [Link](https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1616329101&sr=1-1)|
-|Norwegian Wood | Fiction | Haruki Murakami | Amazon | 9/10 | [Link] (https://www.amazon.com/Norwegian-Wood-Haruki-Murakami/dp/1860468004)|
-|We Were Liars | Young Adult Fiction | E. Lockhart. | Amazon | 9/10 | [Link] (https://www.amazon.com/We-Were-Liars-Lockhart/dp/0385741278/ref=sr_1_1?dchild=1&keywords=we+were+liars&qid=1616411727&s=books&sr=1-1)|
+|Norwegian Wood | Fiction | Haruki Murakami | Amazon | 9/10 | [Link](https://www.amazon.com/Norwegian-Wood-Haruki-Murakami/dp/1860468004)|
+|We Were Liars | Young Adult Fiction | E. Lockhart. | Amazon | 9/10 | [Link](https://www.amazon.com/We-Were-Liars-Lockhart/dp/0385741278/ref=sr_1_1?dchild=1&keywords=we+were+liars&qid=1616411727&s=books&sr=1-1)|
 
 ---
 
