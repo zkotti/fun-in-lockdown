@@ -938,7 +938,7 @@ universities you are interested in. In case you need more information on a unive
 and the [ESN AUEB page](https://www.facebook.com/ESNAthensAUEB), where you can ask to be connected to students with erasmus experiences in the universities that you are interested in.
 Lastly, you can also check [this video](https://www.youtube.com/watch?v=IilqhLVRP6U&t=3s&ab_channel=LosAngie) in order to get more information on how to apply for an erasmus exchange.
 
-Photo owned by ied.eu/blog/the-erasmus-plus-programme/
+Photo owned by [ied.eu](https://ied.eu/blog/the-erasmus-plus-programme/)
 
 ---
 <img align="left" width="40" height="40" src="media/icons/coding.png">
