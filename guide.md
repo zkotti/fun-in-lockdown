@@ -166,7 +166,7 @@ _The most common activity during lock-down has been watching movies. So here are
 |Better Call Saul | Crime / TV Series | Netflix | 10/10 | 8.7/10 | [TRAILER](https://www.youtube.com/watch?v=HN4oydykJFc "Better Call Saul")|[INFO](https://www.imdb.com/title/tt3032476/?ref_=nv_sr_srsg_0 "Better Call Saul")|
 |House of Cards | Comedy / TV Series | Netflix | 8.5/10 | 8.7/10|[TRAILER](https://www.youtube.com/watch?v=SvSkxBYuoQY "House of Cards")|[INFO](https://www.imdb.com/title/tt1856010/?ref_=hm_tpks_tt_i_15_pd_tp1_cp "House of Cards")|
 |It's Okay to Not be Okay | Drama | Netflix | 9.5/10 | 8.7/10 | [TRAILER](https://www.youtube.com/watch?v=50ek4HQo0Bc&ab_channel=TheSwoon "It's Okay to Not be Okay")|[INFO](https://www.imdb.com/title/tt12451520/ "It's Okay to Not be Okay")|
-
+|Prison Break | Action / TV Series | Netflix | 10/10 | 8.3/10 | [TRAILER](https://www.imdb.com/video/vi3183588377?playlistId=tt0455275&ref_=tt_ov_vi "Prison Break")|[INFO](https://www.imdb.com/title/tt0455275/ "Prison Break")|
 ---
 
 <img align="left" width="40" height="40" src="media/icons/books.png">
@@ -192,8 +192,20 @@ _The most common activity during lock-down has been watching movies. So here are
 |The Baltimore Boys| Fiction | Joël Dicker | Amazon | 9.5/10 | [Link](https://www.amazon.com/Baltimore-Alison-Anderson-translator-Dicker/dp/0857056867)|
 |The Fifth Season| Science fantasy | N. K. Jemisin | Amazon | 9/10 | [Link](https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1616329101&sr=1-1)|
 |Norwegian Wood | Fiction | Haruki Murakami | Amazon | 9/10 | [Link](https://www.amazon.com/Norwegian-Wood-Haruki-Murakami/dp/1860468004)|
+<<<<<<< HEAD
 |We Were Liars | Young Adult Fiction | E. Lockhart | Amazon | 9/10 | [Link](https://www.amazon.com/We-Were-Liars-Lockhart/dp/0385741278/ref=sr_1_1?dchild=1&keywords=we+were+liars&qid=1616411727&s=books&sr=1-1)|
+=======
+|We Were Liars | Young Adult Fiction | E. Lockhart. | Amazon | 9/10 | [Link](https://www.amazon.com/We-Were-Liars-Lockhart/dp/0385741278/ref=sr_1_1?dchild=1&keywords=we+were+liars&qid=1616411727&s=books&sr=1-1)|
+|Murder on the Orient Express | Crime Novel | Agatha Christie | Amazon | 9/10 | [Link](https://www.amazon.com/Murder-Orient-Express-Hercule-Mysteries/dp/0062073508)|
+|The Selfish Gene | Non-Fiction | Richard Dawkins | Amazon | 10/10 | [Link](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Paperback/dp/B0722G5V92/ref=sr_1_2?crid=1Q7ZO9QVZSHC0&dchild=1&keywords=the+selfish+gene&qid=1616416041&s=books&sprefix=the+shelfi%2Cstripbooks-intl-ship%2C269&sr=1-2)|
+|Factfulness | Non-Fiction | Hans Rosling | Amazon | 9/10 | [Link](https://www.amazon.com/Factfulness-Reasons-World-Things-Better/dp/1250123828/ref=sr_1_1?crid=AWTNDRHKCZMH&dchild=1&keywords=factfulness&qid=1616416120&s=books&sprefix=factful%2Cstripbooks-intl-ship%2C266&sr=1-1)|
+|Sapiens: A Brief History of Humankind | Non-Fiction | Yuval Noah Harrari | Amazon | 10/10 | [Link](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)|
+|Homo Deus: A Brief History of Tomorrow | Non-Fiction | Yuval Noah Harrari | Amazon | 10/10 | [Link](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464345/ref=pd_lpo_14_img_0/138-6955471-0282806?_encoding=UTF8&pd_rd_i=0062464345&pd_rd_r=79940c5c-c962-4bff-97f0-d312b9386d69&pd_rd_w=eY4eA&pd_rd_wg=OWlZW&pf_rd_p=337be819-13af-4fb9-8b3e-a5291c097ebb&pf_rd_r=76HARP4SKM7BRFS4FGE9&psc=1&refRID=76HARP4SKM7BRFS4FGE9)|
+|21 Lessons for the 21st Century | Non-Fiction | Yuval Noah Harrari | Amazon | 9/10 | [Link](https://www.amazon.com/gp/product/B079WM7KLS/ref=dbs_a_def_rwt_bibl_vppi_i1)|
+|Algorithms to Live By: The Computer Science of Human Decisions | Non-Fiction | Brian Christian & Tom Griffiths | Amazon | 9.5/10 | [Link](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)|
 
+
+>>>>>>> 965a46c979312cb7741db31ba5133897816b27b5
 
 ---
 
@@ -774,22 +786,20 @@ Learn a topic that interests you from an online class! Below you can find variou
 
 
 Sites for online courses: 
-* [ALISON](https://alison.com/)
-* [Udemy](https://www.udemy.comcou)
-* [Coursera](https://www.coursera.org/)
-* [edX](https://www.edx.org/)
-* [Udacity](https://www.udacity.com/)
-* [LinkedIn Learning](https://www.linkedin.com/learning/)
-* [General Assembly](https://generalassemb.ly/)
-* [Skillshare](https://www.skillshare.com/)
-* [LearnSmart](https://www.mheducation.com/highered/connect/case-studies/learnsmart-works.html)
-* [Codecademy](https://www.codecademy.com/)
-* [Pluralsight](https://www.pluralsight.com/)
-* [Adobe](https://helpx.adobe.com/creative-cloud/student-tutorials.html)
-* [FutureLearn](https://www.futurelearn.com/)
-* [Academic Earth](https://academicearth.org/)
-* [Free Code Camp](https://www.freecodecamp.org/)
-* [The Odin Project](https://www.theodinproject.com/)
+* ALISON
+* Udemy
+* Coursera
+* edX
+* Udacity
+* LinkedIn Learning
+* General Assembly
+* Skillshare
+* LearnSmart
+* Codecademy
+* Pluralsight
+* Adobe
+* FutureLearn
+* Academic Earth
 
 Online courses: 
 |TITLE|LENGTH|PRICE|INSTITUTION|LEVEL | LANGUAGE| HOST SITE| LINK|
@@ -908,7 +918,7 @@ Start by visiting the [university page](https://www.dept.aueb.gr/el/dmst/content
 about the procedure and the available destinations. Before you decide on your top 3 destinations, it is recommended to write down the pros and cons of all the
 universities you are interested in. In case you need more information on a university or country you can check [this facebook group](https://www.facebook.com/groups/2069463463353183)
 and the [ESN AUEB page](https://www.facebook.com/ESNAthensAUEB), where you can ask to be connected to students with erasmus experiences in the universities that you are interested in.
-Lastly, you can also check [this video](https://www.youtube.com/watch?v=IilqhLVRP6U&t=3s&ab_channel=LosAngie) in order to learn how to apply for an erasmus exchange.
+Lastly, you can also check [this video](https://www.youtube.com/watch?v=IilqhLVRP6U&t=3s&ab_channel=LosAngie) in order to learn how to apply for an erasmus exchange. 
 Photo owned by ied.eu/blog/the-erasmus-plus-programme/
 
 ---
