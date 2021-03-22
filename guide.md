@@ -1,6 +1,6 @@
 # A guide to survive the COVID-19 lockdown(s)
 
-|<img src="media/images/quarantine-activities-image.png" alt="Quarantine Activities" width="500"/>|![Alt Text](https://media.giphy.com/media/3ohhwiSbK4IdpTIB0Y/giphy.gif)|
+|<img src="media/images/quarantine-activities-image.png" alt="Quarantine Activities" width="500"/>|<img src="media/endlesstime_500x500.gif" alt="Time's stucked"/>|
 |---|---|
 
 Photo owned by [csuchico.edu](https://www.csuchico.edu/)
