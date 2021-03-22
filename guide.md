@@ -623,6 +623,12 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * All of Me, John Legend [listen here](https://www.youtube.com/watch?v=73_DOquGBD4)
 * New Rules, John Legend [listen here](https://www.youtube.com/watch?v=k2qgadSvNyU)
 * Girls Like You, Maroon 5 ft. Cardi B [listen here](https://www.youtube.com/watch?v=aJOTlE1K90k)
+* Respect Is What you Hear, The Weather Underground [listen here](https://www.youtube.com/watch?v=DcjdVsx-VoE)
+* War of Change, Thousand Foot Krutch [listen here](https://www.youtube.com/watch?v=HdnTSXUWd3E)
+* Black Magic Woman, Santana [listen here](https://www.youtube.com/watch?v=wyQUCYl-ocs)
+* Flatlands, The Aristocrats [listen here](https://www.youtube.com/watch?v=fW0p5SB52sI&list=LL&index=39)
+* American Pie, Don McLean [listen here](https://www.youtube.com/watch?v=iX_TFkut1PM)
+* Glassy Sky, Donna Burke [listen here](https://www.youtube.com/watch?v=vvvvcpwFw5o)
 
 
 ### Albums
