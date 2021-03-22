@@ -256,7 +256,6 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 **Full body workouts:**
 
 * Boxing cardio burn [video](https://www.youtube.com/watch?v=0Y8cy6qtIgg)
-* Dance fitness workout [video](https://www.youtube.com/watch?v=1XU4RCD85jM)
 * 20 Minute easy mode (NO EQUIPMENT) [video](https://youtu.be/oAPCPjnU1wA)
 * 20 Minute hard mode (NO EQUIPMENT) [video](https://youtu.be/yDQQVU__6Uc)
 * Full body Dumbbell workout [video](https://www.youtube.com/watch?v=i-Kq8loq7fA)
@@ -277,6 +276,8 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * 10 min R&B Dance [video](https://www.youtube.com/watch?v=89lzERjtwqE&t=305s)
 * 15 min Happy Dance [video](https://www.youtube.com/watch?v=Cw-Wt4xKD2s)
 * 10 min Happy Cardio (AMAZIIIIIING) [video](https://www.youtube.com/watch?v=QPKXw8XEQiA)
+* Dance fitness workout [video](https://www.youtube.com/watch?v=1XU4RCD85jM)
+
 
 **Yoga:**
 * 20 min Full Body Stress Relief [video](https://www.youtube.com/watch?v=sTANio_2E0Q&t=813s)
