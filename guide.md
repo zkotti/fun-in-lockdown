@@ -42,11 +42,10 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 
 ### What should we do if someone is infected from covid?
 
-**FIRST RULE: DONT PANIC!**
+**FIRST RULE: DON'T PANIC!**
 
 #### Stay home except from when you need medical care
-1. Inform you personal doctor!!
-   - if you dont have personal doctor call someone you know and you can trust.
+1. Inform you personal doctor! In case you don't have a personal doctor, call someone you know and you can trust and contact someone that can help you get the right treatment.
 2. Stay home!
 3. Take care of yourself.
 4. Stay in touch with your doctor.
@@ -58,9 +57,9 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 10. Clean your hands often.
 11. Cover your coughs and sneezes.
 12. Wear a mask over your nose and mouth.
-13. Get Tested!!!
+13. Get Tested!!! It is important to repeat a positive test, in order to ensure that you got better.
 
-Information was taken from, [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
+Information was taken from [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 
 ---
 
