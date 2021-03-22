@@ -619,6 +619,11 @@ Source: https://www.artistguitars.com.au/buying/how-to-choose-a-guitar-in-2-simp
 
 While there is no doubt that having a good traditional teacher can be helpful, the fact is you can teach yourself how to play piano/keyboard very effectively by attending online piano lessons or watching online guides. You can check out [MangoldProject's Piano Lessons for Beginners](https://www.youtube.com/watch?v=827jmswqnEA&list=PLP9cbwDiLzdL6IS4-rmzR42ghq3T56XnK), which is a helpful step by step guide for learning to play on a keyboard.
 
+#### Ukulele
+
+It really doesn't matter how old or young you are, and even if you’ve never played music before in your life, you can learn how to play ukulele… even today! All you need to do is buy a ukulele that feels right for you, get in the right mindset to play, tune your ukulele and practise some chords.
+
+Source: https://ukuleletricks.com/how-to-play-ukulele/
 
 ### Writing/Composing Music
 
