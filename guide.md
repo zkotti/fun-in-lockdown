@@ -677,6 +677,8 @@ Best Apps for Organization and Productivity:
 * Trello [Find it here](https://trello.com/en)
 * Jour [Find it here](https://jour.com/)
 * Todoist [Find it here](https://todoist.com/)
+* Memento [Find it here](https://apps.apple.com/us/app/momento-diary-journal/id980592846)
+* 24me Find it [here](https://apps.apple.com/us/app/24me-smart-personal-assistant/id557745942) for iOS and [here](https://play.google.com/store/apps/details?id=me.twentyfour.www&hl=en) for Android
 
 
 ---
