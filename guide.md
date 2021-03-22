@@ -4,7 +4,7 @@
 
 Photo owned by [csuchico.edu](https://www.csuchico.edu/)
 
-Not sure how to spend time on lockdown? This guide contains a range of different activities to choose from.
+Not sure how to spend time in lockdown? This guide contains a range of different activities to choose from.
 
 ## <a name="categories"></a>Categories
 * [Covid-19 Infection](#covid-infection)
@@ -680,6 +680,8 @@ Best Apps for Organization and Productivity:
 * Trello [Find it here](https://trello.com/en)
 * Jour [Find it here](https://jour.com/)
 * Todoist [Find it here](https://todoist.com/)
+* Memento [Find it here](https://apps.apple.com/us/app/momento-diary-journal/id980592846)
+* 24me Find it [here](https://apps.apple.com/us/app/24me-smart-personal-assistant/id557745942) for iOS and [here](https://play.google.com/store/apps/details?id=me.twentyfour.www&hl=en) for Android
 
 
 ---
