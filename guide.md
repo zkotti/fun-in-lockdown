@@ -4,7 +4,7 @@
 
 Photo owned by [csuchico.edu](https://www.csuchico.edu/)
 
-Not sure how to spend time on lockdown? This guide contains a range of different activities to choose from.
+Not sure how to spend time in lockdown? This guide contains a range of different activities to choose from.
 
 ## <a name="categories"></a>Categories
 * [Covid-19 Infection](#covid-infection)
