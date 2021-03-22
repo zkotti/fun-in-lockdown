@@ -69,32 +69,32 @@ Information was taken from [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-
 Here a some sights and places which are definitely worth to make a walk at: 
 ### Athens
 
-* Climb to the Acropolis
-* Take a walk to the Likavitou hill
-* Run around the Philopappos monument
-* Stroll around in the harbour of Piräus 
-* Go walk at Stavros Niarchos Foundation Cultural Center
-* A walk in Sygrou Park
-* Walk alongside Illissos river in Kallithea
-* Explore Plaka alleys and reach Anafiotika and Monastiraki
-* Walk from Monastiraki all the way to Thisio
-* Walk around the National Garden in the city centre
-* Go on a mountain hike in Mount Ymittos
-* Walk around Koukaki neighbourhood
+* Climb to the Acropolis ([map](https://g.page/acropolis-bnb?share))
+* Take a walk to the Likavitou hill ([map](https://goo.gl/maps/9XdfRDUmPeepZp2W6))
+* Run around the Philopappos monument ([map](https://goo.gl/maps/qkz8KnM6fjswxCx46))
+* Stroll around in the harbour of Piräus ([map](https://g.page/acropolis-bnb?share))
+* Go walk at Stavros Niarchos Foundation Cultural Center ([map](https://goo.gl/maps/T1bH1XBxXFDUxyLR9))
+* A walk in Sygrou Park ([map](https://goo.gl/maps/Ae1pVnMKBdSEHfMQ9))
+* Walk alongside Illissos river in Kallithea ([map](https://goo.gl/maps/zJaYh1aShCi9jkr68))
+* Explore Plaka alleys and reach Anafiotika and Monastiraki ([map](https://goo.gl/maps/QY2uGpjgaqKiTGDA7))
+* Walk from Monastiraki all the way to Thisio ([map](https://goo.gl/maps/uqFYkQhrpb8Cjabh7))
+* Walk around the National Garden in the city centre ([map](https://goo.gl/maps/UcS2wfVs5EeSfSHJ8))
+* Go on a mountain hike in Mount Ymittos ([map](https://goo.gl/maps/srLnLmzefot26tiE9))
+* Walk around Koukaki neighbourhood ([map](https://goo.gl/maps/DErjSLYHLUyi3AdYA))
 
 ### Thessaloniki
 
-* Ladadika port
-* Seih Sou forest
-* The Roman Forum and Agios Dimitrios Church
-* Tsimiski Street
-* Along the waterfront
-* Aristotelous square
-* White Tower
-* Navarino square
-* Upper town and Eptapyrgio
-* Western wall
-* Axios Delta National Park
+* Ladadika port ([map](https://goo.gl/maps/YDaDSL5Mi1fC69wC7))
+* Seih Sou forest ([map](https://goo.gl/maps/iK8rm1ogkinfoP7d6))
+* The Roman Forum and Agios Dimitrios Church ([map](https://goo.gl/maps/Shdhy5KCwZGaVC716))
+* Tsimiski Street ([map](https://goo.gl/maps/HUyptTX7PFwYESXS6))
+* Along the waterfront ([map](https://goo.gl/maps/Z2pXgpZxiUaJ9nF47))
+* Aristotelous square ([map](https://goo.gl/maps/wLecvCpb8Z6j3sMS8))
+* White Tower ([map](https://goo.gl/maps/6Gr19cabE4eZsLKRA))
+* Navarino square ([map](https://goo.gl/maps/vs5Fe3jtGUTvhr7E7))
+* Upper town and Eptapyrgio ([map](https://goo.gl/maps/4h8NoDRA9HPF5oUUA))
+* Western wall ([map](https://goo.gl/maps/vHeqWpBXy4Yrczrf8))
+* Axios Delta National Park ([map](https://goo.gl/maps/5e696rGw7pz9jzSEA))
 
 
 ---
