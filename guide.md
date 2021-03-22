@@ -145,7 +145,7 @@ _The most common activity during lock-down has been watching movies. So here are
 |Miracle in Cell No. 7 (2019)| Drama | Netflix | 9/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=MHdBW0gSsjo "Miracle in Cell No. 7")|[INFO](https://www.imdb.com/title/tt2659414/?ref_=nv_sr_srsg_0 "Miracle in Cell No. 7 IMDb")|
 | The 100 | Sci-Fi | Netflix | 9.5/10 | 7.6/10|[TRAILER](https://www.youtube.com/watch?v=ia1Fbg96vL0 "The 100")|[INFO](https://www.imdb.com/title/tt2661044/?ref_=nv_sr_srsg_0 "The 100 IMDb")|
 | Attack On Titan | Fantasy / Action | Crunchyroll | 9.9/10 | 8.9/10|[TRAILER](https://www.youtube.com/watch?v=MGRm4IzK1SQ "Attack On Titan")|[INFO](https://www.imdb.com/title/tt2560140/?ref_=nv_sr_srsg_0 "Attack On Titan IMDb")|
-| Infinity War | Action / Adventure / Sci-Fi | Disney+ | 10/10 | 8.4/10|[TRAILER](https://youtu.be/6ZfuNTqbHE8 "Infinity War")|[INFO](https://www.imdb.com/title/tt4154756/?ref_=nv_sr_srsg_0 "Infinity War IMDb")|
+| Infinity War | Action / Adventure / Sci-Fi | Disney+ |10/10 | 8.4/10|[TRAILER](https://youtu.be/6ZfuNTqbHE8 "Infinity War")|[INFO](https://www.imdb.com/title/tt4154756/?ref_=nv_sr_srsg_0 "Infinity War IMDb")|
 |The Last Dance| Documentary - TV series| Netflix| 9.5/10| 9.1/10|[TRAILER](https://www.youtube.com/watch?v=N9Z9JtNcCWY&ab_channel=ESPN "The Last Dance")|[INFO](https://www.imdb.com/title/tt8420184/?ref_=fn_al_tt_1 "The Last Dance IMDb")
 |Unsolved Mysteries| Documentary - TV series| Netflix| 9/10| 7.3/10|[TRAILER](https://www.youtube.com/watch?v=oZ4FrgGILM8&ab_channel=Netflix "Unsolved Mysteries")|[INFO](https://www.imdb.com/title/tt9642938/?ref_=nv_sr_srsg_3 "Unsolved Mysteries IMDb")|
 |Peaky Blinders | Documentary - TV series | Netflix | 8/10 | 8.8/10|[TRAILER](https://youtu.be/oVzVdvGIC7U "Peaky Blinders")|[INFO](https://www.imdb.com/title/tt2442560/?ref_=nv_sr_srsg_0 "Peaky Blinders IMDb")|
@@ -163,7 +163,9 @@ _The most common activity during lock-down has been watching movies. So here are
 |Night Stalker: The Hunt for a Serial Killer  | Documentary / Crime | Netflix | 9/10 | 7.5/10|[TRAILER](https://www.youtube.com/watch?v=Mva2nGveYss "Night Stalker: The Hunt for a Serial Killer")|[INFO](https://www.imdb.com/title/tt13651632/ "Night Stalker: The Hunt for a Serial Killer")|
 |Jeffrey Epstein: Filthy Rich | Documentary / Crime | Netflix | 8/10 | 7.1/10|[TRAILER](https://www.youtube.com/watch?v=-j0rjlfmDx4 "Jeffrey Epstein: Filthy Rich")|[INFO](https://www.imdb.com/title/tt12312250/ "Jeffrey Epstein: Filthy Rich")|
 |How I met your mother | Comedy / TV Series | Netflix | 9/10 | 8.3/10|[TRAILER](https://www.youtube.com/watch?v=aJtVL2_fA5w "How I met your mother")|[INFO](https://www.imdb.com/title/tt0460649/ "How I met your mother")|
-
+|Rick and Morty | Comedy / TV Series | Netflix | 9/10 | 9.2/10 | [TRAILER](https://www.youtube.com/watch?v=_uUcMwsR5hg "Rick and Morty")|[INFO](https://www.imdb.com/title/tt2861424/ "Rick and Morty")|
+|Better Call Saul | Crime / TV Series | Netflix | 10/10 | 8.7/10 | [TRAILER](https://www.youtube.com/watch?v=HN4oydykJFc "Better Call Saul")|[INFO](https://www.imdb.com/title/tt3032476/?ref_=nv_sr_srsg_0 "Better Call Saul")|
+|House of Cards | Comedy / TV Series | Netflix | 8.5/10 | 8.7/10|[TRAILER](https://www.youtube.com/watch?v=SvSkxBYuoQY "House of Cards")|[INFO](https://www.imdb.com/title/tt1856010/?ref_=hm_tpks_tt_i_15_pd_tp1_cp "House of Cards")|
 ---
 
 <img align="left" width="40" height="40" src="media/icons/books.png">
