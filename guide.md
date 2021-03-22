@@ -568,8 +568,12 @@ Music is probably the best way to survive while at home. Whether you headbang wh
 ### Playlists 
 You can have an amazing time just by relaxing and listening to your favorite music. Here are some music playlists you might enjoy:
 * Cozy evenings (a chill mix) [listen here](https://www.youtube.com/watch?v=tHNSzNlgRZA&t=217s)
-* Top 40 songs of 2020 2021[listen here](https://www.youtube.com/watch?v=_pLO4jFDeIc)
+* Top 40 songs of 2020 2021 [listen here](https://www.youtube.com/watch?v=_pLO4jFDeIc)
 * Italian songs to dance to [listen here](https://www.youtube.com/watch?v=dsb9Fakq1A8)
+* Piano Acoustic Music [listen here](https://www.youtube.com/watch?v=wmFz6CD-MTE)
+* Ambient Study Music [listen here](https://www.youtube.com/watch?v=sjkrrmBnpGE)
+* Relaxing Jazz Music [listen here](https://www.youtube.com/watch?v=neV3EPgvZ3g)
+
 
 ### Songs
 Most of us can't imagine how lockdown would be like without our favorite songs. Here are some great songs you may not know:
@@ -616,6 +620,10 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Natural Blues, Moby [listen here](https://www.youtube.com/watch?v=z3YMxM1_S48)
 * White Room, Cream [listen here](https://www.youtube.com/watch?v=V5BF1V1pbTs)
 * Summer Breeze, Seals and Crofts [listen here](https://www.youtube.com/watch?v=GQQbjpomexo)
+* All of Me, John Legend [listen here](https://www.youtube.com/watch?v=73_DOquGBD4)
+* New Rules, John Legend [listen here](https://www.youtube.com/watch?v=k2qgadSvNyU)
+* Girls Like You, Maroon 5 ft. Cardi B [listen here](https://www.youtube.com/watch?v=aJOTlE1K90k)
+
 
 ### Albums
 A subsection to add your favorite Music Albums
