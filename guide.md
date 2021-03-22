@@ -700,6 +700,14 @@ There are many types of content produced by writing, like for example:
 - Short stories
 - Academic papers
 - Personal journals
+	Here are some journaling prompts to help your reglection journey:
+	- What are the 3 biggest lessons you've learned over the last year?
+	- Write down 10 things no one knows about you.
+	- Close your eyes and take yourself on your favourite walk. What do you observe?
+	- What is a resolution you made in January that you have let slip? How can you pick it back up?
+	- What gives you hope for the rest of this year? Why is 2021 a good one?
+	- What are your 10 favourite things about yourself?
+	- Look around your room. What are you grateful for today in the ordinary?
 - Technology documentations
 - Blog posts
 - And the list goes on
