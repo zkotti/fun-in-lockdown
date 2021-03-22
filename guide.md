@@ -814,11 +814,13 @@ Podcasts is a great way to learn from other people about things that interest yo
 * [Off Menu With Ed Gamble and James Acaster](https://play.acast.com/s/offmenu)
 * [The Bert Show](https://play.acast.com/s/the-bert-show)
 * [The Last Laugh](https://play.acast.com/s/last-laugh-daily-beast)
+* [Your Kickstarter Sucks](https://play.acast.com/s/yourkickstartersucks)
 
 #### News and Politics
 * [The Economist Asks](https://play.acast.com/s/theeconomistasks)
 * [Intelligence Squared](https://play.acast.com/s/intelligencesquared)
 * [The New Abnormal](https://play.acast.com/s/the-new-abnormal)
+* [The Global News Podcast](https://play.acast.com/s/globalnews)
 
 #### Education
 * [Connexions](https://play.acast.com/s/connexions-classroom)
@@ -830,12 +832,18 @@ Podcasts is a great way to learn from other people about things that interest yo
 * [Cyber](https://play.acast.com/s/cyber)
 * [Launch Pad](https://play.acast.com/s/wharton-entrep)
 * [Brave New Planet](https://www.pushkin.fm/show/brave-new-planet/)
+* [The WAN Show](https://play.acast.com/s/thewanshowpodcast)
+* [Waveform](https://play.acast.com/s/waveform-the-mkbhd-podcast)
 
 #### Business
 * [Business Wars](https://play.acast.com/s/businesswars)
 * [My First Million](https://play.acast.com/s/myfirstmillion)
 * [TED Talks Daily](https://play.acast.com/s/tedtalks)
 * [Planet Money](https://www.npr.org/sections/money/?t=1616235730554)
+
+#### Games & Hobbies
+* [Rusty Quill Gaming](https://play.acast.com/s/rustyquillgaming)
+* [Whatculture Gaming](https://play.acast.com/s/whatculturegaming)
 
 ### Do you have ideas you want to share? Create your own Podcast!
 Here are a few simple steps to help you start:
