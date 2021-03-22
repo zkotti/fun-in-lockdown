@@ -980,12 +980,12 @@ Source : https://careerkarma.com/blog/python-projects-beginners/
 Do you like cars? Of course you do! Who doesn't?
 
 ### Config your dream car by brand:
-* Audi [click](https://configurator.audi.com/acc/configurator/v1/gre/gre)
-* BMW [click](https://www.bmw.gr/el/configurator.html)
-* Mercedes-Benz [click](https://www.mercedes-benz.gr/passengercars/configurator.html)
-* MINI [click](https://configure.mini.com.gr/el_GR/model-ranges?clc=MINI.Digital&ctid=Google_GSN_Text_Brand_1581&ccid=1581&tl=sea-gl-GR_2021_MINI_AR_GoogleSearch_Brand_Details_TextAd_Exact-mix-miy-.-sech-Brand%20configurator-.-e-mini%20configurator-.-.&gclid=CjwKCAjwgOGCBhAlEiwA7FUXkowCVAF4evECQerRrzXvjCB-MMwEBN0iZeWuttJ5eIXxcJDy3mtgJxoCcTAQAvD_BwE)
-* Porche [click](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiE0Jir5sTvAhWE0LIKHVC6D5MYABAAGgJscg&ae=2&ohost=www.google.com&cid=CAESQeD2ZhR-jl2OecBAqB7qqAhICTau5bjZKEmowMKQjxuvXUvbNQ8esqxAQL8ckDyG-nLld1m57qQqPDuQmIfL4x6O&sig=AOD64_0QDFteSzfkauBp_QUwzudEJPvrpg&q&adurl&ved=2ahUKEwiTiY-r5sTvAhXizoUKHVn7D_kQ0Qx6BAgFEAE&dct=1)
-* VW [click](https://www.volkswagen.gr/el/models-and-configurator.html)
+* [Audi](https://configurator.audi.com/acc/configurator/v1/gre/gre)
+* [BMW](https://www.bmw.gr/el/configurator.html)
+* [Mercedes-Benz](https://www.mercedes-benz.gr/passengercars/configurator.html)
+* [MINI](https://configure.mini.com.gr/el_GR/model-ranges?clc=MINI.Digital&ctid=Google_GSN_Text_Brand_1581&ccid=1581&tl=sea-gl-GR_2021_MINI_AR_GoogleSearch_Brand_Details_TextAd_Exact-mix-miy-.-sech-Brand%20configurator-.-e-mini%20configurator-.-.&gclid=CjwKCAjwgOGCBhAlEiwA7FUXkowCVAF4evECQerRrzXvjCB-MMwEBN0iZeWuttJ5eIXxcJDy3mtgJxoCcTAQAvD_BwE)
+* [Porche](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiE0Jir5sTvAhWE0LIKHVC6D5MYABAAGgJscg&ae=2&ohost=www.google.com&cid=CAESQeD2ZhR-jl2OecBAqB7qqAhICTau5bjZKEmowMKQjxuvXUvbNQ8esqxAQL8ckDyG-nLld1m57qQqPDuQmIfL4x6O&sig=AOD64_0QDFteSzfkauBp_QUwzudEJPvrpg&q&adurl&ved=2ahUKEwiTiY-r5sTvAhXizoUKHVn7D_kQ0Qx6BAgFEAE&dct=1)
+* [VW](https://www.volkswagen.gr/el/models-and-configurator.html)
 
 ### Websites with parts (used and new):
 Car.gr [click](https://www.car.gr)
