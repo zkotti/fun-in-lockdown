@@ -205,7 +205,7 @@ If not, below there are some recommendations and really helpful videos.
 
 Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-you-reach-your-fitness-goals)
 
-**Workout tips :**
+**Workout tips:**
 
 * Set realistic goals
 * Alsways warm up
@@ -215,7 +215,7 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * Find a workout buddy
 * Don't forget to stretch!
 
-**Workoute motivation quotes :**
+**Workout motivation quotes:**
 
 * No pain, No gain -> shut up and train.
 * Master your mindset, and you'll master your body.
@@ -228,7 +228,7 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * Impossible is just a word
 * You can if you think you can
 
-**Different kinds of exercises and sports:**
+**Different kinds of workouts and sports:**
 
 * Freeletics (bodyweight workout)
 * HIIT (High Intensity Interval Training)
