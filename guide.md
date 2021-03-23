@@ -193,6 +193,12 @@ _The most common activity during lock-down has been watching movies. So here are
 
 ## <a name="books"></a>Books
 
+The best way to spend quarantine time away from your computer is to read a book. You do not need to read books to learn something new. Books, like all things, are divided into categories according to their purpose (eg educational purpose) and their subject matter. In the table below you can find a variety of books for all tastes:
+
+<img src="media/images/books.jpeg" alt="Books" width="300"/>
+
+Photo owned by [elearningindustry.com](https://elearningindustry.com/top-10-books-every-college-student-read)
+
 |TITLE| TOPIC | AUTHOR | AVAILABLE ON| MY RATING| LINK |
 |---| ---| ---| ---| ---| ---|
 |1984 | Classic Literature| Orwell George | Public | 9/10 | [Link](https://www.public.gr/product/books/greek-books/literature/translated-literature/1984/prod254453/?gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQisl4ukxjR0JQ1OTTY7rRJF_Pxphu9OZteR2mxrzxVa-igf_gz4PJC0aAvXyEALw_wcB "1984")|
