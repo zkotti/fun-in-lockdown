@@ -1053,7 +1053,8 @@ The SMS must be in the following format:
 
         Movement [blank] X [blank] full name and address of residence
 
-    *Source:* https://forma.gov.gr/en/
+    *Source:* https://forma.gov.gr/en/ 
+    *Tip:* In case you have a foreign phone number - not starting with 003069...- the SMS process will not work, you are obligated to print and carry this page https://forma.gov.gr/docs/permit-extraordinary-movement-en.pdf an tick tha number that complies with the type of your movement.
 3. *Be sure to comply with the law*: (description needed)
 
 **Important:** Depending on your area of residence, a different type of lockdown may be imposed.
