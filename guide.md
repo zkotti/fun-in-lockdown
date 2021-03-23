@@ -1061,6 +1061,8 @@ Do you like cars? Of course you do! Who doesn't?
 Section icon Source: https://2sleepylagoonter.info/car-news/best-cars/top-10-best-sports-cars
 
 ---
+<img align="left" width="40" height="40" src="media/icons/cocktail.png">
+
 ## <a name="cocktails"></a> Cocktail Adventures!
 Let's be honest, Covid-19 pandemic and its several back-to-back lockdowns have been harsh for the most of us. Being in front of a screen for hours, unable to get in physical touch with our beloved ones and having our favorite restaurants and bars closed is an everyday struggle. After all that, the need to pour a glass (or two) of wine before bedtime comes naturally. 
 
