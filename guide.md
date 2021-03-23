@@ -33,7 +33,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Plan your Erasmus](#erasmus)
 * [Coding Projects](#coding-projects)
 * [Work with cars](#Work-with-cars)
-* [Cocktail Adventures](#coktails)
+* [Cocktail Adventures](#cocktails)
 
 [Note : Before you head outside](#note)
 
@@ -1046,6 +1046,7 @@ Let's be honest, Covid-19 pandemic and its several back-to-back lockdowns have b
 So, we are here to just say that we understand and that it's time to level up the game; Cocktail adventure nights! Do you want to advance you bartender skills or feel like a little kid again? Well, as you discover new tasty horizons and mix up your favorite ingredients, the art of mixology will start to unfold and we promise you to enjoy those lockdown days as they are passing by. 
 
 * First things first: Organize your space.
+
    Before you start your mixing experiments, you need to set up your working station. There are not many things requiered for that, just the basic bar essentials and spirits of your preference.  
    - Bar essentials: 
       1. Bar Spoons. You may already have some long-handle teaspoons but if you don't, you can find them [here](https://www.amazon.com/Hiware-Stirring-Stainless-Cocktail-Pattern/dp/B01EL7NAYU/ref=sr_1_9?keywords=bar+spoons&qid=1567433894&s=gateway&sr=8-9).
