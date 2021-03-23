@@ -1002,6 +1002,8 @@ Tip: you can use the javafx package to build the tool's interface.
 This is another great project to help you develop your coding skills and it uses basic Java concepts. The users just inserts the value and the calculator returns the matching percentage.
 The javafx package will help you build the interface.
 
+
+Source: https://data-flair.training/blogs/java-project-ideas/
 ---
 <img align="left" width="40" height="40" src="media/icons/car.jpg">
 
