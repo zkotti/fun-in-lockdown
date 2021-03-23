@@ -808,24 +808,24 @@ Learn a topic that interests you from an online class! Below you can find variou
 
 
 Sites for online courses: 
+* [Academic Earth](https://academicearth.org/)
+* [Adobe](https://learning.adobe.com/)
 * [ALISON](https://alison.com/)
-* [Udemy](https://www.udemy.com/)
+* [Codecademy](https://www.codecademy.com/)
 * [Coursera](https://www.coursera.org/)
 * [edX](https://www.edx.org/)
-* [Udacity](https://www.udacity.com/)
-* [LinkedIn Learning](https://www.linkedin.com/learning)
-* [General Assembly](https://generalassemb.ly/)
-* [Skillshare](https://www.skillshare.com/)
-* [LearnSmart](https://www.mheducation.com/highered/connect/case-studies/learnsmart-works.html)
-* [Codecademy](https://www.codecademy.com/)
-* [Pluralsight](https://www.pluralsight.com/)
-* [Adobe](https://learning.adobe.com/)
-* [FutureLearn](https://www.futurelearn.com/)
-* [Academic Earth](https://academicearth.org/)
 * [freeCodeCamp](https://www.freecodecamp.org/)
-* [Scrimba](https://scrimba.com/)
-* [Trailhead](https://trailhead.salesforce.com/en/home)
+* [FutureLearn](https://www.futurelearn.com/)
+* [General Assembly](https://generalassemb.ly/)
+* [LearnSmart](https://www.mheducation.com/highered/connect/case-studies/learnsmart-works.html)
+* [LinkedIn Learning](https://www.linkedin.com/learning)
 * [openSAP](https://open.sap.com/)
+* [Pluralsight](https://www.pluralsight.com/)
+* [Scrimba](https://scrimba.com/)
+* [Skillshare](https://www.skillshare.com/)
+* [Trailhead](https://trailhead.salesforce.com/en/home)
+* [Udacity](https://www.udacity.com/)
+* [Udemy](https://www.udemy.com/)
 
 Online courses: 
 |TITLE|LENGTH|PRICE|INSTITUTION|LEVEL | LANGUAGE| HOST SITE| LINK|
