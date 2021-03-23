@@ -212,6 +212,8 @@ _The most common activity during lock-down has been watching movies. So here are
 |To Kill a Mocking Bird | Classic Literature | Harper Lee | Public | 9.5/10| [Link](https://www.public.gr/product/to-kill-a-mockingbird/prod1260555pp/) |
 |We Were Liars | Young Adult Fiction | E. Lockhart. | Amazon | 9/10 | [Link](https://www.amazon.com/We-Were-Liars-Lockhart/dp/0385741278/ref=sr_1_1?dchild=1&keywords=we+were+liars&qid=1616411727&s=books&sr=1-1)|
 |Zero to One| Management | Pieter Thiel | Public | 9.5/10| [Link](https://www.public.gr/product/books/greek-books/economics/management/zero-to-one/prod6840642pp/ "Zero to One")|
+|1984 | Classic Literature| Orwell George | Public | 9/10 | [Link](https://www.public.gr/product/books/greek-books/literature/translated-literature/1984/prod254453/?gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQisl4ukxjR0JQ1OTTY7rRJF_Pxphu9OZteR2mxrzxVa-igf_gz4PJC0aAvXyEALw_wcB "1984")|
+|We Hope This Reaches You in Time| poetry | Sin r.h. , King Holmes Samantha | Public | 9/10| [Link](https://www.public.gr/product/we-hope-this-reaches-you-in-time/prod10270092pp/ "We Hope This Reaches You in Time")|
 
 
 
