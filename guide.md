@@ -172,6 +172,7 @@ _The most common activity during lock-down has been watching movies. So here are
 |The Shutter Island | Thriller/ Mystery | Netflix | 8.5/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=5iaYLCiq5RM "The Shutter Island")|[INFO](https://www.imdb.com/title/tt1130884/ "The Shutter Island IMDb")|
 |The Social Dilemma| Documentary| Netflix| 7/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=uaaC57tcci0&ab_channel=Netflix "The Social Dilemma")|[INFO](https://www.imdb.com/title/tt11464826/?ref_=nv_sr_srsg_0 "The Social Dilemma IMDb")|
 |Unsolved Mysteries| Documentary - TV series| Netflix| 9/10| 7.3/10|[TRAILER](https://www.youtube.com/watch?v=oZ4FrgGILM8&ab_channel=Netflix "Unsolved Mysteries")|[INFO](https://www.imdb.com/title/tt9642938/?ref_=nv_sr_srsg_3 "Unsolved Mysteries IMDb")|
+|World's Most Wanted| Documentary / Crime| Netflix| 7.5/10| 7.2/10|[TRAILER](https://www.youtube.com/watch?v=TFOYTE3RtCs "World's Most Wanted")|[INFO](https://www.imdb.com/title/tt12753698/ "World's Most Wanted")|
 ---
 
 <img align="left" width="40" height="40" src="media/icons/books.png">
