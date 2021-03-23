@@ -428,7 +428,6 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 | Tacos | Mexico | 10/10 | [Link](https://www.thewholesomedish.com/the-best-homemade-tacos/) | Add extra cheese!! |
 | Tzatziki | Greece | 10/10| [Link](https://cookieandkate.com/how-to-make-tzatziki/ "How to Make Tzatziki")| Choose a creamy yoghurt to create the perfect spread! |
 
-
 ---
 
 <img align="left" width="40" height="40" src="media/icons/project.png">
