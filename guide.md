@@ -1,12 +1,14 @@
 # A guide to survive the COVID-19 lockdown(s)
 
-<img src="media/images/quarantine-activities-image.png" alt="Quarantine Activities" width="500"/>
+|<img src="media/images/quarantine-activities-image.png" alt="Quarantine Activities" width="500" height="500"/>|<img src="https://media.giphy.com/media/3ohhwiSbK4IdpTIB0Y/giphy.gif" alt="Endless time" width="500" height="500" />|
+|---|---|
 
 Photo owned by [csuchico.edu](https://www.csuchico.edu/)
 
-Not sure how to spend time on lockdown? This guide contains a range of different activities to choose from.
+Not sure how to spend time in lockdown? This guide contains a range of different activities to choose from.
 
 ## <a name="categories"></a>Categories
+* [Covid-19 Infection](#covid-infection)
 * [Walks in Town](#walks)
 * [Virtual Tours-Trips](#trips-tours)
 * [Movies-Documentaries-Series](#movies-docum-series)
@@ -24,14 +26,44 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 * [Clean and organize](#clean)
 * [Writing](#writing)
 * [Gardening](#gardening)
+* [Online Courses](#online_course)
 * [Video Making](#videomaking)
 * [Start listening to Podcasts](#podcasts)
 * [Plan your next trip](#trips)
 * [Plan your Erasmus](#erasmus)
 * [Coding Projects](#coding-projects)
+* [Work with cars](#Work-with-cars)
+* [Cocktail Adventures](#cocktails)
 
 [Note : Before you head outside](#note)
 
+
+---
+<img align="left" width="40" height="40" src="media/icons/coronavirus.png">
+
+## <a name="covid-infection"></a> Covid-19 Infection
+
+### What should we do if someone is infected from covid?
+
+**FIRST RULE: DON'T PANIC!**
+
+#### Stay home except from when you need medical care
+1. Inform you personal doctor! In case you don't have a personal doctor, call someone you know and you can trust and contact someone that can help you get the right treatment.
+2. Stay home!
+3. Take care of yourself.
+4. Stay in touch with your doctor.
+5. Avoid public transportation.
+6. Separate yourself from other people (its bad but not forever!!).
+7. Monitor your symptoms.
+8. Call ahead before visiting your doctor.
+9. Avoid sharing personal household items.
+10. Clean your hands often.
+11. Cover your coughs and sneezes.
+12. Wear a mask over your nose and mouth.
+13. Get Tested!!! It is important to repeat a positive test, in order to ensure that you got better.
+14. Clean all “high-touch” surfaces everyday!
+
+Information was taken from [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 
 ---
 
@@ -39,17 +71,61 @@ Not sure how to spend time on lockdown? This guide contains a range of different
 
 ## <a name="walks"></a>Walks in Town
 Here a some sights and places which are definitely worth to make a walk at: 
-* Climb to the Acropolis
-* Take a walk to the Likavitou hill
-* Run around the Philopappos monument
-* Stroll around in the harbour of Piräus 
-* Go walk at Stavros Niarchos Foundation Cultural Center
-* A walk in Sygrou Park
-* Walk alongside Illissos river in Kallithea
-* Explore Plaka alleys and reach Anafiotika
-* Walk around the National Garden in the city centre
-* Go on a mountain hike in Mount Ymittos
-* Walk around Koukaki neighbourhood
+
+### Athens
+
+<img src="media/images/athens.jpg" alt="Athens" width="500"/>
+
+Photo owned by [greeking.me](https://greeking.me/blog/visiting-athens/item/88-50-things-to-do-in-athens)
+
+* Climb to the Acropolis ([map](https://g.page/acropolis-bnb?share))
+* Take a walk to the Likavitou hill ([map](https://goo.gl/maps/9XdfRDUmPeepZp2W6))
+* Run around the Philopappos monument ([map](https://goo.gl/maps/qkz8KnM6fjswxCx46))
+* Stroll around in the harbour of Piräus ([map](https://g.page/acropolis-bnb?share))
+* Go walk at Stavros Niarchos Foundation Cultural Center ([map](https://goo.gl/maps/T1bH1XBxXFDUxyLR9))
+* A walk in Sygrou Park ([map](https://goo.gl/maps/Ae1pVnMKBdSEHfMQ9))
+* Walk alongside Illissos river in Kallithea ([map](https://goo.gl/maps/zJaYh1aShCi9jkr68))
+* Explore Plaka alleys and reach Anafiotika and Monastiraki ([map](https://goo.gl/maps/QY2uGpjgaqKiTGDA7))
+* Walk from Monastiraki all the way to Thisio ([map](https://goo.gl/maps/uqFYkQhrpb8Cjabh7))
+* Walk around the National Garden in the city centre ([map](https://goo.gl/maps/UcS2wfVs5EeSfSHJ8))
+* Go on a mountain hike in Mount Ymittos ([map](https://goo.gl/maps/srLnLmzefot26tiE9))
+* Walk around Koukaki neighbourhood ([map](https://goo.gl/maps/DErjSLYHLUyi3AdYA))
+* Take a walk to Flisvos Marina ([map](https://www.google.com/maps/place/%CE%9C%CE%B1%CF%81%CE%AF%CE%BD%CE%B1+%CE%A6%CE%BB%CE%BF%CE%AF%CF%83%CE%B2%CE%BF%CF%85/@37.9311938,23.682856,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bc1061760f69:0x814330c59b77c2ac!8m2!3d37.9311938!4d23.6850447))
+* Hiking at the Tatoi Royal Estate ([map](https://www.google.com/maps/search/Tatoi+Royal+Estate/@38.1584415,23.785362,15z/data=!3m1!4b1))
+* Have a picnic in Eleftherias Park ([map](https://www.google.com/maps/place/%CE%A0%CE%AC%CF%81%CE%BA%CE%BF+%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%B5%CF%81%CE%AF%CE%B1%CF%82,+%CE%91%CE%B8%CE%AE%CE%BD%CE%B1+115+21/@37.980496,23.7532421,15z/data=!4m5!3m4!1s0x0:0x15ddf444020efbf!8m2!3d37.980496!4d23.7532421))
+
+### Thessaloniki
+
+<img src="media/images/thessaloniki.jpg" alt="Thessaloniki" width="500"/>
+
+Photo owned by [discovergreece.com](https://www.discovergreece.com/macedonia/thessaloniki)
+
+* Ladadika port ([map](https://goo.gl/maps/YDaDSL5Mi1fC69wC7))
+* Seih Sou forest ([map](https://goo.gl/maps/iK8rm1ogkinfoP7d6))
+* The Roman Forum and Agios Dimitrios Church ([map](https://goo.gl/maps/Shdhy5KCwZGaVC716))
+* Tsimiski Street ([map](https://goo.gl/maps/HUyptTX7PFwYESXS6))
+* Along the waterfront ([map](https://goo.gl/maps/Z2pXgpZxiUaJ9nF47))
+* Aristotelous square ([map](https://goo.gl/maps/wLecvCpb8Z6j3sMS8))
+* White Tower ([map](https://goo.gl/maps/6Gr19cabE4eZsLKRA))
+* Navarino square ([map](https://goo.gl/maps/vs5Fe3jtGUTvhr7E7))
+* Upper town and Eptapyrgio ([map](https://goo.gl/maps/4h8NoDRA9HPF5oUUA))
+* Western wall ([map](https://goo.gl/maps/vHeqWpBXy4Yrczrf8))
+* Axios Delta National Park ([map](https://goo.gl/maps/5e696rGw7pz9jzSEA))
+
+### Patras
+
+<img src="media/images/patra.jpg" alt="Patra" width="500"/>
+
+Photo owned by [zoogla.gr](https://www.zougla.gr/greece/article/i-patrini-gourou-ton-drones-mas-dixnoun-tin-patra-opos-tin-vlepoun-i-aeti)
+
+* Run around Patras' lighthouse ([map](https://www.google.com/maps/place/%CE%A6%CE%AC%CF%81%CE%BF%CF%82/@38.24507,21.723487,17z/data=!3m1!4b1!4m5!3m4!1s0x135e49daf92b49dd:0xdb80e6e11329275b!8m2!3d38.24507!4d21.7256757))
+* Explore South Park ([map](https://www.google.com/maps/place/%CE%9D%CF%8C%CF%84%CE%B9%CE%BF+%CE%A0%CE%AC%CF%81%CE%BA%CE%BF+%CE%A0%CE%AC%CF%84%CF%81%CE%B1%CF%82/@38.234853,21.7222076,17z/data=!3m1!4b1!4m5!3m4!1s0x135e362f6b19261b:0x7f2023f2baff8160!8m2!3d38.234853!4d21.7243963))
+* Walk around patras' plage park ([map](https://www.google.com/maps/place/%CE%A0%CE%AC%CF%81%CE%BA%CE%BF+%CE%A0%CE%BB%CE%B1%CE%B6/@38.280133,21.7436127,17z/data=!3m1!4b1!4m5!3m4!1s0x135e499674859c5d:0x8c4e8a5324cc7749!8m2!3d38.280133!4d21.7458014))
+* Walk around in the port area ([map](https://www.google.com/search?tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=ALeKk00CdZZzhv0AYhne4GN6JjWQ5xDyLA:1616521399540&q=%CE%BB%CE%B9%CE%BC%CE%B1%CE%BD%CE%B9+%CF%80%CE%B1%CF%84%CF%81%CE%B1%CF%83&rflfq=1&num=10&ved=2ahUKEwj8-qm--8bvAhUtAWMBHd5XBhoQtgN6BAgBEAc#rlfi=hd:;si:;mv:[[38.2289136,21.7223068],[38.2138512,21.719319499999997]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3,lf:1,lf_ui:2))
+* Walk alongside a patras' beach. [See all patras' beaches in the map.](https://www.google.com/search?tbs=lf:1,lf_ui:1&tbm=lcl&sxsrf=ALeKk02rgnIi8Y5qwuvlA3J3QMbb-wIFxA:1616521647696&q=patras+beaches&rflfq=1&num=10&ved=2ahUKEwjBlNS0_MbvAhWJlqQKHQwnD_gQtgN6BAgyEAc)
+* Explore Patras Mycenaean Park-Voundeni [(map](https://www.google.com/maps/place/%CE%9C%CF%85%CE%BA%CE%B7%CE%BD%CE%B1%CF%8A%CE%BA%CF%8C+%CE%9D%CE%B5%CE%BA%CF%81%CE%BF%CF%84%CE%B1%CF%86%CE%B5%CE%AF%CE%BF+%CE%92%CE%BF%CF%8D%CE%BD%CF%84%CE%B5%CE%BD%CE%B7%CF%82/@38.252451,21.7826245,15z/data=!4m2!3m1!1s0x0:0xeff6c71133ac1c90?sa=X&ved=2ahUKEwiDj6qY-8bvAhXT8eAKHc4yChQQ_BIwG3oECCkQBQ))
+
+Sources: [thebest.gr](https://www.thebest.gr/article/412935-), [tripadvisor](https://www.tripadvisor.com/Attractions-g189488-Activities-c47-t76-Patras_Achaea_Region_West_Greece.html)
 
 ---
 
@@ -62,8 +138,10 @@ Why don't you take a virtual tour via **youtube**?
 [Come and relax on youtube's virtual trips now!](https://www.youtube.com/watch?v=2Qcf1K3hP2g)
 
 Do you want to drive around your favourite cities while listening to their local radios?
-
 If yes, then you should definitely try the [Drive & Listen APP](https://driveandlisten.herokuapp.com/?fbclid=IwAR2jQV27oRk5A4UmCgGNEKwu2JXxDCuqm-6sqKrmLalAnO2N7bjXGVgcnhg)!
+
+If you prefer exploring a country from above, visit [Fly & Listen](http://flyandlisten.com/?fbclid=IwAR2uuxF_Xd0vKNfpXIlh9N5f4nItuzQ-Lbhbj4WpC4CMWHgKd-EeVrYlvwg)! You can choose
+a destination, pick a local radio station and enjoy your virtual trip. Fly and listen offers you a great variety of places to visiti and a lot of different options regarding the local radio station. You are free to pick your favorite, sit back and relax!
 
 Due to the Covid-19 pandemic museums remain closed. Don't worry, art lovers!
 
@@ -73,6 +151,10 @@ Some of us are _bored in the house-in the house bored_!
 
 [WindowSwap](https://www.window-swap.com/) is a quarantine project which gives you the opportunity to enjoy the view from windows around the world!
 
+Take a look at any country from a drone's perspective, while listening to local radio stations!
+
+(http://flyandlisten.com)
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/movie.png">
@@ -81,59 +163,88 @@ Some of us are _bored in the house-in the house bored_!
 _The most common activity during lock-down has been watching movies. So here are our recommendations for movies, series and documentaries:_
 
 |TITLE| TYPE| AVAILABLE ON| MY RATING| IMDb RATING| TRAILER| INFO|
-|---| ---| ---| ---| ---|---|---|
-|Don't f**k with cats| Documentary - TV series| Netflix| 9/10| 8/10|[TRAILER](https://www.youtube.com/watch?v=x41SMm-9-i4&ab_channel=Netflix "Don't f**k with cats")|[INFO](https://www.imdb.com/title/tt11318602/?ref_=fn_al_tt_2 "Don't f**k with cats IMDb")|
-|Breaking Bad| TV series| Netflix| 9/10| 9.5/10|[TRAILER](https://www.youtube.com/watch?v=HhesaQXLuRY&ab_channel=TrailerBlend "Breaking Bad")|[INFO](https://www.imdb.com/title/tt0903747/?ref_=nv_sr_srsg_0 "Breaking Bad IMDb")|
-|The Boys| TV series| AmazonPrime| 7/10| 8.7/10|[TRAILER](https://www.youtube.com/watch?v=M1bhOaLV4FU&ab_channel=AmazonPrimeVideoUK "The Boys")|[INFO](https://www.imdb.com/title/tt1190634/?ref_=nv_sr_srsg_0 "The Boys IMDb")|
-|Connected| Documentary - TV series| Netflix| 8.5/10| 7.5/10|[TRAILER](https://www.youtube.com/watch?v=B-aZrftUPlk&ab_channel=Netflix "Connected")|[INFO](https://www.imdb.com/title/tt12753692/?ref_=nv_sr_srsg_3 "Connected IMDb")|
-|Lupin| TV series| Netflix| 7.5/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=ga0iTWXCGa0&ab_channel=Netflix "Lupin")|[INFO](https://www.imdb.com/title/tt2531336/?ref_=nv_sr_srsg_0 "Lupin IMDb")|
-|The Social Dilemma| Documentary| Netflix| 7/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=uaaC57tcci0&ab_channel=Netflix "The Social Dilemma")|[INFO](https://www.imdb.com/title/tt11464826/?ref_=nv_sr_srsg_0 "The Social Dilemma IMDb")|
-|Joker| Drama | Amazon | 10/10 | 8.4/10|[TRAILER](https://www.youtube.com/watch?v=zAGVQLHvwOY "Joker")|[INFO](https://www.imdb.com/title/tt7286456/?ref_=nv_sr_srsg_0 "Joker IMDb")|
-|Miracle in Cell No. 7 (2019)| Drama | Netflix | 9/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=MHdBW0gSsjo "Miracle in Cell No. 7")|[INFO](https://www.imdb.com/title/tt2659414/?ref_=nv_sr_srsg_0 "Miracle in Cell No. 7 IMDb")|
-| The 100 | Sci-Fi | Netflix | 9.5/10 | 7.6/10|[TRAILER](https://www.youtube.com/watch?v=ia1Fbg96vL0 "The 100")|[INFO](https://www.imdb.com/title/tt2661044/?ref_=nv_sr_srsg_0 "The 100 IMDb")|
-| Attack On Titan | Fantasy / Action | Crunchyroll | 9.9/10 | 8.9/10|[TRAILER](https://www.youtube.com/watch?v=MGRm4IzK1SQ "Attack On Titan")|[INFO](https://www.imdb.com/title/tt2560140/?ref_=nv_sr_srsg_0 "Attack On Titan IMDb")|
-| Infinity War | Action / Adventure / Sci-Fi | Disney+ | 10/10 | 8.4/10|[TRAILER](https://youtu.be/6ZfuNTqbHE8 "Infinity War")|[INFO](https://www.imdb.com/title/tt4154756/?ref_=nv_sr_srsg_0 "Infinity War IMDb")|
-|The Last Dance| Documentary - TV series| Netflix| 9.5/10| 9.1/10|[TRAILER](https://www.youtube.com/watch?v=N9Z9JtNcCWY&ab_channel=ESPN "The Last Dance")|[INFO](https://www.imdb.com/title/tt8420184/?ref_=fn_al_tt_1 "The Last Dance IMDb")
-|Unsolved Mysteries| Documentary - TV series| Netflix| 9/10| 7.3/10|[TRAILER](https://www.youtube.com/watch?v=oZ4FrgGILM8&ab_channel=Netflix "Unsolved Mysteries")|[INFO](https://www.imdb.com/title/tt9642938/?ref_=nv_sr_srsg_3 "Unsolved Mysteries IMDb")|
-|Peaky Blinders | Documentary - TV series | Netflix | 8/10 | 8.8/10|[TRAILER](https://youtu.be/oVzVdvGIC7U "Peaky Blinders")|[INFO](https://www.imdb.com/title/tt2442560/?ref_=nv_sr_srsg_0 "Peaky Blinders IMDb")|
-|Suits | TV series | Netflix | 9/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=85z53bAebsI "Suits")|[INFO](https://www.imdb.com/title/tt1632701/?ref_=fn_al_tt_1 "Suits IMDb")|
-|Mr. Robot | TV series | Netflix | 10/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=xIBiJ_SzJTA "Mr. Robot")|[INFO](https://www.imdb.com/title/tt4158110/?ref_=fn_al_tt_1 "Mr. Robot IMDb")|
-|Mindhunter | TV series | Netflix | 9.5/10 | 8.6/10|[TRAILER](https://www.youtube.com/watch?v=evdxH50J3rs "Mindhunter")|[INFO](https://www.imdb.com/title/tt5290382/?ref_=nv_sr_srsg_0 "Mindhunter IMDb")|
-|Blacklist | TV series | Netflix | 9/10 | 8/10|[TRAILER](https://www.youtube.com/watch?v=-WYdUaK54fU "Blacklist")|[INFO](https://www.imdb.com/title/tt2741602/?ref_=nv_sr_srsg_0 "Blacklist IMDb")|
-|The Queen's Gambit | TV series | Netflix | 9/10 | 8.6/10|[TRAILER](https://www.youtube.com/watch?v=CDrieqwSdgI "The Queen's Gambit")|[INFO](https://www.imdb.com/title/tt10048342/?ref_=nv_sr_srsg_0 "The Queen's Gambit IMDb")|
-|Brooklyn Nine-Nine | TV series | Netflix | 8.5/10 | 8.4/10|[TRAILER](https://www.youtube.com/watch?v=sEOuJ4z5aTc "Brooklyn Nine-Nine")|[INFO](https://www.imdb.com/title/tt2467372/?ref_=nv_sr_srsg_0 "Brooklyn Nine-Nine IMDb")|
+|:---| :---:| :---:| :---:| :---:|:---:|:---:|
 |A Beautiful Mind | Biography / Drama | Netflix | 9/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=nIR3wj9Ssaw "A Beautiful Mind")|[INFO](https://www.imdb.com/title/tt0268978/?ref_=nv_sr_srsg_0 "A Beautiful Mind IMDb")|
-|The Invisible Guest | Crime / Drama / Mystery | Netflix | 8.5/10 | 8.1/10|[TRAILER](https://www.youtube.com/watch?v=epCg2RbyF80 "The Invisible Guest")|[INFO](https://www.imdb.com/title/tt4857264/?ref_=nv_sr_srsg_0 "The Invisible Guest IMDb")|
-|The Shutter Island | Thriller/ Mystery | Netflix | 8.5/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=5iaYLCiq5RM "The Shutter Island")|[INFO](https://www.imdb.com/title/tt1130884/ "The Shutter Island IMDb")|
+|Attack On Titan | Fantasy / Action | Crunchyroll | 9.9/10 | 8.9/10|[TRAILER](https://www.youtube.com/watch?v=MGRm4IzK1SQ "Attack On Titan")|[INFO](https://www.imdb.com/title/tt2560140/?ref_=nv_sr_srsg_0 "Attack On Titan IMDb")|
+|Better Call Saul | Crime / TV Series | Netflix | 10/10 | 8.7/10 | [TRAILER](https://www.youtube.com/watch?v=HN4oydykJFc "Better Call Saul")|[INFO](https://www.imdb.com/title/tt3032476/?ref_=nv_sr_srsg_0 "Better Call Saul")|
+|Blacklist | TV series | Netflix | 9/10 | 8/10|[TRAILER](https://www.youtube.com/watch?v=-WYdUaK54fU "Blacklist")|[INFO](https://www.imdb.com/title/tt2741602/?ref_=nv_sr_srsg_0 "Blacklist IMDb")|
+|Breaking Bad| TV series| Netflix| 9/10| 9.5/10|[TRAILER](https://www.youtube.com/watch?v=HhesaQXLuRY&ab_channel=TrailerBlend "Breaking Bad")|[INFO](https://www.imdb.com/title/tt0903747/?ref_=nv_sr_srsg_0 "Breaking Bad IMDb")|
+|Brooklyn Nine-Nine | TV series | Netflix | 8.5/10 | 8.4/10|[TRAILER](https://www.youtube.com/watch?v=sEOuJ4z5aTc "Brooklyn Nine-Nine")|[INFO](https://www.imdb.com/title/tt2467372/?ref_=nv_sr_srsg_0 "Brooklyn Nine-Nine IMDb")|
+|Community | TV series | Netflix | 9/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=sBCE9oIuN24 "Community")|[INFO](https://www.imdb.com/title/tt1439629/ "Community IMDb")|
+|Connected| Documentary - TV series| Netflix| 8.5/10| 7.5/10|[TRAILER](https://www.youtube.com/watch?v=B-aZrftUPlk&ab_channel=Netflix "Connected")|[INFO](https://www.imdb.com/title/tt12753692/?ref_=nv_sr_srsg_3 "Connected IMDb")|
+|Cowspiracy: The Sustainability Secret | Documentary | Netflix | 9/10 | 8.3/10|[TRAILER](https://www.youtube.com/watch?v=nV04zyfLyN4 "Cowspiracy: The Sustainability Secret")|[INFO](https://www.imdb.com/title/tt3302820/ "Cowspiracy: The Sustainability Secret")|
+|Don't f**k with cats| Documentary - TV series| Netflix| 9/10| 8/10|[TRAILER](https://www.youtube.com/watch?v=x41SMm-9-i4&ab_channel=Netflix "Don't f**k with cats")|[INFO](https://www.imdb.com/title/tt11318602/?ref_=fn_al_tt_2 "Don't f**k with cats IMDb")|
 |Game Of Thrones | TV series | HBO | 10/10 | 9.3/10|[TRAILER](https://www.hbo.com/game-of-thrones "Game Of Thrones")|[INFO](https://www.imdb.com/title/tt0944947/ "Game Of Thrones IMDb")|
-|Cowspiracy: The Sustainability Secret | Documentary | Netflix | 8.3/10 | 9/10|[TRAILER](https://www.youtube.com/watch?v=nV04zyfLyN4 "Cowspiracy: The Sustainability Secret")|[INFO](https://www.imdb.com/title/tt3302820/ "Cowspiracy: The Sustainability Secret")|
-|Night Stalker: The Hunt for a Serial Killer  | Documentary / Crime | Netflix | 9/10 | 7.5/10|[TRAILER](https://www.youtube.com/watch?v=Mva2nGveYss "Night Stalker: The Hunt for a Serial Killer")|[INFO](https://www.imdb.com/title/tt13651632/ "Night Stalker: The Hunt for a Serial Killer")|
+|House of Cards | Comedy / TV Series | Netflix | 8.5/10 | 8.7/10|[TRAILER](https://www.youtube.com/watch?v=SvSkxBYuoQY "House of Cards")|[INFO](https://www.imdb.com/title/tt1856010/?ref_=hm_tpks_tt_i_15_pd_tp1_cp "House of Cards")|
+|How I met your mother | Comedy / TV Series | Netflix | 9/10 | 8.3/10|[TRAILER](https://www.youtube.com/watch?v=aJtVL2_fA5w "How I met your mother")|[INFO](https://www.imdb.com/title/tt0460649/ "How I met your mother")|
+|Infinity War | Action / Adventure / Sci-Fi | Disney+ |10/10 | 8.4/10|[TRAILER](https://youtu.be/6ZfuNTqbHE8 "Infinity War")|[INFO](https://www.imdb.com/title/tt4154756/?ref_=nv_sr_srsg_0 "Infinity War IMDb")|
+|It's Okay to Not be Okay | Drama | Netflix | 9.5/10 | 8.7/10 | [TRAILER](https://www.youtube.com/watch?v=50ek4HQo0Bc&ab_channel=TheSwoon "It's Okay to Not be Okay")|[INFO](https://www.imdb.com/title/tt12451520/ "It's Okay to Not be Okay")|
 |Jeffrey Epstein: Filthy Rich | Documentary / Crime | Netflix | 8/10 | 7.1/10|[TRAILER](https://www.youtube.com/watch?v=-j0rjlfmDx4 "Jeffrey Epstein: Filthy Rich")|[INFO](https://www.imdb.com/title/tt12312250/ "Jeffrey Epstein: Filthy Rich")|
-
+|Joker| Drama | Amazon | 10/10 | 8.4/10|[TRAILER](https://www.youtube.com/watch?v=zAGVQLHvwOY "Joker")|[INFO](https://www.imdb.com/title/tt7286456/?ref_=nv_sr_srsg_0 "Joker IMDb")|
+|Lupin| TV series| Netflix| 7.5/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=ga0iTWXCGa0&ab_channel=Netflix "Lupin")|[INFO](https://www.imdb.com/title/tt2531336/?ref_=nv_sr_srsg_0 "Lupin IMDb")|
+|Mindhunter | TV series | Netflix | 9.5/10 | 8.6/10|[TRAILER](https://www.youtube.com/watch?v=evdxH50J3rs "Mindhunter")|[INFO](https://www.imdb.com/title/tt5290382/?ref_=nv_sr_srsg_0 "Mindhunter IMDb")|
+|Miracle in Cell No. 7 (2019)| Drama | Netflix | 9/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=MHdBW0gSsjo "Miracle in Cell No. 7")|[INFO](https://www.imdb.com/title/tt2659414/?ref_=nv_sr_srsg_0 "Miracle in Cell No. 7 IMDb")|
+|Mr. Robot | TV series | Netflix | 10/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=xIBiJ_SzJTA "Mr. Robot")|[INFO](https://www.imdb.com/title/tt4158110/?ref_=fn_al_tt_1 "Mr. Robot IMDb")|
+|Night Stalker: The Hunt for a Serial Killer  | Documentary / Crime | Netflix | 9/10 | 7.5/10|[TRAILER](https://www.youtube.com/watch?v=Mva2nGveYss "Night Stalker: The Hunt for a Serial Killer")|[INFO](https://www.imdb.com/title/tt13651632/ "Night Stalker: The Hunt for a Serial Killer")|
+|Peaky Blinders | Documentary - TV series | Netflix | 8/10 | 8.8/10|[TRAILER](https://youtu.be/oVzVdvGIC7U "Peaky Blinders")|[INFO](https://www.imdb.com/title/tt2442560/?ref_=nv_sr_srsg_0 "Peaky Blinders IMDb")|
+|Prison Break | Action / TV Series | Netflix | 10/10 | 8.3/10 | [TRAILER](https://www.imdb.com/video/vi3183588377?playlistId=tt0455275&ref_=tt_ov_vi "Prison Break")|[INFO](https://www.imdb.com/title/tt0455275/ "Prison Break")|
+|Rick and Morty | Comedy / TV Series | Netflix | 9/10 | 9.2/10 | [TRAILER](https://www.youtube.com/watch?v=_uUcMwsR5hg "Rick and Morty")|[INFO](https://www.imdb.com/title/tt2861424/ "Rick and Morty")|
+|Suits | TV series | Netflix | 9/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=85z53bAebsI "Suits")|[INFO](https://www.imdb.com/title/tt1632701/?ref_=fn_al_tt_1 "Suits IMDb")|
+|The 100 | Sci-Fi | Netflix | 9.5/10 | 7.6/10|[TRAILER](https://www.youtube.com/watch?v=ia1Fbg96vL0 "The 100")|[INFO](https://www.imdb.com/title/tt2661044/?ref_=nv_sr_srsg_0 "The 100 IMDb")|
+|The Big Bang Theory| Comedy/TV Series| Netflix| 8.5/10| 8.1/10|[TRAILER](https://www.youtube.com/watch?v=WBb3fojgW0Q&ab_channel=vidicsch "The Big Bang Theory")|[INFO](https://www.imdb.com/title/tt0898266/ "The Big Bang Theory")|
+|The Bold Type| Comedy/TV Series| Netflix| 8.0/10| 8.0/10|[TRAILER](https://www.youtube.com/watch?v=q9Evo8pJTV0&ab_channel=Freeform "The Bold Type")|[INFO](https://www.imdb.com/title/tt6116060/ "The Bold Type")|
+|The Boys| TV series| AmazonPrime| 7/10| 8.7/10|[TRAILER](https://www.youtube.com/watch?v=M1bhOaLV4FU&ab_channel=AmazonPrimeVideoUK "The Boys")|[INFO](https://www.imdb.com/title/tt1190634/?ref_=nv_sr_srsg_0 "The Boys IMDb")|
+|The Invisible Guest | Crime / Drama / Mystery | Netflix | 8.5/10 | 8.1/10|[TRAILER](https://www.youtube.com/watch?v=epCg2RbyF80 "The Invisible Guest")|[INFO](https://www.imdb.com/title/tt4857264/?ref_=nv_sr_srsg_0 "The Invisible Guest IMDb")|
+|The Last Dance| Documentary - TV series| Netflix| 9.5/10| 9.1/10|[TRAILER](https://www.youtube.com/watch?v=N9Z9JtNcCWY&ab_channel=ESPN "The Last Dance")|[INFO](https://www.imdb.com/title/tt8420184/?ref_=fn_al_tt_1 "The Last Dance IMDb")
+|The Queen's Gambit | TV series | Netflix | 9/10 | 8.6/10|[TRAILER](https://www.youtube.com/watch?v=CDrieqwSdgI "The Queen's Gambit")|[INFO](https://www.imdb.com/title/tt10048342/?ref_=nv_sr_srsg_0 "The Queen's Gambit IMDb")|
+|The Shutter Island | Thriller/ Mystery | Netflix | 8.5/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=5iaYLCiq5RM "The Shutter Island")|[INFO](https://www.imdb.com/title/tt1130884/ "The Shutter Island IMDb")|
+|The Social Dilemma| Documentary| Netflix| 7/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=uaaC57tcci0&ab_channel=Netflix "The Social Dilemma")|[INFO](https://www.imdb.com/title/tt11464826/?ref_=nv_sr_srsg_0 "The Social Dilemma IMDb")|
+|Unsolved Mysteries| Documentary - TV series| Netflix| 9/10| 7.3/10|[TRAILER](https://www.youtube.com/watch?v=oZ4FrgGILM8&ab_channel=Netflix "Unsolved Mysteries")|[INFO](https://www.imdb.com/title/tt9642938/?ref_=nv_sr_srsg_3 "Unsolved Mysteries IMDb")|
+|World's Most Wanted| Documentary / Crime| Netflix| 7.5/10| 7.2/10|[TRAILER](https://www.youtube.com/watch?v=TFOYTE3RtCs "World's Most Wanted")|[INFO](https://www.imdb.com/title/tt12753698/ "World's Most Wanted")|
 ---
 
 <img align="left" width="40" height="40" src="media/icons/books.png">
 
 ## <a name="books"></a>Books
 
+The best way to spend quarantine time away from your computer is to read a book. You do not need to read books to learn something new. Books, like all things, are divided into categories according to their purpose (eg educational purpose) and their subject matter. In the table below you can find a variety of books for all tastes:
+
+<img src="media/images/books.jpeg" alt="Books" width="300"/>
+
+Photo owned by [elearningindustry.com](https://elearningindustry.com/top-10-books-every-college-student-read)
+
 |TITLE| TOPIC | AUTHOR | AVAILABLE ON| MY RATING| LINK |
 |---| ---| ---| ---| ---| ---|
-|Thinking, Fast and Slow | Psychology | Daniel Kahneman | Amazon | 9/10| [Link](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=391NW1M3NG4SX&dchild=1&keywords=think+fast+and+slow&qid=1616005195&sprefix=think+fast%2Caps%2C216&sr=8-1 "Thinking, Fast and Slow")|
-|Zero to One| Management | Pieter Thiel | Public | 9.5/10| [Link](https://www.public.gr/product/books/greek-books/economics/management/zero-to-one/prod6840642pp/ "Zero to One")|
-|Crime and Punishment| Crime fiction | Fyodor Dostoevsky | Amazon| 9/10| [Link](https://www.amazon.com/Crime-Punishment-Volokhonsky-Translation-Classics/dp/0679734503/ref=sr_1_1?crid=2ECOFGIAH7E7F&dchild=1&keywords=crime+and+punishment&qid=1616082855&sprefix=crime+and%2Caps%2C312&sr=8-1)|
-|The Sixth Man: A Memoir| Autobiography| Andre Iguodala | Amazon| 9.5/10| [Link](https://www.amazon.com/The-Sixth-Man-audiobook/dp/B07N487TMC/ref=sr_1_1?crid=12L3C7BF27NT6&dchild=1&keywords=the+sixth+man+iguodala&qid=1616082921&sprefix=the+sixth+man+iguo%2Caps%2C384&sr=8-1)|
-|The Royal Game| Novella|  Stefan Zweig | Amazon| 8.5/10| [Link](https://www.amazon.com/Royal-Game-translated-Stefan-Zweig-ebook/dp/B08LBT67W2/ref=sr_1_4?dchild=1&keywords=the+royal+game&qid=1616082952&sr=8-4)|
+|1984 | Classic Literature| Orwell George | Public | 9/10 | [Link](https://www.public.gr/product/books/greek-books/literature/translated-literature/1984/prod254453/?gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQisl4ukxjR0JQ1OTTY7rRJF_Pxphu9OZteR2mxrzxVa-igf_gz4PJC0aAvXyEALw_wcB "1984")|
+|21 Lessons for the 21st Century | Non-Fiction | Yuval Noah Harrari | Amazon | 9/10 | [Link](https://www.amazon.com/gp/product/B079WM7KLS/ref=dbs_a_def_rwt_bibl_vppi_i1)|
+|Algorithms to Live By: The Computer Science of Human Decisions | Non-Fiction | Brian Christian & Tom Griffiths | Amazon | 9.5/10 | [Link](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)|
 |Atlantis | Historical Novel | David Gibbins | Amazon| 10/10| [Link](https://www.amazon.com/gp/product/0755324226/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0755324226&SubscriptionId=1MGPYB6YW3HWK55XCGG2) |
+|Crime and Punishment| Crime fiction | Fyodor Dostoevsky | Amazon| 9/10| [Link](https://www.amazon.com/Crime-Punishment-Volokhonsky-Translation-Classics/dp/0679734503/ref=sr_1_1?crid=2ECOFGIAH7E7F&dchild=1&keywords=crime+and+punishment&qid=1616082855&sprefix=crime+and%2Caps%2C312&sr=8-1)|
+|Factfulness | Non-Fiction | Hans Rosling | Amazon | 9/10 | [Link](https://www.amazon.com/Factfulness-Reasons-World-Things-Better/dp/1250123828/ref=sr_1_1?crid=AWTNDRHKCZMH&dchild=1&keywords=factfulness&qid=1616416120&s=books&sprefix=factful%2Cstripbooks-intl-ship%2C266&sr=1-1)|
+|Homo Deus: A Brief History of Tomorrow | Non-Fiction | Yuval Noah Harrari | Amazon | 10/10 | [Link](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464345/ref=pd_lpo_14_img_0/138-6955471-0282806?_encoding=UTF8&pd_rd_i=0062464345&pd_rd_r=79940c5c-c962-4bff-97f0-d312b9386d69&pd_rd_w=eY4eA&pd_rd_wg=OWlZW&pf_rd_p=337be819-13af-4fb9-8b3e-a5291c097ebb&pf_rd_r=76HARP4SKM7BRFS4FGE9&psc=1&refRID=76HARP4SKM7BRFS4FGE9)|
+|Influence: The Psychology of Persuasion | Psychology | Robert B. Cialdini | Amazon| 9.5/10| [Link](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X) |
+|Little Women| Classic Novel | Alcott Louisa | Public | 9/10 | [Link](https://www.public.gr/product/mikres-kyries/prod851670pp/)|
+|Murder on the Orient Express | Crime Novel | Agatha Christie | Amazon | 9/10 | [Link](https://www.amazon.com/Murder-Orient-Express-Hercule-Mysteries/dp/0062073508)|
+|Norwegian Wood | Fiction | Haruki Murakami | Amazon | 9/10 | [Link](https://www.amazon.com/Norwegian-Wood-Haruki-Murakami/dp/1860468004)|
 |Pharaoh | Historical Novel | Valerio Manfredi | Amazon| 10/10| [Link](https://www.amazon.com/gp/product/0230530737/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0230530737&SubscriptionId=1MGPYB6YW3HWK55XCGG2) |
 |Rich Dad Poor Dad | Personal Finance |  Robert T. Kiyosaki | Amazon| 9.5/10| [Link](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194) |
-|Influence: The Psychology of Persuasion | Psychology | Robert B. Cialdini | Amazon| 9.5/10| [Link](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X) |
-| To Kill a Mocking Bird | Classic Literature | Harper Lee | Public | 9.5/10| [Link](https://www.public.gr/product/to-kill-a-mockingbird/prod1260555pp/) |
-|The Unbearable Lightness of Being | Modern Literature | Milan Kundera | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/modern-literature/the-unbearable-lightness-of-being/prod140346/)|
-|The Ice Princess | Crime Novel | Camilla Läckberg | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/crime-fiction/the-ice-princess/prod1150813pp/)|
-|The Secret History | Modern Literature | Donna Tartt | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/modern-literature/the-secret-history/prod141934/)|
-|Little Women| Classic Novel | Alcott Louisa | Public | 9/10 | [Link](https://www.public.gr/product/mikres-kyries/prod851670pp/)|
+|Sapiens: A Brief History of Humankind | Non-Fiction | Yuval Noah Harrari | Amazon | 10/10 | [Link](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)|
+|Six of Crows | Fantasy, Fiction | Leigh Bardugo | Amazon | 9/10 | [Link](https://www.amazon.com/Six-Crows-Leigh-Bardugo-ebook/dp/B00UG9LC4I)|
 |The Baltimore Boys| Fiction | Joël Dicker | Amazon | 9.5/10 | [Link](https://www.amazon.com/Baltimore-Alison-Anderson-translator-Dicker/dp/0857056867)|
 |The Fifth Season| Science fantasy | N. K. Jemisin | Amazon | 9/10 | [Link](https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1616329101&sr=1-1)|
+|The Ice Princess | Crime Novel | Camilla Läckberg | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/crime-fiction/the-ice-princess/prod1150813pp/)|
+|The Royal Game| Novella|  Stefan Zweig | Amazon| 8.5/10| [Link](https://www.amazon.com/Royal-Game-translated-Stefan-Zweig-ebook/dp/B08LBT67W2/ref=sr_1_4?dchild=1&keywords=the+royal+game&qid=1616082952&sr=8-4)|
+|The Secret History | Modern Literature | Donna Tartt | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/modern-literature/the-secret-history/prod141934/)|
+|The Selfish Gene | Non-Fiction | Richard Dawkins | Amazon | 10/10 | [Link](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Paperback/dp/B0722G5V92/ref=sr_1_2?crid=1Q7ZO9QVZSHC0&dchild=1&keywords=the+selfish+gene&qid=1616416041&s=books&sprefix=the+shelfi%2Cstripbooks-intl-ship%2C269&sr=1-2)|
+|The Sixth Man: A Memoir| Autobiography| Andre Iguodala | Amazon| 9.5/10| [Link](https://www.amazon.com/The-Sixth-Man-audiobook/dp/B07N487TMC/ref=sr_1_1?crid=12L3C7BF27NT6&dchild=1&keywords=the+sixth+man+iguodala&qid=1616082921&sprefix=the+sixth+man+iguo%2Caps%2C384&sr=8-1)|
+|The Unbearable Lightness of Being | Modern Literature | Milan Kundera | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/modern-literature/the-unbearable-lightness-of-being/prod140346/)|
+|Thinking, Fast and Slow | Psychology | Daniel Kahneman | Amazon | 9/10| [Link](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=391NW1M3NG4SX&dchild=1&keywords=think+fast+and+slow&qid=1616005195&sprefix=think+fast%2Caps%2C216&sr=8-1 "Thinking, Fast and Slow")|
+|To Kill a Mocking Bird | Classic Literature | Harper Lee | Public | 9.5/10| [Link](https://www.public.gr/product/to-kill-a-mockingbird/prod1260555pp/) |
+|We Hope This Reaches You in Time| poetry | Sin r.h. , King Holmes Samantha | Public | 9/10| [Link](https://www.public.gr/product/we-hope-this-reaches-you-in-time/prod10270092pp/ "We Hope This Reaches You in Time")|
+|We Were Liars | Young Adult Fiction | E. Lockhart. | Amazon | 9/10 | [Link](https://www.amazon.com/We-Were-Liars-Lockhart/dp/0385741278/ref=sr_1_1?dchild=1&keywords=we+were+liars&qid=1616411727&s=books&sr=1-1)|
+|Zero to One| Management | Pieter Thiel | Public | 9.5/10| [Link](https://www.public.gr/product/books/greek-books/economics/management/zero-to-one/prod6840642pp/ "Zero to One")|
+
+
 
 ---
 
@@ -150,25 +261,49 @@ If not, below there are some recommendations and really helpful videos.
 
 Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-you-reach-your-fitness-goals)
 
-**Workout tips :**
+**Workout tips:**
 
 * Set realistic goals
-* Alsways warm up
+* Set a weekly programm and stick to it!
+* Put on the clothes that make you feel motivated
+* Eat at least one-two hours before you train
+* Write down what you want to achieve with every training
+* Always warm up
 * Make sure to choose the right workout for you
 * Stay Hydrated
 * Listen to music
 * Find a workout buddy
 * Don't forget to stretch!
 
-**Different kinds of exercises and sports:**
+**Workout motivation quotes:**
+
+* No pain, No gain -> shut up and train.
+* Master your mindset, and you'll master your body.
+* Push yourself because no one else is going to do it for you.
+* The pain you feel today will be the strength you need tomorrow.
+* Later = Never (Do it now)
+* Push harder than yesterday if you want a different tomorrow
+* Its you vs you
+* Never forget why you started
+* Impossible is just a word
+* You can if you think you can
+* Energy flows where attention goes
+
+**Different kinds of workouts and sports:**
 
 * Freeletics (bodyweight workout)
 * HIIT (High Intensity Interval Training)
+* Crossfit
+* Powerlifting
+* Tabata
+* TRX
 * Pilates
 * Yoga
 * Dance Workouts
-* Running
 * Aerobic Workouts
+* Anaerobic workouts
+* Cycling
+* Running
 
 **“Burning” particular muscle groups:**
 
@@ -182,7 +317,6 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 **Full body workouts:**
 
 * Boxing cardio burn [video](https://www.youtube.com/watch?v=0Y8cy6qtIgg)
-* Dance fitness workout [video](https://www.youtube.com/watch?v=1XU4RCD85jM)
 * 20 Minute easy mode (NO EQUIPMENT) [video](https://youtu.be/oAPCPjnU1wA)
 * 20 Minute hard mode (NO EQUIPMENT) [video](https://youtu.be/yDQQVU__6Uc)
 * Full body Dumbbell workout [video](https://www.youtube.com/watch?v=i-Kq8loq7fA)
@@ -203,6 +337,8 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * 10 min R&B Dance [video](https://www.youtube.com/watch?v=89lzERjtwqE&t=305s)
 * 15 min Happy Dance [video](https://www.youtube.com/watch?v=Cw-Wt4xKD2s)
 * 10 min Happy Cardio (AMAZIIIIIING) [video](https://www.youtube.com/watch?v=QPKXw8XEQiA)
+* Dance fitness workout [video](https://www.youtube.com/watch?v=1XU4RCD85jM)
+
 
 **Yoga:**
 * 20 min Full Body Stress Relief [video](https://www.youtube.com/watch?v=sTANio_2E0Q&t=813s)
@@ -223,6 +359,17 @@ Don't forget to stretch! Here are some videos to help you:
 * Foam roller stretch [video](https://www.youtube.com/watch?v=pCX3qmWYkS4)
 * Hips and back stretch [video](https://www.youtube.com/watch?v=XVC8LGbxVG0)
 
+**Exercising apps**
+
+Quarantine gives you  a great opportunity to feel healthy  again.These apps will make you fall in love with exercising.
+
+* Plank Workout at Home-30 days Plank Challenge[Link](https://play.google.com/store/apps/details?id=fat.burnning.plank.fitness.loseweight&hl=el&gl=US)
+* Flexibility Training & Stretching Exercise at Home[Link](https://play.google.com/store/apps/details?id=com.fitifyapps.bwstretching&hl=en_US&gl=US)
+* Yoga daily fitness - Yoga workout plan[Link](https://play.google.com/store/apps/details?id=com.ssstudio.yogadailyfitness&hl=en_US&gl=US)
+* Yoga Workout-Yoga&Meditation for Daily Fitness [Link](https://play.google.com/store/apps/details?id=com.homefit.yoga.health&hl=en_US&gl=US)
+
+
+
 **Running**
 
 The quarantine is a great opportunity to practice your running skills. Running during quarantine is a great way improve your stamina and compete to various virtual running challenges with others around the globe, and why not, attempt to run your first marathon! Below you may find useful running tutorials:
@@ -239,6 +386,27 @@ You may also find some really useful running guides and training plans for begin
   * Best for adopting running into your daily routine: [Pacer](https://www.mypacer.com/)
   * Best professional running app: [Strava](https://www.strava.com)
   * Best for creating training plans: [Runcoach](https://runcoach.com)
+
+**Cycling**
+
+The quarantine is definitely the perfect period to exercise more and even adopt new ways of exercise. Cycling during the hard times of quarantine can easily boost your mood while improving your stamina, strength and aerobic fitness as well. Don't forget that with a bike you can explore many hidden gems of Athens that you had no idea of. 
+So, what are you waiting? Take your dusty bike and start cycling this moment!
+
+In case you don't already own a bicycle don't worry, you can buy one without much effort. Below, you may easily find some useful tips:
+
+* Picking the perfect bicycle for Beginners [Link](https://lifehacker.com/the-beginners-guide-to-picking-the-perfect-bicycle-1782443592)
+* Five types of bikes to choose from [video](https://www.youtube.com/watch?v=Znt0UuZW2nU)
+
+If not ready to buy a bike, don't forget you can also rent one. Here are some sites:
+
+* Athens Bike Rental [Link](https://www.athensbikerental.gr/rentals)
+* Panorama Bikes [Link](https://panoramabikes.gr/el/134-rent-a-bike-athens-greece)
+* GRCYCLING [Link](https://booking.grcycling.com/bikes)
+
+Once you have all the equipment needed, take many water bottles, maybe a sibling or a friend and go explore. Don't be afraid to go beyond your neighborhood. Here are some interesting ideas of destinations:
+
+* Top Tips for Cycling in Athens [Link](https://www.thisisathens.org/activities/sports-outdoors/biking-cycling)
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/skill.png">
@@ -249,12 +417,14 @@ Great ideas to learn new skills:
 * Learn a new programming language
 * Learn a new foreign language
 * Learn how to draw
+* Learn how to speak in public
 * Learn basic home repairs
 * Learn how to play a music instrument
 * Learn [a new subject](https://www.futurelearn.com/subjects)
 * Learn [how to start a garden](https://www.youtube.com/watch?v=B0DrWAUsNSc&ab_channel=SSLFamilyDad)
 * Learn self-defense
-* Learn how to embroider / knit
+* Learn how to [embroider](https://www.youtube.com/watch?v=2ATJuHN-C9A&ab_channel=byCHLOEWEN)
+* Learn how to [knit](https://www.youtube.com/watch?v=p_R1UDsNOMk&ab_channel=RJKnits)
 * Learn to type, [here is a useful platform](https://www.typingclub.com/)
 * Learn [how to cook, easily among the best!](https://akispetretzikis.com/ "Akis Petretzikis")
 
@@ -273,25 +443,36 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 
 |DISH| ORIGIN| MY RATING| RECIPE| PRO-TIP|
 |---| ---| ---| ---| ---|
-| Tzatziki | Greece | 10/10| [Link](https://cookieandkate.com/how-to-make-tzatziki/ "How to Make Tzatziki")| Choose a creamy yoghurt to create the perfect spread! |
-| Sushi | Japan | 10/10| [Link](https://akispetretzikis.com/en/categories/ryzi-amp-patates/soysi "How to Make Sushi")| Experiment with different types of fish. |
-| Burrito | Mexico | 10/10 | [Link](https://akispetretzikis.com/el/categories/snak-santoyits/burrito) | Add chili sauce to make it spicy.
-| Pastitsio | Greece | 10/10| [Link](https://akispetretzikis.com/en/categories/zymarika/to-pastitsio-toy-akh "How to Make Pastitsio")|It's all about the Bechamel sauce. |
-| Pancakes | Universal | 10/10| [Link](https://akispetretzikis.com/en/categories/glyka/pancakes "How to Make Pancakes")|  Flip when the small bubbles appear. |
-| Tacos | Mexico | 10/10 | [Link](https://www.thewholesomedish.com/the-best-homemade-tacos/) | Add extra cheese!! |
-| Cheesecake | Ancient Greece | 10/10 | [Link](https://sugarspunrun.com/best-cheesecake-recipe/) | Serve with sweet apple preserve. |
-| Feta Pasta Challenge | Universal | 10/10 | [Link](https://www.youtube.com/watch?v=WRzQ-Ngt3Do) | Serve with olives. |
-| Soft Cookies| Universal | 10/10 | [Link](https://www.youtube.com/watch?v=K-YHpNU0Dbk) | Serve with milk. |
-| Handmade Cinnamon Rolls | Northern Europe | 10/10 | [Link](https://www.youtube.com/watch?v=_Q0FYoCl4Cs) | Serve with extra cinnamon. |
+| Avocado Brawnies | Universal | 10/10 | [Link](https://akispetretzikis.com/el/categories/keik/brownies-me-avokanto "How to make avocado brawnies") | Pick a ripe avocado. |
+| Banana Split | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/all-american-banana-split/) | Mix up the original recipe by adding different kinds of fruit. |
+| Banoffee | England | 10/10 | [Link](https://akispetretzikis.com/en/categories/glyka/banoffee/) | Transform it into a chocolate banoffee by adding some chocolate couverture in the caramel mixture!|
 | Brownies | U.S.A. | 10/10 | [Link](https://akispetretzikis.com/el/categories/keik/brownies)| Do not hesitate to serve with a scoop of vanilla ice cream. |
+| Burrito | Mexico | 10/10 | [Link](https://akispetretzikis.com/el/categories/snak-santoyits/burrito) | Add chili sauce to make it spicy.
+| Cheesecake | Ancient Greece | 10/10 | [Link](https://sugarspunrun.com/best-cheesecake-recipe/) | Serve with sweet apple preserve. |
+| Chocolate chip cookies | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/big-buttery-chocolate-chip-cookies/) | Use pecans instead of walnuts. |
+| Cupcakes| Universal| 10/10 | [Link](https://sallysbakingaddiction.com/super-moist-chocolate-cupcakes/) | Make sure you’re using natural unsweetened cocoa powder, not dutched cocoa.|
+| Egg fried rice | U.S.A. | 10/10 | [Link](https://www.bbcgoodfood.com/recipes/oriental-egg-fried-rice) | Consider adding chicken. |
+| Feta Pasta Challenge | Universal | 10/10 | [Link](https://www.youtube.com/watch?v=WRzQ-Ngt3Do) | Serve with olives. |
 | Greek Salad | Greece | 10/10 | [Link](https://www.loveandlemons.com/greek-salad/) | Add capers to gain maximum taste. |
-| Pasta Primavera | Italy | 10/10 | [Link](https://www.cookingclassy.com/pasta-primavera/) | Mix up the veggies to create different combinations. |
+| Handmade Cinnamon Rolls | Northern Europe | 10/10 | [Link](https://www.youtube.com/watch?v=_Q0FYoCl4Cs) | Serve with extra cinnamon. |
+| Italian Pizza | Italy | 10/10 | [Link](https://www.walksofitaly.com/blog/food-and-wine/italian-pizza-dough-recipe) | Keep it simple on the ingredients! |
+| Lemon Pound Cake Loaf | England | 10/10 | [Link](https://www.seasonsandsuppers.ca/glazed-lemon-pound-cake-loaf/)| You can freeze it and grab a slice whenever you crave it! |
 | Lemon Rice | India | 9/10 | [Link](https://www.feastingathome.com/indian-lemon-rice/) | Serve it with fish. |
 | Lentil Soup | Morocco | 10/10 | [Link](https://www.simplyquinoa.com/detox-moroccan-lentil-soup/) | Serve with fresh onions. |
-| Italian Pizza | Italy | 10/10 | [Link](https://www.walksofitaly.com/blog/food-and-wine/italian-pizza-dough-recipe) | Keep it simple on the ingredients! |
-
-
-
+| Light Spaghetti Souffle | Italy | 10/10 | [Link](https://akispetretzikis.com/en/categories/zymarika/light-soyfle-me-makaronia-ston-foyrno/) | Mix the spaghetti and heavy cream with the turkey, mushrooms and corn for an even more delicious outcome! |
+| New York-Style Pizza | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/new-york-style-pizza/) | Reheat in the oven. |
+| Onion Rings | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/crispy-fried-onion-rings/) | Serve with different kinds of sauce. |
+| Pancakes | Universal | 10/10| [Link](https://akispetretzikis.com/en/categories/glyka/pancakes "How to Make Pancakes")|  Flip when the small bubbles appear. |
+| Parmesan Chicken | Italy | 10/10 | [Link](http://www.itscheatdayeveryday.com/one-pan-parmesan-tuscan-chicken/) | Serve with brown rice. |
+| Pasta Primavera | Italy | 10/10 | [Link](https://www.cookingclassy.com/pasta-primavera/) | Mix up the veggies to create different combinations. |
+| Pasta Salad | Italy | 10/10 | [Link](https://carlsbadcravings.com/italian-pasta-salad/) | Experiment with different kinds of pasta. |
+| Pastitsio | Greece | 10/10| [Link](https://akispetretzikis.com/en/categories/zymarika/to-pastitsio-toy-akh "How to Make Pastitsio")|It's all about the Bechamel sauce. |
+| Penne Arrabiata | Italy | 10/10 | [Link](https://www.aline-made.com/penne-arrabiata/) | Serve with parmesan. |
+| Soft Cookies| Universal | 10/10 | [Link](https://www.youtube.com/watch?v=K-YHpNU0Dbk) | Serve with milk. |
+| Sushi | Japan | 10/10| [Link](https://akispetretzikis.com/en/categories/ryzi-amp-patates/soysi "How to Make Sushi")| Experiment with different types of fish. |
+| Sweet & Sour Chicken | China | 10/10 | [Link](https://www.bbcgoodfood.com/recipes/sweet-sour-chicken) | Serve with rice. |
+| Tacos | Mexico | 10/10 | [Link](https://www.thewholesomedish.com/the-best-homemade-tacos/) | Add extra cheese!! |
+| Tzatziki | Greece | 10/10| [Link](https://cookieandkate.com/how-to-make-tzatziki/ "How to Make Tzatziki")| Choose a creamy yoghurt to create the perfect spread! |
 
 ---
 
@@ -301,7 +482,37 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 
 Ideas for interesting projects:
 
+### Arduino projects:
+
+<img src="media/images/arduino.png" alt="Arduino" width="250"/>
+
+Photo owned by [commonslab.gr](https://commonslab.gr/2016/11/01/arduino-genuino-official-reseller/)
+
+Arduino is an open-source platform used for building electronics projects. Arduino consists of both a physical programmable circuit board (often referred to as a microcontroller) and a piece of software, or IDE (Integrated Development Environment) that runs on your computer, used to write and upload computer code to the physical board.
+
+#### What can you do with arduino?
+- [LED Controller](https://www.youtube.com/watch?v=azxshrFSgnA)
+- Hot Glue LED Matrix Lamp
+- Arduino Mega Chess
+- Robot Arm with Controller
+- [Make Musical Instrument](https://www.youtube.com/watch?v=YF24gxDccVY)
+- Basic Earthquake Detector
+- Security Access Using RFID Reader
+- Smoke Detection using MQ-2 Gas Sensor
+- Audio Spectrum Visualizer
+- Motion Following Motorized Camera
+- Water Quality Monitoring System
+- [Punch Activated Arm Flamethrower](https://www.youtube.com/watch?v=GS9A1JuOKE8&ab_channel=AllenPan-SufficientlyAdvanced)
+- Drawing Machine
+- Home Automations
+
+and many more!!!
+
 ### Raspberry Pi projects:
+
+<img src="media/images/raspberry-pi.jpg" alt="Raspberry Pi" width="200"/>
+
+Photo owned by [robot-advance.com](https://www.robot-advance.com/EN/art-raspberry-pi-4-case-2641.htm)
 
 If you like tech projects and you want to work with a full-on computer in tiny package, you read the right section. Here you can find many raspberry pi projects to do alone or with your children.
 
@@ -315,7 +526,7 @@ If you like tech projects and you want to work with a full-on computer in tiny p
 * Create cloud storage with raspberry pi ([Tutorial](https://www.youtube.com/watch?v=FQoZuUrabok)).
 * Build a vpn server with raspberry pi ([Tutorial](https://www.pcmag.com/how-to/how-to-create-a-vpn-server-with-raspberry-pi)).
 
-#### Projects suitable for kids:
+#### Projects suitable for children:
 Do you want your kid to learn more about technology that just use facebook? Raspberry pi projects for children are the right choice for you.
 
 Here are some interesting projects:
@@ -346,28 +557,34 @@ My recommendations for kids' projects from raspberrypi.org:
 
 Amazing video games you must try out:
 
-* [FIFA 2021](https://www.ea.com/games/fifa/fifa-21)
-* [GTA San Andreas](https://www.rockstargames.com/games/sanandreas)
-* [League of Legends](https://na.leagueoflegends.com/en-us/)
-* [NBA 2K21](https://nba.2k.com/)
-* [Call of Duty: Warzone](https://www.callofduty.com/warzone)
-* [Call of Duty: Black Ops](https://www.callofduty.com/blackops)
-* [Fortnite](https://www.epicgames.com/fortnite/en-US/home)
-* [World of Warcraft](https://worldofwarcraft.com/en-us/)
-* [Minecraft](https://www.minecraft.net/en-us/)
-* [Dota 2](https://blog.dota2.com/?l=greek)
 * [Among Us](https://innersloth.com/gameAmongUs.php)
-* [Vendetta Online](https://www.vendetta-online.com/)
-* [God of War](https://www.playstation.com/el-gr/games/god-of-war/)
+* [Assetto Corsa](https://www.assettocorsa.it/home-ac/)
 * [Call of Duty: Black Ops](https://www.callofduty.com/blackops)
+* [Call of Duty: Warzone](https://www.callofduty.com/warzone)
+* [Dota 2](https://blog.dota2.com/?l=greek)
+* [Drakensang Online](https://www.drakensang.com/en)
+* [FIFA 2021](https://www.ea.com/games/fifa/fifa-21)
+* [Fortnite](https://www.epicgames.com/fortnite/en-US/home)
+* [Forza Horizon 4](https://forzamotorsport.net/en-us/games/fh4)
+* [God of War](https://www.playstation.com/el-gr/games/god-of-war/)
+* [GTA San Andreas](https://www.rockstargames.com/games/sanandreas)
+* [GTA V](https://www.rockstargames.com/V/restricted-content/agegate/form?redirect=https%3A%2F%2Fwww.rockstargames.com%2FV%2F&options=&locale=en_us)
+* [Hearthstone](https://playhearthstone.com/en-us)
+* [League of Legends](https://na.leagueoflegends.com/en-us/)
+* [Minecraft](https://www.minecraft.net/en-us/)
+* [NBA 2K21](https://nba.2k.com/)
 * [PES 2021](https://www.konami.com/wepes/2021/eu/en/ps4/)
+* [Red Dead Redemption II](https://www.rockstargames.com/reddeadredemption2/restricted-content/agegate/form?redirect=https%3A%2F%2Fwww.rockstargames.com%2Freddeadredemption2%2F&options=&locale=en_us)
+* [World of Warcraft](https://worldofwarcraft.com/en-us/)
+* [Vendetta Online](https://www.vendetta-online.com/)
 
 You can buy amazing video games for Windows, Mac and Linux computers in the following online stores:
-* [Steam](https://store.steampowered.com/)
+* [Battle.net](https://eu.shop.battle.net/en-gb)
+* [Epic Games Store](https://www.epicgames.com/store/en-US/)
 * [Good Old Games (GOG)](https://www.gog.com/)
 * [Origin](https://www.origin.com/irl/en-us/store)
+* [Steam](https://store.steampowered.com/)
 * [Ubisoft Store](https://store.ubi.com/ie/home)
-* [Epic Games Store](https://www.epicgames.com/store/en-US/)
 
 The stores above usually feature deals and discounts on specific games. In order to be informed about the best current deals about a specific game, check out [IsThereAnyDeal](https://isthereanydeal.com)!
 
@@ -385,6 +602,12 @@ Below you may find some interesting websites where you can play different board 
 * [Playing cards](https://playingcards.io/): PlayingCards.io simply provides a synchronized card playspace. It's up to you to start the game, enforce rules, and determine the winner, just like a real deck of cards!
 * [Rento](https://playrento.com/): Rento is online multiplayer monopoly clone. The game is for 2 to 6 players and you can play it online versus friends, offline versus bots. In the game you trade lands, build houses, win auctions, go and most importantly - have fun. Your goal is to acquire monopoly and bankrupt the other players. (*Source: https://playrento.com/*)
 * [Pretend you 're xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp): Pretend You're Xyzzy is a Cards Against Humanity clone! *([github repo](https://github.com/ajanata/PretendYoureXyzzy))*
+* [Password](https://www.thegamegal.com/2017/11/10/password): The goal of this game is to get your partner to guess the password by giving him a one word and only one word clue. First, you divide yourselves into 2 teams and in each round one of the members from each team will be given a password. If your partner guesses the password then your team wins the points of the round, but if he doesn't, then it's the other team’s turn. If their team gets the password they get the points. If the other team also doesn’t get the word you get another try. So this goes on for 3 times till someone gets the password and then the next round starts. It's a really entertaining game to play with your friends. **Pro Tip**: Turn this into a drinking game and you'll maximize the fun!*([download it here](https://play.google.com/store/apps/details?id=in.androidmate.password_game))*
+* [GeoGuessr](https://www.geoguessr.com/): The goal of this game is to guess the location of a specific spot on the globe presented to you via google maps street view. You can either play alone, or with friends. The closer your guess to the selected location, the more point you gather. The winner of the game is the person with the most points at the end of a specified number of rounds.
+* [The Wiki Game](http://thewikigame.com/): In this game, you have to navigate around wiki pages and guess. You start from a specific wikipedia page and within a specified time limit, you have to go to another target wikipedia page using the available hyperlinks.
+* [Settera](https://www.seterra.com/): Learning geography doesn't have to be boring. Do it the easy way with Seterra! In no time, you could learn to locate every single country in the world on a map.
+Seterra includes fun quizzes that help familiarize you with countries, capital cities, flags, rivers, lakes, and notable geological features.
+* [Among Us](https://www.bluestacks.com/apps/action/among-us-on-pc.html): The game takes place in a space-themed setting, in which players each take on one of two roles, most being Crewmates, and a predetermined number being Impostors. The goal of the Crewmates is to identify the Impostors, eliminate them, and complete tasks around the map; the Impostors' goal is to covertly sabotage and kill the Crewmates before they complete all of their tasks. Players suspected to be Impostors may be eliminated via a plurality vote, which any player may initiate by calling an emergency meeting (except during a crisis) or reporting a dead body. Crewmates win if all Impostors are eliminated or all tasks are completed whereas Impostors win if there is an equal number of Impostors and Crewmates, or if a critical sabotage goes unresolved.
 
 ### Classic board games
 If you are stuck at home with your family or your roommate(s), you could try one of these fun board games:
@@ -399,6 +622,9 @@ If you are stuck at home with your family or your roommate(s), you could try one
 * [Trivial Pursuit](https://en.wikipedia.org/wiki/Trivial_Pursuit): A game to test your knowledge about things around the globe.
 * [Scrabble](https://en.wikipedia.org/wiki/Scrabble): A game in which you use random letters to create words.
 * [Ticket to Ride](https://en.wikipedia.org/wiki/Ticket_to_Ride_(board_game)): A strategy game in which players collect train cards and use them in order to create train routes across a real world map and collect points. The purpose of the game is to collect the most points. This can be achieved by creating long railways and connecting remote cities which are determined by drawing ticket cards. This board game is ideal for people who like strategy, and love using..... Optimization Methods. :stuck_out_tongue:
+* [Bang!](https://en.wikipedia.org/wiki/Bang!_(card_game)): In this Wild-West themed game, a sheriff and a deputy sheriff are trying to uncover the outlaws. It sounds easy, but what happens when you don't know who the outlaws are?
+* [Wizard](https://en.wikipedia.org/wiki/Wizard_(card_game)): A fun card game that comes with a set of tricky rules. Each palyer has guess the results of the game and the winner is the one who makes the best guesses. 
+* [Risk](https://en.wikipedia.org/wiki/Risk_(game)): A strategy board game which combines war, debate, diplomacy, conflicts and luck. Each player has a quest to complete (usually to take over a continent) but so do your opponents. 2-6 Players, 1-8 hours. Do not play this game with your best friends, it will be the end of a friendship...    
 
 
 ---
@@ -411,44 +637,89 @@ Music is probably the best way to survive while at home. Whether you headbang wh
 ### Playlists 
 You can have an amazing time just by relaxing and listening to your favorite music. Here are some music playlists you might enjoy:
 * Cozy evenings (a chill mix) [listen here](https://www.youtube.com/watch?v=tHNSzNlgRZA&t=217s)
-* Top 40 songs of 2020 2021[listen here](https://www.youtube.com/watch?v=_pLO4jFDeIc)
+* Top 40 songs of 2020 2021 [listen here](https://www.youtube.com/watch?v=_pLO4jFDeIc)
 * Italian songs to dance to [listen here](https://www.youtube.com/watch?v=dsb9Fakq1A8)
+* Piano Acoustic Music [listen here](https://www.youtube.com/watch?v=wmFz6CD-MTE)
+* Ambient Study Music [listen here](https://www.youtube.com/watch?v=sjkrrmBnpGE)
+* Relaxing Jazz Music [listen here](https://www.youtube.com/watch?v=neV3EPgvZ3g)
+* Top techno songs [listen here](https://open.spotify.com/playlist/6g7ZfOfEqqSR4o7iPVZggC?si=jDMehvIDSweA0UJqu4Vhng)
+
 
 ### Songs
 Most of us can't imagine how lockdown would be like without our favorite songs. Here are some great songs you may not know:
 <!--- It would be nice to add songs that aren't widely known! In this way we can discover new music :) -->
-* Always, by Isak Danielson [listen here](https://www.youtube.com/watch?v=YZdyIgst-S4)
-* Holding on and Letting Go, by Ross Copperman [listen here](https://www.youtube.com/watch?v=NQv7DL-MAkk)
-* CLOUDS, by NF [listen here](https://www.youtube.com/watch?v=fibYknUCIU4)
-* Spring 1, recomposed by Max Richter (original by Vivaldi) [listen here](https://www.youtube.com/watch?v=41IOkVjy3MM)
-* Space Song, by Beach House [listen here](https://www.youtube.com/watch?v=RBtlPT23PTM&list=PLRQDSvpEpYzBUdlMzMhAWSD4TyE0ga7Et&index=4)
-* The Best (feat. Alice Merton), by Awolnation [listen here](https://www.youtube.com/watch?v=l-A43Av9ICo&list=PLRQDSvpEpYzBUdlMzMhAWSD4TyE0ga7Et&index=6)
-* Bloom Later (Audio), by Jesse [listen here](https://www.youtube.com/watch?v=XCirsEZCGO4&list=PLRQDSvpEpYzBUdlMzMhAWSD4TyE0ga7Et&index=2)
-* Faith, by the Weeknd [listen here](https://www.youtube.com/watch?v=RcS_8-a-sMg&ab_channel=TheWeekndVEVO)
-* With Ease, by Kelly the Lone [listen here](https://www.youtube.com/watch?v=GehP0qnsTSE&list=OLAK5uy_k75FWZaGaBNvCx6dDQG7OekUxw8P1mCe8&ab_channel=KellyTheLone-Topic)
 * All Around Me, by Aaronya [listen here](https://www.youtube.com/watch?v=min5dZxrXLQ&ab_channel=Aaronya-Topic)
-* Demons, by Imagine Dragons [listen here](https://www.youtube.com/watch?v=mWRsgZuwf_8)
-* Memories, by Maroon 5 [listen here](https://www.youtube.com/watch?v=SlPhMPnQ58k)
-* Closer, by Chainsmokers [listen here](https://www.youtube.com/watch?v=PT2_F-1esPk)
-* Una volta ancora, by Fred De Palma [listen here](https://www.youtube.com/watch?v=4R5mDpIgwUs)
-* Hypnotized, by Purple Disco Machine, Sophie and the Giants [listen here](https://www.youtube.com/watch?v=UbYQErtM9Zk)
-* Put Your Hands Up, by Boiling Point Band [listen here](https://www.youtube.com/watch?v=57SKB6Er88c)
-* Wild, Jonas Blue ft. Chelcee Grimes, TINI, Jhay Cortez [listen here](https://www.youtube.com/watch?v=BQogzYUoQWU)
-* Te Quiero Más, TINI and Nacho [listen here](https://www.youtube.com/watch?v=95IaQ8vyqHg)
-* La Cintura, by Alvaro Soler ft. Flo Rida, TINI [listen here](https://www.youtube.com/watch?v=oRMAgjly2UQ)
-* Grey Area, by Sam Tsui [listen here](https://www.youtube.com/watch?v=GNOUmctP3Yo)
-* The Fuss, Against The Current [listen here](https://www.youtube.com/watch?v=y_Qsrt6c9_k)
-* Legends Never Die, League of Legends ft. Against The Current [listen here](https://www.youtube.com/watch?v=4Q46xYqUwZQ)
-* TOP OF THE WORLD, ZAYDE WOLF [listen here](https://www.youtube.com/watch?v=Sdy9PY0CVQ0)
-* Love Is The Name, by Sofia Carson [listen here](https://www.youtube.com/watch?v=fuyVJYP7GJk)
 * All Time, by Tyler Ward, Mike Tompkins and KHS [listen here](https://www.youtube.com/watch?v=dkcs-26PBjY)
-* Paralyzed, Against The Current [listen here](https://www.youtube.com/watch?v=PvVhUo-PvVI) 
+* All of Me, John Legend [listen here](https://www.youtube.com/watch?v=73_DOquGBD4)
+* Always, by Isak Danielson [listen here](https://www.youtube.com/watch?v=YZdyIgst-S4)
+* American Pie, Don McLean [listen here](https://www.youtube.com/watch?v=iX_TFkut1PM)
+* Black Magic Woman, Santana [listen here](https://www.youtube.com/watch?v=wyQUCYl-ocs)
+* Bloom Later (Audio), by Jesse [listen here](https://www.youtube.com/watch?v=XCirsEZCGO4&list=PLRQDSvpEpYzBUdlMzMhAWSD4TyE0ga7Et&index=2)
+* Brain Damage, Pink Floyd [listen here](https://www.youtube.com/watch?v=BhYKN21olBw)
+* CLOUDS, by NF [listen here](https://www.youtube.com/watch?v=fibYknUCIU4)
+* Cat People, David Bowie [listen here](https://www.youtube.com/watch?v=A9I7U4nuR_I)
+* Closer, by Chainsmokers [listen here](https://www.youtube.com/watch?v=PT2_F-1esPk)
+* Demons, by Imagine Dragons [listen here](https://www.youtube.com/watch?v=mWRsgZuwf_8)
 * FEVER, by Megan Nicole [listen here](https://www.youtube.com/watch?v=DV30BtjNNIU) 
+* Faith, by the Weeknd [listen here](https://www.youtube.com/watch?v=RcS_8-a-sMg&ab_channel=TheWeekndVEVO)
+* Flatlands, The Aristocrats [listen here](https://www.youtube.com/watch?v=fW0p5SB52sI&list=LL&index=39)
+* From the Woods, James Vincent McMorrow [listen here](https://www.youtube.com/watch?v=ntZG2InulxE)
+* Girls Like You, Maroon 5 ft. Cardi B [listen here](https://www.youtube.com/watch?v=aJOTlE1K90k)
+* Glassy Sky, Donna Burke [listen here](https://www.youtube.com/watch?v=vvvvcpwFw5o)
+* Grey Area, by Sam Tsui [listen here](https://www.youtube.com/watch?v=GNOUmctP3Yo)
+* Holding on and Letting Go, by Ross Copperman [listen here](https://www.youtube.com/watch?v=NQv7DL-MAkk)
+* Hypnotized, by Purple Disco Machine, Sophie and the Giants [listen here](https://www.youtube.com/watch?v=UbYQErtM9Zk)
+* Killer Queen, Queen [listen here](https://www.youtube.com/watch?v=2ZBtPf7FOoM)
+* La Cintura, by Alvaro Soler ft. Flo Rida, TINI [listen here](https://www.youtube.com/watch?v=oRMAgjly2UQ)
+* Layla, Eric Clapton [listen here](https://www.youtube.com/watch?v=AVd4WY_Y9Dc)
+* Legends Never Die, League of Legends ft. Against The Current [listen here](https://www.youtube.com/watch?v=4Q46xYqUwZQ)
+* Love Is The Name, by Sofia Carson [listen here](https://www.youtube.com/watch?v=fuyVJYP7GJk)
+* Memories, by Maroon 5 [listen here](https://www.youtube.com/watch?v=SlPhMPnQ58k)
+* More Than Words, by Extreme [listen here](https://www.youtube.com/watch?v=UrIiLvg58SY)
+* Natural Blues, Moby [listen here](https://www.youtube.com/watch?v=z3YMxM1_S48)
+* New Rules, John Legend [listen here](https://www.youtube.com/watch?v=k2qgadSvNyU)
+* Nothing Around us, Mathame [listen here](https://www.youtube.com/watch?v=C0pRbPlTVbo)
+* Obsesión, by Aventura ft. Judy Santos [listen here](https://www.youtube.com/watch?v=8_QY5gFQUTg)
+* Paralyzed, Against The Current [listen here](https://www.youtube.com/watch?v=PvVhUo-PvVI) 
+* Porcelain, Moby [listen here](https://www.youtube.com/watch?v=13EifDb4GYs)
+* Put Your Hands Up, by Boiling Point Band [listen here](https://www.youtube.com/watch?v=57SKB6Er88c)
+* Respect Is What you Hear, The Weather Underground [listen here](https://www.youtube.com/watch?v=DcjdVsx-VoE)
+* Sleep on the Floor, Lumineers [listen here](https://www.youtube.com/watch?v=v4pi1LxuDHc)
+* Space Song, by Beach House [listen here](https://www.youtube.com/watch?v=RBtlPT23PTM&list=PLRQDSvpEpYzBUdlMzMhAWSD4TyE0ga7Et&index=4)
+* Spring 1, recomposed by Max Richter (original by Vivaldi) [listen here](https://www.youtube.com/watch?v=41IOkVjy3MM)
+* Summer Breeze, Seals and Crofts [listen here](https://www.youtube.com/watch?v=GQQbjpomexo)
+* Survival, Muse [listen here](https://www.youtube.com/watch?v=bKFhS0cQLE8)
+* TOP OF THE WORLD, ZAYDE WOLF [listen here](https://www.youtube.com/watch?v=Sdy9PY0CVQ0)
+* Te Quiero Más, TINI and Nacho [listen here](https://www.youtube.com/watch?v=95IaQ8vyqHg)
+* The Best (feat. Alice Merton), by Awolnation [listen here](https://www.youtube.com/watch?v=l-A43Av9ICo&list=PLRQDSvpEpYzBUdlMzMhAWSD4TyE0ga7Et&index=6)
+* The Fuss, Against The Current [listen here](https://www.youtube.com/watch?v=y_Qsrt6c9_k)
+* The Logical Song, Supertramp [listen here](https://www.youtube.com/watch?v=low6Coqrw9Y)
+* Una volta ancora, by Fred De Palma [listen here](https://www.youtube.com/watch?v=4R5mDpIgwUs)
+* United States of Eurasia, Muse [listen here](https://www.youtube.com/watch?v=-5-K51jHQ6k)
+* War of Change, Thousand Foot Krutch [listen here](https://www.youtube.com/watch?v=HdnTSXUWd3E)
+* White Room, Cream [listen here](https://www.youtube.com/watch?v=V5BF1V1pbTs)
+* Wild, Jonas Blue ft. Chelcee Grimes, TINI, Jhay Cortez [listen here](https://www.youtube.com/watch?v=BQogzYUoQWU)
+* With Ease, by Kelly the Lone [listen here](https://www.youtube.com/watch?v=GehP0qnsTSE&list=OLAK5uy_k75FWZaGaBNvCx6dDQG7OekUxw8P1mCe8&ab_channel=KellyTheLone-Topic)
+
+
+### Albums
+A subsection to add your favorite Music Albums
+
+* Play(2014 Remastered Version), by Moby [listen here](https://open.spotify.com/album/7yqSkf4TGPOHUtDKMVjhbD?si=lCj-kEh1QiuvGlsTQwfLVA)
+* Nothing Around us (2018), by Mathame [Listen here](https://open.spotify.com/album/3S8eBDaNXOgauG0Rtco6Kj?si=ShHzHVxeTeC9-az0szKw4A)
+* Wake me up (2020), by Tale of Us [Listen here](https://open.spotify.com/album/7aeL8XFsUp7BF7Jps0DoRi?si=iZUpANWlRZivHWit3_UTbw)
+* A night at the opera (2011 Remaster), by Queen [listen here](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx?si=bcOcHr7lSbS2PGYLVyT-XQ)
+
 
 ### Musical Instruments
 You are never actually too old to learn to play an instrument you have always liked. It is a perfect break from your laptop's screen.
 
 #### Guitar
+
+<img src="media/images/guitar.png" alt="Guitar" width="400"/>
+
+Photo owned by [ro.ieftin2021.com](https://ro.ieftin2021.com/category?name=guitarr)
+
 You will get surprised from how easily you can produce nice sounds. All you need to begin is:
 * a [tuning app](https://play.google.com/store/apps/details?id=com.ovelin.guitartuna&hl=en&gl=US)
 * a set of strings
@@ -467,8 +738,27 @@ Source: https://www.artistguitars.com.au/buying/how-to-choose-a-guitar-in-2-simp
 
 #### Piano
 
+<img src="media/images/piano.jpg" alt="Piano" width="400"/>
+
+Photo owned by [worldsecrets.gr](https://www.worldsecrets.gr/sunavlia-piano/learn-piano/)
+
 While there is no doubt that having a good traditional teacher can be helpful, the fact is you can teach yourself how to play piano/keyboard very effectively by attending online piano lessons or watching online guides. You can check out [MangoldProject's Piano Lessons for Beginners](https://www.youtube.com/watch?v=827jmswqnEA&list=PLP9cbwDiLzdL6IS4-rmzR42ghq3T56XnK), which is a helpful step by step guide for learning to play on a keyboard.
 
+#### Ukulele
+
+<img src="media/images/ukulele.jpg" alt="Ukulele" width="400"/>
+
+Photo owned by [nytimes.com](https://www.nytimes.com/wirecutter/reviews/best-ukulele-for-beginners/)
+
+It really doesn't matter how old or young you are, and even if you’ve never played music before in your life, you can learn how to play ukulele… even today! All you need to do is to:
+* borrow a ukulele from a friend or buy one that feels right for you
+* get in the right mindset to play and put aside your fears and doubts about playing
+* tune your ukulele
+* practise some chords starting with C
+* practise a strumming pattern
+* learn a song and enjoy yourself
+
+Source: https://ukuleletricks.com/how-to-play-ukulele/
 
 ### Writing/Composing Music
 
@@ -482,6 +772,9 @@ Additionally, MuseScore offers a large database of free-to-access sheet music. Y
 
 ## <a name="meditation"></a>Meditation
 Meditation is a fun and relaxing way to spend your time in quarantine. Try lying down with your eyes closed and focusing on your breath, breathing in and out. This will help you lower stress levels, boost your mood, allow you to connect better with yourself and improve your focus.
+* 5-minute meditation - [link](https://www.youtube.com/watch?v=inpok4MKVLM&t=71s&ab_channel=Goodful)
+* 10-minute meditation - [link](https://www.youtube.com/watch?v=O-6f5wQXSu8&ab_channel=Goodful)
+* 20-minute meditation - [link](https://www.youtube.com/watch?v=-2zdUXve6fQ&ab_channel=TheMindfulMovement)
 >[Here is a good playlist to help you relax!](https://www.youtube.com/watch?v=oJnF5VxTO5g "Chill & Relax")
 
 ---
@@ -496,6 +789,23 @@ Do you remember the nights when you used to hang out for hours with your friends
 - Zoom
 - Discord
 - Or check out these [open source alternatives](https://opensource.com/alternatives/skype)
+
+Virtual Activities:
+- Sing karaoke 
+
+This is pretty much self-explanatory. Pick a song, find its karaoke version on YouTube and sing along! Tip: make sure everyone else's microphones are mute.
+
+- Disguised party 
+
+This can go in two ways. You can discuss with the group the theme of disguise for your next group call and everyone dresses accordingly OR each person picks their costume individually. It feels just like Halloween! How fun!
+
+- PowerPoint party 
+
+Essentially, everyone picks a topic near and dear to their heart —the more niche, the better— and prepare a five-minute PowerPoint presentation on it. Here's some fun and interesting ideas: Drunk history, The best [whatever] of all time, Ranking and rating my exes, How HSM changed my life
+
+- Movie/series night 
+
+Watch a movie or a series with your group of friends without leaving your home, just by screen sharing in a video call or using streaming platforms like Netflix Party. Plus, you can comment on it in chat without disturbing others.
 
 ---
 
@@ -514,6 +824,7 @@ the first step to become an artist and use the time during the pandemic more eff
 * [EASY Step By Step Digital Collage TUTORIAL | NO DRAWING SKILLS REQUIRED | How To For Beginners](https://www.youtube.com/watch?v=xl3Zj_JgYKk "Digital Collage Tutorial")
 * [Basics of charcoal drawing](https://www.google.com/search?q=carbon+drawing&sxsrf=ALeKk00M9bDB-PlzL-DCft_0ae4hcXj4Dg%3A1616191227070&ei=-x5VYLHdA-anrgT0yrj4Dw&oq=carbon+drow&gs_lcp=Cgdnd3Mtd2l6EAEYADIICAAQFhAKEB4yBggAEBYQHjIICAAQFhAKEB4yCAgAEBYQChAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIIxAnOgQIABBDOggIABCxAxCDAToLCAAQsQMQxwEQowI6BQgAELEDOggILhCxAxCDAToECC4QQzoHCAAQsQMQQzoFCC4QsQM6AggAOggIABDHARCvAToECAAQCjoKCAAQxwEQrwEQCjoFCAAQywFQ3ClYqkBg9lpoAHACeACAAb4BiAHyDpIBBDAuMTKYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=gws-wiz#kpvalbx=_CB9VYN7QEOKwrgSlxZPQDg19 "Charcoal Drawing")
 * [Adult Colouring Books](https://www.amazon.com/s?k=adult+coloring+book&crid=3S3IZCUX5I7KQ&sprefix=adult+colo%2Caps%2C193&ref=nb_sb_noss_2)
+* [Beginner's guide to Digital Art](https://www.youtube.com/watch?v=5pmIYH1ugtk&ab_channel=Nadiaxel)
 
 ---
 
@@ -530,8 +841,20 @@ Best Apps for Organization and Productivity:
 * Trello [Find it here](https://trello.com/en)
 * Jour [Find it here](https://jour.com/)
 * Todoist [Find it here](https://todoist.com/)
+* Memento [Find it here](https://apps.apple.com/us/app/momento-diary-journal/id980592846)
+* 24me Find it [here](https://apps.apple.com/us/app/24me-smart-personal-assistant/id557745942) for iOS and [here](https://play.google.com/store/apps/details?id=me.twentyfour.www&hl=en) for Android
 
-
+Tips to Organise your Bedroom:
+1. Designate a Home for Every Item
+2. Utilize Under Bed Storage
+3. Arrange Furniture by Frequency of Use
+4. Store Seasonal Shoes Under the Bed
+5. Create a Storage Nook
+6. Use a Bedside Pocket Organizer
+7. Go Minimalist
+8. Use Personal Items as Decor
+9. Store Your Hats on a Wall
+* Information was taken from [here.](https://www.extraspace.com/blog/home-organization/room-organization/bedroom-organization-ideas-tips-hacks/)
 ---
 
 <img align="left" width="40" height="40" src="media/icons/pen.png">
@@ -542,7 +865,14 @@ There are many types of content produced by writing, like for example:
 - Novels
 - Short stories
 - Academic papers
-- Personal journals
+- Personal journals: Here are some journaling prompts to help your reflection journey:
+	- What are the 3 biggest lessons you've learned over the last year?
+	- Write down 10 things no one knows about you.
+	- Close your eyes and take yourself on your favourite walk. What do you observe?
+	- What is a resolution you made in January that you have let slip? How can you pick it back up?
+	- What gives you hope for the rest of this year? Why is 2021 a good one?
+	- What are your 10 favourite things about yourself?
+	- Look around your room. What are you grateful for today in the ordinary?
 - Technology documentations
 - Blog posts
 - And the list goes on
@@ -560,7 +890,7 @@ Here are some of the vegetables that you can begin with!
 
 <img src="media/images/vegetables.jpg" alt="Food around the world" width="500"/>
 
-Photo owned by [kellogggarden.com](https://www.kellogggarden.com/wp-content/uploads/2017/07/Leafy-Vegetable-Garden.jpg)
+
 
 |VEGETABLE| GROW TIME (days)| VITAMINS| COLD HARDNESS | WHEN TO WATER |
 |---| ---| ---| ---| ---|
@@ -572,10 +902,53 @@ Photo owned by [kellogggarden.com](https://www.kellogggarden.com/wp-content/uplo
 | Tomatoes  | 65-85  | 	 A, C, K, and B6|	Tender | Twice a week |
 | Potatoes  | 90-120  | 	B6 and C|	Half-hardy | Regularly, when tubers start to form |
 
-Source: https://www.almanac.com/vegetable-growing-guide
+Photo owned by [kellogggarden.com](https://www.kellogggarden.com/wp-content/uploads/2017/07/Leafy-Vegetable-Garden.jpg)  
+Icon source: [thenounproject.com ](https://thenounproject.com/term/gardening/) 
 
 ---
+<img align="left" width="40" height="40" src="media/icons/online_course.png">
 
+## <a name="online_course"></a>Study online Courses 
+Take advantage of quarantine by investing in yourself!
+Learn a topic that interests you from an online class! Below you can find various sites for online cources as well as examples of online courses.  
+
+<img src="media/images/online_course.jpg" alt="online course" width="500"/>
+
+
+Sites for online courses: 
+* [Academic Earth](https://academicearth.org/)
+* [Adobe](https://learning.adobe.com/)
+* [ALISON](https://alison.com/)
+* [Codecademy](https://www.codecademy.com/)
+* [Coursera](https://www.coursera.org/)
+* [edX](https://www.edx.org/)
+* [freeCodeCamp](https://www.freecodecamp.org/)
+* [FutureLearn](https://www.futurelearn.com/)
+* [General Assembly](https://generalassemb.ly/)
+* [LearnSmart](https://www.mheducation.com/highered/connect/case-studies/learnsmart-works.html)
+* [LinkedIn Learning](https://www.linkedin.com/learning)
+* [openSAP](https://open.sap.com/)
+* [Pluralsight](https://www.pluralsight.com/)
+* [Scrimba](https://scrimba.com/)
+* [Skillshare](https://www.skillshare.com/)
+* [Trailhead](https://trailhead.salesforce.com/en/home)
+* [Udacity](https://www.udacity.com/)
+* [Udemy](https://www.udemy.com/)
+
+Online courses: 
+|TITLE|LENGTH|PRICE|INSTITUTION|LEVEL | LANGUAGE| HOST SITE| LINK|
+|---| ---|  ---| ---|---|---|---|---|
+|Project Management Professional |240 hours|32/month|Google|Begginer |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/professional-certificates/google-project-management "Project Management Professional Certificate")|
+|Cybersecurity Fundamentals|96 hours|Free|RITx|Advanced|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/cybersecurity-fundamentals "Cybersecurity Fundamentals")|
+|Bitcoin and Cryptocurrencies|30 hours|Free|BerkleyX|Introductory|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/bitcoin-and-cryptocurrencies?index=product&queryID=b3b6160e788842372317117050e9c774&position=1 "Bitcoin and Cryptocurrencies")|
+|Introduction to Machine Learning|25 hours|Free|Duke|Intermediate |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/learn/machine-learning-duke "Introduction to Machine Learning")|
+|Statistics and R|16 hours|Free|HarvardX|Intermidiate|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/statistics-and-r "Statistics and R")|
+|Introduction to Psychology|15 hours|40/month|Yale|Beginner |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/learn/introduction-psychology "Introduction to Psychology")|
+
+Photo owned by [transform-elearning.com](https://www.transform-elearning.com/build-online-course-guide/)  
+Icon source: [iconscout.com ](https://iconscout.com/icon/online-course-8) 
+
+---
 <img align="left" width="40" height="40" src="media/icons/video.png">
 
 ## <a name="videomaking"></a> Video Making
@@ -583,7 +956,7 @@ Creating videos is a very fun and creative way to spend your time during lockdow
 
 - Create short films. (More [here](https://www.filmmakingstuff.com/filmmaking-lesson-8-make-some-short-films/)).
 - Create tiktok videos. (More [here](https://www.tiktok.com/?lang=en)).
-- Start vlogging. (More [here](https://www.bloggingbasics101.com/how-do-i-start-a-blog/)).
+- Start vlogging. (More [here](https://nofilmschool.com/how-to-start-vlogging)).
 - Start live streaming. (More [here](https://www.boxcast.com/blog/how-to-start-live-streaming)).
 - Start a youtube channel. (More [here](https://www.adorama.com/alc/10-tips-for-starting-a-youtube-channel/))
 
@@ -600,11 +973,13 @@ Podcasts is a great way to learn from other people about things that interest yo
 * [Off Menu With Ed Gamble and James Acaster](https://play.acast.com/s/offmenu)
 * [The Bert Show](https://play.acast.com/s/the-bert-show)
 * [The Last Laugh](https://play.acast.com/s/last-laugh-daily-beast)
+* [Your Kickstarter Sucks](https://play.acast.com/s/yourkickstartersucks)
 
 #### News and Politics
 * [The Economist Asks](https://play.acast.com/s/theeconomistasks)
 * [Intelligence Squared](https://play.acast.com/s/intelligencesquared)
 * [The New Abnormal](https://play.acast.com/s/the-new-abnormal)
+* [The Global News Podcast](https://play.acast.com/s/globalnews)
 
 #### Education
 * [Connexions](https://play.acast.com/s/connexions-classroom)
@@ -616,12 +991,18 @@ Podcasts is a great way to learn from other people about things that interest yo
 * [Cyber](https://play.acast.com/s/cyber)
 * [Launch Pad](https://play.acast.com/s/wharton-entrep)
 * [Brave New Planet](https://www.pushkin.fm/show/brave-new-planet/)
+* [The WAN Show](https://play.acast.com/s/thewanshowpodcast)
+* [Waveform](https://play.acast.com/s/waveform-the-mkbhd-podcast)
 
 #### Business
 * [Business Wars](https://play.acast.com/s/businesswars)
 * [My First Million](https://play.acast.com/s/myfirstmillion)
 * [TED Talks Daily](https://play.acast.com/s/tedtalks)
 * [Planet Money](https://www.npr.org/sections/money/?t=1616235730554)
+
+#### Games & Hobbies
+* [Rusty Quill Gaming](https://play.acast.com/s/rustyquillgaming)
+* [Whatculture Gaming](https://play.acast.com/s/whatculturegaming)
 
 ### Do you have ideas you want to share? Create your own Podcast!
 Here are a few simple steps to help you start:
@@ -665,11 +1046,15 @@ offers a wide range of different cruise packages, from the Mediterranean to the 
 An Erasmus exchange is a great way to step out of your comfort zone. Specifically, you will get a taste of living abroad, make valuable new connections from all over the world,
 improve a foreign language or two, experience university life in a foreign institution and most importantly have the time of your LIFE!
 
-Start by visiting the university [page](https://www.dept.aueb.gr/el/dmst/content/%CF%80%CF%81%CF%8C%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1-erasmus), which includes lots of information
+<img src="media/images/erasmus.jpg" alt="erasmus" width="500"/>
+
+Start by visiting the [university page](https://www.dept.aueb.gr/el/dmst/content/%CF%80%CF%81%CF%8C%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1-erasmus), which includes lots of information
 about the procedure and the available destinations. Before you decide on your top 3 destinations, it is recommended to write down the pros and cons of all the
 universities you are interested in. In case you need more information on a university or country you can check [this facebook group](https://www.facebook.com/groups/2069463463353183)
 and the [ESN AUEB page](https://www.facebook.com/ESNAthensAUEB), where you can ask to be connected to students with erasmus experiences in the universities that you are interested in.
-Lastly, you can also check [this video](https://www.youtube.com/watch?v=IilqhLVRP6U&t=3s&ab_channel=LosAngie) in order to learn how to apply for an erasmus exchange.
+Lastly, you can also check [this video](https://www.youtube.com/watch?v=IilqhLVRP6U&t=3s&ab_channel=LosAngie) in order to get more information on how to apply for an erasmus exchange.
+
+Photo owned by [ied.eu](https://ied.eu/blog/the-erasmus-plus-programme/)
 
 ---
 <img align="left" width="40" height="40" src="media/icons/coding.png">
@@ -698,13 +1083,118 @@ Creating an alarm clock is a cool way of demonstrating your coding skills. To be
 Create a python program with a comple GUI, that gives you a random sentence, and tests your typing speed. It is an advanced project but you can learn a lot about  design.
 
 
-
-
-
 Source : https://careerkarma.com/blog/python-projects-beginners/
 
----
+<img align="left" width="40" height="40" src="media/icons/java.jpg">
 
+### Java
+
+
+* Temperature Converter Tool
+
+This is a simple project to help you practice your Java skills. It just requires the basic mathematic skills that will help you build the logic of the program. 
+Tip: you can use the javafx package to build the tool's interface.
+
+* Percentage Calculator
+
+This is another great project to help you develop your coding skills and it uses basic Java concepts. The users just inserts the value and the calculator returns the matching percentage.
+The javafx package will help you build the interface.
+
+
+Source: https://data-flair.training/blogs/java-project-ideas/
+
+
+---
+<img align="left" width="40" height="40" src="media/icons/car.jpg">
+
+## <a name="Work-with-cars"></a> Work with cars!
+Do you like cars? Of course you do! Who doesn't?
+
+### Config your dream car by brand:
+* [Audi](https://configurator.audi.com/acc/configurator/v1/gre/gre)
+* [BMW](https://www.bmw.gr/el/configurator.html)
+* [Mercedes-Benz](https://www.mercedes-benz.gr/passengercars/configurator.html)
+* [MINI](https://configure.mini.com.gr/el_GR/model-ranges?clc=MINI.Digital&ctid=Google_GSN_Text_Brand_1581&ccid=1581&tl=sea-gl-GR_2021_MINI_AR_GoogleSearch_Brand_Details_TextAd_Exact-mix-miy-.-sech-Brand%20configurator-.-e-mini%20configurator-.-.&gclid=CjwKCAjwgOGCBhAlEiwA7FUXkowCVAF4evECQerRrzXvjCB-MMwEBN0iZeWuttJ5eIXxcJDy3mtgJxoCcTAQAvD_BwE)
+* [Porche](https://www.porsche.com/central-eastern-europe/en/_greece_/modelstart/)
+* [VW](https://www.volkswagen.gr/el/models-and-configurator.html)
+
+### Building your car from scracth? Here are some websites with parts (used and new):
+* [Car.gr](https://www.car.gr)
+* [Offroad parts](https://www.xtreme4x4.gr)
+
+
+Section icon Source: https://2sleepylagoonter.info/car-news/best-cars/top-10-best-sports-cars
+
+---
+<img align="left" width="40" height="40" src="media/icons/cocktail.png">
+
+## <a name="cocktails"></a> Cocktail Adventures!
+Let's be honest, Covid-19 pandemic and its several back-to-back lockdowns have been harsh for the most of us. Being in front of a screen for hours, unable to get in physical touch with our beloved ones and having our favorite restaurants and bars closed is an everyday struggle. After all that, the need to pour a glass (or two) of wine before bedtime comes naturally. 
+
+So, we are here to just say that we understand and that it's time to level up the game; Cocktail adventure nights! Do you want to advance you bartender skills or feel like a little kid again? Well, as you discover new tasty horizons and mix up your favorite ingredients, the art of mixology will start to unfold and we promise you to enjoy those lockdown days as they are passing by. 
+
+### Organize your space.
+First things first; Before you start your mixing experiments, you need to set up your working station. There are not many things requiered for that, just the basic bar essentials and spirits of your preference.  
+- Bar tool essentials: 
+  1. Bar Spoons. You may already have some long-handle teaspoons but if you don't, you can find them [here](https://www.amazon.com/Hiware-Stirring-Stainless-Cocktail-Pattern/dp/B01EL7NAYU/ref=sr_1_9?keywords=bar+spoons&qid=1567433894&s=gateway&sr=8-9).
+  2. Bottle opener & corkscrew. We are pretty sure everyone has at least one bottle opener of any kind. [Here](https://www.amazon.com/WHELVE-Mounted-Magnetic-Functional-Upcycled/dp/B07NQRGVTR/ref=sr_1_19_sspa?keywords=wall+mounted+bar+bottle+opener&qid=1567439614&s=gateway&sr=8-19-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQlU3VFdCSTJUT1E0JmVuY3J5cHRlZElkPUEwMTc3NjgzMVRYV0VQWFJVSjIxWCZlbmNyeXB0ZWRBZElkPUEwNDk1MjY2M1FHM0hTV0ZPM0VFVSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) is an extra idea if you are looking for something new.
+  3. Cocktail shaker. Maybe the most important thing in a bar. For your homemade cocktails you probably won't need more than one shaker, which you can purchase [here](https://www.amazon.com/Boston-Cocktail-Shaker-Unweighted-Professional/dp/B07QFT835K/ref=sr_1_7?keywords=bar+cocktail+shaker&qid=1567440752&s=gateway&sr=8-7).
+  4. Cocktail strainer. If your cocktail shaker doesn’t come with a built-in strainer, you’ll definitly need one of these to create cold ice-free drinks. We suggest something stainless like [this](https://www.amazon.com/Hawthorne-Cocktail-Strainer-Professional-Mixologists/dp/B06WGNF3SX/ref=sr_1_4?keywords=bar+cocktail+strainer&qid=1567441714&s=gateway&sr=8-4).
+  5. Cutting board. That's an easy one too. Most kitchens are equipped with a wooden cutting board, but [here](https://www.amazon.com/Cutting-Board-Food-Prep-Restaurantware/dp/B075S5CX16/ref=sr_1_6?keywords=bar+cutting+board&qid=1567433589&s=gateway&sr=8-6) is a fresh suggestion to cut your cocktail garnishes. With a cutting board you provide your bar not only a hygienic and safe surface for cutting, but also you can avoid making a mess to your kitchen.
+  6. Ice crusher. It's a must when making cold cocktails. Having an ice crusher is the ideal way to crush ice to the right consistency for your signature cocktails. [This one](https://www.amazon.com/Time-Treats-Iceberg-crusher-white/dp/B087VJ13WB/ref=sr_1_1?_encoding=UTF8&c=ts&dchild=1&keywords=Blenders+%26+Ice+Crushers&qid=1616503456&s=kitchen&sr=1-1&ts_id=289732) is portable and doesn’t take up much room. Alternatively, you can buy crushed ice, however this can increase your budget.
+  7. Jigger. It is not as necessary as one might think, because the more cocktails you make the more familiar you become with the liquid doses. However, if you want to get some jiggers as a beginner mixologist or to be more professional one, then [this set](https://www.amazon.com/CucinaPrime-Cocktail-Jigger-Stainless-Steel/dp/B00VCBM4TQ/ref=sr_1_11?keywords=jigger&qid=1567444723&s=gateway&sr=8-11) is what you are looking for.
+  8. Muddler. Your homemade bar requires a muddler,[like this](https://www.amazon.com/Extra-Long-Cocktail-Muddler-Professional/dp/B07DMFH8SF/ref=sr_1_1_sspa?keywords=muddler&qid=1567433016&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzRU5SODNEUTJQVThUJmVuY3J5cHRlZElkPUExMDM0ODMyTzFJVTJXMEVCM0ZSJmVuY3J5cHRlZEFkSWQ9QTA0ODY0MjgzSDVJMUFCNFJZQTExJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) if you want to bring out the aromatics of herbs and spices so that their flavors are released and infused into your cocktails.
+  9. Rimmer. If you’re making margaritas and other drinks that require a rimmed glass edge, for a low budget you can always use a plate filled with salt or sugar, but [here](https://www.amazon.com/Greenco-Glass-Rimmer-Margarita-Cocktail/dp/B016YM64JI/ref=sr_1_15?keywords=rimmer+for+bar&qid=1567448578&s=gateway&sr=8-15) is a more professional option.
+  10. Proper kind of glasses. Last but not least, your bar will need the specific glasses to pour your creations, like Coupe Glasses, Single & Double Rocks Glasses, Highball & Collins Glasses, Nick & Nora Glasses and of course Shot glasses. Our suggetion is, if you don't have any of this kinds, to purchase just a pair of each and get more as your cocktail adventures proceed.[Here are the types of Cocktail Glasses You Actually Need](https://nymag.com/strategist/article/best-cocktail-glass-types.html).
+
+- Bar spirit essentials:
+  1. Rum: Its sweeter flavor makes it one of the more versatile spirits. It was among the first liquors to be mixed into drinks, so there are some excellent classic rum cocktails to choose from. It is the obvious base for tropical drinks and appears in several warm cocktails.
+  2. Whiskey - Bourbon: It mixes well with other liquors to create complex drinks, and it pairs well with many fruits, particularly the darker fruits. Warm drinks are also very popular with whiskey.
+  3. Tequila: It has a great flavor profile that mixes well into a variety of cocktails. There are, of course, the margaritas and frozen cocktails in which tequila is mixed with any fruit imaginable. It also makes a perfect base for spicy cocktails and is very popular for party shots.
+  4. Brandy: It's popularly featured in several classic cocktails and tends to be used in drinks that include just a few ingredients. However, many modern brandy recipes break this mold and experiment with brandy in some unique flavor combinations.
+  5. Gin: Gin's dry profile makes it a perfect candidate for dry (non-sweet) cocktails, including many classics and martinis. It is a nice base for cocktails and pairs well with lighter mixers, fruits and naturally works well with herbs.
+  6. Vodka: Its neutral taste makes it the most versatile spirit available today. Vodka cocktails include almost every imaginable flavor profile, from sweet to savory, fruits to herbs, and spices to sparkling mixers.
+  7. Dry and Sweet Vermouth: Dry vermouth is famously used to make martinis and is dry and floral. Sweet vermouth is sweet, spiced, and herbal, and is used in cocktails like Manhattans and negronis.
+  8. Amaretto: It is very adaptable, mixing with a variety of flavors, from fruits to coffee and cinnamon to ginger. Amaretto is found in creamy cocktails, adds a sweet touch to martinis, and gives a nice depth to fruity highballs.
+  9. Campari: It is commonly served with soda water or citrus juice, or with prosecco as a spritz. Campari is an essential ingredient in the classic Negroni cocktail, the Garibaldi, the Americano and the spritz (an aperitif popular in northern Italy).
+
+- Bar Non-Alcoholic Essentials:
+  1. Ice! Yeap, you're going to use lots of it, so you better stock your freezer before you get started with your cocktail experiments.
+  2. Juices: Most common used are lemon, lime, orange and cranberry/strawberry juice. For more tropical cocktails you may want to have pineapple juice or coconut cream/milk. Of course don't forget tomato juice as it is essential for making Bloody Mary.
+  3. Sodas: Club soda, Tonic Water, Ginger Ale, Cola. The list is simple and includes the basics that you are likely to encounter in recipes.
+  4. Bitters: It is amazing what a dash or two of bitters can do to the flavor of almost any cocktail. To start, you'll find that aromatic and orange bitters are used most often and a bottle of each can last years.
+  5. Simple Syrup: Sugar and water, that's it. This is the best way to sweeten cocktails and it's incredibly simple to make yourself.
+  6. Grenadine: That famous red syrup, it's essential for many great drinks. You can buy or make this one yourself.
+  7. Garnishes: lime, lemon, orange and any other fruit slices you prefer, cinnamon sticks to add flavor to any cocktail especially warm ones, mint and DO NOT forget to stock salt and sugar (extra tip: try adding brown sugar) 
+
+
+Sources: [glimpose.blog](https://www.glimpsecorp.com/bar-tools-and-equipment-and-their-uses/), [the spruce eats](https://www.thespruceeats.com/essential-distilled-spirits-and-mixers-760741)
+
+### Get to action: Basic cocktails To Try
+
+<img src="media/images/cocktails.jpg" alt="Cocktails" width="500"/>
+
+photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/) 
+
+
+|Name| Primary Alcohol | How to make | 
+|---| ---| ---| 
+| Mojito| Rum | [video](https://www.youtube.com/watch?v=KWU9ZaWbeuQ)|
+| Manhattan| Whiskey| [video](https://www.youtube.com/watch?v=TFWPtkNoF4Y)|
+| Martini| Vodka or Gin| [video](https://www.youtube.com/watch?v=hiQ57jbFY5s)|
+| Margarita| Tequila| [video](https://www.youtube.com/watch?v=lNwNvq8Kxl8)|
+| Negroni| Gin, Sweet Vermouth, Campari| [video](https://www.youtube.com/watch?v=nh_3suGRbN8)|
+| Daiquiri| Rum| [video](https://www.youtube.com/watch?v=ofwTyfKo8Mg)|
+| Pina Colada| Rum| [video](https://www.youtube.com/watch?v=-wea2usJIAA)|
+| Bloody Mary| Vodka| [video](https://www.youtube.com/watch?v=rpEzoWNbgSk&t=2s)|
+| Cosmopolitan| Vodka| [video](https://www.youtube.com/watch?v=TnkMtoDNgxE)|
+| White Russian| Vodka and coffe | [video](https://www.youtube.com/watch?v=Z0zqXFpuolw)|
+
+<img src="media/images/drink.jpg" alt="Drink responsibly">
+
+Image source: https://www.talkingretail.com/products-news/alcohol/new-formula-1-campaigns-heineken-09-09-2016/
+
+---
 <img align="left" width="40" height="40" src="media/icons/warning-shield.png">
 
 ## <a name="note"></a>Note : Before you head outside
@@ -728,7 +1218,9 @@ The SMS must be in the following format:
 
         Movement [blank] X [blank] full name and address of residence
 
-    *Source:* https://forma.gov.gr/en/
+    *Source:* https://forma.gov.gr/en/ 
+    
+    *Tip:* In case you have a foreign phone number - not starting with 003069...- the SMS process will not work, you are obligated to print and carry this page https://forma.gov.gr/docs/permit-extraordinary-movement-en.pdf an tick tha number that complies with the type of your movement.
 3. *Be sure to comply with the law*: (description needed)
 
 **Important:** Depending on your area of residence, a different type of lockdown may be imposed.
