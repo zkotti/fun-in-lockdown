@@ -804,6 +804,10 @@ Essentially, everyone picks a topic near and dear to their heart —the more nic
 
 Watch a movie or a series with your group of friends without leaving your home, just by screen sharing in a video call or using streaming platforms like Netflix Party. Plus, you can comment on it in chat without disturbing others.
 
+- Play an online game
+
+Who says you have to be in the same space to have fun? Gather your friends and prepare for the best game night ever! There are a lot of different virtual games to choose from, but you should always check the number of players every game allows. No one should be left behind! You can find a list of virtual board games [here](#board-games).
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/art.png">
