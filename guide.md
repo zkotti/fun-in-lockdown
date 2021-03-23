@@ -1004,6 +1004,8 @@ The javafx package will help you build the interface.
 
 
 Source: https://data-flair.training/blogs/java-project-ideas/
+
+
 ---
 <img align="left" width="40" height="40" src="media/icons/car.jpg">
 
