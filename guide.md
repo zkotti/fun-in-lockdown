@@ -168,6 +168,8 @@ _The most common activity during lock-down has been watching movies. So here are
 |Rick and Morty | Comedy / TV Series | Netflix | 9/10 | 9.2/10 | [TRAILER](https://www.youtube.com/watch?v=_uUcMwsR5hg "Rick and Morty")|[INFO](https://www.imdb.com/title/tt2861424/ "Rick and Morty")|
 |Suits | TV series | Netflix | 9/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=85z53bAebsI "Suits")|[INFO](https://www.imdb.com/title/tt1632701/?ref_=fn_al_tt_1 "Suits IMDb")|
 |The 100 | Sci-Fi | Netflix | 9.5/10 | 7.6/10|[TRAILER](https://www.youtube.com/watch?v=ia1Fbg96vL0 "The 100")|[INFO](https://www.imdb.com/title/tt2661044/?ref_=nv_sr_srsg_0 "The 100 IMDb")|
+|The Big Bang Theory| Comedy/TV Series| Netflix| 8.5/10| 8.1/10|[TRAILER](https://www.youtube.com/watch?v=WBb3fojgW0Q&ab_channel=vidicsch "The Big Bang Theory")|[INFO](https://www.imdb.com/title/tt0898266/ "The Big Bang Theory")|
+|The Bold Type| Comedy/TV Series| Netflix| 8.0/10| 8.0/10|[TRAILER](https://www.youtube.com/watch?v=q9Evo8pJTV0&ab_channel=Freeform "The Bold Type")|[INFO](https://www.imdb.com/title/tt6116060/ "The Bold Type")|
 |The Boys| TV series| AmazonPrime| 7/10| 8.7/10|[TRAILER](https://www.youtube.com/watch?v=M1bhOaLV4FU&ab_channel=AmazonPrimeVideoUK "The Boys")|[INFO](https://www.imdb.com/title/tt1190634/?ref_=nv_sr_srsg_0 "The Boys IMDb")|
 |The Invisible Guest | Crime / Drama / Mystery | Netflix | 8.5/10 | 8.1/10|[TRAILER](https://www.youtube.com/watch?v=epCg2RbyF80 "The Invisible Guest")|[INFO](https://www.imdb.com/title/tt4857264/?ref_=nv_sr_srsg_0 "The Invisible Guest IMDb")|
 |The Last Dance| Documentary - TV series| Netflix| 9.5/10| 9.1/10|[TRAILER](https://www.youtube.com/watch?v=N9Z9JtNcCWY&ab_channel=ESPN "The Last Dance")|[INFO](https://www.imdb.com/title/tt8420184/?ref_=fn_al_tt_1 "The Last Dance IMDb")
@@ -176,8 +178,6 @@ _The most common activity during lock-down has been watching movies. So here are
 |The Social Dilemma| Documentary| Netflix| 7/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=uaaC57tcci0&ab_channel=Netflix "The Social Dilemma")|[INFO](https://www.imdb.com/title/tt11464826/?ref_=nv_sr_srsg_0 "The Social Dilemma IMDb")|
 |Unsolved Mysteries| Documentary - TV series| Netflix| 9/10| 7.3/10|[TRAILER](https://www.youtube.com/watch?v=oZ4FrgGILM8&ab_channel=Netflix "Unsolved Mysteries")|[INFO](https://www.imdb.com/title/tt9642938/?ref_=nv_sr_srsg_3 "Unsolved Mysteries IMDb")|
 |World's Most Wanted| Documentary / Crime| Netflix| 7.5/10| 7.2/10|[TRAILER](https://www.youtube.com/watch?v=TFOYTE3RtCs "World's Most Wanted")|[INFO](https://www.imdb.com/title/tt12753698/ "World's Most Wanted")|
-|The Big Bang Theory| Comedy/TV Series| Netflix| 8.5/10| 8.1/10|[TRAILER](https://www.youtube.com/watch?v=WBb3fojgW0Q&ab_channel=vidicsch "The Big Bang Theory")|[INFO](https://www.imdb.com/title/tt0898266/ "The Big Bang Theory")|
-|The Bold Type| Comedy/TV Series| Netflix| 8.0/10| 8.0/10|[TRAILER](https://www.youtube.com/watch?v=q9Evo8pJTV0&ab_channel=Freeform "The Bold Type")|[INFO](https://www.imdb.com/title/tt6116060/ "The Bold Type")|
 ---
 
 <img align="left" width="40" height="40" src="media/icons/books.png">
@@ -186,6 +186,7 @@ _The most common activity during lock-down has been watching movies. So here are
 
 |TITLE| TOPIC | AUTHOR | AVAILABLE ON| MY RATING| LINK |
 |---| ---| ---| ---| ---| ---|
+|1984 | Classic Literature| Orwell George | Public | 9/10 | [Link](https://www.public.gr/product/books/greek-books/literature/translated-literature/1984/prod254453/?gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQisl4ukxjR0JQ1OTTY7rRJF_Pxphu9OZteR2mxrzxVa-igf_gz4PJC0aAvXyEALw_wcB "1984")|
 |21 Lessons for the 21st Century | Non-Fiction | Yuval Noah Harrari | Amazon | 9/10 | [Link](https://www.amazon.com/gp/product/B079WM7KLS/ref=dbs_a_def_rwt_bibl_vppi_i1)|
 |Algorithms to Live By: The Computer Science of Human Decisions | Non-Fiction | Brian Christian & Tom Griffiths | Amazon | 9.5/10 | [Link](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)|
 |Atlantis | Historical Novel | David Gibbins | Amazon| 10/10| [Link](https://www.amazon.com/gp/product/0755324226/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0755324226&SubscriptionId=1MGPYB6YW3HWK55XCGG2) |
@@ -210,10 +211,9 @@ _The most common activity during lock-down has been watching movies. So here are
 |The Unbearable Lightness of Being | Modern Literature | Milan Kundera | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/modern-literature/the-unbearable-lightness-of-being/prod140346/)|
 |Thinking, Fast and Slow | Psychology | Daniel Kahneman | Amazon | 9/10| [Link](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=391NW1M3NG4SX&dchild=1&keywords=think+fast+and+slow&qid=1616005195&sprefix=think+fast%2Caps%2C216&sr=8-1 "Thinking, Fast and Slow")|
 |To Kill a Mocking Bird | Classic Literature | Harper Lee | Public | 9.5/10| [Link](https://www.public.gr/product/to-kill-a-mockingbird/prod1260555pp/) |
+|We Hope This Reaches You in Time| poetry | Sin r.h. , King Holmes Samantha | Public | 9/10| [Link](https://www.public.gr/product/we-hope-this-reaches-you-in-time/prod10270092pp/ "We Hope This Reaches You in Time")|
 |We Were Liars | Young Adult Fiction | E. Lockhart. | Amazon | 9/10 | [Link](https://www.amazon.com/We-Were-Liars-Lockhart/dp/0385741278/ref=sr_1_1?dchild=1&keywords=we+were+liars&qid=1616411727&s=books&sr=1-1)|
 |Zero to One| Management | Pieter Thiel | Public | 9.5/10| [Link](https://www.public.gr/product/books/greek-books/economics/management/zero-to-one/prod6840642pp/ "Zero to One")|
-|1984 | Classic Literature| Orwell George | Public | 9/10 | [Link](https://www.public.gr/product/books/greek-books/literature/translated-literature/1984/prod254453/?gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQisl4ukxjR0JQ1OTTY7rRJF_Pxphu9OZteR2mxrzxVa-igf_gz4PJC0aAvXyEALw_wcB "1984")|
-|We Hope This Reaches You in Time| poetry | Sin r.h. , King Holmes Samantha | Public | 9/10| [Link](https://www.public.gr/product/we-hope-this-reaches-you-in-time/prod10270092pp/ "We Hope This Reaches You in Time")|
 
 
 
