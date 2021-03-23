@@ -61,6 +61,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 11. Cover your coughs and sneezes.
 12. Wear a mask over your nose and mouth.
 13. Get Tested!!! It is important to repeat a positive test, in order to ensure that you got better.
+14. Clean all “high-touch” surfaces everyday!
 
 Information was taken from [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 
