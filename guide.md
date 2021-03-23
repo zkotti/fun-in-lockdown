@@ -1132,7 +1132,9 @@ It is similar to a chat app, but with a larger community of users and wider func
 > * Deploy backend to Heroku, frontend to Netlify
 
 * Video Sharing app
+
 Real-world examples: Youtube, TikTok, Snapchat
+
 One of the most broad categories of apps, that can be integrated in a site like Youtube with a browser to search for videos or like a messaging app eg. Snapchat.
 
 > How to build a video sharing app:
@@ -1140,6 +1142,10 @@ One of the most broad categories of apps, that can be integrated in a site like 
 > * Use Cloudinary for image and video uploads to the Cloudinary API
 > * Use Postgres or MongoDB
 > * Deploy to Heroku, frontend to Netlify
+
+* Music Streaming App
+
+React applications are perfect for streaming video content, aswell as music. Music apps have a similar structure to video sharing apps and they may or may not allow the user to upload their own music. You can listen to a song, comment on it, or even purchase it. Try to combine elemnts of a video sharing service and of an e-commerce app.
 
 Source : https://www.freecodecamp.org/news/react-projects-you-should-build-this-year/
 
