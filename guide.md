@@ -1193,7 +1193,6 @@ photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/
 <img src="media/images/drink.jpg" alt="Drink responsibly">
 
 Image source: https://www.talkingretail.com/products-news/alcohol/new-formula-1-campaigns-heineken-09-09-2016/
->>>>>>> 8f4eb97f6b57e4d81f512ea88e23a0b7b1e79f57
 
 ---
 <img align="left" width="40" height="40" src="media/icons/warning-shield.png">
