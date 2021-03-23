@@ -1080,7 +1080,7 @@ Creating an alarm clock is a cool way of demonstrating your coding skills. To be
 
 * Typing Test
 
-Create a python program with a comple GUI, that gives you a random sentence, and tests your typing speed. It is an advanced project but you can learn a lot about  design.
+Create a python program with a complete GUI, that gives you a random sentence, and tests your typing speed. It is an advanced project but you can learn a lot about design.
 
 
 Source : https://careerkarma.com/blog/python-projects-beginners/
@@ -1093,11 +1093,11 @@ Source : https://careerkarma.com/blog/python-projects-beginners/
 * Temperature Converter Tool
 
 This is a simple project to help you practice your Java skills. It just requires the basic mathematic skills that will help you build the logic of the program. 
-Tip: you can use the javafx package to build the tool's interface.
+Tip: you can use the javafx package to build the tools interface.
 
 * Percentage Calculator
 
-This is another great project to help you develop your coding skills and it uses basic Java concepts. The users just inserts the value and the calculator returns the matching percentage.
+This is another great project to help you develop your coding skills and it uses basic Java concepts. The user just inserts the value and the calculator returns the matching percentage.
 The javafx package will help you build the interface.
 
 
