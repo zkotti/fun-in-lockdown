@@ -371,7 +371,8 @@ Great ideas to learn new skills:
 * Learn [a new subject](https://www.futurelearn.com/subjects)
 * Learn [how to start a garden](https://www.youtube.com/watch?v=B0DrWAUsNSc&ab_channel=SSLFamilyDad)
 * Learn self-defense
-* Learn how to embroider / knit
+* Learn how to [embroider](https://www.youtube.com/watch?v=2ATJuHN-C9A&ab_channel=byCHLOEWEN)
+* Learn how to [knit](https://www.youtube.com/watch?v=p_R1UDsNOMk&ab_channel=RJKnits)
 * Learn to type, [here is a useful platform](https://www.typingclub.com/)
 * Learn [how to cook, easily among the best!](https://akispetretzikis.com/ "Akis Petretzikis")
 
