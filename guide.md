@@ -779,17 +779,16 @@ Best Apps for Organization and Productivity:
 * 24me Find it [here](https://apps.apple.com/us/app/24me-smart-personal-assistant/id557745942) for iOS and [here](https://play.google.com/store/apps/details?id=me.twentyfour.www&hl=en) for Android
 
 Tips to Organise your Bedroom:
-* Designate a Home for Every Item
-* Utilize Under Bed Storage
-* Arrange Furniture by Frequency of Use
-* Store Seasonal Shoes Under the Bed
-* Create a Storage Nook
-* Use a Bedside Pocket Organizer
-* Go Minimalist
-* Use Personal Items as Decor
-* Store Your Hats on a Wall
-
-Information was taken from [here.](https://www.extraspace.com/blog/home-organization/room-organization/bedroom-organization-ideas-tips-hacks/)
+1. Designate a Home for Every Item
+2. Utilize Under Bed Storage
+3. Arrange Furniture by Frequency of Use
+4. Store Seasonal Shoes Under the Bed
+5. Create a Storage Nook
+6. Use a Bedside Pocket Organizer
+7. Go Minimalist
+8. Use Personal Items as Decor
+9. Store Your Hats on a Wall
+* Information was taken from [here.](https://www.extraspace.com/blog/home-organization/room-organization/bedroom-organization-ideas-tips-hacks/)
 ---
 
 <img align="left" width="40" height="40" src="media/icons/pen.png">
