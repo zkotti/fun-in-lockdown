@@ -1058,8 +1058,14 @@ So, we are here to just say that we understand and that it's time to level up th
    - Bar essentials: 
       1. Bar Spoons. You may already have some long-handle teaspoons but if you don't, you can find them [here](https://www.amazon.com/Hiware-Stirring-Stainless-Cocktail-Pattern/dp/B01EL7NAYU/ref=sr_1_9?keywords=bar+spoons&qid=1567433894&s=gateway&sr=8-9).
 
+---
 
 **Famous Cocktails To Try**
+
+<img src="media/images/cocktails.jpg" alt="Cocktails" width="500"/>
+
+photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/) 
+
 
 |Name| Primary Alcohol | How to make | 
 |---| ---| ---| 
