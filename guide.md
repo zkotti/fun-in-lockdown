@@ -83,6 +83,9 @@ Here a some sights and places which are definitely worth to make a walk at:
 * Walk around the National Garden in the city centre ([map](https://goo.gl/maps/UcS2wfVs5EeSfSHJ8))
 * Go on a mountain hike in Mount Ymittos ([map](https://goo.gl/maps/srLnLmzefot26tiE9))
 * Walk around Koukaki neighbourhood ([map](https://goo.gl/maps/DErjSLYHLUyi3AdYA))
+* Take a walk to Flisvos Marina ([map](https://www.google.com/maps/place/%CE%9C%CE%B1%CF%81%CE%AF%CE%BD%CE%B1+%CE%A6%CE%BB%CE%BF%CE%AF%CF%83%CE%B2%CE%BF%CF%85/@37.9311938,23.682856,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bc1061760f69:0x814330c59b77c2ac!8m2!3d37.9311938!4d23.6850447))
+* Hiking at the Tatoi Royal Estate ([map](https://www.google.com/maps/search/Tatoi+Royal+Estate/@38.1584415,23.785362,15z/data=!3m1!4b1))
+* Have a picnic in Eleftherias Park ([map](https://www.google.com/maps/place/%CE%A0%CE%AC%CF%81%CE%BA%CE%BF+%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%B5%CF%81%CE%AF%CE%B1%CF%82,+%CE%91%CE%B8%CE%AE%CE%BD%CE%B1+115+21/@37.980496,23.7532421,15z/data=!4m5!3m4!1s0x0:0x15ddf444020efbf!8m2!3d37.980496!4d23.7532421))
 
 ### Thessaloniki
 
