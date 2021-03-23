@@ -1063,7 +1063,7 @@ Photo owned by [ied.eu](https://ied.eu/blog/the-erasmus-plus-programme/)
 
 <img align="left" width="40" height="40" src="media/icons/python.jpeg">
 
-### Python
+### **Python**
 
 
 * Rock, Paper, Scissors Game
@@ -1087,7 +1087,7 @@ Source : https://careerkarma.com/blog/python-projects-beginners/
 
 <img align="left" width="40" height="40" src="media/icons/java.jpg">
 
-### Java
+### **Java**
 
 
 * Temperature Converter Tool
@@ -1105,7 +1105,7 @@ Source: https://data-flair.training/blogs/java-project-ideas/
 
 <img align="left" width="40" height="40" src="media/icons/react.png">
 
-### React
+### **React**
 
 * Realtime Chat App
 
@@ -1115,13 +1115,37 @@ All of us use some kind of a realtime chat app in our daily life, you can also e
 
 All chat apps allow users to send messages in real-time, to react to messages and to show when a user is online or offline.
 
+> How to build a realtime chat app:
+> * Build your project with create-react-app or Next.js
+> * Use a service like Firebase or GraphQL subscriptions for messages
+> * Add reactions to message with emoji with the npm package emoji-mart
+> * Deploy to the web using Firebase Tools
+
 * Social media app
 
 It is similar to a chat app, but with a larger community of users and wider functionality. The users can interact in different ways. They can follow one another, add media to share with others, and interact with liking or commenting posts.
 
+> How to build a social media app:
+> * Build the frontend with create-react-app and the backend using Node API
+> * For a database, use Postgres or MongoDB, alongside an ORM like Prisma or Mongoose
+> * Use social authentication using Passport or a simpler service like Auth0
+> * Deploy backend to Heroku, frontend to Netlify
+
 * Video Sharing app
 
+Real-world examples: Youtube, TikTok, Snapchat
+
 One of the most broad categories of apps, that can be integrated in a site like Youtube with a browser to search for videos or like a messaging app eg. Snapchat.
+
+> How to build a video sharing app:
+> * As you might know by now, use create-react-app and Node
+> * Use Cloudinary for image and video uploads to the Cloudinary API
+> * Use Postgres or MongoDB
+> * Deploy to Heroku, frontend to Netlify
+
+* Music Streaming App
+
+React applications are perfect for streaming video content, aswell as music. Music apps have a similar structure to video sharing apps and they may or may not allow the user to upload their own music. You can listen to a song, comment on it, or even purchase it. Try to combine elemnts of a video sharing service and of an e-commerce app.
 
 Source : https://www.freecodecamp.org/news/react-projects-you-should-build-this-year/
 
