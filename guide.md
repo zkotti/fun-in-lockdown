@@ -777,7 +777,18 @@ Best Apps for Organization and Productivity:
 * Memento [Find it here](https://apps.apple.com/us/app/momento-diary-journal/id980592846)
 * 24me Find it [here](https://apps.apple.com/us/app/24me-smart-personal-assistant/id557745942) for iOS and [here](https://play.google.com/store/apps/details?id=me.twentyfour.www&hl=en) for Android
 
+Tips to Organise your Bedroom:
+* Designate a Home for Every Item
+* Utilize Under Bed Storage
+* Arrange Furniture by Frequency of Use
+* Store Seasonal Shoes Under the Bed
+* Create a Storage Nook
+* Use a Bedside Pocket Organizer
+* Go Minimalist
+* Use Personal Items as Decor
+* Store Your Hats on a Wall
 
+Information was taken from [here.](https://www.extraspace.com/blog/home-organization/room-organization/bedroom-organization-ideas-tips-hacks/)
 ---
 
 <img align="left" width="40" height="40" src="media/icons/pen.png">
