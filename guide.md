@@ -721,13 +721,20 @@ Do you remember the nights when you used to hang out for hours with your friends
 - Or check out these [open source alternatives](https://opensource.com/alternatives/skype)
 
 Virtual Activities:
-- Sing karaoke
+- Sing karaoke 
+
 This is pretty much self-explanatory. Pick a song, find its karaoke version on YouTube and sing along! Tip: make sure everyone else's microphones are mute.
-- Disguised party
+
+- Disguised party 
+
 This can go in two ways. You can discuss with the group the theme of disguise for your next group call and everyone dresses accordingly OR each person picks their costume individually. It feels just like Halloween! How fun!
-- PowerPoint party
+
+- PowerPoint party 
+
 Essentially, everyone picks a topic near and dear to their heart —the more niche, the better— and prepare a five-minute PowerPoint presentation on it. Here's some fun and interesting ideas: Drunk history, The best [whatever] of all time, Ranking and rating my exes, How HSM changed my life
-- Movie/series night
+
+- Movie/series night 
+
 Watch a movie or a series with your group of friends without leaving your home, just by screen sharing in a video call or using streaming platforms like Netflix Party. Plus, you can comment on it in chat without disturbing others.
 
 ---
