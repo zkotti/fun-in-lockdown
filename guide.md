@@ -987,6 +987,8 @@ Create a python program with a comple GUI, that gives you a random sentence, and
 
 Source : https://careerkarma.com/blog/python-projects-beginners/
 
+<img align="left" width="40" height="40" src="media/icons/java.jpg">
+
 ### Java
 
 
