@@ -71,7 +71,12 @@ Information was taken from [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-
 
 ## <a name="walks"></a>Walks in Town
 Here a some sights and places which are definitely worth to make a walk at: 
+
 ### Athens
+
+<img src="media/images/athens.jpg" alt="Athens" width="500"/>
+
+Photo owned by [greeking.me](https://greeking.me/blog/visiting-athens/item/88-50-things-to-do-in-athens)
 
 * Climb to the Acropolis ([map](https://g.page/acropolis-bnb?share))
 * Take a walk to the Likavitou hill ([map](https://goo.gl/maps/9XdfRDUmPeepZp2W6))
@@ -90,6 +95,10 @@ Here a some sights and places which are definitely worth to make a walk at:
 * Have a picnic in Eleftherias Park ([map](https://www.google.com/maps/place/%CE%A0%CE%AC%CF%81%CE%BA%CE%BF+%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%B5%CF%81%CE%AF%CE%B1%CF%82,+%CE%91%CE%B8%CE%AE%CE%BD%CE%B1+115+21/@37.980496,23.7532421,15z/data=!4m5!3m4!1s0x0:0x15ddf444020efbf!8m2!3d37.980496!4d23.7532421))
 
 ### Thessaloniki
+
+<img src="media/images/thessaloniki.jpg" alt="Thessaloniki" width="500"/>
+
+Photo owned by [discovergreece.com](https://www.discovergreece.com/macedonia/thessaloniki)
 
 * Ladadika port ([map](https://goo.gl/maps/YDaDSL5Mi1fC69wC7))
 * Seih Sou forest ([map](https://goo.gl/maps/iK8rm1ogkinfoP7d6))
@@ -444,6 +453,10 @@ Ideas for interesting projects:
 
 ### Arduino projects:
 
+<img src="media/images/arduino.png" alt="Arduino" width="250"/>
+
+Photo owned by [commonslab.gr](https://commonslab.gr/2016/11/01/arduino-genuino-official-reseller/)
+
 Arduino is an open-source platform used for building electronics projects. Arduino consists of both a physical programmable circuit board (often referred to as a microcontroller) and a piece of software, or IDE (Integrated Development Environment) that runs on your computer, used to write and upload computer code to the physical board.
 
 #### What can you do with arduino?
@@ -465,6 +478,10 @@ Arduino is an open-source platform used for building electronics projects. Ardui
 and many more!!!
 
 ### Raspberry Pi projects:
+
+<img src="media/images/raspberry-pi.jpg" alt="Raspberry Pi" width="200"/>
+
+Photo owned by [robot-advance.com](https://www.robot-advance.com/EN/art-raspberry-pi-4-case-2641.htm)
 
 If you like tech projects and you want to work with a full-on computer in tiny package, you read the right section. Here you can find many raspberry pi projects to do alone or with your children.
 
@@ -667,6 +684,11 @@ A subsection to add your favorite Music Albums
 You are never actually too old to learn to play an instrument you have always liked. It is a perfect break from your laptop's screen.
 
 #### Guitar
+
+<img src="media/images/guitar.png" alt="Guitar" width="400"/>
+
+Photo owned by [ro.ieftin2021.com](https://ro.ieftin2021.com/category?name=guitarr)
+
 You will get surprised from how easily you can produce nice sounds. All you need to begin is:
 * a [tuning app](https://play.google.com/store/apps/details?id=com.ovelin.guitartuna&hl=en&gl=US)
 * a set of strings
@@ -685,9 +707,17 @@ Source: https://www.artistguitars.com.au/buying/how-to-choose-a-guitar-in-2-simp
 
 #### Piano
 
+<img src="media/images/piano.jpg" alt="Piano" width="400"/>
+
+Photo owned by [worldsecrets.gr](https://www.worldsecrets.gr/sunavlia-piano/learn-piano/)
+
 While there is no doubt that having a good traditional teacher can be helpful, the fact is you can teach yourself how to play piano/keyboard very effectively by attending online piano lessons or watching online guides. You can check out [MangoldProject's Piano Lessons for Beginners](https://www.youtube.com/watch?v=827jmswqnEA&list=PLP9cbwDiLzdL6IS4-rmzR42ghq3T56XnK), which is a helpful step by step guide for learning to play on a keyboard.
 
 #### Ukulele
+
+<img src="media/images/ukulele.jpg" alt="Ukulele" width="400"/>
+
+Photo owned by [nytimes.com](https://www.nytimes.com/wirecutter/reviews/best-ukulele-for-beginners/)
 
 It really doesn't matter how old or young you are, and even if you’ve never played music before in your life, you can learn how to play ukulele… even today! All you need to do is to:
 * borrow a ukulele from a friend or buy one that feels right for you
