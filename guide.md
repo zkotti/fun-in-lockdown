@@ -33,6 +33,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Plan your Erasmus](#erasmus)
 * [Coding Projects](#coding-projects)
 * [Work with cars](#Work-with-cars)
+* [Cocktail Adventures](#cocktails)
 
 [Note : Before you head outside](#note)
 
@@ -720,6 +721,23 @@ Do you remember the nights when you used to hang out for hours with your friends
 - Discord
 - Or check out these [open source alternatives](https://opensource.com/alternatives/skype)
 
+Virtual Activities:
+- Sing karaoke 
+
+This is pretty much self-explanatory. Pick a song, find its karaoke version on YouTube and sing along! Tip: make sure everyone else's microphones are mute.
+
+- Disguised party 
+
+This can go in two ways. You can discuss with the group the theme of disguise for your next group call and everyone dresses accordingly OR each person picks their costume individually. It feels just like Halloween! How fun!
+
+- PowerPoint party 
+
+Essentially, everyone picks a topic near and dear to their heart —the more niche, the better— and prepare a five-minute PowerPoint presentation on it. Here's some fun and interesting ideas: Drunk history, The best [whatever] of all time, Ranking and rating my exes, How HSM changed my life
+
+- Movie/series night 
+
+Watch a movie or a series with your group of friends without leaving your home, just by screen sharing in a video call or using streaming platforms like Netflix Party. Plus, you can comment on it in chat without disturbing others.
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/art.png">
@@ -1029,7 +1047,18 @@ Do you like cars? Of course you do! Who doesn't?
 Section icon Source: https://2sleepylagoonter.info/car-news/best-cars/top-10-best-sports-cars
 
 ---
+## <a name="cocktails"></a> Cocktail Adventures!
+Let's be honest, Covid-19 pandemic and its several back-to-back lockdowns have been harsh for the most of us. Being in front of a screen for hours, unable to get in physical touch with our beloved ones and having our favorite restaurants and bars closed is an everyday struggle. After all that, the need to pour a glass (or two) of wine before bedtime comes naturally. 
 
+So, we are here to just say that we understand and that it's time to level up the game; Cocktail adventure nights! Do you want to advance you bartender skills or feel like a little kid again? Well, as you discover new tasty horizons and mix up your favorite ingredients, the art of mixology will start to unfold and we promise you to enjoy those lockdown days as they are passing by. 
+
+* First things first: Organize your space.
+
+   Before you start your mixing experiments, you need to set up your working station. There are not many things requiered for that, just the basic bar essentials and spirits of your preference.  
+   - Bar essentials: 
+      1. Bar Spoons. You may already have some long-handle teaspoons but if you don't, you can find them [here](https://www.amazon.com/Hiware-Stirring-Stainless-Cocktail-Pattern/dp/B01EL7NAYU/ref=sr_1_9?keywords=bar+spoons&qid=1567433894&s=gateway&sr=8-9).
+
+---
 <img align="left" width="40" height="40" src="media/icons/warning-shield.png">
 
 ## <a name="note"></a>Note : Before you head outside
