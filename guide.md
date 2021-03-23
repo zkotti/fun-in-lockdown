@@ -1103,7 +1103,7 @@ First things first; Before you start your mixing experiments, you need to set up
 
 Sources: [glimpose.blog](https://www.glimpsecorp.com/bar-tools-and-equipment-and-their-uses/), [the spruce eats](https://www.thespruceeats.com/essential-distilled-spirits-and-mixers-760741)
 
-###Get to action: Basic cocktails To Try
+### Get to action: Basic cocktails To Try
 
 <img src="media/images/cocktails.jpg" alt="Cocktails" width="500"/>
 
@@ -1116,13 +1116,11 @@ photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/
 | Manhattan| Whiskey| [video](https://www.youtube.com/watch?v=TFWPtkNoF4Y)|
 | Martini| Vodka or Gin| [video](https://www.youtube.com/watch?v=hiQ57jbFY5s)|
 | Margarita| Tequila| [video](https://www.youtube.com/watch?v=lNwNvq8Kxl8)|
-<<<<<<< HEAD
 | Negroni| Gin, Sweet Vermouth, Campari| [video](https://www.youtube.com/watch?v=nh_3suGRbN8)|
 | Daiquiri| Rum| [video](https://www.youtube.com/watch?v=ofwTyfKo8Mg)|
 | Pina Colada| Rum| [video](https://www.youtube.com/watch?v=-wea2usJIAA)|
 | Bloody Mary| Vodka| [video](https://www.youtube.com/watch?v=rpEzoWNbgSk&t=2s)|
 | Cosmopolitan| Vodka| [video](https://www.youtube.com/watch?v=TnkMtoDNgxE)|
-=======
 | White Russian| Vodka and coffe | [video](https://www.youtube.com/watch?v=Z0zqXFpuolw)|
 
 <img src="media/images/drink.jpg" alt="Drink responsibly">
