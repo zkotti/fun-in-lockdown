@@ -140,8 +140,8 @@ Why don't you take a virtual tour via **youtube**?
 Do you want to drive around your favourite cities while listening to their local radios?
 If yes, then you should definitely try the [Drive & Listen APP](https://driveandlisten.herokuapp.com/?fbclid=IwAR2jQV27oRk5A4UmCgGNEKwu2JXxDCuqm-6sqKrmLalAnO2N7bjXGVgcnhg)!
 
-If you prefer exploring a country from above, visit [Fly & Listen](http://flyandlisten.com/?fbclid=IwAR2uuxF_Xd0vKNfpXIlh9N5f4nItuzQ-Lbhbj4WpC4CMWHgKd-EeVrYlvwg)! You can choose
-a destination, pick a local radio station and enjoy your virtual trip. Fly and listen offers you a great variety of places to visiti and a lot of different options regarding the local radio station. You are free to pick your favorite, sit back and relax!
+Take a look at any country from a drone's perspective! If you prefer exploring a country from above, visit [Fly & Listen](http://flyandlisten.com/?fbclid=IwAR2uuxF_Xd0vKNfpXIlh9N5f4nItuzQ-Lbhbj4WpC4CMWHgKd-EeVrYlvwg). You can choose
+a destination, pick a local radio station and enjoy your virtual trip. Fly and listen offers you a great variety of places to visit and a lot of different options regarding the local radio station. You are free to pick your favorite, sit back and relax!
 
 Due to the Covid-19 pandemic museums remain closed. Don't worry, art lovers!
 
@@ -150,10 +150,6 @@ You can have a look on the [online exhibition](https://www.vangoghmuseum.nl/en) 
 Some of us are _bored in the house-in the house bored_!
 
 [WindowSwap](https://www.window-swap.com/) is a quarantine project which gives you the opportunity to enjoy the view from windows around the world!
-
-Take a look at any country from a drone's perspective, while listening to local radio stations!
-
-(http://flyandlisten.com)
 
 ---
 
