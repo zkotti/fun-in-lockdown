@@ -112,6 +112,20 @@ Photo owned by [discovergreece.com](https://www.discovergreece.com/macedonia/the
 * Western wall ([map](https://goo.gl/maps/vHeqWpBXy4Yrczrf8))
 * Axios Delta National Park ([map](https://goo.gl/maps/5e696rGw7pz9jzSEA))
 
+### Patras
+
+<img src="media/images/patra.jpg" alt="Patra" width="500"/>
+
+Photo owned by [zoogla.gr](https://www.zougla.gr/greece/article/i-patrini-gourou-ton-drones-mas-dixnoun-tin-patra-opos-tin-vlepoun-i-aeti)
+
+* Run around Patras' lighthouse ([map](https://www.google.com/maps/place/%CE%A6%CE%AC%CF%81%CE%BF%CF%82/@38.24507,21.723487,17z/data=!3m1!4b1!4m5!3m4!1s0x135e49daf92b49dd:0xdb80e6e11329275b!8m2!3d38.24507!4d21.7256757))
+* Explore South Park ([map](https://www.google.com/maps/place/%CE%9D%CF%8C%CF%84%CE%B9%CE%BF+%CE%A0%CE%AC%CF%81%CE%BA%CE%BF+%CE%A0%CE%AC%CF%84%CF%81%CE%B1%CF%82/@38.234853,21.7222076,17z/data=!3m1!4b1!4m5!3m4!1s0x135e362f6b19261b:0x7f2023f2baff8160!8m2!3d38.234853!4d21.7243963))
+* Walk around patras' plage park ([map](https://www.google.com/maps/place/%CE%A0%CE%AC%CF%81%CE%BA%CE%BF+%CE%A0%CE%BB%CE%B1%CE%B6/@38.280133,21.7436127,17z/data=!3m1!4b1!4m5!3m4!1s0x135e499674859c5d:0x8c4e8a5324cc7749!8m2!3d38.280133!4d21.7458014))
+* Walk around in the port area ([map](https://www.google.com/search?tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=ALeKk00CdZZzhv0AYhne4GN6JjWQ5xDyLA:1616521399540&q=%CE%BB%CE%B9%CE%BC%CE%B1%CE%BD%CE%B9+%CF%80%CE%B1%CF%84%CF%81%CE%B1%CF%83&rflfq=1&num=10&ved=2ahUKEwj8-qm--8bvAhUtAWMBHd5XBhoQtgN6BAgBEAc#rlfi=hd:;si:;mv:[[38.2289136,21.7223068],[38.2138512,21.719319499999997]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3,lf:1,lf_ui:2))
+* Walk alongside a patras' beach. [See all patras' beaches in the map.](https://www.google.com/search?tbs=lf:1,lf_ui:1&tbm=lcl&sxsrf=ALeKk02rgnIi8Y5qwuvlA3J3QMbb-wIFxA:1616521647696&q=patras+beaches&rflfq=1&num=10&ved=2ahUKEwjBlNS0_MbvAhWJlqQKHQwnD_gQtgN6BAgyEAc)
+* Explore Patras Mycenaean Park-Voundeni [(map](https://www.google.com/maps/place/%CE%9C%CF%85%CE%BA%CE%B7%CE%BD%CE%B1%CF%8A%CE%BA%CF%8C+%CE%9D%CE%B5%CE%BA%CF%81%CE%BF%CF%84%CE%B1%CF%86%CE%B5%CE%AF%CE%BF+%CE%92%CE%BF%CF%8D%CE%BD%CF%84%CE%B5%CE%BD%CE%B7%CF%82/@38.252451,21.7826245,15z/data=!4m2!3m1!1s0x0:0xeff6c71133ac1c90?sa=X&ved=2ahUKEwiDj6qY-8bvAhXT8eAKHc4yChQQ_BIwG3oECCkQBQ))
+
+Sources: [thebest.gr](https://www.thebest.gr/article/412935-), [tripadvisor](https://www.tripadvisor.com/Attractions-g189488-Activities-c47-t76-Patras_Achaea_Region_West_Greece.html)
 
 ---
 
