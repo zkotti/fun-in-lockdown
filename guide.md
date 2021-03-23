@@ -1053,14 +1053,24 @@ Let's be honest, Covid-19 pandemic and its several back-to-back lockdowns have b
 
 So, we are here to just say that we understand and that it's time to level up the game; Cocktail adventure nights! Do you want to advance you bartender skills or feel like a little kid again? Well, as you discover new tasty horizons and mix up your favorite ingredients, the art of mixology will start to unfold and we promise you to enjoy those lockdown days as they are passing by. 
 
-* First things first: Organize your space.
+* Organize your space.
 
-   Before you start your mixing experiments, you need to set up your working station. There are not many things requiered for that, just the basic bar essentials and spirits of your preference.  
+   First things first; Before you start your mixing experiments, you need to set up your working station. There are not many things requiered for that, just the basic bar essentials and spirits of your preference.  
    - Bar essentials: 
       1. Bar Spoons. You may already have some long-handle teaspoons but if you don't, you can find them [here](https://www.amazon.com/Hiware-Stirring-Stainless-Cocktail-Pattern/dp/B01EL7NAYU/ref=sr_1_9?keywords=bar+spoons&qid=1567433894&s=gateway&sr=8-9).
+      2. Bottle opener & corkscrew. We are pretty sure everyone has at least one bottle opener of any kind. [Here](https://www.amazon.com/WHELVE-Mounted-Magnetic-Functional-Upcycled/dp/B07NQRGVTR/ref=sr_1_19_sspa?keywords=wall+mounted+bar+bottle+opener&qid=1567439614&s=gateway&sr=8-19-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQlU3VFdCSTJUT1E0JmVuY3J5cHRlZElkPUEwMTc3NjgzMVRYV0VQWFJVSjIxWCZlbmNyeXB0ZWRBZElkPUEwNDk1MjY2M1FHM0hTV0ZPM0VFVSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) is an extra idea if you are looking for something new.
+      3. Cocktail shaker. Maybe the most important thing in a bar. For your homemade cocktails you probably won't need more than one shaker, which you can purchase [here](https://www.amazon.com/Boston-Cocktail-Shaker-Unweighted-Professional/dp/B07QFT835K/ref=sr_1_7?keywords=bar+cocktail+shaker&qid=1567440752&s=gateway&sr=8-7).
+      4. Cocktail strainer. If your cocktail shaker doesn’t come with a built-in strainer, you’ll definitly need one of these to create cold ice-free drinks. We suggest something stainless like [this](https://www.amazon.com/Hawthorne-Cocktail-Strainer-Professional-Mixologists/dp/B06WGNF3SX/ref=sr_1_4?keywords=bar+cocktail+strainer&qid=1567441714&s=gateway&sr=8-4).
+      5. Cutting board. That's an easy one too. Most kitchens are equipped with a wood cutting board, but [here](https://www.amazon.com/Cutting-Board-Food-Prep-Restaurantware/dp/B075S5CX16/ref=sr_1_6?keywords=bar+cutting+board&qid=1567433589&s=gateway&sr=8-6) is a fresh suggestion to cut your cocktail garnishes. With a cutting board you provide your bar not only a hygienic and safe surface for cutting, but also you can avoid making a mess to your kitchen.
+      6. Ice crusher. It's a must when making cold cocktails. Having an ice crusher is the ideal way to crush ice to the right consistency for your signature cocktails. [This one](https://www.amazon.com/Time-Treats-Iceberg-crusher-white/dp/B087VJ13WB/ref=sr_1_1?_encoding=UTF8&c=ts&dchild=1&keywords=Blenders+%26+Ice+Crushers&qid=1616503456&s=kitchen&sr=1-1&ts_id=289732) is portable and doesn’t take up much room. Alternatively, you can buy crushed ice, however this can increase your budget.
+      7. Jigger. It is not as necessary as one might think, because the more cocktails you make the more familiar you become with the liquid doses. However, if you want to get some jiggers as a beginner mixologist or to be more professional one, then [this set](https://www.amazon.com/CucinaPrime-Cocktail-Jigger-Stainless-Steel/dp/B00VCBM4TQ/ref=sr_1_11?keywords=jigger&qid=1567444723&s=gateway&sr=8-11) is what you are looking for.
+      8. Muddler. Your homemade bar requires a muddler,[like this](https://www.amazon.com/Extra-Long-Cocktail-Muddler-Professional/dp/B07DMFH8SF/ref=sr_1_1_sspa?keywords=muddler&qid=1567433016&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzRU5SODNEUTJQVThUJmVuY3J5cHRlZElkPUExMDM0ODMyTzFJVTJXMEVCM0ZSJmVuY3J5cHRlZEFkSWQ9QTA0ODY0MjgzSDVJMUFCNFJZQTExJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) if you want to bring out the aromatics of herbs and spices so that their flavors are released and infused into your cocktails.
+      9. Rimmer. If you’re making margaritas and other drinks that require a rimmed glass edge, for a low budget you can always use a plate filled with salt or sugar, but [here](https://www.amazon.com/Greenco-Glass-Rimmer-Margarita-Cocktail/dp/B016YM64JI/ref=sr_1_15?keywords=rimmer+for+bar&qid=1567448578&s=gateway&sr=8-15) is a more professional option.
+      10. Proper kind of glasses. Last but not least, your bar will need the specific glasses to pour your creations, like Coupe Glasses, Single & Double Rocks Glasses, Highball & Collins Glasses, Nick & Nora Glasses and of course Shot glasses. Our suggetion is, if you don't have any of this kinds, to purchase just a pair of each and get more as your cocktail adventures proceed.[Here are the types of Cocktail Glasses You Actually Need](https://nymag.com/strategist/article/best-cocktail-glass-types.html).   
+ 
 
 
-### Famous Cocktails To Try
+**Famous cocktails To Try**
 
 <img src="media/images/cocktails.jpg" alt="Cocktails" width="500"/>
 
