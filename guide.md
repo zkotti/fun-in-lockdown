@@ -252,6 +252,7 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * Never forget why you started
 * Impossible is just a word
 * You can if you think you can
+* Energy flows where attention goes
 
 **Different kinds of workouts and sports:**
 
