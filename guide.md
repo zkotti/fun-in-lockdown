@@ -527,12 +527,12 @@ Amazing video games you must try out:
 * [Vendetta Online](https://www.vendetta-online.com/)
 
 You can buy amazing video games for Windows, Mac and Linux computers in the following online stores:
-* [Steam](https://store.steampowered.com/)
+* [Battle.net](https://eu.shop.battle.net/en-gb)
+* [Epic Games Store](https://www.epicgames.com/store/en-US/)
 * [Good Old Games (GOG)](https://www.gog.com/)
 * [Origin](https://www.origin.com/irl/en-us/store)
+* [Steam](https://store.steampowered.com/)
 * [Ubisoft Store](https://store.ubi.com/ie/home)
-* [Epic Games Store](https://www.epicgames.com/store/en-US/)
-* [Battle.net](https://eu.shop.battle.net/en-gb)
 
 The stores above usually feature deals and discounts on specific games. In order to be informed about the best current deals about a specific game, check out [IsThereAnyDeal](https://isthereanydeal.com)!
 
