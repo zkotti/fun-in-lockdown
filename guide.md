@@ -822,6 +822,10 @@ Sites for online courses:
 * [Adobe](https://learning.adobe.com/)
 * [FutureLearn](https://www.futurelearn.com/)
 * [Academic Earth](https://academicearth.org/)
+* [freeCodeCamp](https://www.freecodecamp.org/)
+* [Scrimba](https://scrimba.com/)
+* [Trailhead](https://trailhead.salesforce.com/en/home)
+* [openSAP](https://open.sap.com/)
 
 Online courses: 
 |TITLE|LENGTH|PRICE|INSTITUTION|LEVEL | LANGUAGE| HOST SITE| LINK|
