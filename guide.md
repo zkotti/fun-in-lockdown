@@ -604,6 +604,7 @@ Below you may find some interesting websites where you can play different board 
 * [Settera](https://www.seterra.com/): Learning geography doesn't have to be boring. Do it the easy way with Seterra! In no time, you could learn to locate every single country in the world on a map.
 Seterra includes fun quizzes that help familiarize you with countries, capital cities, flags, rivers, lakes, and notable geological features.
 * [Among Us](https://www.bluestacks.com/apps/action/among-us-on-pc.html): The game takes place in a space-themed setting, in which players each take on one of two roles, most being Crewmates, and a predetermined number being Impostors. The goal of the Crewmates is to identify the Impostors, eliminate them, and complete tasks around the map; the Impostors' goal is to covertly sabotage and kill the Crewmates before they complete all of their tasks. Players suspected to be Impostors may be eliminated via a plurality vote, which any player may initiate by calling an emergency meeting (except during a crisis) or reporting a dead body. Crewmates win if all Impostors are eliminated or all tasks are completed whereas Impostors win if there is an equal number of Impostors and Crewmates, or if a critical sabotage goes unresolved.
+* [Spyfall](https://www.spyfall.app/): Spyfall is a fun game that really tests your improvise abilities! You and your friends virtually attend an event and you all get assigned different roles. However, one of you is a spy and has no idea about the event you are attending. Try to figure out who the spy as soon as possible!
 
 ### Classic board games
 If you are stuck at home with your family or your roommate(s), you could try one of these fun board games:
@@ -1018,7 +1019,7 @@ Source: https://www.podcastinsights.com/start-a-podcast/
 <img align="left" width="40" height="40" src="media/icons/traveler.png">
 
 ## <a name="trips"></a>Plan your next trip
-Tired of daydreaming about future trips? Get hands-on and start rganizing your next journey!
+Tired of daydreaming about future trips? Get hands-on and start organizing your next journey!
 
 You could start by selecting your travel destination. There are a lot of websites, like [Triptile](https://triptile.com/), 
 that let you plan your trip by first selecting a country or a city that you would like to visit (you could also add multiple stops to your trip)
