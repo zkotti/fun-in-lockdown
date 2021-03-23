@@ -1103,6 +1103,8 @@ The javafx package will help you build the interface.
 
 Source: https://data-flair.training/blogs/java-project-ideas/
 
+<img align="left" width="40" height="40" src="media/icons/react.png">
+
 ### React
 
 * Realtime Chat App
@@ -1120,6 +1122,8 @@ It is similar to a chat app, but with a larger community of users and wider func
 * Video Sharing app
 
 One of the most broad categories of apps, that can be integrated in a site like Youtube with a browser to search for videos or like a messaging app eg. Snapchat.
+
+Source : https://www.freecodecamp.org/news/react-projects-you-should-build-this-year/
 
 ---
 <img align="left" width="40" height="40" src="media/icons/car.jpg">
