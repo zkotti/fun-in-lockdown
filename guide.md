@@ -1061,10 +1061,14 @@ So, we are here to just say that we understand and that it's time to level up th
 
 **Famous Cocktails To Try**
 
-* Mojito [how to make](https://www.youtube.com/watch?v=KWU9ZaWbeuQ)
-* Manhattan [how to make](https://www.youtube.com/watch?v=TFWPtkNoF4Y)
-* Martini [how to make](https://www.youtube.com/watch?v=hiQ57jbFY5s)
-* Margarita [how to make](https://www.youtube.com/watch?v=lNwNvq8Kxl8) 
+|Name| Primary Alcohol | How to make | 
+|---| ---| ---| 
+| Mojito| Rum | [video](https://www.youtube.com/watch?v=KWU9ZaWbeuQ)|
+| Manhattan| Whiskey| [video](https://www.youtube.com/watch?v=TFWPtkNoF4Y)|
+| Martini| Vodka or Gin| [video](https://www.youtube.com/watch?v=hiQ57jbFY5s)|
+| Margarita| Tequila| [video](https://www.youtube.com/watch?v=lNwNvq8Kxl8)|
+
+
 
 
 ---
