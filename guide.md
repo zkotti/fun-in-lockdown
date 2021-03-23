@@ -1116,11 +1116,19 @@ photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/
 | Manhattan| Whiskey| [video](https://www.youtube.com/watch?v=TFWPtkNoF4Y)|
 | Martini| Vodka or Gin| [video](https://www.youtube.com/watch?v=hiQ57jbFY5s)|
 | Margarita| Tequila| [video](https://www.youtube.com/watch?v=lNwNvq8Kxl8)|
+<<<<<<< HEAD
 | Negroni| Gin, Sweet Vermouth, Campari| [video](https://www.youtube.com/watch?v=nh_3suGRbN8)|
 | Daiquiri| Rum| [video](https://www.youtube.com/watch?v=ofwTyfKo8Mg)|
 | Pina Colada| Rum| [video](https://www.youtube.com/watch?v=-wea2usJIAA)|
 | Bloody Mary| Vodka| [video](https://www.youtube.com/watch?v=rpEzoWNbgSk&t=2s)|
 | Cosmopolitan| Vodka| [video](https://www.youtube.com/watch?v=TnkMtoDNgxE)|
+=======
+| White Russian| Vodka and coffe | [video](https://www.youtube.com/watch?v=Z0zqXFpuolw)|
+
+<img src="media/images/drink.jpg" alt="Drink responsibly">
+
+Image source: https://www.talkingretail.com/products-news/alcohol/new-formula-1-campaigns-heineken-09-09-2016/
+>>>>>>> 8f4eb97f6b57e4d81f512ea88e23a0b7b1e79f57
 
 ---
 <img align="left" width="40" height="40" src="media/icons/warning-shield.png">
