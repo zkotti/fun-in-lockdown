@@ -173,6 +173,7 @@ _The most common activity during lock-down has been watching movies. So here are
 |The Shutter Island | Thriller/ Mystery | Netflix | 8.5/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=5iaYLCiq5RM "The Shutter Island")|[INFO](https://www.imdb.com/title/tt1130884/ "The Shutter Island IMDb")|
 |The Social Dilemma| Documentary| Netflix| 7/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=uaaC57tcci0&ab_channel=Netflix "The Social Dilemma")|[INFO](https://www.imdb.com/title/tt11464826/?ref_=nv_sr_srsg_0 "The Social Dilemma IMDb")|
 |Unsolved Mysteries| Documentary - TV series| Netflix| 9/10| 7.3/10|[TRAILER](https://www.youtube.com/watch?v=oZ4FrgGILM8&ab_channel=Netflix "Unsolved Mysteries")|[INFO](https://www.imdb.com/title/tt9642938/?ref_=nv_sr_srsg_3 "Unsolved Mysteries IMDb")|
+|World's Most Wanted| Documentary / Crime| Netflix| 7.5/10| 7.2/10|[TRAILER](https://www.youtube.com/watch?v=TFOYTE3RtCs "World's Most Wanted")|[INFO](https://www.imdb.com/title/tt12753698/ "World's Most Wanted")|
 ---
 
 <img align="left" width="40" height="40" src="media/icons/books.png">
@@ -194,6 +195,7 @@ _The most common activity during lock-down has been watching movies. So here are
 |Pharaoh | Historical Novel | Valerio Manfredi | Amazon| 10/10| [Link](https://www.amazon.com/gp/product/0230530737/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0230530737&SubscriptionId=1MGPYB6YW3HWK55XCGG2) |
 |Rich Dad Poor Dad | Personal Finance |  Robert T. Kiyosaki | Amazon| 9.5/10| [Link](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194) |
 |Sapiens: A Brief History of Humankind | Non-Fiction | Yuval Noah Harrari | Amazon | 10/10 | [Link](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)|
+|Six of Crows | Fantasy, Fiction | Leigh Bardugo | Amazon | 9/10 | [Link](https://www.amazon.com/Six-Crows-Leigh-Bardugo-ebook/dp/B00UG9LC4I)|
 |The Baltimore Boys| Fiction | Joël Dicker | Amazon | 9.5/10 | [Link](https://www.amazon.com/Baltimore-Alison-Anderson-translator-Dicker/dp/0857056867)|
 |The Fifth Season| Science fantasy | N. K. Jemisin | Amazon | 9/10 | [Link](https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1616329101&sr=1-1)|
 |The Ice Princess | Crime Novel | Camilla Läckberg | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/crime-fiction/the-ice-princess/prod1150813pp/)|
@@ -372,7 +374,8 @@ Great ideas to learn new skills:
 * Learn [a new subject](https://www.futurelearn.com/subjects)
 * Learn [how to start a garden](https://www.youtube.com/watch?v=B0DrWAUsNSc&ab_channel=SSLFamilyDad)
 * Learn self-defense
-* Learn how to embroider / knit
+* Learn how to [embroider](https://www.youtube.com/watch?v=2ATJuHN-C9A&ab_channel=byCHLOEWEN)
+* Learn how to [knit](https://www.youtube.com/watch?v=p_R1UDsNOMk&ab_channel=RJKnits)
 * Learn to type, [here is a useful platform](https://www.typingclub.com/)
 * Learn [how to cook, easily among the best!](https://akispetretzikis.com/ "Akis Petretzikis")
 
@@ -403,6 +406,7 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 | Greek Salad | Greece | 10/10 | [Link](https://www.loveandlemons.com/greek-salad/) | Add capers to gain maximum taste. |
 | Handmade Cinnamon Rolls | Northern Europe | 10/10 | [Link](https://www.youtube.com/watch?v=_Q0FYoCl4Cs) | Serve with extra cinnamon. |
 | Italian Pizza | Italy | 10/10 | [Link](https://www.walksofitaly.com/blog/food-and-wine/italian-pizza-dough-recipe) | Keep it simple on the ingredients! |
+| Lemon Pound Cake Loaf | England | 10/10 | [Link](https://www.seasonsandsuppers.ca/glazed-lemon-pound-cake-loaf/)| You can freeze it and grab a slice whenever you crave it! |
 | Lemon Rice | India | 9/10 | [Link](https://www.feastingathome.com/indian-lemon-rice/) | Serve it with fish. |
 | Lentil Soup | Morocco | 10/10 | [Link](https://www.simplyquinoa.com/detox-moroccan-lentil-soup/) | Serve with fresh onions. |
 | Light Spaghetti Souffle | Italy | 10/10 | [Link](https://akispetretzikis.com/en/categories/zymarika/light-soyfle-me-makaronia-ston-foyrno/) | Mix the spaghetti and heavy cream with the turkey, mushrooms and corn for an even more delicious outcome! |
@@ -419,8 +423,7 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 | Sweet & Sour Chicken | China | 10/10 | [Link](https://www.bbcgoodfood.com/recipes/sweet-sour-chicken) | Serve with rice. |
 | Tacos | Mexico | 10/10 | [Link](https://www.thewholesomedish.com/the-best-homemade-tacos/) | Add extra cheese!! |
 | Tzatziki | Greece | 10/10| [Link](https://cookieandkate.com/how-to-make-tzatziki/ "How to Make Tzatziki")| Choose a creamy yoghurt to create the perfect spread! |
-
-
+| Avocado Brawnies | Universal | 10/10 | [Link](https://akispetretzikis.com/el/categories/keik/brownies-me-avokanto "How to make avocado brawnies") | Pick a ripe avocado. |
 
 ---
 
@@ -546,8 +549,9 @@ Below you may find some interesting websites where you can play different board 
 * [Password](https://www.thegamegal.com/2017/11/10/password): The goal of this game is to get your partner to guess the password by giving him a one word and only one word clue. First, you divide yourselves into 2 teams and in each round one of the members from each team will be given a password. If your partner guesses the password then your team wins the points of the round, but if he doesn't, then it's the other team’s turn. If their team gets the password they get the points. If the other team also doesn’t get the word you get another try. So this goes on for 3 times till someone gets the password and then the next round starts. It's a really entertaining game to play with your friends. **Pro Tip**: Turn this into a drinking game and you'll maximize the fun!*([download it here](https://play.google.com/store/apps/details?id=in.androidmate.password_game))*
 * [GeoGuessr](https://www.geoguessr.com/): The goal of this game is to guess the location of a specific spot on the globe presented to you via google maps street view. You can either play alone, or with friends. The closer your guess to the selected location, the more point you gather. The winner of the game is the person with the most points at the end of a specified number of rounds.
 * [The Wiki Game](http://thewikigame.com/): In this game, you have to navigate around wiki pages and guess. You start from a specific wikipedia page and within a specified time limit, you have to go to another target wikipedia page using the available hyperlinks.
-* [Settera] (https://www.seterra.com/): Learning geography doesn't have to be boring. Do it the easy way with Seterra! In no time, you could learn to locate every single country in the world on a map.
+* [Settera](https://www.seterra.com/): Learning geography doesn't have to be boring. Do it the easy way with Seterra! In no time, you could learn to locate every single country in the world on a map.
 Seterra includes fun quizzes that help familiarize you with countries, capital cities, flags, rivers, lakes, and notable geological features.
+* [Among Us](https://www.bluestacks.com/apps/action/among-us-on-pc.html): The game takes place in a space-themed setting, in which players each take on one of two roles, most being Crewmates, and a predetermined number being Impostors. The goal of the Crewmates is to identify the Impostors, eliminate them, and complete tasks around the map; the Impostors' goal is to covertly sabotage and kill the Crewmates before they complete all of their tasks. Players suspected to be Impostors may be eliminated via a plurality vote, which any player may initiate by calling an emergency meeting (except during a crisis) or reporting a dead body. Crewmates win if all Impostors are eliminated or all tasks are completed whereas Impostors win if there is an equal number of Impostors and Crewmates, or if a critical sabotage goes unresolved.
 
 ### Classic board games
 If you are stuck at home with your family or your roommate(s), you could try one of these fun board games:
@@ -699,6 +703,9 @@ Additionally, MuseScore offers a large database of free-to-access sheet music. Y
 
 ## <a name="meditation"></a>Meditation
 Meditation is a fun and relaxing way to spend your time in quarantine. Try lying down with your eyes closed and focusing on your breath, breathing in and out. This will help you lower stress levels, boost your mood, allow you to connect better with yourself and improve your focus.
+* 5-minute meditation - [link](https://www.youtube.com/watch?v=inpok4MKVLM&t=71s&ab_channel=Goodful)
+* 10-minute meditation - [link](https://www.youtube.com/watch?v=O-6f5wQXSu8&ab_channel=Goodful)
+* 20-minute meditation - [link](https://www.youtube.com/watch?v=-2zdUXve6fQ&ab_channel=TheMindfulMovement)
 >[Here is a good playlist to help you relax!](https://www.youtube.com/watch?v=oJnF5VxTO5g "Chill & Relax")
 
 ---
@@ -713,6 +720,16 @@ Do you remember the nights when you used to hang out for hours with your friends
 - Zoom
 - Discord
 - Or check out these [open source alternatives](https://opensource.com/alternatives/skype)
+
+Virtual Activities:
+- Sing karaoke
+This is pretty much self-explanatory. Pick a song, find its karaoke version on YouTube and sing along! Tip: make sure everyone else's microphones are mute.
+- Disguised party
+This can go in two ways. You can discuss with the group the theme of disguise for your next group call and everyone dresses accordingly OR each person picks their costume individually. It feels just like Halloween! How fun!
+- PowerPoint party
+Essentially, everyone picks a topic near and dear to their heart —the more niche, the better— and prepare a five-minute PowerPoint presentation on it. Here's some fun and interesting ideas: Drunk history, The best [whatever] of all time, Ranking and rating my exes, How HSM changed my life
+- Movie/series night
+Watch a movie or a series with your group of friends without leaving your home, just by screen sharing in a video call or using streaming platforms like Netflix Party. Plus, you can comment on it in chat without disturbing others.
 
 ---
 
@@ -731,6 +748,7 @@ the first step to become an artist and use the time during the pandemic more eff
 * [EASY Step By Step Digital Collage TUTORIAL | NO DRAWING SKILLS REQUIRED | How To For Beginners](https://www.youtube.com/watch?v=xl3Zj_JgYKk "Digital Collage Tutorial")
 * [Basics of charcoal drawing](https://www.google.com/search?q=carbon+drawing&sxsrf=ALeKk00M9bDB-PlzL-DCft_0ae4hcXj4Dg%3A1616191227070&ei=-x5VYLHdA-anrgT0yrj4Dw&oq=carbon+drow&gs_lcp=Cgdnd3Mtd2l6EAEYADIICAAQFhAKEB4yBggAEBYQHjIICAAQFhAKEB4yCAgAEBYQChAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIIxAnOgQIABBDOggIABCxAxCDAToLCAAQsQMQxwEQowI6BQgAELEDOggILhCxAxCDAToECC4QQzoHCAAQsQMQQzoFCC4QsQM6AggAOggIABDHARCvAToECAAQCjoKCAAQxwEQrwEQCjoFCAAQywFQ3ClYqkBg9lpoAHACeACAAb4BiAHyDpIBBDAuMTKYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=gws-wiz#kpvalbx=_CB9VYN7QEOKwrgSlxZPQDg19 "Charcoal Drawing")
 * [Adult Colouring Books](https://www.amazon.com/s?k=adult+coloring+book&crid=3S3IZCUX5I7KQ&sprefix=adult+colo%2Caps%2C193&ref=nb_sb_noss_2)
+* [Beginner's guide to Digital Art](https://www.youtube.com/watch?v=5pmIYH1ugtk&ab_channel=Nadiaxel)
 
 ---
 
@@ -979,10 +997,26 @@ Creating an alarm clock is a cool way of demonstrating your coding skills. To be
 Create a python program with a comple GUI, that gives you a random sentence, and tests your typing speed. It is an advanced project but you can learn a lot about  design.
 
 
-
-
-
 Source : https://careerkarma.com/blog/python-projects-beginners/
+
+<img align="left" width="40" height="40" src="media/icons/java.jpg">
+
+### Java
+
+
+* Temperature Converter Tool
+
+This is a simple project to help you practice your Java skills. It just requires the basic mathematic skills that will help you build the logic of the program. 
+Tip: you can use the javafx package to build the tool's interface.
+
+* Percentage Calculator
+
+This is another great project to help you develop your coding skills and it uses basic Java concepts. The users just inserts the value and the calculator returns the matching percentage.
+The javafx package will help you build the interface.
+
+
+Source: https://data-flair.training/blogs/java-project-ideas/
+
 
 ---
 <img align="left" width="40" height="40" src="media/icons/car.jpg">
