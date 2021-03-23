@@ -231,6 +231,7 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 **Workout tips:**
 
 * Set realistic goals
+* Set a weekly programm and stick to it!
 * Put on the clothes that make you feel motivated
 * Eat at least one-two hours before you train
 * Write down what you want to achieve with every training
