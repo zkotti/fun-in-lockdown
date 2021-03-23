@@ -990,7 +990,7 @@ Do you like cars? Of course you do! Who doesn't?
 * [Porche](https://www.porsche.com/central-eastern-europe/en/_greece_/modelstart/)
 * [VW](https://www.volkswagen.gr/el/models-and-configurator.html)
 
-### Websites with parts (used and new):
+### Building your car from scracth? Here are some websites with parts (used and new):
 * [Car.gr](https://www.car.gr)
 * [Offroad parts](https://www.xtreme4x4.gr)
 
