@@ -1063,7 +1063,7 @@ Photo owned by [ied.eu](https://ied.eu/blog/the-erasmus-plus-programme/)
 
 <img align="left" width="40" height="40" src="media/icons/python.jpeg">
 
-### Python
+### **Python**
 
 
 * Rock, Paper, Scissors Game
@@ -1087,7 +1087,7 @@ Source : https://careerkarma.com/blog/python-projects-beginners/
 
 <img align="left" width="40" height="40" src="media/icons/java.jpg">
 
-### Java
+### **Java**
 
 
 * Temperature Converter Tool
@@ -1105,7 +1105,7 @@ Source: https://data-flair.training/blogs/java-project-ideas/
 
 <img align="left" width="40" height="40" src="media/icons/react.png">
 
-### React
+### **React**
 
 * Realtime Chat App
 
@@ -1125,9 +1125,21 @@ All chat apps allow users to send messages in real-time, to react to messages an
 
 It is similar to a chat app, but with a larger community of users and wider functionality. The users can interact in different ways. They can follow one another, add media to share with others, and interact with liking or commenting posts.
 
-* Video Sharing app
+> How to build a social media app:
+> * Build the frontend with create-react-app and the backend using Node API
+> * For a database, use Postgres or MongoDB, alongside an ORM like Prisma or Mongoose
+> * Use social authentication using Passport or a simpler service like Auth0
+> * Deploy backend to Heroku, frontend to Netlify
 
+* Video Sharing app
+Real-world examples: Youtube, TikTok, Snapchat
 One of the most broad categories of apps, that can be integrated in a site like Youtube with a browser to search for videos or like a messaging app eg. Snapchat.
+
+> How to build a video sharing app:
+> * As you might know by now, use create-react-app and Node
+> * Use Cloudinary for image and video uploads to the Cloudinary API
+> * Use Postgres or MongoDB
+> * Deploy to Heroku, frontend to Netlify
 
 Source : https://www.freecodecamp.org/news/react-projects-you-should-build-this-year/
 
