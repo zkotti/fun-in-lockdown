@@ -1098,7 +1098,7 @@ photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/
 | Margarita| Tequila| [video](https://www.youtube.com/watch?v=lNwNvq8Kxl8)|
 | White Russian| Vodka and coffe | [video](https://www.youtube.com/watch?v=Z0zqXFpuolw)|
 
-<img src="media/images/cocktails.jpg" alt="Drink responsibly">
+<img src="media/images/drink.jpg" alt="Drink responsibly">
 
 Image source: https://www.talkingretail.com/products-news/alcohol/new-formula-1-campaigns-heineken-09-09-2016/
 
