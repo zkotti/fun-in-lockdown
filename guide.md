@@ -147,6 +147,7 @@ _The most common activity during lock-down has been watching movies. So here are
 |Blacklist | TV series | Netflix | 9/10 | 8/10|[TRAILER](https://www.youtube.com/watch?v=-WYdUaK54fU "Blacklist")|[INFO](https://www.imdb.com/title/tt2741602/?ref_=nv_sr_srsg_0 "Blacklist IMDb")|
 |Breaking Bad| TV series| Netflix| 9/10| 9.5/10|[TRAILER](https://www.youtube.com/watch?v=HhesaQXLuRY&ab_channel=TrailerBlend "Breaking Bad")|[INFO](https://www.imdb.com/title/tt0903747/?ref_=nv_sr_srsg_0 "Breaking Bad IMDb")|
 |Brooklyn Nine-Nine | TV series | Netflix | 8.5/10 | 8.4/10|[TRAILER](https://www.youtube.com/watch?v=sEOuJ4z5aTc "Brooklyn Nine-Nine")|[INFO](https://www.imdb.com/title/tt2467372/?ref_=nv_sr_srsg_0 "Brooklyn Nine-Nine IMDb")|
+|Community | TV series | Netflix | 9/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=sBCE9oIuN24 "Community")|[INFO](https://www.imdb.com/title/tt1439629/ "Community IMDb")|
 |Connected| Documentary - TV series| Netflix| 8.5/10| 7.5/10|[TRAILER](https://www.youtube.com/watch?v=B-aZrftUPlk&ab_channel=Netflix "Connected")|[INFO](https://www.imdb.com/title/tt12753692/?ref_=nv_sr_srsg_3 "Connected IMDb")|
 |Cowspiracy: The Sustainability Secret | Documentary | Netflix | 9/10 | 8.3/10|[TRAILER](https://www.youtube.com/watch?v=nV04zyfLyN4 "Cowspiracy: The Sustainability Secret")|[INFO](https://www.imdb.com/title/tt3302820/ "Cowspiracy: The Sustainability Secret")|
 |Don't f**k with cats| Documentary - TV series| Netflix| 9/10| 8/10|[TRAILER](https://www.youtube.com/watch?v=x41SMm-9-i4&ab_channel=Netflix "Don't f**k with cats")|[INFO](https://www.imdb.com/title/tt11318602/?ref_=fn_al_tt_2 "Don't f**k with cats IMDb")|
@@ -230,6 +231,7 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 **Workout tips:**
 
 * Set realistic goals
+* Set a weekly programm and stick to it!
 * Put on the clothes that make you feel motivated
 * Eat at least one-two hours before you train
 * Write down what you want to achieve with every training
@@ -252,6 +254,7 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * Never forget why you started
 * Impossible is just a word
 * You can if you think you can
+* Energy flows where attention goes
 
 **Different kinds of workouts and sports:**
 
@@ -370,6 +373,7 @@ Great ideas to learn new skills:
 * Learn a new programming language
 * Learn a new foreign language
 * Learn how to draw
+* Learn how to speak in public
 * Learn basic home repairs
 * Learn how to play a music instrument
 * Learn [a new subject](https://www.futurelearn.com/subjects)
@@ -395,6 +399,7 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 
 |DISH| ORIGIN| MY RATING| RECIPE| PRO-TIP|
 |---| ---| ---| ---| ---|
+| Avocado Brawnies | Universal | 10/10 | [Link](https://akispetretzikis.com/el/categories/keik/brownies-me-avokanto "How to make avocado brawnies") | Pick a ripe avocado. |
 | Banana Split | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/all-american-banana-split/) | Mix up the original recipe by adding different kinds of fruit. |
 | Banoffee | England | 10/10 | [Link](https://akispetretzikis.com/en/categories/glyka/banoffee/) | Transform it into a chocolate banoffee by adding some chocolate couverture in the caramel mixture!|
 | Brownies | U.S.A. | 10/10 | [Link](https://akispetretzikis.com/el/categories/keik/brownies)| Do not hesitate to serve with a scoop of vanilla ice cream. |
@@ -424,7 +429,6 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 | Sweet & Sour Chicken | China | 10/10 | [Link](https://www.bbcgoodfood.com/recipes/sweet-sour-chicken) | Serve with rice. |
 | Tacos | Mexico | 10/10 | [Link](https://www.thewholesomedish.com/the-best-homemade-tacos/) | Add extra cheese!! |
 | Tzatziki | Greece | 10/10| [Link](https://cookieandkate.com/how-to-make-tzatziki/ "How to Make Tzatziki")| Choose a creamy yoghurt to create the perfect spread! |
-| Avocado Brawnies | Universal | 10/10 | [Link](https://akispetretzikis.com/el/categories/keik/brownies-me-avokanto "How to make avocado brawnies") | Pick a ripe avocado. |
 
 ---
 
@@ -501,35 +505,34 @@ My recommendations for kids' projects from raspberrypi.org:
 
 Amazing video games you must try out:
 
-* [FIFA 2021](https://www.ea.com/games/fifa/fifa-21)
-* [GTA San Andreas](https://www.rockstargames.com/games/sanandreas)
-* [League of Legends](https://na.leagueoflegends.com/en-us/)
-* [NBA 2K21](https://nba.2k.com/)
-* [Call of Duty: Warzone](https://www.callofduty.com/warzone)
-* [Call of Duty: Black Ops](https://www.callofduty.com/blackops)
-* [Fortnite](https://www.epicgames.com/fortnite/en-US/home)
-* [World of Warcraft](https://worldofwarcraft.com/en-us/)
-* [Minecraft](https://www.minecraft.net/en-us/)
-* [Dota 2](https://blog.dota2.com/?l=greek)
 * [Among Us](https://innersloth.com/gameAmongUs.php)
-* [Vendetta Online](https://www.vendetta-online.com/)
-* [God of War](https://www.playstation.com/el-gr/games/god-of-war/)
-* [Call of Duty: Black Ops](https://www.callofduty.com/blackops)
-* [PES 2021](https://www.konami.com/wepes/2021/eu/en/ps4/)
-* [Hearthstone](https://playhearthstone.com/en-us)
-* [Drakensang Online](https://www.drakensang.com/en)
-* [Forza Horizon 4](https://forzamotorsport.net/en-us/games/fh4)
-* [GTA V](https://www.rockstargames.com/V/restricted-content/agegate/form?redirect=https%3A%2F%2Fwww.rockstargames.com%2FV%2F&options=&locale=en_us)
 * [Assetto Corsa](https://www.assettocorsa.it/home-ac/)
+* [Call of Duty: Black Ops](https://www.callofduty.com/blackops)
+* [Call of Duty: Warzone](https://www.callofduty.com/warzone)
+* [Dota 2](https://blog.dota2.com/?l=greek)
+* [Drakensang Online](https://www.drakensang.com/en)
+* [FIFA 2021](https://www.ea.com/games/fifa/fifa-21)
+* [Fortnite](https://www.epicgames.com/fortnite/en-US/home)
+* [Forza Horizon 4](https://forzamotorsport.net/en-us/games/fh4)
+* [God of War](https://www.playstation.com/el-gr/games/god-of-war/)
+* [GTA San Andreas](https://www.rockstargames.com/games/sanandreas)
+* [GTA V](https://www.rockstargames.com/V/restricted-content/agegate/form?redirect=https%3A%2F%2Fwww.rockstargames.com%2FV%2F&options=&locale=en_us)
+* [Hearthstone](https://playhearthstone.com/en-us)
+* [League of Legends](https://na.leagueoflegends.com/en-us/)
+* [Minecraft](https://www.minecraft.net/en-us/)
+* [NBA 2K21](https://nba.2k.com/)
+* [PES 2021](https://www.konami.com/wepes/2021/eu/en/ps4/)
 * [Red Dead Redemption II](https://www.rockstargames.com/reddeadredemption2/restricted-content/agegate/form?redirect=https%3A%2F%2Fwww.rockstargames.com%2Freddeadredemption2%2F&options=&locale=en_us)
+* [World of Warcraft](https://worldofwarcraft.com/en-us/)
+* [Vendetta Online](https://www.vendetta-online.com/)
 
 You can buy amazing video games for Windows, Mac and Linux computers in the following online stores:
-* [Steam](https://store.steampowered.com/)
+* [Battle.net](https://eu.shop.battle.net/en-gb)
+* [Epic Games Store](https://www.epicgames.com/store/en-US/)
 * [Good Old Games (GOG)](https://www.gog.com/)
 * [Origin](https://www.origin.com/irl/en-us/store)
+* [Steam](https://store.steampowered.com/)
 * [Ubisoft Store](https://store.ubi.com/ie/home)
-* [Epic Games Store](https://www.epicgames.com/store/en-US/)
-* [Battle.net](https://eu.shop.battle.net/en-gb)
 
 The stores above usually feature deals and discounts on specific games. In order to be informed about the best current deals about a specific game, check out [IsThereAnyDeal](https://isthereanydeal.com)!
 
@@ -776,7 +779,17 @@ Best Apps for Organization and Productivity:
 * Memento [Find it here](https://apps.apple.com/us/app/momento-diary-journal/id980592846)
 * 24me Find it [here](https://apps.apple.com/us/app/24me-smart-personal-assistant/id557745942) for iOS and [here](https://play.google.com/store/apps/details?id=me.twentyfour.www&hl=en) for Android
 
-
+Tips to Organise your Bedroom:
+1. Designate a Home for Every Item
+2. Utilize Under Bed Storage
+3. Arrange Furniture by Frequency of Use
+4. Store Seasonal Shoes Under the Bed
+5. Create a Storage Nook
+6. Use a Bedside Pocket Organizer
+7. Go Minimalist
+8. Use Personal Items as Decor
+9. Store Your Hats on a Wall
+* Information was taken from [here.](https://www.extraspace.com/blog/home-organization/room-organization/bedroom-organization-ideas-tips-hacks/)
 ---
 
 <img align="left" width="40" height="40" src="media/icons/pen.png">
