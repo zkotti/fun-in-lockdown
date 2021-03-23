@@ -1116,10 +1116,10 @@ All of us use some kind of a realtime chat app in our daily life, you can also e
 All chat apps allow users to send messages in real-time, to react to messages and to show when a user is online or offline.
 
 > How to build a realtime chat app:
-* Build your project with create-react-app or Next.js
-* Use a service like Firebase or GraphQL subscriptions for messages
-* Add reactions to message with emoji with the npm package emoji-mart
-* Deploy to the web using Firebase Tools
+> * Build your project with create-react-app or Next.js
+> * Use a service like Firebase or GraphQL subscriptions for messages
+> * Add reactions to message with emoji with the npm package emoji-mart
+> * Deploy to the web using Firebase Tools
 
 * Social media app
 
