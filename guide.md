@@ -418,7 +418,7 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 | Sweet & Sour Chicken | China | 10/10 | [Link](https://www.bbcgoodfood.com/recipes/sweet-sour-chicken) | Serve with rice. |
 | Tacos | Mexico | 10/10 | [Link](https://www.thewholesomedish.com/the-best-homemade-tacos/) | Add extra cheese!! |
 | Tzatziki | Greece | 10/10| [Link](https://cookieandkate.com/how-to-make-tzatziki/ "How to Make Tzatziki")| Choose a creamy yoghurt to create the perfect spread! |
-| Avocado Brawnies | Universal | 10/10 | [link](https://akispetretzikis.com/el/categories/keik/brownies-me-avokanto "How to make avocado brawnies") | Pick a ripe avocado. |
+| Avocado Brawnies | Universal | 10/10 | [Link](https://akispetretzikis.com/el/categories/keik/brownies-me-avokanto "How to make avocado brawnies") | Pick a ripe avocado. |
 
 
 ---
@@ -545,7 +545,7 @@ Below you may find some interesting websites where you can play different board 
 * [Password](https://www.thegamegal.com/2017/11/10/password): The goal of this game is to get your partner to guess the password by giving him a one word and only one word clue. First, you divide yourselves into 2 teams and in each round one of the members from each team will be given a password. If your partner guesses the password then your team wins the points of the round, but if he doesn't, then it's the other team’s turn. If their team gets the password they get the points. If the other team also doesn’t get the word you get another try. So this goes on for 3 times till someone gets the password and then the next round starts. It's a really entertaining game to play with your friends. **Pro Tip**: Turn this into a drinking game and you'll maximize the fun!*([download it here](https://play.google.com/store/apps/details?id=in.androidmate.password_game))*
 * [GeoGuessr](https://www.geoguessr.com/): The goal of this game is to guess the location of a specific spot on the globe presented to you via google maps street view. You can either play alone, or with friends. The closer your guess to the selected location, the more point you gather. The winner of the game is the person with the most points at the end of a specified number of rounds.
 * [The Wiki Game](http://thewikigame.com/): In this game, you have to navigate around wiki pages and guess. You start from a specific wikipedia page and within a specified time limit, you have to go to another target wikipedia page using the available hyperlinks.
-* [Settera] (https://www.seterra.com/): Learning geography doesn't have to be boring. Do it the easy way with Seterra! In no time, you could learn to locate every single country in the world on a map.
+* [Settera](https://www.seterra.com/): Learning geography doesn't have to be boring. Do it the easy way with Seterra! In no time, you could learn to locate every single country in the world on a map.
 Seterra includes fun quizzes that help familiarize you with countries, capital cities, flags, rivers, lakes, and notable geological features.
 
 ### Classic board games
