@@ -1103,6 +1103,27 @@ The javafx package will help you build the interface.
 
 Source: https://data-flair.training/blogs/java-project-ideas/
 
+<img align="left" width="40" height="40" src="media/icons/react.png">
+
+### React
+
+* Realtime Chat App
+
+Real-world examples: Slack, Messenger, Discord, Crisp Chat
+
+All of us use some kind of a realtime chat app in our daily life, you can also experiment with creating a widget within a website so that customers can directly talk to the site owners.
+
+All chat apps allow users to send messages in real-time, to react to messages and to show when a user is online or offline.
+
+* Social media app
+
+It is similar to a chat app, but with a larger community of users and wider functionality. The users can interact in different ways. They can follow one another, add media to share with others, and interact with liking or commenting posts.
+
+* Video Sharing app
+
+One of the most broad categories of apps, that can be integrated in a site like Youtube with a browser to search for videos or like a messaging app eg. Snapchat.
+
+Source : https://www.freecodecamp.org/news/react-projects-you-should-build-this-year/
 
 ---
 <img align="left" width="40" height="40" src="media/icons/car.jpg">
