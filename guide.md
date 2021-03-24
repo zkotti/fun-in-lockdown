@@ -34,7 +34,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Coding Projects](#coding-projects)
 * [Work with cars](#Work-with-cars)
 * [Cocktail Adventures](#cocktails)
-* [Outdoor Activities with Friends](#outdoor_activites)
+* [Outdoor Activities with Friends](#outdoor_activities)
 * [Trippy Gifs](#trippygifs)
 
 [Note : Before you head outside](#note)
