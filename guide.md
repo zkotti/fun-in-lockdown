@@ -1352,35 +1352,35 @@ __Editing__ and __Writing__ are not the same thing. Whenever you write something
 
 <img src="https://media1.tenor.com/images/a3c16b22b8376099408926ee11672a14/tenor.gif?itemid=5424822" />
 
-Image source: https://tenor.com/view/cat-endless-trippy-sigh-gif-5424822/
+Gif source: https://tenor.com/view/cat-endless-trippy-sigh-gif-5424822/
 
 <img src="https://media1.tenor.com/images/484a160f7580e28381752d40928b9b4a/tenor.gif?itemid=5468929" />
 
-Image source: https://tenor.com/view/trippy-cool-aesthetic-gif-5468929/
+Gif source: https://tenor.com/view/trippy-cool-aesthetic-gif-5468929/
 
 <img src="https://i.imgur.com/4MZ6g8F.gif" />
 
-Image source: https://imgur.com/gallery/4p6Du/
+Gif source: https://imgur.com/gallery/4p6Du/
 
 <img src="https://i.imgur.com/gayGySV.gif" />
 
-Image source: https://imgur.com/gallery/4p6Du/
+Gif source: https://imgur.com/gallery/4p6Du/
 
 <img src="https://i.pinimg.com/originals/e0/0d/a7/e00da7e6895b4b778a7d1201f4465972.gif" />
 
-Image source: https://gr.pinterest.com/pin/255438610098286748/
+Gif source: https://gr.pinterest.com/pin/255438610098286748/
 
 <img src="https://media0.giphy.com/media/l4JyMhNmNSZIBFtjG/giphy.gif?cid=ecf05e47nm89zkxmoyzjqft5cu0yg0jinu872k4mxvrqkk98&rid=giphy.gif" />
 
-Image source: https://giphy.com/gifs/psychedelic-scifi-fractals-l4JyMhNmNSZIBFtjG/
+Gif source: https://giphy.com/gifs/psychedelic-scifi-fractals-l4JyMhNmNSZIBFtjG/
 
 <img src="https://media2.giphy.com/media/3Kwo4SFbdQcIo/giphy.gif?cid=ecf05e475devyo7szvvte7a10ocq27b6gmec99um35bypmh5&rid=giphy.gif" />
 
-Image source: https://giphy.com/gifs/tumblr-featured-sheepfilms-3Kwo4SFbdQcIo
+Gif source: https://giphy.com/gifs/tumblr-featured-sheepfilms-3Kwo4SFbdQcIo
 
 <img src="https://media0.giphy.com/media/pZvnLIFQxbKfK/giphy.gif?cid=ecf05e47v0lmegozh3dlqnzmowvme02yar9ev9c5lk0899m4&rid=giphy.gif" />
 
-Image source: https://giphy.com/gifs/tumblr-featured-sheepfilms-building-zoom-pZvnLIFQxbKfK/
+Gif source: https://giphy.com/gifs/tumblr-featured-sheepfilms-building-zoom-pZvnLIFQxbKfK/
 
 ---
 
