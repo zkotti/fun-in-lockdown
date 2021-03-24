@@ -238,6 +238,8 @@ Below, you can find information about certain processes every bartender should k
 * [Chill a glass in the right way](https://www.youtube.com/watch?v=b2dumzdNCbE&list=WL&index=2)
 * [Make a layered shot](https://www.youtube.com/watch?v=ogfCeJ5Kk9Y&list=WL&index=1)
 * [Zest a drink perfectly](https://www.youtube.com/watch?v=mIn500UF7cA&list=WL&index=1)
+* [Work with ice in different ways](https://www.youtube.com/watch?v=Rnd_tOFrSW0&list=WL&index=2)
+* [Stir like an expert](https://www.youtube.com/watch?v=4c71fnMpFNE&list=WL&index=1)
 
 ### Get to action: Basic cocktails To Try
 
