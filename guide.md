@@ -20,6 +20,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Covid-19 Infection](#covid-infection)
 * [Discover Space](#Discover-Space)
 * [Down the rabbit hole](#conspiracies)
+* [Drinking games](#drinking-games)
 * [Exercise](#exercise)
 * [Facetime your long-distance friends](#facetime)
 * [Gardening](#gardening)
