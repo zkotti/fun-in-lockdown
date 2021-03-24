@@ -20,6 +20,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Facetime your long-distance friends](#facetime)
 * [Gardening](#gardening)
 * [Learn a new skill](#new-skill)
+* [Discover Space](#Discover-Space)
 * [Meditation](#meditation)
 * [Movies-Documentaries-Series](#movies-docum-series)
 * [Music](#music)
@@ -417,7 +418,151 @@ Information was taken from [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-
 
 ---
 
+<img align="left" width="40" height="40" src="media/icons/alien.png">
+
+## <a name="Discover-Space"></a> **Discover Space**
+
+A lockdown can cause a sudden increase in leisure and boredom at the same time. So why not take advantage of this time to discover many aspects of the world that can cause awe and the feeling of how small and fragile we are in this world, and killing our boredom.
+
+### **What is space?**
+Space is the boundless three-dimensional extent in which objects and events have relative position and direction. Physical space is often conceived in three linear dimensions, although modern physicists usually consider it, with time, to be part of a boundless four-dimensional continuum known as spacetime. 
+
+Source: [https://en.wikipedia.org/wiki/Space](https://en.wikipedia.org/wiki/Space)
+
+
+### **Dark Matter and Dark Energy**
+
+Dark matter is an undiscovered yet matter way different from the normal mater or anti-matter that interact with gravity and doesn't reflect any light, so as a result is also invisible and that's way it's called 'Dark' matter. 
+
+ Its presence is implied in a variety of astrophysical observations, including gravitational effects that cannot be explained by accepted theories of gravity unless more matter is present than can be seen. For this reason, most experts think that dark matter is abundant in the universe and that it has had a strong influence on its structure and evolution.
+
+ Primary evidence for dark matter comes from calculations showing that many galaxies would fly apart, or that they would not have formed or would not move as they do, if they did not contain a large amount of unseen matter
+
+ Source: [https://en.wikipedia.org/wiki/Dark_matter](https://en.wikipedia.org/wiki/Dark_matter)
+
+
+
+Click **here** for a tutorial:
+- [here](https://www.youtube.com/watch?v=QAa2O_8wBUQ)
+- [here](https://www.youtube.com/watch?v=2gWzwG1KNe8)
+
+
+### **Big Bang**
+
+<img align="center" width="500" height="400" src="media/images/big_bang.jpg">
+
+Source: [https://www.esa.int/ESA_Multimedia/Videos/2014/05/ESA_Euronews_Echoes_from_the_Big_Bang](https://www.esa.int/ESA_Multimedia/Videos/2014/05/ESA_Euronews_Echoes_from_the_Big_Bang)
+
+Big Bang theory is a cosmology theory that try to explain from whete the universy and the all the matter came from and how they have been created. Basicly it says that 13.8 billion years ago a huge explosion bigger than anything else in history took place and became the start of the universe creation and the creation of matter.
+
+Many research has been conducted in order to prove the Big Bang theory with the most valueable of them been this of Edwin Hubble that find that galaxies are moving apart from one another in a way that fits previous predictions with the help of Hubble telescope.
+
+While the majority of the astronomical community accepts the theory, there are some theorists who have alternative explanations besides the Big Bang — such as eternal inflation or an oscillating universe.
+
+
+Click **here** for tutorials:
+- [here](https://www.youtube.com/watch?v=wNDGgL73ihY&ab_channel=Kurzgesagt%E2%80%93InaNutshell)
+- [here](https://www.youtube.com/watch?v=0zyWy9JPPtc&ab_channel=Astronio)
+
+
+### **Solar Stroms**
+
+<img align="center" width="600" height="300" src="media/images/solar_storm.jpg">
+
+Source: [http://www.bbc.com/earth/story/20150923-the-sun-creates-space-weather-that-affects-us-all?referer=https%3A%2F%2Fwww.google.gr%2F&referer=https%3A%2F%2Fwww.google.gr%2F&referer=https%3A%2F%2Fwww.google.gr%2F&referer=https%3A%2F%2Fwww.google.gr%2F](http://www.bbc.com/earth/story/20150923-the-sun-creates-space-weather-that-affects-us-all?referer=https%3A%2F%2Fwww.google.gr%2F&referer=https%3A%2F%2Fwww.google.gr%2F&referer=https%3A%2F%2Fwww.google.gr%2F&referer=https%3A%2F%2Fwww.google.gr%2F)
+
+Solar strom is a common phenomenonal that the sun vommits million ton of plasma and radiation in random destinations known as Coronal Mass Ejections (CME). A simple solar storm don't affect the earth cause the atmosphere work as a filter to such waves, but if the wave is too big then the wave will affect the global communication system and all the devices that use electricite to be out of order. Althought this effect affects the earth twince in a century, the mechanics know how to protect the system.
+
+Click **here** for tutorial:
+- [here](https://www.youtube.com/watch?v=oHHSSJDJ4oo&ab_channel=Kurzgesagt%E2%80%93InaNutshell)
+
+
+### **Black Holes**
+
+<img align="center" width="500" height="300" src="media/images/black_hole.jpg">
+
+Source: [https://phys.org/news/2021-01-extreme-black-holes-hair.html](https://phys.org/news/2021-01-extreme-black-holes-hair.html)
+
+   #### How they are created and what are they
+   A black hole is an extremely dense astronomical object from which nothing can escape, not even light. When a star explodes in a supernova, a black hole can be left behind. Alternatively, a supermassive star can burn through its fuel quickly and turn into a black hole, no explosion needed.
+
+   According to Einstein's theory of special relativity, nothing can travel faster through space than the speed of light. This means a black hole's event horizon is essentially the point from which nothing can return. The name refers to the impossibility of witnessing any event taking place inside that border, the horizon beyond which one cannot see. 
+   
+   "The event horizon is the ultimate prison wall — one can get in but never get out," Avi Loeb, chair of astronomy at Harvard University, told Space.com.
+
+   Source:
+   - [https://www.nasa.gov/feature/goddard/2019/birth-of-massive-black-holes-in-the-early-universe-revealed](https://www.nasa.gov/feature/goddard/2019/birth-of-massive-black-holes-in-the-early-universe-revealed)
+   - [https://www.space.com/black-holes-event-horizon-explained.html](https://www.space.com/black-holes-event-horizon-explained.html)
+
+
+   Click **here** for tutorials:
+   - [here](https://www.youtube.com/watch?v=e-P5IFTqB98)
+   - [here](https://www.youtube.com/watch?v=nz4mOCRveP8)
+   - [here](https://www.youtube.com/watch?v=ulCdoCfw-bY&ab_channel=Kurzgesagt%E2%80%93InaNutshell)
+   - [here](https://www.youtube.com/watch?v=zdKAM5E9gWk)
+
+
+   #### **How big can they get? (Supermassive Black Holes)**
+
+   <img align="" width="" height="" src="media/images/supermassive_black_hole.jpg">
+
+   Source: [https://www.reddit.com/r/space/comments/5qkole/s5_001481_the_largest_known_supermassive_black/](https://www.reddit.com/r/space/comments/5qkole/s5_001481_the_largest_known_supermassive_black/)
+
+   Actually the size of a black hole has no possible limit (althought scienctist say that it can't exist a black hole with 50 bln times the mass of our sun). The more matter it swallows the bigger it can get. The easiest way for a black hole to grow is by swallo onother black hole, in result it will be created a new black hole with both their masses and with unbelivable gravitational power. In order to understand this better in the above photo the dat in the center of the black hole is how big is our solar system in front of this supermassive black hole..
+
+   Click **here** for tutorial:
+   - [here](https://www.youtube.com/watch?v=yWO-cvGETRQ)
+   - [here](https://www.youtube.com/watch?v=7WtrAuNnXKI)
+
+
+   #### **Travel inside a Black Hole & Wormholes**
+
+   <img align="center" width="" height="" src="media/images/wormhole.jpg">
+
+   Source: [https://www.sciencenewsforstudents.org/article/could-spacetime-ripples-point-at-wormholes](https://www.sciencenewsforstudents.org/article/could-spacetime-ripples-point-at-wormholes)
+
+   The most obvious thing that everyone would think that might happend inside a black hole is complete destruction. Actually Einstein with the relativity theory changed completly the way that we were seeing the black holes. If matter is capable of bending the time and space then the black hole that it is the most amount of matter that can be located in a single spot is doing the biggest dend in spacetime. Therefor if spacetime dimension is like a paper that is folded the black hole is like a tube that unites the two surfaces. By entering a black hole you will travel to another location of the universe that you will be spit out from a white hole, like a detour. Althought white hole nor wormhole have been found and they exist only in theory.
+
+   Click **here** for tutorial:   
+   - [here](https://www.youtube.com/watch?v=9P6rdqiybaw)
+
+
+   #### **Gamma Ray burst (Quazars)**
+
+   <img align="center" width="300" height="300" src="media/images/quazar.jpg">
+   
+   Source: [https://www.efreenews.com/a/are-gamma-ray-bursts-powered-by-a-star-s-collapsing-magnetic-fields](https://www.efreenews.com/a/are-gamma-ray-bursts-powered-by-a-star-s-collapsing-magnetic-fields)
+
+   When a massive star in a distant galaxy collapses, forming a black hole, two giant jets of light-emitting plasma shoot from its core. These extremely bright gamma-ray bursts (GRBs) are the most powerful explosions in the universe, and when a jet points towards Earth, the afterglow can be detected from ground and space-borne telescopes. Material does not simply catapult from an exploding star, it accelerates to ultra-high speeds along the narrow beam of the gamma-ray jet, leaving astrophysics puzzled over the power source driving these extraordinary explosions
+
+   source: [https://www.efreenews.com/a/are-gamma-ray-bursts-powered-by-a-star-s-collapsing-magnetic-fields](https://www.efreenews.com/a/are-gamma-ray-bursts-powered-by-a-star-s-collapsing-magnetic-fields)
+
+   click **here** for some tutorials:
+   - [here](https://www.youtube.com/watch?v=RLykC1VN7NY)
+   - [here](https://www.youtube.com/watch?v=jVHnVcZ6YMQ)
+   - [here](https://www.youtube.com/watch?v=PPlrtgilgK8)
+
+
+### Neutron Stars
+
+<img align="center" width="300" height="300" src="media/images/neutron_star.jpeg">
+
+Source: [https://www.sciencephoto.com/media/814141/view/neutron-star-artwork](https://www.sciencephoto.com/media/814141/view/neutron-star-artwork)
+
+When the core of a massive star undergoes gravitational collapse at the end of its life, protons and electrons are literally scrunched together, leaving behind one of nature's most wondrous creations: a neutron star. Neutron stars cram roughly 1.3 to 2.5 solar masses into a city-sized sphere perhaps 20 kilometers (12 miles) across. Matter is packed so tightly that a sugar-cube-sized amount of material would weigh more than 1 billion tons, about the same as Mount Everest!
+
+Most known neutron stars belong to a subclass known as pulsars. These relatively young objects rotate extremely rapidly, with some spinning faster than a kitchen blender. They beam radio waves in narrow cones, which periodically sweep across Earth like lighthouse beacons. But as GLAST Project Scientist Steve Ritz of NASA Goddard points out, "With magnetic fields trillions of times stronger than Earth's, pulsar magnetic fields are high-energy particle accelerators." The magnetospheres of some pulsars accelerate particles to such high energies that they are relatively bright gamma-ray sources.
+
+Source: [https://www.nasa.gov/mission_pages/GLAST/science/neutron_stars.html](https://www.nasa.gov/mission_pages/GLAST/science/neutron_stars.html)
+
+Click **here** for tutorial:
+- [here](https://www.youtube.com/watch?v=udFxKZRyQt4&t=27s)
+
+
+---
+
 <img align="left" width="40" height="40" src="media/icons/exercise.png">
+
 
 ## <a name="exercise"></a>Exercise 
 My gym is closed for almost 6 months now, and I think yours is, too.
