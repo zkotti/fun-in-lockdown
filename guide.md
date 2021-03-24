@@ -245,6 +245,20 @@ photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/
 | Pina Colada| Rum| [video](https://www.youtube.com/watch?v=-wea2usJIAA)|
 | White Russian| Vodka and coffe | [video](https://www.youtube.com/watch?v=Z0zqXFpuolw)|
 
+### Cocktails for the Adventurous Drinker
+
+Unusual flavor combinations that actually work in drinks. Be sure to test them yourself!
+
+|Name| Primary Alcohol | How to make | 
+|---| ---| ---| 
+| Bacon Me Angry | Vodka | [recipe](https://bacontoday.com/2015/01/19/bacon-me-angry-angry-orchard-cocktail/)|
+| Butternut Old Fashioned | Whiskey | [recipe](https://www.thespruceeats.com/little-doms-butternut-old-fashioned-recipe-761338)|
+| Ruby Queen | Vodka | [recipe](https://www.thespruceeats.com/ruby-queen-cocktail-recipe-759220)|
+| The Beer, Bourbon & Barbecue Cocktail | Whiskey | [recipe](https://www.thespruceeats.com/beer-bourbon-and-barbecue-cocktail-recipe-4156984)|
+| Eucalyptus Martini | Gin | [recipe](https://www.thespruceeats.com/eucalyptus-martini-recipe-760078)|
+
+For more details don't forget to check [this](https://www.thespruceeats.com/unique-cocktails-for-adventurous-drinkers-759874) out!
+
 <img src="media/images/drink.jpg" alt="Drink responsibly">
 
 Image source: https://www.talkingretail.com/products-news/alcohol/new-formula-1-campaigns-heineken-09-09-2016/
