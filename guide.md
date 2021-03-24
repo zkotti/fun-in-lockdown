@@ -447,6 +447,12 @@ The games begin, and the first players in line race to down their drinks, and th
 *What you need: Only your drinks.*
 *  **Beerpong:**<a name="beerpong"></a> Beerpong is an all-around crowd pleaser, because it’s easy to follow, however difficult to master. To play this team drinking game lay out two sets of cups forming a pyramid on both ends of the table, gather a ping pong ball and fill the cups with your drink of choice. The teams then take it in turns to throw the ball into the other team’s cups. If you get the ping pong ball into your opponent’s cup, they have to drink its contents.\
 *What you need: Large cups and a pingpong ball(maybe more than one).*
+* **Ring of Fire:** This is an exciting drinking game that is played using playing cards. The player must drink and pass round the drinks based on the card drawn. [Each card has a rule that is established before the start of the game](https://ringoffirerules.com/). Every player picks a card and does what the card represents, and it can be anything from choosing someone to take a drink to start a game of categories. When a player draws a king, he pours a quarter of what he is drinking into the middle cup. The game comes to an end when the last king is drawn. The player who draws the last King has to drink the concoction in the King’s cup to the last drop.\
+*What you need: A deck of cards.*  
+
+
+
+**Note:** In order to make small gatherings safe please consider [this](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays/small-gatherings.html) tips.
 
 ---
 
