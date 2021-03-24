@@ -1348,7 +1348,9 @@ __Editing__ and __Writing__ are not the same thing. Whenever you write something
 
 ## <a name="trippygifs"></a> Trippy Gifs!
 
+
 ### If you are bored to do any of the above just watch those trippy gifs and time will pass
+
 
 <img src="https://media1.tenor.com/images/a3c16b22b8376099408926ee11672a14/tenor.gif?itemid=5424822" />
 
@@ -1361,6 +1363,10 @@ Gif source: https://tenor.com/view/trippy-cool-aesthetic-gif-5468929/
 <img src="https://i.imgur.com/4MZ6g8F.gif" />
 
 Gif source: https://imgur.com/gallery/4p6Du/
+
+<img src="https://i.gifer.com/VQ2D.gif" />
+
+Gif source: https://gifer.com/en/VQ2D/
 
 <img src="https://i.imgur.com/gayGySV.gif" />
 
