@@ -235,6 +235,9 @@ Below, you can find information about certain processes every bartender should k
 * [Make aerated juice from home](https://www.youtube.com/watch?v=bokKWjN7Zes&list=WL)
 * [Make simple syrups, accompanied by specific cocktails recipes](https://www.youtube.com/watch?v=XOHV1dg5B-U&list=WL&index=1)
 * [Learn to use a cocktail shaker and practice it on specific cocktails](https://www.youtube.com/watch?v=tm_Eo7yzllQ&list=WL&index=1&t=689s)
+* [Chill a glass in the right way](https://www.youtube.com/watch?v=b2dumzdNCbE&list=WL&index=2)
+* [Make a layered shot](https://www.youtube.com/watch?v=ogfCeJ5Kk9Y&list=WL&index=1)
+* [Zest a drink perfectly](https://www.youtube.com/watch?v=mIn500UF7cA&list=WL&index=1)
 
 ### Get to action: Basic cocktails To Try
 
