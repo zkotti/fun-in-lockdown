@@ -1364,9 +1364,9 @@ Gif source: https://tenor.com/view/trippy-cool-aesthetic-gif-5468929/
 
 Gif source: https://imgur.com/gallery/4p6Du/
 
-<img src="https://i.gifer.com/VQ2D.gif" />
+<img src="https://i.gifer.com/QEvY.gif" />
 
-Gif source: https://gifer.com/en/VQ2D/
+Gif source: https://gifer.com/en/QEvY/
 
 <img src="https://i.imgur.com/gayGySV.gif" />
 
