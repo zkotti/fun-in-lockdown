@@ -289,6 +289,21 @@ Unusual flavor combinations that actually work in drinks. Be sure to test them y
 
 For more details don't forget to check [this](https://www.thespruceeats.com/unique-cocktails-for-adventurous-drinkers-759874) out!
 
+### Take it slow and try an alcohol-free cocktail
+
+If you are not in the mood for alcohol, be sure to try these non-alcoholic cocktails. We are sure that they'll surprise you!
+
+|Name| Difficulty | How to make | 
+|---| ---| ---|
+| Chai Blossom | Easy | [Get the recipe here](https://www.bonappetit.com/recipe/chai-blossom) |
+| Summer Cup Mocktail | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/summer-cup-mocktail) |
+| New York Sour Mocktail | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/new-york-sour-mocktail) |
+| Pear & Rose Punch | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/pear-apple-rose-punch) |
+| Raw Raspberry Shrub | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/raw-raspberry-shrub) |
+| Pinapple & Lime Mocktail | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/shine-light) |
+| Drivers' punch | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/drivers-punch) |
+| Pomegranate Mojito Mocktail | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/pomegranate-mojito-mocktail) |
+
 <img src="media/images/drink.jpg" alt="Drink responsibly">
 
 Image source: https://www.talkingretail.com/products-news/alcohol/new-formula-1-campaigns-heineken-09-09-2016/
