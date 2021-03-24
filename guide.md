@@ -228,7 +228,7 @@ First things first; Before you start your mixing experiments, you need to set up
 Sources: [glimpose.blog](https://www.glimpsecorp.com/bar-tools-and-equipment-and-their-uses/), [the spruce eats](https://www.thespruceeats.com/essential-distilled-spirits-and-mixers-760741)
 
 ### Before you start: some important guidelines
-After you have collected all the essential equipment needed for starting your cocktail career, you might want to take some time to take a look at this section. Making a cocktail is a undoughtly a whole process, which may involves specific ingredients you have to make on your own. But what about how to use a specific bar tool essential in the appropriate way? All this might look a whole different world but I assure you there is no reason to worry about! It will take only a little of your time to learn how to use each element of your working station and perform successfully some basic ingredients of cocktails, as well as a true bartender!
+After you have collected all the essential equipment needed for starting your cocktail career, you might want to take some time to take a look at this section. Making a cocktail is undoubtedly a whole process, which may involves specific ingredients you have to make on your own. On the other hand, bartenders use so many tools that noone knows how to deal with them in the appropriate way. All this might look a whole different world, but I assure you there is no reason to worry about! It will take only a little of your time to learn how to use each element of your working station and perform successfully some basic ingredients of cocktails, as well as a true bartender!
 
 Enough talking, let's get into action!
 
