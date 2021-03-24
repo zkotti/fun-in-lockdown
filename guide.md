@@ -18,12 +18,12 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Coding Projects](#coding-projects)
 * [Cooking](#cooking)
 * [Covid-19 Infection](#covid-infection)
+* [Discover Space](#Discover-Space)
 * [Down the rabbit hole](#conspiracies)
 * [Exercise](#exercise)
 * [Facetime your long-distance friends](#facetime)
 * [Gardening](#gardening)
 * [Learn a new skill](#new-skill)
-* [Discover Space](#Discover-Space)
 * [Meditation](#meditation)
 * [Movies-Documentaries-Series](#movies-docum-series)
 * [Music](#music)
@@ -305,6 +305,11 @@ If you are not in the mood for alcohol, be sure to try these non-alcoholic cockt
 | Pinapple & Lime Mocktail | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/shine-light) |
 | Drivers' punch | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/drivers-punch) |
 | Pomegranate Mojito Mocktail | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/pomegranate-mojito-mocktail) |
+| Shirley Temple | Easy | [Get the recipe here](https://www.delish.com/cooking/recipe-ideas/a29813919/shirley-temple-drink-recipe/) |
+| Popsicle Punch | Easy | [Get the recipe here](https://www.delish.com/cooking/recipe-ideas/a22805581/popsicle-punch-recipe/) |
+| Moscow Mule Mocktail | Easy | [Get the recipe here](https://themerrythought.com/diy/moscow-mule-mocktail/) |
+| Citrus Strawberry Mocktail | Easy | [Get the recipe here](https://www.playpartyplan.com/citrus-strawberry-mocktail-recipe) |
+| Blueberry Maple Mojito | Easy | [Get the recipe here](https://www.healthyrecipeecstasy.com/blueberry-maple-mojito-mocktal-gender-reveal/) |
 
 <img src="media/images/drink.jpg" alt="Drink responsibly">
 
@@ -479,57 +484,6 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 Information was taken from [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 
 ---
-<img align="left" width="40" height="40" src="media/icons/pizza.png">
-
-## <a name="conspiracies"></a>Down the rabbit hole
-
-
-##### Below, lies a list of conspiracy theories that are notable. Feel free to further investigate, you can find further information and videos on Youtube and Google. Some could be and turn out to be true, but most of these conspiracies seem impossible to believe, but it is still very interesting, to analyze why some groups of people decide to not only follow these beliefs but also promote them.
-
-* __MKUltra__
-
-Genuine American research in the 1950s and 1960s into drug-induced interrogation and mind-control techniques were followed by many conspiracy theories(eg. Project Monarch), especially following CIA Director Richard Helm's 1973 order to destroy anything related to the project. One of these theories, is the allegation that the mass fatality at Jonestown in 1978 was connected to an MKUltra experiment.
-
-The intent of the project was to study “the use of biological and chemical materials in altering human behavior,” according to the official testimony of CIA director Stansfield Turner in 1977.
-
-Under MKUltra, the CIA gave itself the authority to research how drugs could: “promote the intoxicating effects of alcohol;” “render the induction of hypnosis easier;” “enhance the ability of individuals to withstand privation, torture and coercion;” produce amnesia, shock and confusion; and much more. Many of these questions were investigated using unwitting test subjects, like drug-addicted prisoners, marginalized sex workers and terminal cancer patients–”people who could not fight back,” in the words of Sidney Gottlieb, the chemist who introduced LSD to the CIA.
-
-
-* __Flat Earth__
-
-Flat Earth theory first emerged in 19th-century England, despite the Earth's spherical nature having been known since at least the time of Pythagoras. Lately, it has been promoted by American software consultant Mark Sargent through the use of YouTube videos. Flat-earther conspiracy theorists believe that planet Earth is not a sphere, and that evidence has been faked to hide the fact that is instead a disc, or a single infinite plane. The conspiracy often implicates NASA. Other claims include that GPS devices are rigged to make aircraft pilots wrongly believe they are flying around a globe.
-
-* __Weather and earthquake control projects__
-
-Many theories pertain to real or alleged weather-controlling projects. Theories include the debunked assertion that HAARP, a radio-technology research program funded by the US government, is a secret weather-controlling system. Some theorists blamed HAARP for 2005's Hurricane Katrina. HAARP has also been suggested to have somehow caused earthquakes, such as the 2011 Tōhoku earthquake and tsunami, the 2013 Saravan earthquake or the 2010 Haiti earthquake. Some HAARP-related claims refer to mind-control technology.
-
-Source : https://en.wikipedia.org/wiki/List_of_conspiracy_theories
-
----
-<img align="left" width="40" height="40" src="media/icons/drinking-games.png">
-
-## <a name="drinking-games"></a>Drinking Games
-Drinking games offer the oppurtinity to come closer with your friends and have a a great time **(Drink responsibly).**
-* **Flip cup:** This is a team game, where two opposing groups stand on opposite sides of a table or counter, with a full cup in front of each player.
-The games begin, and the first players in line race to down their drinks, and then place their empty cups upside down on the edge of the surface. They then have to successfully flip their cups the right way up – not so easy once you've had a few – at which point the next player in line has to do the same. It's a relay, so the first team to get to the end wins!\
-*What you need: Large plastic cups(can also be used for [beerpong](#beerpong))*
-* **Drunk Jenga:** Buy a jenga set (there are loads of cheap ones on [Amazon](https://www.amazon.com/Jenga-A2120EU4-Classic-Game/dp/B00ABA0ZOA?ref_=ast_sto_dp&th=1&psc=1)), and write a different rule on the top of each wooden block. Things like 'drink two fingers of your drink'or 'have a shot'. The more you play, the drunker you'll get, and the more clumsy your game will be.\
-*What you need: A jenga set.*
-* **Back to back:** Two people in your group stand back to back, drinks in hand. The rest of the group ask them a 'Who's the most likely to....' question, and which ever member thinks they're the most likely to, drinks. If one of them drinks, you ask the next question. If they both drink, they both have to drink again. If neither of them drink, they also both have to drink again.\
-*What you need: Only your drinks.*
-*  **Beerpong:**<a name="beerpong"></a> Beerpong is an all-around crowd pleaser, because it’s easy to follow, however difficult to master. To play this team drinking game lay out two sets of cups forming a pyramid on both ends of the table, gather a ping pong ball and fill the cups with your drink of choice. The teams then take it in turns to throw the ball into the other team’s cups. If you get the ping pong ball into your opponent’s cup, they have to drink its contents.\
-*What you need: Large cups and a pingpong ball(maybe more than one).*
-* **Ring of Fire:** This is an exciting drinking game that is played using playing cards. The player must drink and pass round the drinks based on the card drawn. [Each card has a rule that is established before the start of the game](https://ringoffirerules.com/). Every player picks a card and does what the card represents, and it can be anything from choosing someone to take a drink to start a game of categories. When a player draws a king, he pours a quarter of what he is drinking into the middle cup. The game comes to an end when the last king is drawn. The player who draws the last King has to drink the concoction in the King’s cup to the last drop.\
-*What you need: A deck of cards.*
-* **Never Have I Ever:** This is an awesome drinking game to get to know your drinking partners better. Everyone needs a drink and their memory to be sharp. Players take turns calling experiences they have never had. Anyone that has had the called experience has to take a sip of their drink. Be careful though! Crazy people will probably get drunk quickly while the shier ones stay sober.\
-*What you need: Your drinks and a good mood.*
-
-
-
-**Note:** In order to make small gatherings safe please consider [this](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays/small-gatherings.html) tips.
-
----
-
 <img align="left" width="40" height="40" src="media/icons/alien.png">
 
 ## <a name="Discover-Space"></a> **Discover Space**
@@ -670,6 +624,57 @@ Source: [https://www.nasa.gov/mission_pages/GLAST/science/neutron_stars.html](ht
 Click **here** for tutorial:
 - [here](https://www.youtube.com/watch?v=udFxKZRyQt4&t=27s)
 
+
+---
+
+<img align="left" width="40" height="40" src="media/icons/pizza.png">
+
+## <a name="conspiracies"></a>Down the rabbit hole
+
+
+##### Below, lies a list of conspiracy theories that are notable. Feel free to further investigate, you can find further information and videos on Youtube and Google. Some could be and turn out to be true, but most of these conspiracies seem impossible to believe, but it is still very interesting, to analyze why some groups of people decide to not only follow these beliefs but also promote them.
+
+* __MKUltra__
+
+Genuine American research in the 1950s and 1960s into drug-induced interrogation and mind-control techniques were followed by many conspiracy theories(eg. Project Monarch), especially following CIA Director Richard Helm's 1973 order to destroy anything related to the project. One of these theories, is the allegation that the mass fatality at Jonestown in 1978 was connected to an MKUltra experiment.
+
+The intent of the project was to study “the use of biological and chemical materials in altering human behavior,” according to the official testimony of CIA director Stansfield Turner in 1977.
+
+Under MKUltra, the CIA gave itself the authority to research how drugs could: “promote the intoxicating effects of alcohol;” “render the induction of hypnosis easier;” “enhance the ability of individuals to withstand privation, torture and coercion;” produce amnesia, shock and confusion; and much more. Many of these questions were investigated using unwitting test subjects, like drug-addicted prisoners, marginalized sex workers and terminal cancer patients–”people who could not fight back,” in the words of Sidney Gottlieb, the chemist who introduced LSD to the CIA.
+
+
+* __Flat Earth__
+
+Flat Earth theory first emerged in 19th-century England, despite the Earth's spherical nature having been known since at least the time of Pythagoras. Lately, it has been promoted by American software consultant Mark Sargent through the use of YouTube videos. Flat-earther conspiracy theorists believe that planet Earth is not a sphere, and that evidence has been faked to hide the fact that is instead a disc, or a single infinite plane. The conspiracy often implicates NASA. Other claims include that GPS devices are rigged to make aircraft pilots wrongly believe they are flying around a globe.
+
+* __Weather and earthquake control projects__
+
+Many theories pertain to real or alleged weather-controlling projects. Theories include the debunked assertion that HAARP, a radio-technology research program funded by the US government, is a secret weather-controlling system. Some theorists blamed HAARP for 2005's Hurricane Katrina. HAARP has also been suggested to have somehow caused earthquakes, such as the 2011 Tōhoku earthquake and tsunami, the 2013 Saravan earthquake or the 2010 Haiti earthquake. Some HAARP-related claims refer to mind-control technology.
+
+Source : https://en.wikipedia.org/wiki/List_of_conspiracy_theories
+
+---
+<img align="left" width="40" height="40" src="media/icons/drinking-games.png">
+
+## <a name="drinking-games"></a>Drinking Games
+Drinking games offer the oppurtinity to come closer with your friends and have a a great time **(Drink responsibly).**
+* **Flip cup:** This is a team game, where two opposing groups stand on opposite sides of a table or counter, with a full cup in front of each player.
+The games begin, and the first players in line race to down their drinks, and then place their empty cups upside down on the edge of the surface. They then have to successfully flip their cups the right way up – not so easy once you've had a few – at which point the next player in line has to do the same. It's a relay, so the first team to get to the end wins!\
+*What you need: Large plastic cups(can also be used for [beerpong](#beerpong))*
+* **Drunk Jenga:** Buy a jenga set (there are loads of cheap ones on [Amazon](https://www.amazon.com/Jenga-A2120EU4-Classic-Game/dp/B00ABA0ZOA?ref_=ast_sto_dp&th=1&psc=1)), and write a different rule on the top of each wooden block. Things like 'drink two fingers of your drink'or 'have a shot'. The more you play, the drunker you'll get, and the more clumsy your game will be.\
+*What you need: A jenga set.*
+* **Back to back:** Two people in your group stand back to back, drinks in hand. The rest of the group ask them a 'Who's the most likely to....' question, and which ever member thinks they're the most likely to, drinks. If one of them drinks, you ask the next question. If they both drink, they both have to drink again. If neither of them drink, they also both have to drink again.\
+*What you need: Only your drinks.*
+*  **Beerpong:**<a name="beerpong"></a> Beerpong is an all-around crowd pleaser, because it’s easy to follow, however difficult to master. To play this team drinking game lay out two sets of cups forming a pyramid on both ends of the table, gather a ping pong ball and fill the cups with your drink of choice. The teams then take it in turns to throw the ball into the other team’s cups. If you get the ping pong ball into your opponent’s cup, they have to drink its contents.\
+*What you need: Large cups and a pingpong ball(maybe more than one).*
+* **Ring of Fire:** This is an exciting drinking game that is played using playing cards. The player must drink and pass round the drinks based on the card drawn. [Each card has a rule that is established before the start of the game](https://ringoffirerules.com/). Every player picks a card and does what the card represents, and it can be anything from choosing someone to take a drink to start a game of categories. When a player draws a king, he pours a quarter of what he is drinking into the middle cup. The game comes to an end when the last king is drawn. The player who draws the last King has to drink the concoction in the King’s cup to the last drop.\
+*What you need: A deck of cards.*
+* **Never Have I Ever:** This is an awesome drinking game to get to know your drinking partners better. Everyone needs a drink and their memory to be sharp. Players take turns calling experiences they have never had. Anyone that has had the called experience has to take a sip of their drink. Be careful though! Crazy people will probably get drunk quickly while the shier ones stay sober.\
+*What you need: Your drinks and a good mood.*
+
+
+
+**Note:** In order to make small gatherings safe please consider [this](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays/small-gatherings.html) tips.
 
 ---
 
