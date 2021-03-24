@@ -100,7 +100,8 @@ If you are stuck at home with your family or your roommate(s), you could try one
 * [Bang!](https://en.wikipedia.org/wiki/Bang!_(card_game)): In this Wild-West themed game, a sheriff and a deputy sheriff are trying to uncover the outlaws. It sounds easy, but what happens when you don't know who the outlaws are?
 * [Wizard](https://en.wikipedia.org/wiki/Wizard_(card_game)): A fun card game that comes with a set of tricky rules. Each palyer has guess the results of the game and the winner is the one who makes the best guesses. 
 * [Risk](https://en.wikipedia.org/wiki/Risk_(game)): A strategy board game which combines war, debate, diplomacy, conflicts and luck. Each player has a quest to complete (usually to take over a continent) but so do your opponents. 2-6 Players, 1-8 hours. Do not play this game with your best friends, it will be the end of a friendship...    
-
+* [Battleship](https://en.wikipedia.org/wiki/Battleship_(game)): A strategy type guessing game for two players. It is played on ruled grids (paper or board) on which each player's fleet of ships (including battleships) are marked. The locations of the fleets are concealed from the other player. Players alternate turns calling "shots" at the other player's ships, and the objective of the game is to destroy the opposing player's fleet. 
+* [Twister](https://en.wikipedia.org/wiki/Twister_(game)): Twister will, as the box promises, have you twisted up in knots and probably doubled over laughing, too. To play, place the game’s large vinyl mat on the floor. The mat has four rows of different colored dots and a cardboard spinner broken up into quadrants that dictates what body part goes on what color dot. You might find yourself in a downward dog or you might find yourself with someone’s rump in your face, but try to hold your position no matter how strange it might seem.
 
 ---
 
