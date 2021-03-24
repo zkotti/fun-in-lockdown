@@ -462,6 +462,8 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 Information was taken from [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 
 ---
+<img align="left" width="40" height="40" src="media/icons/pizza.jpeg">
+
 ## <a name="conspiracies"></a>Down the rabbit hole
 
 
