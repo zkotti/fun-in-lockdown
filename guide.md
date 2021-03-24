@@ -1181,6 +1181,8 @@ Do you like cars? Of course you do! Who doesn't?
 * [Car.gr](https://www.car.gr)
 * [Offroad parts](https://www.xtreme4x4.gr)
 
+Section icon Source: https://2sleepylagoonter.info/car-news/best-cars/top-10-best-sports-cars
+
 ### If you like car videos you should definetely check these youtube channels:
 
 * [Motor Trend Channel](https://www.youtube.com/user/MotorTrend/videos)
@@ -1194,7 +1196,7 @@ Do you like cars? Of course you do! Who doesn't?
 * [Scotty Kilmer](https://www.youtube.com/user/scottykilmer/videos)
 * [Supercar Blondie](https://www.youtube.com/user/nikhirschi/videos)
 
-Section icon Source: https://2sleepylagoonter.info/car-news/best-cars/top-10-best-sports-cars
+Source for youtube links: https://blog.feedspot.com/car_youtube_channels/
 
 ---
 <img align="left" width="40" height="40" src="media/icons/cocktail.png">
