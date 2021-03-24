@@ -265,13 +265,14 @@ photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/
 | Manhattan| Whiskey| [video](https://www.youtube.com/watch?v=TFWPtkNoF4Y)|
 | Margarita| Tequila| [video](https://www.youtube.com/watch?v=lNwNvq8Kxl8)|
 | Martini| Vodka or Gin| [video](https://www.youtube.com/watch?v=hiQ57jbFY5s)|
-| Mojito| Rum | [video](https://www.youtube.com/watch?v=KWU9ZaWbeuQ)|
+| Mojito| Rum| [video](https://www.youtube.com/watch?v=KWU9ZaWbeuQ)|
 | Negroni| Gin, Sweet Vermouth, Campari| [video](https://www.youtube.com/watch?v=nh_3suGRbN8)|
 | Old Fashioned| Bourbon| [video](https://www.youtube.com/watch?v=mf1ax7y0yyI)|
 | Paloma| Tequila Blanco| [video](https://www.youtube.com/watch?v=2y6ZP1d18BU)|
 | Pina Colada| Rum| [video](https://www.youtube.com/watch?v=-wea2usJIAA)|
+| Porn star Martini| Vodka| [video](https://www.youtube.com/watch?v=IJG89JW1iaU)|
 | Tom Collins| Gin| [video](https://www.youtube.com/watch?v=bK_kBsqqA0I)|
-| White Russian| Vodka and coffe | [video](https://www.youtube.com/watch?v=Z0zqXFpuolw)|
+| White Russian| Vodka and coffe| [video](https://www.youtube.com/watch?v=Z0zqXFpuolw)|
 
 ### Cocktails for the Adventurous Drinker
 
@@ -285,9 +286,9 @@ Unusual flavor combinations that actually work in drinks. Be sure to test them y
 |---| ---| ---| 
 | Bacon Me Angry | Vodka | [recipe](https://bacontoday.com/2015/01/19/bacon-me-angry-angry-orchard-cocktail/)|
 | Butternut Old Fashioned | Whiskey | [recipe](https://www.thespruceeats.com/little-doms-butternut-old-fashioned-recipe-761338)|
+| Eucalyptus Martini | Gin | [recipe](https://www.thespruceeats.com/eucalyptus-martini-recipe-760078)|
 | Ruby Queen | Vodka | [recipe](https://www.thespruceeats.com/ruby-queen-cocktail-recipe-759220)|
 | The Beer, Bourbon & Barbecue Cocktail | Whiskey | [recipe](https://www.thespruceeats.com/beer-bourbon-and-barbecue-cocktail-recipe-4156984)|
-| Eucalyptus Martini | Gin | [recipe](https://www.thespruceeats.com/eucalyptus-martini-recipe-760078)|
 
 For more details don't forget to check [this](https://www.thespruceeats.com/unique-cocktails-for-adventurous-drinkers-759874) out!
 
@@ -297,19 +298,19 @@ If you are not in the mood for alcohol, be sure to try these non-alcoholic cockt
 
 |Name| Difficulty | How to make | 
 |---| ---| ---|
-| Chai Blossom | Easy | [Get the recipe here](https://www.bonappetit.com/recipe/chai-blossom) |
-| Summer Cup Mocktail | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/summer-cup-mocktail) |
-| New York Sour Mocktail | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/new-york-sour-mocktail) |
-| Pear & Rose Punch | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/pear-apple-rose-punch) |
-| Raw Raspberry Shrub | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/raw-raspberry-shrub) |
-| Pinapple & Lime Mocktail | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/shine-light) |
-| Drivers' punch | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/drivers-punch) |
-| Pomegranate Mojito Mocktail | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/pomegranate-mojito-mocktail) |
-| Shirley Temple | Easy | [Get the recipe here](https://www.delish.com/cooking/recipe-ideas/a29813919/shirley-temple-drink-recipe/) |
-| Popsicle Punch | Easy | [Get the recipe here](https://www.delish.com/cooking/recipe-ideas/a22805581/popsicle-punch-recipe/) |
-| Moscow Mule Mocktail | Easy | [Get the recipe here](https://themerrythought.com/diy/moscow-mule-mocktail/) |
-| Citrus Strawberry Mocktail | Easy | [Get the recipe here](https://www.playpartyplan.com/citrus-strawberry-mocktail-recipe) |
-| Blueberry Maple Mojito | Easy | [Get the recipe here](https://www.healthyrecipeecstasy.com/blueberry-maple-mojito-mocktal-gender-reveal/) |
+| Blueberry Maple Mojito | Easy | [recipe](https://www.healthyrecipeecstasy.com/blueberry-maple-mojito-mocktal-gender-reveal/) |
+| Citrus Strawberry Mocktail | Easy | [recipe](https://www.playpartyplan.com/citrus-strawberry-mocktail-recipe) |
+| Chai Blossom | Easy | [recipe](https://www.bonappetit.com/recipe/chai-blossom) |
+| Drivers' punch | Easy | [recipe](https://www.bbcgoodfood.com/recipes/drivers-punch) |
+| Moscow Mule Mocktail | Easy | [recipe](https://themerrythought.com/diy/moscow-mule-mocktail/) |
+| New York Sour Mocktail | Easy | [recipe](https://www.bbcgoodfood.com/recipes/new-york-sour-mocktail) |
+| Pear & Rose Punch | Easy | [recipe](https://www.bbcgoodfood.com/recipes/pear-apple-rose-punch) |
+| Pinapple & Lime Mocktail | Easy | [recipe](https://www.bbcgoodfood.com/recipes/shine-light) |
+| Pomegranate Mojito Mocktail | Easy | [recipe](https://www.bbcgoodfood.com/recipes/pomegranate-mojito-mocktail) |
+| Popsicle Punch | Easy | [recipe](https://www.delish.com/cooking/recipe-ideas/a22805581/popsicle-punch-recipe/) |
+| Raw Raspberry Shrub | Easy | [recipe](https://www.bbcgoodfood.com/recipes/raw-raspberry-shrub) |
+| Shirley Temple | Easy | [recipe](https://www.delish.com/cooking/recipe-ideas/a29813919/shirley-temple-drink-recipe/) |
+| Summer Cup Mocktail | Easy | [recipe](https://www.bbcgoodfood.com/recipes/summer-cup-mocktail) |
 
 <img src="media/images/drink.jpg" alt="Drink responsibly">
 
