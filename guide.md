@@ -234,6 +234,7 @@ photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/
 
 |Name| Primary Alcohol | How to make | 
 |---| ---| ---| 
+| Aperol Spritz| Prosecco, Aperol| [video](https://www.youtube.com/watch?v=z1adrnWCfvg)|
 | Bloody Mary| Vodka| [video](https://www.youtube.com/watch?v=rpEzoWNbgSk&t=2s)|
 | Cosmopolitan| Vodka| [video](https://www.youtube.com/watch?v=TnkMtoDNgxE)|
 | Daiquiri| Rum| [video](https://www.youtube.com/watch?v=ofwTyfKo8Mg)|
@@ -242,6 +243,7 @@ photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/
 | Martini| Vodka or Gin| [video](https://www.youtube.com/watch?v=hiQ57jbFY5s)|
 | Mojito| Rum | [video](https://www.youtube.com/watch?v=KWU9ZaWbeuQ)|
 | Negroni| Gin, Sweet Vermouth, Campari| [video](https://www.youtube.com/watch?v=nh_3suGRbN8)|
+| Paloma| Tequila Blanco| [video](https://www.youtube.com/watch?v=2y6ZP1d18BU)|
 | Pina Colada| Rum| [video](https://www.youtube.com/watch?v=-wea2usJIAA)|
 | White Russian| Vodka and coffe | [video](https://www.youtube.com/watch?v=Z0zqXFpuolw)|
 
