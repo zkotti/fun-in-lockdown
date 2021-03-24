@@ -518,7 +518,9 @@ The games begin, and the first players in line race to down their drinks, and th
 *  **Beerpong:**<a name="beerpong"></a> Beerpong is an all-around crowd pleaser, because it’s easy to follow, however difficult to master. To play this team drinking game lay out two sets of cups forming a pyramid on both ends of the table, gather a ping pong ball and fill the cups with your drink of choice. The teams then take it in turns to throw the ball into the other team’s cups. If you get the ping pong ball into your opponent’s cup, they have to drink its contents.\
 *What you need: Large cups and a pingpong ball(maybe more than one).*
 * **Ring of Fire:** This is an exciting drinking game that is played using playing cards. The player must drink and pass round the drinks based on the card drawn. [Each card has a rule that is established before the start of the game](https://ringoffirerules.com/). Every player picks a card and does what the card represents, and it can be anything from choosing someone to take a drink to start a game of categories. When a player draws a king, he pours a quarter of what he is drinking into the middle cup. The game comes to an end when the last king is drawn. The player who draws the last King has to drink the concoction in the King’s cup to the last drop.\
-*What you need: A deck of cards.*  
+*What you need: A deck of cards.*
+* **Never Have I Ever:** This is an awesome drinking game to get to know your drinking partners better. Everyone needs a drink and their memory to be sharp. Players take turns calling experiences they have never had. Anyone that has had the called experience has to take a sip of their drink. Be careful though! Crazy people will probably get drunk quickly while the shier ones stay sober.\
+*What you need: Your drinks and a good mood.*
 
 
 
