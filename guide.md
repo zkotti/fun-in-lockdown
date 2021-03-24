@@ -40,6 +40,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 
 
 ---
+
 <img align="left" width="40" height="40" src="media/icons/coronavirus.png">
 
 ## <a name="covid-infection"></a> Covid-19 Infection
@@ -1274,6 +1275,7 @@ Image source: https://www.talkingretail.com/products-news/alcohol/new-formula-1-
 
 <img align="left" width="40" height="40" src="media/icons/tenor.gif">
 ## <a name="trippygifs"></a> Trippy Gifs!
+## <a name="covid-infection"></a> Covid-19 Infection
 
 ### If you are bored to do any of the above just watch those trippy gifs and time will pass
 
