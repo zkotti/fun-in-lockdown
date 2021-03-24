@@ -923,6 +923,7 @@ Online courses:
 |Bitcoin and Cryptocurrencies|30 hours|Free|BerkleyX|Introductory|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/bitcoin-and-cryptocurrencies?index=product&queryID=b3b6160e788842372317117050e9c774&position=1 "Bitcoin and Cryptocurrencies")|
 |Cybersecurity Fundamentals|96 hours|Free|RITx|Advanced|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/cybersecurity-fundamentals "Cybersecurity Fundamentals")|
 |Digital Marketing|  23.5 Hours | 14.99 | - | Beginner | English | [Udemy](https://www.udemy.com/) | [COURSE](https://www.udemy.com/course/learn-digital-marketing-course/)|
+|E-commerce - Shopify | 5 Hours | 12.99 | - | Beginner | English | [Udemy](https://www.udemy.com/) | [COURSE](https://www.udemy.com/course/make-money-become-a-shopify-expert-from-zero-to-hero/)|
 |Introduction to Machine Learning|25 hours|Free|Duke|Intermediate |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/learn/machine-learning-duke "Introduction to Machine Learning")|
 |Introduction to Psychology|15 hours|40/month|Yale|Beginner |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/learn/introduction-psychology "Introduction to Psychology")|
 |Photoshop | 14 Hours | 16.99 | - | Beginner | English | [Udemy](https://www.udemy.com/) | [COURSE](https://www.udemy.com/course/photoshop-cc-masterclass/)|
