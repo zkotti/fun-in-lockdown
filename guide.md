@@ -5,6 +5,8 @@
 
 Photo owned by [csuchico.edu](https://www.csuchico.edu/)
 
+Gif owned by [giphy.com](https://giphy.com/ "giphy.com")
+
 Not sure how to spend time in lockdown? This guide contains a range of different activities to choose from.
 
 ## <a name="categories"></a>Categories
@@ -16,6 +18,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Coding Projects](#coding-projects)
 * [Cooking](#cooking)
 * [Covid-19 Infection](#covid-infection)
+* [Down the rabbit hole](#conspiracies)
 * [Exercise](#exercise)
 * [Facetime your long-distance friends](#facetime)
 * [Gardening](#gardening)
@@ -71,35 +74,37 @@ Board Games are a great way to have fun and spend your time with family and frie
 ### Online board games
 Below you may find some interesting websites where you can play different board games along with your friends:
 
-* [Scribbl](https://skribbl.io/): skribbl.io is a free multiplayer drawing and guessing game. One game consists of a few rounds in which every round someone has to draw their chosen word and others have to guess it to gain points! The person with the most points at the end of game will then be crowned as the winner! (*Source: https://skribbl.io/)*
-* [Playing cards](https://playingcards.io/): PlayingCards.io simply provides a synchronized card playspace. It's up to you to start the game, enforce rules, and determine the winner, just like a real deck of cards!
-* [Rento](https://playrento.com/): Rento is online multiplayer monopoly clone. The game is for 2 to 6 players and you can play it online versus friends, offline versus bots. In the game you trade lands, build houses, win auctions, go and most importantly - have fun. Your goal is to acquire monopoly and bankrupt the other players. (*Source: https://playrento.com/*)
-* [Pretend you 're xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp): Pretend You're Xyzzy is a Cards Against Humanity clone! *([github repo](https://github.com/ajanata/PretendYoureXyzzy))*
-* [Password](https://www.thegamegal.com/2017/11/10/password): The goal of this game is to get your partner to guess the password by giving him a one word and only one word clue. First, you divide yourselves into 2 teams and in each round one of the members from each team will be given a password. If your partner guesses the password then your team wins the points of the round, but if he doesn't, then it's the other team’s turn. If their team gets the password they get the points. If the other team also doesn’t get the word you get another try. So this goes on for 3 times till someone gets the password and then the next round starts. It's a really entertaining game to play with your friends. **Pro Tip**: Turn this into a drinking game and you'll maximize the fun!*([download it here](https://play.google.com/store/apps/details?id=in.androidmate.password_game))*
+* [Among Us](https://www.bluestacks.com/apps/action/among-us-on-pc.html): The game takes place in a space-themed setting, in which players each take on one of two roles, most being Crewmates, and a predetermined number being Impostors. The goal of the Crewmates is to identify the Impostors, eliminate them, and complete tasks around the map; the Impostors' goal is to covertly sabotage and kill the Crewmates before they complete all of their tasks. Players suspected to be Impostors may be eliminated via a plurality vote, which any player may initiate by calling an emergency meeting (except during a crisis) or reporting a dead body. Crewmates win if all Impostors are eliminated or all tasks are completed whereas Impostors win if there is an equal number of Impostors and Crewmates, or if a critical sabotage goes unresolved.
 * [GeoGuessr](https://www.geoguessr.com/): The goal of this game is to guess the location of a specific spot on the globe presented to you via google maps street view. You can either play alone, or with friends. The closer your guess to the selected location, the more point you gather. The winner of the game is the person with the most points at the end of a specified number of rounds.
-* [The Wiki Game](http://thewikigame.com/): In this game, you have to navigate around wiki pages and guess. You start from a specific wikipedia page and within a specified time limit, you have to go to another target wikipedia page using the available hyperlinks.
+* [Password](https://www.thegamegal.com/2017/11/10/password): The goal of this game is to get your partner to guess the password by giving him a one word and only one word clue. First, you divide yourselves into 2 teams and in each round one of the members from each team will be given a password. If your partner guesses the password then your team wins the points of the round, but if he doesn't, then it's the other team’s turn. If their team gets the password they get the points. If the other team also doesn’t get the word you get another try. So this goes on for 3 times till someone gets the password and then the next round starts. It's a really entertaining game to play with your friends. **Pro Tip**: Turn this into a drinking game and you'll maximize the fun!*([download it here](https://play.google.com/store/apps/details?id=in.androidmate.password_game))*
+* [Playing cards](https://playingcards.io/): PlayingCards.io simply provides a synchronized card playspace. It's up to you to start the game, enforce rules, and determine the winner, just like a real deck of cards!
+* [Pretend you're xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp): Pretend You're Xyzzy is a Cards Against Humanity clone! *([github repo](https://github.com/ajanata/PretendYoureXyzzy))*
+* [Rento](https://playrento.com/): Rento is online multiplayer monopoly clone. The game is for 2 to 6 players and you can play it online versus friends, offline versus bots. In the game you trade lands, build houses, win auctions, go and most importantly - have fun. Your goal is to acquire monopoly and bankrupt the other players.
+* [Scribbl](https://skribbl.io/): skribbl.io is a free multiplayer drawing and guessing game. One game consists of a few rounds in which every round someone has to draw their chosen word and others have to guess it to gain points! The person with the most points at the end of game will then be crowned as the winner!
 * [Settera](https://www.seterra.com/): Learning geography doesn't have to be boring. Do it the easy way with Seterra! In no time, you could learn to locate every single country in the world on a map.
 Seterra includes fun quizzes that help familiarize you with countries, capital cities, flags, rivers, lakes, and notable geological features.
-* [Among Us](https://www.bluestacks.com/apps/action/among-us-on-pc.html): The game takes place in a space-themed setting, in which players each take on one of two roles, most being Crewmates, and a predetermined number being Impostors. The goal of the Crewmates is to identify the Impostors, eliminate them, and complete tasks around the map; the Impostors' goal is to covertly sabotage and kill the Crewmates before they complete all of their tasks. Players suspected to be Impostors may be eliminated via a plurality vote, which any player may initiate by calling an emergency meeting (except during a crisis) or reporting a dead body. Crewmates win if all Impostors are eliminated or all tasks are completed whereas Impostors win if there is an equal number of Impostors and Crewmates, or if a critical sabotage goes unresolved.
 * [Spyfall](https://www.spyfall.app/): Spyfall is a fun game that really tests your improvise abilities! You and your friends virtually attend an event and you all get assigned different roles. However, one of you is a spy and has no idea about the event you are attending. Try to figure out who the spy as soon as possible!
+* [The Wiki Game](http://thewikigame.com/): In this game, you have to navigate around wiki pages and guess. You start from a specific wikipedia page and within a specified time limit, you have to go to another target wikipedia page using the available hyperlinks.
+
 
 ### Classic board games
 If you are stuck at home with your family or your roommate(s), you could try one of these fun board games:
 
-* [Cluedo](https://en.wikipedia.org/wiki/Cluedo): A suspenseful murder mystery game that turns everyone into a detective.
-* [Taboo](https://en.wikipedia.org/wiki/Taboo_(game)): The game of forbidden words. In Taboo, your goal is to get your teammate to say the word written on one of the game cards without saying that word or any of the “taboo” words also listed with it.
-* [Twister](https://en.wikipedia.org/wiki/Twister_(game)): As the box promises, have you twisted up in knots and probably doubled over laughing, too.
-* [Stratego](https://en.wikipedia.org/wiki/Stratego): A Napoleonic version of capture the flag!
-* [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)): The classical buying and trading properties game. 
-* [Halli Galli](https://www.ultraboardgames.com/halli-galli/game-rules.php): A fast game in which you have to ring the bell as soon as 5 same fruits appear. Just watch for your hands!
-* [Citadels](https://en.wikipedia.org/wiki/Citadels_(card_game)): A card game in which on each round, players pick a role, build districts and make actions according to their role.
-* [Trivial Pursuit](https://en.wikipedia.org/wiki/Trivial_Pursuit): A game to test your knowledge about things around the globe.
-* [Scrabble](https://en.wikipedia.org/wiki/Scrabble): A game in which you use random letters to create words.
-* [Ticket to Ride](https://en.wikipedia.org/wiki/Ticket_to_Ride_(board_game)): A strategy game in which players collect train cards and use them in order to create train routes across a real world map and collect points. The purpose of the game is to collect the most points. This can be achieved by creating long railways and connecting remote cities which are determined by drawing ticket cards. This board game is ideal for people who like strategy, and love using..... Optimization Methods. :stuck_out_tongue:
 * [Bang!](https://en.wikipedia.org/wiki/Bang!_(card_game)): In this Wild-West themed game, a sheriff and a deputy sheriff are trying to uncover the outlaws. It sounds easy, but what happens when you don't know who the outlaws are?
+* [Battleship](https://en.wikipedia.org/wiki/Battleship_(game)): A strategy type guessing game for two players. It is played on ruled grids (paper or board) on which each player's fleet of ships (including battleships) are marked. The locations of the fleets are concealed from the other player. Players alternate turns calling "shots" at the other player's ships, and the objective of the game is to destroy the opposing player's fleet. 
+* [Citadels](https://en.wikipedia.org/wiki/Citadels_(card_game)): A card game in which on each round, players pick a role, build districts and make actions according to their role.
+* [Cluedo](https://en.wikipedia.org/wiki/Cluedo): A suspenseful murder mystery game that turns everyone into a detective.
+* [Halli Galli](https://www.ultraboardgames.com/halli-galli/game-rules.php): A fast game in which you have to ring the bell as soon as 5 same fruits appear. Just watch for your hands!
+* [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)): The classical buying and trading properties game. 
+* [Risk](https://en.wikipedia.org/wiki/Risk_(game)): A strategy board game which combines war, debate, diplomacy, conflicts and luck. Each player has a quest to complete (usually to take over a continent) but so do your opponents. 2-6 Players, 1-8 hours. Do not play this game with your best friends, it will be the end of a friendship...  
+* [Scrabble](https://en.wikipedia.org/wiki/Scrabble): A game in which you use random letters to create words.
+* [Stratego](https://en.wikipedia.org/wiki/Stratego): A Napoleonic version of capture the flag!
+* [Taboo](https://en.wikipedia.org/wiki/Taboo_(game)): The game of forbidden words. In Taboo, your goal is to get your teammate to say the word written on one of the game cards without saying that word or any of the “taboo” words also listed with it.
+* [Ticket to Ride](https://en.wikipedia.org/wiki/Ticket_to_Ride_(board_game)): A strategy game in which players collect train cards and use them in order to create train routes across a real world map and collect points. The purpose of the game is to collect the most points. This can be achieved by creating long railways and connecting remote cities which are determined by drawing ticket cards. This board game is ideal for people who like strategy, and love using..... Optimization Methods. :stuck_out_tongue:
+* [Trivial Pursuit](https://en.wikipedia.org/wiki/Trivial_Pursuit): A game to test your knowledge about things around the globe.
+* [Twister](https://en.wikipedia.org/wiki/Twister_(game)): As the box promises, have you twisted up in knots and probably doubled over laughing, too.
 * [Wizard](https://en.wikipedia.org/wiki/Wizard_(card_game)): A fun card game that comes with a set of tricky rules. Each palyer has guess the results of the game and the winner is the one who makes the best guesses. 
-* [Risk](https://en.wikipedia.org/wiki/Risk_(game)): A strategy board game which combines war, debate, diplomacy, conflicts and luck. Each player has a quest to complete (usually to take over a continent) but so do your opponents. 2-6 Players, 1-8 hours. Do not play this game with your best friends, it will be the end of a friendship...    
-
+  
 
 ---
 
@@ -224,6 +229,24 @@ First things first; Before you start your mixing experiments, you need to set up
 
 Sources: [glimpose.blog](https://www.glimpsecorp.com/bar-tools-and-equipment-and-their-uses/), [the spruce eats](https://www.thespruceeats.com/essential-distilled-spirits-and-mixers-760741)
 
+### Before you start: some important guidelines
+After you have collected all the essential equipment needed for starting your cocktail career, you might want to take some time to take a look at this section. Making a cocktail is undoubtedly a whole process, which may involves specific ingredients you have to make on your own. On the other hand, bartenders use so many tools that noone knows how to deal with them in the appropriate way. All this might look a whole different world, but I assure you there is no reason to worry about! It will take only a little of your time to learn how to use each element of your working station and perform successfully some basic ingredients of cocktails, as well as a true bartender!
+
+Enough talking, let's get into action!
+
+Below, you can find information about certain processes every bartender should know how to do:
+
+* [Make aerated juice from home](https://www.youtube.com/watch?v=bokKWjN7Zes&list=WL)
+* [Make simple syrups, accompanied by specific cocktails recipes](https://www.youtube.com/watch?v=XOHV1dg5B-U&list=WL&index=1)
+* [Learn to use a cocktail shaker and practice it on specific cocktails](https://www.youtube.com/watch?v=tm_Eo7yzllQ&list=WL&index=1&t=689s)
+* [Chill a glass in the right way](https://www.youtube.com/watch?v=b2dumzdNCbE&list=WL&index=2)
+* [Make a layered shot](https://www.youtube.com/watch?v=ogfCeJ5Kk9Y&list=WL&index=1)
+* [Zest a drink perfectly](https://www.youtube.com/watch?v=mIn500UF7cA&list=WL&index=1)
+* [Work with ice in different ways](https://www.youtube.com/watch?v=Rnd_tOFrSW0&list=WL&index=2)
+* [Stir like an expert](https://www.youtube.com/watch?v=4c71fnMpFNE&list=WL&index=1)
+
+Sources: [Absolut](https://www.absolutdrinks.com/en/learn/)
+
 ### Get to action: Basic cocktails To Try
 
 <img src="media/images/cocktails.jpg" alt="Cocktails" width="500"/>
@@ -233,16 +256,54 @@ photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/
 
 |Name| Primary Alcohol | How to make | 
 |---| ---| ---| 
-| Mojito| Rum | [video](https://www.youtube.com/watch?v=KWU9ZaWbeuQ)|
-| Manhattan| Whiskey| [video](https://www.youtube.com/watch?v=TFWPtkNoF4Y)|
-| Martini| Vodka or Gin| [video](https://www.youtube.com/watch?v=hiQ57jbFY5s)|
-| Margarita| Tequila| [video](https://www.youtube.com/watch?v=lNwNvq8Kxl8)|
-| Negroni| Gin, Sweet Vermouth, Campari| [video](https://www.youtube.com/watch?v=nh_3suGRbN8)|
-| Daiquiri| Rum| [video](https://www.youtube.com/watch?v=ofwTyfKo8Mg)|
-| Pina Colada| Rum| [video](https://www.youtube.com/watch?v=-wea2usJIAA)|
+| Aperol Spritz| Prosecco, Aperol| [video](https://www.youtube.com/watch?v=z1adrnWCfvg)|
 | Bloody Mary| Vodka| [video](https://www.youtube.com/watch?v=rpEzoWNbgSk&t=2s)|
+| Caipirinha| Cachaça (Brazilian Rum)| [video](https://www.youtube.com/watch?v=alEN21hwRYI)|
 | Cosmopolitan| Vodka| [video](https://www.youtube.com/watch?v=TnkMtoDNgxE)|
+| Daiquiri| Rum| [video](https://www.youtube.com/watch?v=ofwTyfKo8Mg)|
+| Manhattan| Whiskey| [video](https://www.youtube.com/watch?v=TFWPtkNoF4Y)|
+| Margarita| Tequila| [video](https://www.youtube.com/watch?v=lNwNvq8Kxl8)|
+| Martini| Vodka or Gin| [video](https://www.youtube.com/watch?v=hiQ57jbFY5s)|
+| Mojito| Rum | [video](https://www.youtube.com/watch?v=KWU9ZaWbeuQ)|
+| Negroni| Gin, Sweet Vermouth, Campari| [video](https://www.youtube.com/watch?v=nh_3suGRbN8)|
+| Old Fashioned| Bourbon| [video](https://www.youtube.com/watch?v=mf1ax7y0yyI)|
+| Paloma| Tequila Blanco| [video](https://www.youtube.com/watch?v=2y6ZP1d18BU)|
+| Pina Colada| Rum| [video](https://www.youtube.com/watch?v=-wea2usJIAA)|
+| Tom Collins| Gin| [video](https://www.youtube.com/watch?v=bK_kBsqqA0I)|
 | White Russian| Vodka and coffe | [video](https://www.youtube.com/watch?v=Z0zqXFpuolw)|
+
+### Cocktails for the Adventurous Drinker
+
+<img src="media/images/weirdcocktail.jpg" alt="Cocktail" width="500"/>
+
+image source [here](https://www.thespruceeats.com/unique-cocktails-for-adventurous-drinkers-759874)
+
+Unusual flavor combinations that actually work in drinks. Be sure to test them yourself!
+
+|Name| Primary Alcohol | How to make | 
+|---| ---| ---| 
+| Bacon Me Angry | Vodka | [recipe](https://bacontoday.com/2015/01/19/bacon-me-angry-angry-orchard-cocktail/)|
+| Butternut Old Fashioned | Whiskey | [recipe](https://www.thespruceeats.com/little-doms-butternut-old-fashioned-recipe-761338)|
+| Ruby Queen | Vodka | [recipe](https://www.thespruceeats.com/ruby-queen-cocktail-recipe-759220)|
+| The Beer, Bourbon & Barbecue Cocktail | Whiskey | [recipe](https://www.thespruceeats.com/beer-bourbon-and-barbecue-cocktail-recipe-4156984)|
+| Eucalyptus Martini | Gin | [recipe](https://www.thespruceeats.com/eucalyptus-martini-recipe-760078)|
+
+For more details don't forget to check [this](https://www.thespruceeats.com/unique-cocktails-for-adventurous-drinkers-759874) out!
+
+### Take it slow and try an alcohol-free cocktail
+
+If you are not in the mood for alcohol, be sure to try these non-alcoholic cocktails. We are sure that they'll surprise you!
+
+|Name| Difficulty | How to make | 
+|---| ---| ---|
+| Chai Blossom | Easy | [Get the recipe here](https://www.bonappetit.com/recipe/chai-blossom) |
+| Summer Cup Mocktail | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/summer-cup-mocktail) |
+| New York Sour Mocktail | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/new-york-sour-mocktail) |
+| Pear & Rose Punch | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/pear-apple-rose-punch) |
+| Raw Raspberry Shrub | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/raw-raspberry-shrub) |
+| Pinapple & Lime Mocktail | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/shine-light) |
+| Drivers' punch | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/drivers-punch) |
+| Pomegranate Mojito Mocktail | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/pomegranate-mojito-mocktail) |
 
 <img src="media/images/drink.jpg" alt="Drink responsibly">
 
@@ -415,6 +476,56 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 14. Clean all “high-touch” surfaces everyday!
 
 Information was taken from [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
+
+---
+<img align="left" width="40" height="40" src="media/icons/pizza.png">
+
+## <a name="conspiracies"></a>Down the rabbit hole
+
+
+##### Below, lies a list of conspiracy theories that are notable. Feel free to further investigate, you can find further information and videos on Youtube and Google. Some could be and turn out to be true, but most of these conspiracies seem impossible to believe, but it is still very interesting, to analyze why some groups of people decide to not only follow these beliefs but also promote them.
+
+* __MKUltra__
+
+Genuine American research in the 1950s and 1960s into drug-induced interrogation and mind-control techniques were followed by many conspiracy theories(eg. Project Monarch), especially following CIA Director Richard Helm's 1973 order to destroy anything related to the project. One of these theories, is the allegation that the mass fatality at Jonestown in 1978 was connected to an MKUltra experiment.
+
+The intent of the project was to study “the use of biological and chemical materials in altering human behavior,” according to the official testimony of CIA director Stansfield Turner in 1977.
+
+Under MKUltra, the CIA gave itself the authority to research how drugs could: “promote the intoxicating effects of alcohol;” “render the induction of hypnosis easier;” “enhance the ability of individuals to withstand privation, torture and coercion;” produce amnesia, shock and confusion; and much more. Many of these questions were investigated using unwitting test subjects, like drug-addicted prisoners, marginalized sex workers and terminal cancer patients–”people who could not fight back,” in the words of Sidney Gottlieb, the chemist who introduced LSD to the CIA.
+
+
+* __Flat Earth__
+
+Flat Earth theory first emerged in 19th-century England, despite the Earth's spherical nature having been known since at least the time of Pythagoras. Lately, it has been promoted by American software consultant Mark Sargent through the use of YouTube videos. Flat-earther conspiracy theorists believe that planet Earth is not a sphere, and that evidence has been faked to hide the fact that is instead a disc, or a single infinite plane. The conspiracy often implicates NASA. Other claims include that GPS devices are rigged to make aircraft pilots wrongly believe they are flying around a globe.
+
+* __Weather and earthquake control projects__
+
+Many theories pertain to real or alleged weather-controlling projects. Theories include the debunked assertion that HAARP, a radio-technology research program funded by the US government, is a secret weather-controlling system. Some theorists blamed HAARP for 2005's Hurricane Katrina. HAARP has also been suggested to have somehow caused earthquakes, such as the 2011 Tōhoku earthquake and tsunami, the 2013 Saravan earthquake or the 2010 Haiti earthquake. Some HAARP-related claims refer to mind-control technology.
+
+Source : https://en.wikipedia.org/wiki/List_of_conspiracy_theories
+
+---
+<img align="left" width="40" height="40" src="media/icons/drinking-games.png">
+
+## <a name="drinking-games"></a>Drinking Games
+Drinking games offer the oppurtinity to come closer with your friends and have a a great time **(Drink responsibly).**
+* **Flip cup:** This is a team game, where two opposing groups stand on opposite sides of a table or counter, with a full cup in front of each player.
+The games begin, and the first players in line race to down their drinks, and then place their empty cups upside down on the edge of the surface. They then have to successfully flip their cups the right way up – not so easy once you've had a few – at which point the next player in line has to do the same. It's a relay, so the first team to get to the end wins!\
+*What you need: Large plastic cups(can also be used for [beerpong](#beerpong))*
+* **Drunk Jenga:** Buy a jenga set (there are loads of cheap ones on [Amazon](https://www.amazon.com/Jenga-A2120EU4-Classic-Game/dp/B00ABA0ZOA?ref_=ast_sto_dp&th=1&psc=1)), and write a different rule on the top of each wooden block. Things like 'drink two fingers of your drink'or 'have a shot'. The more you play, the drunker you'll get, and the more clumsy your game will be.\
+*What you need: A jenga set.*
+* **Back to back:** Two people in your group stand back to back, drinks in hand. The rest of the group ask them a 'Who's the most likely to....' question, and which ever member thinks they're the most likely to, drinks. If one of them drinks, you ask the next question. If they both drink, they both have to drink again. If neither of them drink, they also both have to drink again.\
+*What you need: Only your drinks.*
+*  **Beerpong:**<a name="beerpong"></a> Beerpong is an all-around crowd pleaser, because it’s easy to follow, however difficult to master. To play this team drinking game lay out two sets of cups forming a pyramid on both ends of the table, gather a ping pong ball and fill the cups with your drink of choice. The teams then take it in turns to throw the ball into the other team’s cups. If you get the ping pong ball into your opponent’s cup, they have to drink its contents.\
+*What you need: Large cups and a pingpong ball(maybe more than one).*
+* **Ring of Fire:** This is an exciting drinking game that is played using playing cards. The player must drink and pass round the drinks based on the card drawn. [Each card has a rule that is established before the start of the game](https://ringoffirerules.com/). Every player picks a card and does what the card represents, and it can be anything from choosing someone to take a drink to start a game of categories. When a player draws a king, he pours a quarter of what he is drinking into the middle cup. The game comes to an end when the last king is drawn. The player who draws the last King has to drink the concoction in the King’s cup to the last drop.\
+*What you need: A deck of cards.*
+* **Never Have I Ever:** This is an awesome drinking game to get to know your drinking partners better. Everyone needs a drink and their memory to be sharp. Players take turns calling experiences they have never had. Anyone that has had the called experience has to take a sip of their drink. Be careful though! Crazy people will probably get drunk quickly while the shier ones stay sober.\
+*What you need: Your drinks and a good mood.*
+
+
+
+**Note:** In order to make small gatherings safe please consider [this](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays/small-gatherings.html) tips.
 
 ---
 
@@ -619,6 +730,15 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * Cycling
 * Running
 
+
+
+**Warm up**
+* Boxing Warm Up [video](https://www.youtube.com/watch?v=GtFO7P8sr0E)
+* Fun Warm Up [video](https://www.youtube.com/watch?v=jHw6HxD1j30&t=69s)
+* Happy Dance Warm Up [video](https://www.youtube.com/watch?v=vNUWtyW0js0)
+* Classic Full Body Warm Up [video](https://www.youtube.com/watch?v=wswdAzOfU1Y&t=122s)
+
+
 **“Burning” particular muscle groups:**
 
 * Arms & Back + Core training [video](https://www.youtube.com/watch?v=-UmT4WYhqH4)
@@ -666,12 +786,16 @@ or you can start a 30day Yoga Challenge with Adriene:
 * Day 2 [video](https://www.youtube.com/watch?v=GaL3YF1vY2k)
 * Day 3 [video](https://www.youtube.com/watch?v=hJjqx6YlcWs)
 
-Don't forget to stretch! Here are some videos to help you:
+Whether you have worked out or not, don't forget to stretch daily! It will make you feel so much better and help you fix your posture and relax your muscles! Here are some videos to help you:
 
 * Lower body stretch [video](https://www.youtube.com/watch?v=elcwsSqNhS8)
 * Recovery day stretch [video](https://www.youtube.com/watch?v=2MHGldCeJ04)
 * Foam roller stretch [video](https://www.youtube.com/watch?v=pCX3qmWYkS4)
 * Hips and back stretch [video](https://www.youtube.com/watch?v=XVC8LGbxVG0)
+* 6 min everyday stretch [video](https://www.youtube.com/watch?v=72MQmD8Z9Zw&t=300s)
+* 8 min sitting too much stretch [video](https://www.youtube.com/watch?v=12pSXygAzwk)
+* 10 min full body stretch [video](https://www.youtube.com/watch?v=xOqGI7EDe6U)
+
 
 **Exercising apps**
 
@@ -814,6 +938,7 @@ Great ideas to learn new skills:
 * Learn how to [knit](https://www.youtube.com/watch?v=p_R1UDsNOMk&ab_channel=RJKnits)
 * Learn to type, [here is a useful platform](https://www.typingclub.com/)
 * Learn [how to cook, easily among the best!](https://akispetretzikis.com/ "Akis Petretzikis")
+* Learn one easy [magic trick](https://www.youtube.com/watch?v=lhu2hGLz0FY) that will impress everyone
 
 ---
 
