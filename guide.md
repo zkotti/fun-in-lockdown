@@ -670,6 +670,7 @@ Great ideas to learn new skills:
 * Learn how to [knit](https://www.youtube.com/watch?v=p_R1UDsNOMk&ab_channel=RJKnits)
 * Learn to type, [here is a useful platform](https://www.typingclub.com/)
 * Learn [how to cook, easily among the best!](https://akispetretzikis.com/ "Akis Petretzikis")
+* Learn one easy [magic trick](https://www.youtube.com/watch?v=lhu2hGLz0FY) that will impress everyone
 
 ---
 
