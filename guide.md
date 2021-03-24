@@ -18,6 +18,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Coding Projects](#coding-projects)
 * [Cooking](#cooking)
 * [Covid-19 Infection](#covid-infection)
+* [Down the rabbit hole](#conspiracies)
 * [Exercise](#exercise)
 * [Facetime your long-distance friends](#facetime)
 * [Gardening](#gardening)
@@ -459,6 +460,33 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 14. Clean all “high-touch” surfaces everyday!
 
 Information was taken from [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
+
+---
+<img align="left" width="40" height="40" src="media/icons/pizza.png">
+
+## <a name="conspiracies"></a>Down the rabbit hole
+
+
+##### Below, lies a list of conspiracy theories that are notable. Feel free to further investigate, you can find further information and videos on Youtube and Google. Some could be and turn out to be true, but most of these conspiracies seem impossible to believe, but it is still very interesting, to analyze why some groups of people decide to not only follow these beliefs but also promote them.
+
+* __MKUltra__
+
+Genuine American research in the 1950s and 1960s into drug-induced interrogation and mind-control techniques were followed by many conspiracy theories(eg. Project Monarch), especially following CIA Director Richard Helm's 1973 order to destroy anything related to the project. One of these theories, is the allegation that the mass fatality at Jonestown in 1978 was connected to an MKUltra experiment.
+
+The intent of the project was to study “the use of biological and chemical materials in altering human behavior,” according to the official testimony of CIA director Stansfield Turner in 1977.
+
+Under MKUltra, the CIA gave itself the authority to research how drugs could: “promote the intoxicating effects of alcohol;” “render the induction of hypnosis easier;” “enhance the ability of individuals to withstand privation, torture and coercion;” produce amnesia, shock and confusion; and much more. Many of these questions were investigated using unwitting test subjects, like drug-addicted prisoners, marginalized sex workers and terminal cancer patients–”people who could not fight back,” in the words of Sidney Gottlieb, the chemist who introduced LSD to the CIA.
+
+
+* __Flat Earth__
+
+Flat Earth theory first emerged in 19th-century England, despite the Earth's spherical nature having been known since at least the time of Pythagoras. Lately, it has been promoted by American software consultant Mark Sargent through the use of YouTube videos. Flat-earther conspiracy theorists believe that planet Earth is not a sphere, and that evidence has been faked to hide the fact that is instead a disc, or a single infinite plane. The conspiracy often implicates NASA. Other claims include that GPS devices are rigged to make aircraft pilots wrongly believe they are flying around a globe.
+
+* __Weather and earthquake control projects__
+
+Many theories pertain to real or alleged weather-controlling projects. Theories include the debunked assertion that HAARP, a radio-technology research program funded by the US government, is a secret weather-controlling system. Some theorists blamed HAARP for 2005's Hurricane Katrina. HAARP has also been suggested to have somehow caused earthquakes, such as the 2011 Tōhoku earthquake and tsunami, the 2013 Saravan earthquake or the 2010 Haiti earthquake. Some HAARP-related claims refer to mind-control technology.
+
+Source : https://en.wikipedia.org/wiki/List_of_conspiracy_theories
 
 ---
 <img align="left" width="40" height="40" src="media/icons/drinking-games.png">
