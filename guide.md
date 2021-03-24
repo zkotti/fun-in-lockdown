@@ -249,6 +249,10 @@ photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/
 
 ### Cocktails for the Adventurous Drinker
 
+<img src="media/images/weirdcocktail.jpg" alt="Cocktail" width="500"/>
+
+image source [here](https://www.thespruceeats.com/unique-cocktails-for-adventurous-drinkers-759874)
+
 Unusual flavor combinations that actually work in drinks. Be sure to test them yourself!
 
 |Name| Primary Alcohol | How to make | 
