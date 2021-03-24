@@ -1277,12 +1277,47 @@ Image source: https://www.talkingretail.com/products-news/alcohol/new-formula-1-
 
 ## <a name="trippygifs"></a> Trippy Gifs!
 
-###If you are bored to do any of the above just watch those trippy gifs and time will pass
+### If you are bored to do any of the above just watch those trippy gifs and time will pass
 
 <img src="https://media1.tenor.com/images/a3c16b22b8376099408926ee11672a14/tenor.gif?itemid=5424822" />
 
 Image source: https://tenor.com/view/cat-endless-trippy-sigh-gif-5424822/
 
+<img src="https://media1.tenor.com/images/484a160f7580e28381752d40928b9b4a/tenor.gif?itemid=5468929" />
+
+Image source: https://tenor.com/view/trippy-cool-aesthetic-gif-5468929/
+
+<img src="https://i.imgur.com/4MZ6g8F.gif" />
+
+Image source: https://imgur.com/gallery/4p6Du/
+
+<img src="https://i.imgur.com/gayGySV.gif" />
+
+Image source: https://imgur.com/gallery/4p6Du/
+
+<img src="https://i.pinimg.com/originals/e0/0d/a7/e00da7e6895b4b778a7d1201f4465972.gif" />
+
+Image source: https://gr.pinterest.com/pin/255438610098286748/
+
+<img src="https://i.pinimg.com/originals/45/c8/4a/45c84a6d8c3d23d184e590d6a09c35eb.gif" />
+
+Image source: https://gr.pinterest.com/pin/856246947880946762/
+
+<img src="http://www.gifbay.com/gif/trippy-73073/" />
+
+Image source: https://giphy.com/gifs/trippy-Cgf0AymdEvEVG/
+
+<img src="https://konczakowski.tumblr.com/post/170961987185" />
+
+Image source: https://giphy.com/gifs/loop-endless-orVa44Oav5WoF1LVOE/\
+
+<img src="https://konczakowski.tumblr.com/post/170961987185" />
+
+Image source: https://giphy.com/gifs/food-endless-553Zs1KrXN7A3H7ofT/
+
+<img src="https://media0.giphy.com/media/l4JyMhNmNSZIBFtjG/giphy.gif?cid=ecf05e47nm89zkxmoyzjqft5cu0yg0jinu872k4mxvrqkk98&rid=giphy.gif" />
+
+Image source: https://giphy.com/gifs/psychedelic-scifi-fractals-l4JyMhNmNSZIBFtjG/
 ---
 
 <img align="left" width="40" height="40" src="media/icons/warning-shield.png">
