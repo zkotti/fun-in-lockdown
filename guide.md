@@ -642,6 +642,9 @@ Here are some of the vegetables that you can begin with!
 |Asparagus Fern| Annual, houseplant | Summer | Indirect light (indoors); part sun (outdoors) | [More info](https://www.thespruce.com/grow-asparagus-ferns-1902714)|
 |Chinese Money Plant | Evergreen perennial | Spring |  Bright indirect light | [More info](https://www.thespruce.com/growing-pilea-peperomioides-5090425)|
 |Yucca | Herbaceous perennials | Mid-summer to early fall | Full sun or bright, indirect sun | [More info](https://www.thespruce.com/grow-yucca-inside-1902500)|
+|Tillandsia | Air Plant | Doesn't bloom | Bright, indirect sunlight | [More info](https://www.thespruce.com/grow-air-plants-1902663)|
+|Croton Plant | Evergreen shrub | Doesn't bloom | Bright, indirect light | [More info](https://www.thespruce.com/grow-codiaeum-variegatum-1902750)|
+|Peace Lily | Flowering tropical plant | Spring | Medium, indirect light | [More info](https://www.thespruce.com/grow-peace-lilies-1902767)|
 
 Photo owned by [kellogggarden.com](https://www.kellogggarden.com/wp-content/uploads/2017/07/Leafy-Vegetable-Garden.jpg)  
 Icon source: [thenounproject.com ](https://thenounproject.com/term/gardening/) 
