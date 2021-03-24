@@ -234,15 +234,15 @@ photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/
 
 |Name| Primary Alcohol | How to make | 
 |---| ---| ---| 
-| Mojito| Rum | [video](https://www.youtube.com/watch?v=KWU9ZaWbeuQ)|
-| Manhattan| Whiskey| [video](https://www.youtube.com/watch?v=TFWPtkNoF4Y)|
-| Martini| Vodka or Gin| [video](https://www.youtube.com/watch?v=hiQ57jbFY5s)|
-| Margarita| Tequila| [video](https://www.youtube.com/watch?v=lNwNvq8Kxl8)|
-| Negroni| Gin, Sweet Vermouth, Campari| [video](https://www.youtube.com/watch?v=nh_3suGRbN8)|
-| Daiquiri| Rum| [video](https://www.youtube.com/watch?v=ofwTyfKo8Mg)|
-| Pina Colada| Rum| [video](https://www.youtube.com/watch?v=-wea2usJIAA)|
 | Bloody Mary| Vodka| [video](https://www.youtube.com/watch?v=rpEzoWNbgSk&t=2s)|
 | Cosmopolitan| Vodka| [video](https://www.youtube.com/watch?v=TnkMtoDNgxE)|
+| Daiquiri| Rum| [video](https://www.youtube.com/watch?v=ofwTyfKo8Mg)|
+| Manhattan| Whiskey| [video](https://www.youtube.com/watch?v=TFWPtkNoF4Y)|
+| Margarita| Tequila| [video](https://www.youtube.com/watch?v=lNwNvq8Kxl8)|
+| Martini| Vodka or Gin| [video](https://www.youtube.com/watch?v=hiQ57jbFY5s)|
+| Mojito| Rum | [video](https://www.youtube.com/watch?v=KWU9ZaWbeuQ)|
+| Negroni| Gin, Sweet Vermouth, Campari| [video](https://www.youtube.com/watch?v=nh_3suGRbN8)|
+| Pina Colada| Rum| [video](https://www.youtube.com/watch?v=-wea2usJIAA)|
 | White Russian| Vodka and coffe | [video](https://www.youtube.com/watch?v=Z0zqXFpuolw)|
 
 <img src="media/images/drink.jpg" alt="Drink responsibly">
