@@ -632,7 +632,7 @@ Here are some of the vegetables that you can begin with!
 | Tomatoes  | 65-85  | 	 A, C, K, and B6|	Tender | Twice a week |
 | Potatoes  | 90-120  | 	B6 and C|	Half-hardy | Regularly, when tubers start to form |
 
-Easy-to-grow plants
+### Easy-to-grow plants
 
 | PLANT NAME | PLANT TYPE | BLOOM TIME | SUN EXPOSURE | LINK |
 |---|---|---|---|---|
