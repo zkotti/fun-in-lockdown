@@ -418,10 +418,13 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 Information was taken from [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 
 ---
-<img align="left" width="40" height="40" src="media/drinking-games.png">
+<img align="left" width="40" height="40" src="media/icons/drinking-games.png">
 
 ## <a name="drinking-games"></a>Drinking Games
 Drinking games offer the oppurtinity to come closer with your friends and have a a great time **(Drink responsibly).**
+* **Flip cup:** This is a team game, where two opposing groups stand on opposite sides of a table or counter, with a full cup in front of each player.
+The games begin, and the first players in line race to down their drinks, and then place their empty cups upside down on the edge of the surface. They then have to successfully flip their cups the right way up – not so easy once you've had a few – at which point the next player in line has to do the same. It's a relay, so the first team to get to the end wins!\
+*What you need: Large plastic cups(can also be used for [beerpong](#beerpong))*
 
 ---
 
