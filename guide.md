@@ -34,6 +34,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Coding Projects](#coding-projects)
 * [Work with cars](#Work-with-cars)
 * [Cocktail Adventures](#cocktails)
+* [Outdoor Activities with Friends](#outdoor_activites)
 * [Trippy Gifs](#trippygifs)
 
 [Note : Before you head outside](#note)
@@ -1272,6 +1273,41 @@ photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/
 Image source: https://www.talkingretail.com/products-news/alcohol/new-formula-1-campaigns-heineken-09-09-2016/
 
 ---
+
+<img align="left" width="40" height="40" src="media/icons/grass_icon.png">
+
+## <a name="outdoor_activities"></a>Outdoor Activities with Friends
+
+It's corona time for sure but that doesn't mean you can't spend quality time with your friends outside.
+
+Get two friends who you live close to and arrange a fun activity to do together. Make sure you respect the COVID-19 mesures and stay safe.
+
+* __Hoops__
+
+   Remember when as kids we used to run around all the time and actually played games like basketball, volleyball and football? 
+
+   Going for hoops with a friend or two will get your spirits up (without tiring you much) and definately make you feel nostalgic of your childhood.
+
+* __Cycling__
+
+   Spring is officially here and days are getting longer and longer. Enjoy the beautiful golden hour with a friend and a bike. You can explore every street of your neighborhood and even go further than that.
+
+* __Roller Skating__
+
+   Similar to cycling but a bit more fun, maybe. Even if you can't balance properly, you and your friend will surely have lots of laughs with your falls.
+
+* __Jogging__
+
+   If you'd like to exercise but can't find the motivation to do so, try with a friend. Go jogging together at a slow pace and watch each other getting fitter and fitter everyday.
+
+* __Setting goals__
+   
+   Have a chat with your friend and see what you'd like to have achieved in the next year. Set common goals and discuss your progress every week. Try to motivate each other. 
+   
+   This guide offers many suggestions for what those goals could be about.
+
+---
+
 
 <img align="left" width="40" height="40" src="media/icons/trippy.jpg">
 
