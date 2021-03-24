@@ -228,6 +228,14 @@ Sources: [glimpose.blog](https://www.glimpsecorp.com/bar-tools-and-equipment-and
 ### Before you start: some important guidelines
 After you have collected all the essential equipment needed for starting your cocktail career, you might want to take some time to take a look at this section. Making a cocktail is a undoughtly a whole process, which may involves specific ingredients you have to make on your own. But what about how to use a specific bar tool essential in the appropriate way? All this might look a whole different world but I assure you there is no reason to worry about! It will take only a little of your time to learn how to use each element of your working station and perform successfully some basic ingredients of cocktails, as well as a true bartender!
 
+Enough talking, let's get into action!
+
+Below, you can find information about certain processes every bartender should know how to do:
+
+* [Make aerated juice from home](https://www.youtube.com/watch?v=bokKWjN7Zes&list=WL)
+* [Make simple syrups, accompanied by specific cocktails recipes](https://www.youtube.com/watch?v=XOHV1dg5B-U&list=WL&index=1)
+* [Learn to use a cocktail shaker and practice it on specific cocktails](https://www.youtube.com/watch?v=tm_Eo7yzllQ&list=WL&index=1&t=689s)
+
 ### Get to action: Basic cocktails To Try
 
 <img src="media/images/cocktails.jpg" alt="Cocktails" width="500"/>
