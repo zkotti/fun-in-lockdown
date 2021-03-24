@@ -1299,17 +1299,13 @@ Image source: https://imgur.com/gallery/4p6Du/
 
 Image source: https://gr.pinterest.com/pin/255438610098286748/
 
-<img src="https://i.pinimg.com/originals/45/c8/4a/45c84a6d8c3d23d184e590d6a09c35eb.gif" />
-
-Image source: https://gr.pinterest.com/pin/856246947880946762/
-
 <img src="http://www.gifbay.com/gif/trippy-73073/" />
 
 Image source: https://giphy.com/gifs/trippy-Cgf0AymdEvEVG/
 
 <img src="https://konczakowski.tumblr.com/post/170961987185" />
 
-Image source: https://giphy.com/gifs/loop-endless-orVa44Oav5WoF1LVOE/\
+Image source: https://giphy.com/gifs/loop-endless-orVa44Oav5WoF1LVOE/
 
 <img src="https://konczakowski.tumblr.com/post/170961987185" />
 
@@ -1318,6 +1314,19 @@ Image source: https://giphy.com/gifs/food-endless-553Zs1KrXN7A3H7ofT/
 <img src="https://media0.giphy.com/media/l4JyMhNmNSZIBFtjG/giphy.gif?cid=ecf05e47nm89zkxmoyzjqft5cu0yg0jinu872k4mxvrqkk98&rid=giphy.gif" />
 
 Image source: https://giphy.com/gifs/psychedelic-scifi-fractals-l4JyMhNmNSZIBFtjG/
+
+<img src="https://media2.giphy.com/media/IdCJRIO1Lt0TSXSR6x/giphy.gif?cid=ecf05e47ujbcxkssmtqvhfl16zz9turydfod1rzj994si2kh&rid=giphy.gif" />
+
+Image source: https://giphy.com/gifs/IdCJRIO1Lt0TSXSR6x/
+
+<img src="https://media2.giphy.com/media/3Kwo4SFbdQcIo/giphy.gif?cid=ecf05e475devyo7szvvte7a10ocq27b6gmec99um35bypmh5&rid=giphy.gif" />
+
+Image source: https://giphy.com/gifs/tumblr-featured-sheepfilms-3Kwo4SFbdQcIo
+
+<img src="https://media0.giphy.com/media/pZvnLIFQxbKfK/giphy.gif?cid=ecf05e47v0lmegozh3dlqnzmowvme02yar9ev9c5lk0899m4&rid=giphy.gif" />
+
+Image source: https://giphy.com/gifs/tumblr-featured-sheepfilms-building-zoom-pZvnLIFQxbKfK/
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/warning-shield.png">
