@@ -538,6 +538,15 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * Cycling
 * Running
 
+
+
+**Warm up**
+* Boxing Warm Up [video](https://www.youtube.com/watch?v=GtFO7P8sr0E)
+* Fun Warm Up [video](https://www.youtube.com/watch?v=jHw6HxD1j30&t=69s)
+* Happy Dance Warm Up [video](https://www.youtube.com/watch?v=vNUWtyW0js0)
+* Classic Full Body Warm Up [video](https://www.youtube.com/watch?v=wswdAzOfU1Y&t=122s)
+
+
 **“Burning” particular muscle groups:**
 
 * Arms & Back + Core training [video](https://www.youtube.com/watch?v=-UmT4WYhqH4)
