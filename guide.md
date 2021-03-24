@@ -34,6 +34,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Coding Projects](#coding-projects)
 * [Work with cars](#Work-with-cars)
 * [Cocktail Adventures](#cocktails)
+* [Trippy Gifs](#trippygifs)
 
 [Note : Before you head outside](#note)
 
@@ -1271,7 +1272,7 @@ Image source: https://www.talkingretail.com/products-news/alcohol/new-formula-1-
 ---
 
 <img align="left" width="40" height="40" src="media/icons/tenor.gif">
-## <a name="Trippy Gifs"></a> Trippy Gifs!
+## <a name="trippygifs"></a> Trippy Gifs
 
 ### If you are bored to do any of the above just watch those trippy gifs and time will past fast
 
