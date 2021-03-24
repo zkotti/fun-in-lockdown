@@ -8,33 +8,33 @@ Photo owned by [csuchico.edu](https://www.csuchico.edu/)
 Not sure how to spend time in lockdown? This guide contains a range of different activities to choose from.
 
 ## <a name="categories"></a>Categories
-* [Covid-19 Infection](#covid-infection)
-* [Walks in Town](#walks)
-* [Virtual Tours-Trips](#trips-tours)
-* [Movies-Documentaries-Series](#movies-docum-series)
-* [Books](#books)
-* [Exercise](#exercise)
-* [Learn a new skill](#new-skill)
-* [Cooking](#cooking)
-* [Start a new Project](#projects)
-* [Video Games](#video-games)
-* [Board Games](#board-games)
-* [Music](#music)
-* [Meditation](#meditation)
-* [Facetime your long-distance friends](#facetime)
 * [Art](#art)
+* [Board Games](#board-games)
+* [Books](#books)
 * [Clean and organize](#clean)
-* [Writing](#writing)
-* [Gardening](#gardening)
-* [Online Courses](#online_course)
-* [Video Making](#videomaking)
-* [Start listening to Podcasts](#podcasts)
-* [Plan your next trip](#trips)
-* [Plan your Erasmus](#erasmus)
-* [Coding Projects](#coding-projects)
-* [Work with cars](#Work-with-cars)
 * [Cocktail Adventures](#cocktails)
+* [Coding Projects](#coding-projects)
+* [Cooking](#cooking)
+* [Covid-19 Infection](#covid-infection)
+* [Exercise](#exercise)
+* [Facetime your long-distance friends](#facetime)
+* [Gardening](#gardening)
+* [Learn a new skill](#new-skill)
+* [Meditation](#meditation)
+* [Movies-Documentaries-Series](#movies-docum-series)
+* [Music](#music)
+* [Online Courses](#online_course)
 * [Outdoor Activities with Friends](#outdoor_activities)
+* [Plan your Erasmus](#erasmus)
+* [Plan your next trip](#trips)
+* [Start a new Project](#projects)
+* [Start listening to Podcasts](#podcasts)
+* [Video Games](#video-games)
+* [Video Making](#videomaking)
+* [Virtual Tours-Trips](#trips-tours)
+* [Walks in Town](#walks)
+* [Work with cars](#Work-with-cars)
+* [Writing](#writing)
 * [Trippy Gifs](#trippygifs)
 
 [Note : Before you head outside](#note)
@@ -42,168 +42,65 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 
 ---
 
-<img align="left" width="40" height="40" src="media/icons/coronavirus.png">
+<img align="left" width="40" height="40" src="media/icons/art.png">
 
-## <a name="covid-infection"></a> Covid-19 Infection
+## <a name="art"></a>Art
+Creating art can be of so many different types. It can be painting, constructing some art piece from recycled 
+materials, or also decorating your apartment/room. Especially painting can calm you really down and give you the 
+opportunity to express your feelings and emotions by using colors. The following tutorials will help you to make 
+the first step to become an artist and use the time during the pandemic more efficiently:
 
-### What should we do if someone is infected from covid?
-
-**FIRST RULE: DON'T PANIC!**
-
-#### Stay home except from when you need medical care
-1. Inform you personal doctor! In case you don't have a personal doctor, call someone you know and you can trust and contact someone that can help you get the right treatment.
-2. Stay home!
-3. Take care of yourself.
-4. Stay in touch with your doctor.
-5. Avoid public transportation.
-6. Separate yourself from other people (its bad but not forever!!).
-7. Monitor your symptoms.
-8. Call ahead before visiting your doctor.
-9. Avoid sharing personal household items.
-10. Clean your hands often.
-11. Cover your coughs and sneezes.
-12. Wear a mask over your nose and mouth.
-13. Get Tested!!! It is important to repeat a positive test, in order to ensure that you got better.
-14. Clean all “high-touch” surfaces everyday!
-
-Information was taken from [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
+* [Acrylic Painting Tutorial - Ocean Sunset (Beginner to Intermediate)](https://www.youtube.com/watch?v=VjCGJb5ltZM "Acrylic Painting")
+* [10 wonderful recycle do it yourself crafts that will brighten your room](https://www.youtube.com/watch?v=HkHEJEzMKwc "Recycling Crafts")
+* [24 cool decorative ideas you can do it yourself](https://www.youtube.com/watch?v=Uv-KC7szPN0 "Decorating Methods")
+* [Origami - Japanese Paperfolding Technique](https://www.origamiway.com/easy-origami.shtml "Origami Technique")
+* [EASY Step By Step Digital Collage TUTORIAL | NO DRAWING SKILLS REQUIRED | How To For Beginners](https://www.youtube.com/watch?v=xl3Zj_JgYKk "Digital Collage Tutorial")
+* [Basics of charcoal drawing](https://www.google.com/search?q=carbon+drawing&sxsrf=ALeKk00M9bDB-PlzL-DCft_0ae4hcXj4Dg%3A1616191227070&ei=-x5VYLHdA-anrgT0yrj4Dw&oq=carbon+drow&gs_lcp=Cgdnd3Mtd2l6EAEYADIICAAQFhAKEB4yBggAEBYQHjIICAAQFhAKEB4yCAgAEBYQChAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIIxAnOgQIABBDOggIABCxAxCDAToLCAAQsQMQxwEQowI6BQgAELEDOggILhCxAxCDAToECC4QQzoHCAAQsQMQQzoFCC4QsQM6AggAOggIABDHARCvAToECAAQCjoKCAAQxwEQrwEQCjoFCAAQywFQ3ClYqkBg9lpoAHACeACAAb4BiAHyDpIBBDAuMTKYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=gws-wiz#kpvalbx=_CB9VYN7QEOKwrgSlxZPQDg19 "Charcoal Drawing")
+* [Adult Colouring Books](https://www.amazon.com/s?k=adult+coloring+book&crid=3S3IZCUX5I7KQ&sprefix=adult+colo%2Caps%2C193&ref=nb_sb_noss_2)
+* [Beginner's guide to Digital Art](https://www.youtube.com/watch?v=5pmIYH1ugtk&ab_channel=Nadiaxel)
 
 ---
 
-<img align="left" width="40" height="40" src="media/icons/walk.png">
 
-## <a name="walks"></a>Walks in Town
-Here a some sights and places which are definitely worth to make a walk at: 
+<img align="left" width="40" height="40" src="media/icons/boardgame.png">
 
-### Athens
+## <a name="board-games"></a>Board Games
+Board Games are a great way to have fun and spend your time with family and friends!
 
-<img src="media/images/athens.jpg" alt="Athens" width="500"/>
+### Online board games
+Below you may find some interesting websites where you can play different board games along with your friends:
 
-Photo owned by [greeking.me](https://greeking.me/blog/visiting-athens/item/88-50-things-to-do-in-athens)
+* [Scribbl](https://skribbl.io/): skribbl.io is a free multiplayer drawing and guessing game. One game consists of a few rounds in which every round someone has to draw their chosen word and others have to guess it to gain points! The person with the most points at the end of game will then be crowned as the winner! (*Source: https://skribbl.io/)*
+* [Playing cards](https://playingcards.io/): PlayingCards.io simply provides a synchronized card playspace. It's up to you to start the game, enforce rules, and determine the winner, just like a real deck of cards!
+* [Rento](https://playrento.com/): Rento is online multiplayer monopoly clone. The game is for 2 to 6 players and you can play it online versus friends, offline versus bots. In the game you trade lands, build houses, win auctions, go and most importantly - have fun. Your goal is to acquire monopoly and bankrupt the other players. (*Source: https://playrento.com/*)
+* [Pretend you 're xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp): Pretend You're Xyzzy is a Cards Against Humanity clone! *([github repo](https://github.com/ajanata/PretendYoureXyzzy))*
+* [Password](https://www.thegamegal.com/2017/11/10/password): The goal of this game is to get your partner to guess the password by giving him a one word and only one word clue. First, you divide yourselves into 2 teams and in each round one of the members from each team will be given a password. If your partner guesses the password then your team wins the points of the round, but if he doesn't, then it's the other team’s turn. If their team gets the password they get the points. If the other team also doesn’t get the word you get another try. So this goes on for 3 times till someone gets the password and then the next round starts. It's a really entertaining game to play with your friends. **Pro Tip**: Turn this into a drinking game and you'll maximize the fun!*([download it here](https://play.google.com/store/apps/details?id=in.androidmate.password_game))*
+* [GeoGuessr](https://www.geoguessr.com/): The goal of this game is to guess the location of a specific spot on the globe presented to you via google maps street view. You can either play alone, or with friends. The closer your guess to the selected location, the more point you gather. The winner of the game is the person with the most points at the end of a specified number of rounds.
+* [The Wiki Game](http://thewikigame.com/): In this game, you have to navigate around wiki pages and guess. You start from a specific wikipedia page and within a specified time limit, you have to go to another target wikipedia page using the available hyperlinks.
+* [Settera](https://www.seterra.com/): Learning geography doesn't have to be boring. Do it the easy way with Seterra! In no time, you could learn to locate every single country in the world on a map.
+Seterra includes fun quizzes that help familiarize you with countries, capital cities, flags, rivers, lakes, and notable geological features.
+* [Among Us](https://www.bluestacks.com/apps/action/among-us-on-pc.html): The game takes place in a space-themed setting, in which players each take on one of two roles, most being Crewmates, and a predetermined number being Impostors. The goal of the Crewmates is to identify the Impostors, eliminate them, and complete tasks around the map; the Impostors' goal is to covertly sabotage and kill the Crewmates before they complete all of their tasks. Players suspected to be Impostors may be eliminated via a plurality vote, which any player may initiate by calling an emergency meeting (except during a crisis) or reporting a dead body. Crewmates win if all Impostors are eliminated or all tasks are completed whereas Impostors win if there is an equal number of Impostors and Crewmates, or if a critical sabotage goes unresolved.
+* [Spyfall](https://www.spyfall.app/): Spyfall is a fun game that really tests your improvise abilities! You and your friends virtually attend an event and you all get assigned different roles. However, one of you is a spy and has no idea about the event you are attending. Try to figure out who the spy as soon as possible!
 
-* Climb to the Acropolis ([map](https://g.page/acropolis-bnb?share))
-* Take a walk to the Likavitou hill ([map](https://goo.gl/maps/9XdfRDUmPeepZp2W6))
-* Run around the Philopappos monument ([map](https://goo.gl/maps/qkz8KnM6fjswxCx46))
-* Stroll around in the harbour of Piräus ([map](https://g.page/acropolis-bnb?share))
-* Go walk at Stavros Niarchos Foundation Cultural Center ([map](https://goo.gl/maps/T1bH1XBxXFDUxyLR9))
-* A walk in Sygrou Park ([map](https://goo.gl/maps/Ae1pVnMKBdSEHfMQ9))
-* Walk alongside Illissos river in Kallithea ([map](https://goo.gl/maps/zJaYh1aShCi9jkr68))
-* Explore Plaka alleys and reach Anafiotika and Monastiraki ([map](https://goo.gl/maps/QY2uGpjgaqKiTGDA7))
-* Walk from Monastiraki all the way to Thisio ([map](https://goo.gl/maps/uqFYkQhrpb8Cjabh7))
-* Walk around the National Garden in the city centre ([map](https://goo.gl/maps/UcS2wfVs5EeSfSHJ8))
-* Go on a mountain hike in Mount Ymittos ([map](https://goo.gl/maps/srLnLmzefot26tiE9))
-* Walk around Koukaki neighbourhood ([map](https://goo.gl/maps/DErjSLYHLUyi3AdYA))
-* Take a walk to Flisvos Marina ([map](https://www.google.com/maps/place/%CE%9C%CE%B1%CF%81%CE%AF%CE%BD%CE%B1+%CE%A6%CE%BB%CE%BF%CE%AF%CF%83%CE%B2%CE%BF%CF%85/@37.9311938,23.682856,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bc1061760f69:0x814330c59b77c2ac!8m2!3d37.9311938!4d23.6850447))
-* Hiking at the Tatoi Royal Estate ([map](https://www.google.com/maps/search/Tatoi+Royal+Estate/@38.1584415,23.785362,15z/data=!3m1!4b1))
-* Have a picnic in Eleftherias Park ([map](https://www.google.com/maps/place/%CE%A0%CE%AC%CF%81%CE%BA%CE%BF+%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%B5%CF%81%CE%AF%CE%B1%CF%82,+%CE%91%CE%B8%CE%AE%CE%BD%CE%B1+115+21/@37.980496,23.7532421,15z/data=!4m5!3m4!1s0x0:0x15ddf444020efbf!8m2!3d37.980496!4d23.7532421))
+### Classic board games
+If you are stuck at home with your family or your roommate(s), you could try one of these fun board games:
 
-### Thessaloniki
+* [Cluedo](https://en.wikipedia.org/wiki/Cluedo): A suspenseful murder mystery game that turns everyone into a detective.
+* [Taboo](https://en.wikipedia.org/wiki/Taboo_(game)): The game of forbidden words. In Taboo, your goal is to get your teammate to say the word written on one of the game cards without saying that word or any of the “taboo” words also listed with it.
+* [Twister](https://en.wikipedia.org/wiki/Twister_(game)): As the box promises, have you twisted up in knots and probably doubled over laughing, too.
+* [Stratego](https://en.wikipedia.org/wiki/Stratego): A Napoleonic version of capture the flag!
+* [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)): The classical buying and trading properties game. 
+* [Halli Galli](https://www.ultraboardgames.com/halli-galli/game-rules.php): A fast game in which you have to ring the bell as soon as 5 same fruits appear. Just watch for your hands!
+* [Citadels](https://en.wikipedia.org/wiki/Citadels_(card_game)): A card game in which on each round, players pick a role, build districts and make actions according to their role.
+* [Trivial Pursuit](https://en.wikipedia.org/wiki/Trivial_Pursuit): A game to test your knowledge about things around the globe.
+* [Scrabble](https://en.wikipedia.org/wiki/Scrabble): A game in which you use random letters to create words.
+* [Ticket to Ride](https://en.wikipedia.org/wiki/Ticket_to_Ride_(board_game)): A strategy game in which players collect train cards and use them in order to create train routes across a real world map and collect points. The purpose of the game is to collect the most points. This can be achieved by creating long railways and connecting remote cities which are determined by drawing ticket cards. This board game is ideal for people who like strategy, and love using..... Optimization Methods. :stuck_out_tongue:
+* [Bang!](https://en.wikipedia.org/wiki/Bang!_(card_game)): In this Wild-West themed game, a sheriff and a deputy sheriff are trying to uncover the outlaws. It sounds easy, but what happens when you don't know who the outlaws are?
+* [Wizard](https://en.wikipedia.org/wiki/Wizard_(card_game)): A fun card game that comes with a set of tricky rules. Each palyer has guess the results of the game and the winner is the one who makes the best guesses. 
+* [Risk](https://en.wikipedia.org/wiki/Risk_(game)): A strategy board game which combines war, debate, diplomacy, conflicts and luck. Each player has a quest to complete (usually to take over a continent) but so do your opponents. 2-6 Players, 1-8 hours. Do not play this game with your best friends, it will be the end of a friendship...    
 
-<img src="media/images/thessaloniki.jpg" alt="Thessaloniki" width="500"/>
-
-Photo owned by [discovergreece.com](https://www.discovergreece.com/macedonia/thessaloniki)
-
-* Ladadika port ([map](https://goo.gl/maps/YDaDSL5Mi1fC69wC7))
-* Seih Sou forest ([map](https://goo.gl/maps/iK8rm1ogkinfoP7d6))
-* The Roman Forum and Agios Dimitrios Church ([map](https://goo.gl/maps/Shdhy5KCwZGaVC716))
-* Tsimiski Street ([map](https://goo.gl/maps/HUyptTX7PFwYESXS6))
-* Along the waterfront ([map](https://goo.gl/maps/Z2pXgpZxiUaJ9nF47))
-* Aristotelous square ([map](https://goo.gl/maps/wLecvCpb8Z6j3sMS8))
-* White Tower ([map](https://goo.gl/maps/6Gr19cabE4eZsLKRA))
-* Navarino square ([map](https://goo.gl/maps/vs5Fe3jtGUTvhr7E7))
-* Upper town and Eptapyrgio ([map](https://goo.gl/maps/4h8NoDRA9HPF5oUUA))
-* Western wall ([map](https://goo.gl/maps/vHeqWpBXy4Yrczrf8))
-* Axios Delta National Park ([map](https://goo.gl/maps/5e696rGw7pz9jzSEA))
-
-### Patras
-
-<img src="media/images/patra.jpg" alt="Patra" width="500"/>
-
-Photo owned by [zoogla.gr](https://www.zougla.gr/greece/article/i-patrini-gourou-ton-drones-mas-dixnoun-tin-patra-opos-tin-vlepoun-i-aeti)
-
-* Run around Patras' lighthouse ([map](https://www.google.com/maps/place/%CE%A6%CE%AC%CF%81%CE%BF%CF%82/@38.24507,21.723487,17z/data=!3m1!4b1!4m5!3m4!1s0x135e49daf92b49dd:0xdb80e6e11329275b!8m2!3d38.24507!4d21.7256757))
-* Explore South Park ([map](https://www.google.com/maps/place/%CE%9D%CF%8C%CF%84%CE%B9%CE%BF+%CE%A0%CE%AC%CF%81%CE%BA%CE%BF+%CE%A0%CE%AC%CF%84%CF%81%CE%B1%CF%82/@38.234853,21.7222076,17z/data=!3m1!4b1!4m5!3m4!1s0x135e362f6b19261b:0x7f2023f2baff8160!8m2!3d38.234853!4d21.7243963))
-* Walk around patras' plage park ([map](https://www.google.com/maps/place/%CE%A0%CE%AC%CF%81%CE%BA%CE%BF+%CE%A0%CE%BB%CE%B1%CE%B6/@38.280133,21.7436127,17z/data=!3m1!4b1!4m5!3m4!1s0x135e499674859c5d:0x8c4e8a5324cc7749!8m2!3d38.280133!4d21.7458014))
-* Walk around in the port area ([map](https://www.google.com/search?tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=ALeKk00CdZZzhv0AYhne4GN6JjWQ5xDyLA:1616521399540&q=%CE%BB%CE%B9%CE%BC%CE%B1%CE%BD%CE%B9+%CF%80%CE%B1%CF%84%CF%81%CE%B1%CF%83&rflfq=1&num=10&ved=2ahUKEwj8-qm--8bvAhUtAWMBHd5XBhoQtgN6BAgBEAc#rlfi=hd:;si:;mv:[[38.2289136,21.7223068],[38.2138512,21.719319499999997]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3,lf:1,lf_ui:2))
-* Walk alongside a patras' beach. [See all patras' beaches in the map.](https://www.google.com/search?tbs=lf:1,lf_ui:1&tbm=lcl&sxsrf=ALeKk02rgnIi8Y5qwuvlA3J3QMbb-wIFxA:1616521647696&q=patras+beaches&rflfq=1&num=10&ved=2ahUKEwjBlNS0_MbvAhWJlqQKHQwnD_gQtgN6BAgyEAc)
-* Explore Patras Mycenaean Park-Voundeni [(map](https://www.google.com/maps/place/%CE%9C%CF%85%CE%BA%CE%B7%CE%BD%CE%B1%CF%8A%CE%BA%CF%8C+%CE%9D%CE%B5%CE%BA%CF%81%CE%BF%CF%84%CE%B1%CF%86%CE%B5%CE%AF%CE%BF+%CE%92%CE%BF%CF%8D%CE%BD%CF%84%CE%B5%CE%BD%CE%B7%CF%82/@38.252451,21.7826245,15z/data=!4m2!3m1!1s0x0:0xeff6c71133ac1c90?sa=X&ved=2ahUKEwiDj6qY-8bvAhXT8eAKHc4yChQQ_BIwG3oECCkQBQ))
-
-Sources: [thebest.gr](https://www.thebest.gr/article/412935-), [tripadvisor](https://www.tripadvisor.com/Attractions-g189488-Activities-c47-t76-Patras_Achaea_Region_West_Greece.html)
 
 ---
-
-<img align="left" width="40" height="40" src="media/icons/vr.png">
-
-## <a name="trips-tours"></a>Virtual Tours-Trips
-Tired of sitting at home?
-Why don't you take a virtual tour via **youtube**?
-
-[Come and relax on youtube's virtual trips now!](https://www.youtube.com/watch?v=2Qcf1K3hP2g)
-
-Do you want to drive around your favourite cities while listening to their local radios?
-If yes, then you should definitely try the [Drive & Listen APP](https://driveandlisten.herokuapp.com/?fbclid=IwAR2jQV27oRk5A4UmCgGNEKwu2JXxDCuqm-6sqKrmLalAnO2N7bjXGVgcnhg)!
-
-Take a look at any country from a drone's perspective! If you prefer exploring a country from above, visit [Fly & Listen](http://flyandlisten.com/?fbclid=IwAR2uuxF_Xd0vKNfpXIlh9N5f4nItuzQ-Lbhbj4WpC4CMWHgKd-EeVrYlvwg). You can choose
-a destination, pick a local radio station and enjoy your virtual trip. Fly and listen offers you a great variety of places to visit and a lot of different options regarding the local radio station. You are free to pick your favorite, sit back and relax!
-
-Due to the Covid-19 pandemic museums remain closed. Don't worry, art lovers!
-
-You can have a look on the [online exhibition](https://www.vangoghmuseum.nl/en) offered by the Vincent van Gogh Museum in Amsterdam.
-
-Some of us are _bored in the house-in the house bored_!
-
-[WindowSwap](https://www.window-swap.com/) is a quarantine project which gives you the opportunity to enjoy the view from windows around the world!
-
----
-
-<img align="left" width="40" height="40" src="media/icons/movie.png">
-
-## <a name="movies-docum-series"></a>Movies-Documentaries-Series
-_The most common activity during lock-down has been watching movies. So here are our recommendations for movies, series and documentaries:_
-
-|TITLE| TYPE| AVAILABLE ON| MY RATING| IMDb RATING| TRAILER| INFO|
-|:---| :---:| :---:| :---:| :---:|:---:|:---:|
-|A Beautiful Mind | Biography / Drama | Netflix | 9/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=nIR3wj9Ssaw "A Beautiful Mind")|[INFO](https://www.imdb.com/title/tt0268978/?ref_=nv_sr_srsg_0 "A Beautiful Mind IMDb")|
-|Attack On Titan | Fantasy / Action | Crunchyroll | 9.9/10 | 8.9/10|[TRAILER](https://www.youtube.com/watch?v=MGRm4IzK1SQ "Attack On Titan")|[INFO](https://www.imdb.com/title/tt2560140/?ref_=nv_sr_srsg_0 "Attack On Titan IMDb")|
-|Better Call Saul | Crime / TV Series | Netflix | 10/10 | 8.7/10 | [TRAILER](https://www.youtube.com/watch?v=HN4oydykJFc "Better Call Saul")|[INFO](https://www.imdb.com/title/tt3032476/?ref_=nv_sr_srsg_0 "Better Call Saul")|
-|Blacklist | TV series | Netflix | 9/10 | 8/10|[TRAILER](https://www.youtube.com/watch?v=-WYdUaK54fU "Blacklist")|[INFO](https://www.imdb.com/title/tt2741602/?ref_=nv_sr_srsg_0 "Blacklist IMDb")|
-|Breaking Bad| TV series| Netflix| 9/10| 9.5/10|[TRAILER](https://www.youtube.com/watch?v=HhesaQXLuRY&ab_channel=TrailerBlend "Breaking Bad")|[INFO](https://www.imdb.com/title/tt0903747/?ref_=nv_sr_srsg_0 "Breaking Bad IMDb")|
-|Brooklyn Nine-Nine | TV series | Netflix | 8.5/10 | 8.4/10|[TRAILER](https://www.youtube.com/watch?v=sEOuJ4z5aTc "Brooklyn Nine-Nine")|[INFO](https://www.imdb.com/title/tt2467372/?ref_=nv_sr_srsg_0 "Brooklyn Nine-Nine IMDb")|
-|Cobra Kai| Action / Comedy / Drama | Netflix| 9/10| 8.6/10|[TRAILER](https://youtu.be/xCwwxNbtK6Y "Cobra Kai")|[INFO](https://www.imdb.com/title/tt7221388// "Cobra Kai")|
-|Community | TV series | Netflix | 9/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=sBCE9oIuN24 "Community")|[INFO](https://www.imdb.com/title/tt1439629/ "Community IMDb")|
-|Connected| Documentary - TV series| Netflix| 8.5/10| 7.5/10|[TRAILER](https://www.youtube.com/watch?v=B-aZrftUPlk&ab_channel=Netflix "Connected")|[INFO](https://www.imdb.com/title/tt12753692/?ref_=nv_sr_srsg_3 "Connected IMDb")|
-|Cowspiracy: The Sustainability Secret | Documentary | Netflix | 9/10 | 8.3/10|[TRAILER](https://www.youtube.com/watch?v=nV04zyfLyN4 "Cowspiracy: The Sustainability Secret")|[INFO](https://www.imdb.com/title/tt3302820/ "Cowspiracy: The Sustainability Secret")|
-|Don't f**k with cats| Documentary - TV series| Netflix| 9/10| 8/10|[TRAILER](https://www.youtube.com/watch?v=x41SMm-9-i4&ab_channel=Netflix "Don't f**k with cats")|[INFO](https://www.imdb.com/title/tt11318602/?ref_=fn_al_tt_2 "Don't f**k with cats IMDb")|
-|Game Of Thrones | TV series | HBO | 10/10 | 9.3/10|[TRAILER](https://www.hbo.com/game-of-thrones "Game Of Thrones")|[INFO](https://www.imdb.com/title/tt0944947/ "Game Of Thrones IMDb")|
-|House of Cards | Comedy / TV Series | Netflix | 8.5/10 | 8.7/10|[TRAILER](https://www.youtube.com/watch?v=SvSkxBYuoQY "House of Cards")|[INFO](https://www.imdb.com/title/tt1856010/?ref_=hm_tpks_tt_i_15_pd_tp1_cp "House of Cards")|
-|How I met your mother | Comedy / TV Series | Netflix | 9/10 | 8.3/10|[TRAILER](https://www.youtube.com/watch?v=aJtVL2_fA5w "How I met your mother")|[INFO](https://www.imdb.com/title/tt0460649/ "How I met your mother")|
-|Infinity War | Action / Adventure / Sci-Fi | Disney+ |10/10 | 8.4/10|[TRAILER](https://youtu.be/6ZfuNTqbHE8 "Infinity War")|[INFO](https://www.imdb.com/title/tt4154756/?ref_=nv_sr_srsg_0 "Infinity War IMDb")|
-|It's Okay to Not be Okay | Drama | Netflix | 9.5/10 | 8.7/10 | [TRAILER](https://www.youtube.com/watch?v=50ek4HQo0Bc&ab_channel=TheSwoon "It's Okay to Not be Okay")|[INFO](https://www.imdb.com/title/tt12451520/ "It's Okay to Not be Okay")|
-|Jeffrey Epstein: Filthy Rich | Documentary / Crime | Netflix | 8/10 | 7.1/10|[TRAILER](https://www.youtube.com/watch?v=-j0rjlfmDx4 "Jeffrey Epstein: Filthy Rich")|[INFO](https://www.imdb.com/title/tt12312250/ "Jeffrey Epstein: Filthy Rich")|
-|Joker| Drama | Amazon | 10/10 | 8.4/10|[TRAILER](https://www.youtube.com/watch?v=zAGVQLHvwOY "Joker")|[INFO](https://www.imdb.com/title/tt7286456/?ref_=nv_sr_srsg_0 "Joker IMDb")|
-|Lupin| TV series| Netflix| 7.5/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=ga0iTWXCGa0&ab_channel=Netflix "Lupin")|[INFO](https://www.imdb.com/title/tt2531336/?ref_=nv_sr_srsg_0 "Lupin IMDb")|
-|Mindhunter | TV series | Netflix | 9.5/10 | 8.6/10|[TRAILER](https://www.youtube.com/watch?v=evdxH50J3rs "Mindhunter")|[INFO](https://www.imdb.com/title/tt5290382/?ref_=nv_sr_srsg_0 "Mindhunter IMDb")|
-|Miracle in Cell No. 7 (2019)| Drama | Netflix | 9/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=MHdBW0gSsjo "Miracle in Cell No. 7")|[INFO](https://www.imdb.com/title/tt2659414/?ref_=nv_sr_srsg_0 "Miracle in Cell No. 7 IMDb")|
-|Mr. Robot | TV series | Netflix | 10/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=xIBiJ_SzJTA "Mr. Robot")|[INFO](https://www.imdb.com/title/tt4158110/?ref_=fn_al_tt_1 "Mr. Robot IMDb")|
-|Night Stalker: The Hunt for a Serial Killer  | Documentary / Crime | Netflix | 9/10 | 7.5/10|[TRAILER](https://www.youtube.com/watch?v=Mva2nGveYss "Night Stalker: The Hunt for a Serial Killer")|[INFO](https://www.imdb.com/title/tt13651632/ "Night Stalker: The Hunt for a Serial Killer")|
-|Peaky Blinders | Documentary - TV series | Netflix | 8/10 | 8.8/10|[TRAILER](https://youtu.be/oVzVdvGIC7U "Peaky Blinders")|[INFO](https://www.imdb.com/title/tt2442560/?ref_=nv_sr_srsg_0 "Peaky Blinders IMDb")|
-|Prison Break | Action / TV Series | Netflix | 10/10 | 8.3/10 | [TRAILER](https://www.imdb.com/video/vi3183588377?playlistId=tt0455275&ref_=tt_ov_vi "Prison Break")|[INFO](https://www.imdb.com/title/tt0455275/ "Prison Break")|
-|Rick and Morty | Comedy / TV Series | Netflix | 9/10 | 9.2/10 | [TRAILER](https://www.youtube.com/watch?v=_uUcMwsR5hg "Rick and Morty")|[INFO](https://www.imdb.com/title/tt2861424/ "Rick and Morty")|
-|Suits | TV series | Netflix | 9/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=85z53bAebsI "Suits")|[INFO](https://www.imdb.com/title/tt1632701/?ref_=fn_al_tt_1 "Suits IMDb")|
-|The 100 | Sci-Fi | Netflix | 9.5/10 | 7.6/10|[TRAILER](https://www.youtube.com/watch?v=ia1Fbg96vL0 "The 100")|[INFO](https://www.imdb.com/title/tt2661044/?ref_=nv_sr_srsg_0 "The 100 IMDb")|
-|The Big Bang Theory| Comedy/TV Series| Netflix| 8.5/10| 8.1/10|[TRAILER](https://www.youtube.com/watch?v=WBb3fojgW0Q&ab_channel=vidicsch "The Big Bang Theory")|[INFO](https://www.imdb.com/title/tt0898266/ "The Big Bang Theory")|
-|The Bold Type| Comedy/TV Series| Netflix| 8.0/10| 8.0/10|[TRAILER](https://www.youtube.com/watch?v=q9Evo8pJTV0&ab_channel=Freeform "The Bold Type")|[INFO](https://www.imdb.com/title/tt6116060/ "The Bold Type")|
-|The Boys| TV series| AmazonPrime| 7/10| 8.7/10|[TRAILER](https://www.youtube.com/watch?v=M1bhOaLV4FU&ab_channel=AmazonPrimeVideoUK "The Boys")|[INFO](https://www.imdb.com/title/tt1190634/?ref_=nv_sr_srsg_0 "The Boys IMDb")|
-|The Flash | Action / Adventure / Drama | Netflix| 7.7/10| 7/10|[TRAILER](https://youtu.be/Yj0l7iGKh8g "The Flash")|[INFO](https://www.imdb.com/title/tt3107288/ "The Flash")|
-|The Invisible Guest | Crime / Drama / Mystery | Netflix | 8.5/10 | 8.1/10|[TRAILER](https://www.youtube.com/watch?v=epCg2RbyF80 "The Invisible Guest")|[INFO](https://www.imdb.com/title/tt4857264/?ref_=nv_sr_srsg_0 "The Invisible Guest IMDb")|
-|The Last Dance| Documentary - TV series| Netflix| 9.5/10| 9.1/10|[TRAILER](https://www.youtube.com/watch?v=N9Z9JtNcCWY&ab_channel=ESPN "The Last Dance")|[INFO](https://www.imdb.com/title/tt8420184/?ref_=fn_al_tt_1 "The Last Dance IMDb")
-|The Queen's Gambit | TV series | Netflix | 9/10 | 8.6/10|[TRAILER](https://www.youtube.com/watch?v=CDrieqwSdgI "The Queen's Gambit")|[INFO](https://www.imdb.com/title/tt10048342/?ref_=nv_sr_srsg_0 "The Queen's Gambit IMDb")|
-|The Shutter Island | Thriller/ Mystery | Netflix | 8.5/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=5iaYLCiq5RM "The Shutter Island")|[INFO](https://www.imdb.com/title/tt1130884/ "The Shutter Island IMDb")|
-|The Social Dilemma| Documentary| Netflix| 7/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=uaaC57tcci0&ab_channel=Netflix "The Social Dilemma")|[INFO](https://www.imdb.com/title/tt11464826/?ref_=nv_sr_srsg_0 "The Social Dilemma IMDb")|
-|Unsolved Mysteries| Documentary - TV series| Netflix| 9/10| 7.3/10|[TRAILER](https://www.youtube.com/watch?v=oZ4FrgGILM8&ab_channel=Netflix "Unsolved Mysteries")|[INFO](https://www.imdb.com/title/tt9642938/?ref_=nv_sr_srsg_3 "Unsolved Mysteries IMDb")|
-|World's Most Wanted| Documentary / Crime| Netflix| 7.5/10| 7.2/10|[TRAILER](https://www.youtube.com/watch?v=TFOYTE3RtCs "World's Most Wanted")|[INFO](https://www.imdb.com/title/tt12753698/ "World's Most Wanted")|
-
----        
 
 <img align="left" width="40" height="40" src="media/icons/books.png">
 
@@ -247,6 +144,274 @@ Photo owned by [elearningindustry.com](https://elearningindustry.com/top-10-book
 |Zero to One| Management | Pieter Thiel | Public | 9.5/10| [Link](https://www.public.gr/product/books/greek-books/economics/management/zero-to-one/prod6840642pp/ "Zero to One")|
 
 
+
+---
+
+
+<img align="left" width="40" height="40" src="media/icons/todo.png">
+
+## <a name="clean"></a> Clean and organize
+This is a great opportunity for you to clean and organize your space. Declutter, get rid of all the things you never use and organize the ones that you use. It will make you feel useful and you will have a clean, organized space at the end of the day. 
+
+You can also write down your to-dos and organize your schedule and notes. It is best that you stay organized in order to achieve high productivity!
+
+Best Apps for Organization and Productivity:
+* Notion [Find it here](https://www.notion.so)
+* Momentum Google Extension [Find it here](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)
+* Trello [Find it here](https://trello.com/en)
+* Jour [Find it here](https://jour.com/)
+* Todoist [Find it here](https://todoist.com/)
+* Memento [Find it here](https://apps.apple.com/us/app/momento-diary-journal/id980592846)
+* 24me Find it [here](https://apps.apple.com/us/app/24me-smart-personal-assistant/id557745942) for iOS and [here](https://play.google.com/store/apps/details?id=me.twentyfour.www&hl=en) for Android
+
+Tips to Organise your Bedroom:
+1. Designate a Home for Every Item
+2. Utilize Under Bed Storage
+3. Arrange Furniture by Frequency of Use
+4. Store Seasonal Shoes Under the Bed
+5. Create a Storage Nook
+6. Use a Bedside Pocket Organizer
+7. Go Minimalist
+8. Use Personal Items as Decor
+9. Store Your Hats on a Wall
+* Information was taken from [here.](https://www.extraspace.com/blog/home-organization/room-organization/bedroom-organization-ideas-tips-hacks/)
+---
+
+<img align="left" width="40" height="40" src="media/icons/cocktail.png">
+
+## <a name="cocktails"></a> Cocktail Adventures!
+Let's be honest, Covid-19 pandemic and its several back-to-back lockdowns have been harsh for the most of us. Being in front of a screen for hours, unable to get in physical touch with our beloved ones and having our favorite restaurants and bars closed is an everyday struggle. After all that, the need to pour a glass (or two) of wine before bedtime comes naturally. 
+
+So, we are here to just say that we understand and that it's time to level up the game; Cocktail adventure nights! Do you want to advance you bartender skills or feel like a little kid again? Well, as you discover new tasty horizons and mix up your favorite ingredients, the art of mixology will start to unfold and we promise you to enjoy those lockdown days as they are passing by. 
+
+### Organize your space.
+First things first; Before you start your mixing experiments, you need to set up your working station. There are not many things requiered for that, just the basic bar essentials and spirits of your preference.  
+- Bar tool essentials: 
+  1. Bar Spoons. You may already have some long-handle teaspoons but if you don't, you can find them [here](https://www.amazon.com/Hiware-Stirring-Stainless-Cocktail-Pattern/dp/B01EL7NAYU/ref=sr_1_9?keywords=bar+spoons&qid=1567433894&s=gateway&sr=8-9).
+  2. Bottle opener & corkscrew. We are pretty sure everyone has at least one bottle opener of any kind. [Here](https://www.amazon.com/WHELVE-Mounted-Magnetic-Functional-Upcycled/dp/B07NQRGVTR/ref=sr_1_19_sspa?keywords=wall+mounted+bar+bottle+opener&qid=1567439614&s=gateway&sr=8-19-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQlU3VFdCSTJUT1E0JmVuY3J5cHRlZElkPUEwMTc3NjgzMVRYV0VQWFJVSjIxWCZlbmNyeXB0ZWRBZElkPUEwNDk1MjY2M1FHM0hTV0ZPM0VFVSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) is an extra idea if you are looking for something new.
+  3. Cocktail shaker. Maybe the most important thing in a bar. For your homemade cocktails you probably won't need more than one shaker, which you can purchase [here](https://www.amazon.com/Boston-Cocktail-Shaker-Unweighted-Professional/dp/B07QFT835K/ref=sr_1_7?keywords=bar+cocktail+shaker&qid=1567440752&s=gateway&sr=8-7).
+  4. Cocktail strainer. If your cocktail shaker doesn’t come with a built-in strainer, you’ll definitly need one of these to create cold ice-free drinks. We suggest something stainless like [this](https://www.amazon.com/Hawthorne-Cocktail-Strainer-Professional-Mixologists/dp/B06WGNF3SX/ref=sr_1_4?keywords=bar+cocktail+strainer&qid=1567441714&s=gateway&sr=8-4).
+  5. Cutting board. That's an easy one too. Most kitchens are equipped with a wooden cutting board, but [here](https://www.amazon.com/Cutting-Board-Food-Prep-Restaurantware/dp/B075S5CX16/ref=sr_1_6?keywords=bar+cutting+board&qid=1567433589&s=gateway&sr=8-6) is a fresh suggestion to cut your cocktail garnishes. With a cutting board you provide your bar not only a hygienic and safe surface for cutting, but also you can avoid making a mess to your kitchen.
+  6. Ice crusher. It's a must when making cold cocktails. Having an ice crusher is the ideal way to crush ice to the right consistency for your signature cocktails. [This one](https://www.amazon.com/Time-Treats-Iceberg-crusher-white/dp/B087VJ13WB/ref=sr_1_1?_encoding=UTF8&c=ts&dchild=1&keywords=Blenders+%26+Ice+Crushers&qid=1616503456&s=kitchen&sr=1-1&ts_id=289732) is portable and doesn’t take up much room. Alternatively, you can buy crushed ice, however this can increase your budget.
+  7. Jigger. It is not as necessary as one might think, because the more cocktails you make the more familiar you become with the liquid doses. However, if you want to get some jiggers as a beginner mixologist or to be more professional one, then [this set](https://www.amazon.com/CucinaPrime-Cocktail-Jigger-Stainless-Steel/dp/B00VCBM4TQ/ref=sr_1_11?keywords=jigger&qid=1567444723&s=gateway&sr=8-11) is what you are looking for.
+  8. Muddler. Your homemade bar requires a muddler,[like this](https://www.amazon.com/Extra-Long-Cocktail-Muddler-Professional/dp/B07DMFH8SF/ref=sr_1_1_sspa?keywords=muddler&qid=1567433016&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzRU5SODNEUTJQVThUJmVuY3J5cHRlZElkPUExMDM0ODMyTzFJVTJXMEVCM0ZSJmVuY3J5cHRlZEFkSWQ9QTA0ODY0MjgzSDVJMUFCNFJZQTExJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) if you want to bring out the aromatics of herbs and spices so that their flavors are released and infused into your cocktails.
+  9. Rimmer. If you’re making margaritas and other drinks that require a rimmed glass edge, for a low budget you can always use a plate filled with salt or sugar, but [here](https://www.amazon.com/Greenco-Glass-Rimmer-Margarita-Cocktail/dp/B016YM64JI/ref=sr_1_15?keywords=rimmer+for+bar&qid=1567448578&s=gateway&sr=8-15) is a more professional option.
+  10. Proper kind of glasses. Last but not least, your bar will need the specific glasses to pour your creations, like Coupe Glasses, Single & Double Rocks Glasses, Highball & Collins Glasses, Nick & Nora Glasses and of course Shot glasses. Our suggetion is, if you don't have any of this kinds, to purchase just a pair of each and get more as your cocktail adventures proceed.[Here are the types of Cocktail Glasses You Actually Need](https://nymag.com/strategist/article/best-cocktail-glass-types.html).
+
+- Bar spirit essentials:
+  1. Rum: Its sweeter flavor makes it one of the more versatile spirits. It was among the first liquors to be mixed into drinks, so there are some excellent classic rum cocktails to choose from. It is the obvious base for tropical drinks and appears in several warm cocktails.
+  2. Whiskey - Bourbon: It mixes well with other liquors to create complex drinks, and it pairs well with many fruits, particularly the darker fruits. Warm drinks are also very popular with whiskey.
+  3. Tequila: It has a great flavor profile that mixes well into a variety of cocktails. There are, of course, the margaritas and frozen cocktails in which tequila is mixed with any fruit imaginable. It also makes a perfect base for spicy cocktails and is very popular for party shots.
+  4. Brandy: It's popularly featured in several classic cocktails and tends to be used in drinks that include just a few ingredients. However, many modern brandy recipes break this mold and experiment with brandy in some unique flavor combinations.
+  5. Gin: Gin's dry profile makes it a perfect candidate for dry (non-sweet) cocktails, including many classics and martinis. It is a nice base for cocktails and pairs well with lighter mixers, fruits and naturally works well with herbs.
+  6. Vodka: Its neutral taste makes it the most versatile spirit available today. Vodka cocktails include almost every imaginable flavor profile, from sweet to savory, fruits to herbs, and spices to sparkling mixers.
+  7. Dry and Sweet Vermouth: Dry vermouth is famously used to make martinis and is dry and floral. Sweet vermouth is sweet, spiced, and herbal, and is used in cocktails like Manhattans and negronis.
+  8. Amaretto: It is very adaptable, mixing with a variety of flavors, from fruits to coffee and cinnamon to ginger. Amaretto is found in creamy cocktails, adds a sweet touch to martinis, and gives a nice depth to fruity highballs.
+  9. Campari: It is commonly served with soda water or citrus juice, or with prosecco as a spritz. Campari is an essential ingredient in the classic Negroni cocktail, the Garibaldi, the Americano and the spritz (an aperitif popular in northern Italy).
+
+- Bar Non-Alcoholic Essentials:
+  1. Ice! Yeap, you're going to use lots of it, so you better stock your freezer before you get started with your cocktail experiments.
+  2. Juices: Most common used are lemon, lime, orange and cranberry/strawberry juice. For more tropical cocktails you may want to have pineapple juice or coconut cream/milk. Of course don't forget tomato juice as it is essential for making Bloody Mary.
+  3. Sodas: Club soda, Tonic Water, Ginger Ale, Cola. The list is simple and includes the basics that you are likely to encounter in recipes.
+  4. Bitters: It is amazing what a dash or two of bitters can do to the flavor of almost any cocktail. To start, you'll find that aromatic and orange bitters are used most often and a bottle of each can last years.
+  5. Simple Syrup: Sugar and water, that's it. This is the best way to sweeten cocktails and it's incredibly simple to make yourself.
+  6. Grenadine: That famous red syrup, it's essential for many great drinks. You can buy or make this one yourself.
+  7. Garnishes: lime, lemon, orange and any other fruit slices you prefer, cinnamon sticks to add flavor to any cocktail especially warm ones, mint and DO NOT forget to stock salt and sugar (extra tip: try adding brown sugar) 
+
+
+Sources: [glimpose.blog](https://www.glimpsecorp.com/bar-tools-and-equipment-and-their-uses/), [the spruce eats](https://www.thespruceeats.com/essential-distilled-spirits-and-mixers-760741)
+
+### Get to action: Basic cocktails To Try
+
+<img src="media/images/cocktails.jpg" alt="Cocktails" width="500"/>
+
+photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/) 
+
+
+|Name| Primary Alcohol | How to make | 
+|---| ---| ---| 
+| Mojito| Rum | [video](https://www.youtube.com/watch?v=KWU9ZaWbeuQ)|
+| Manhattan| Whiskey| [video](https://www.youtube.com/watch?v=TFWPtkNoF4Y)|
+| Martini| Vodka or Gin| [video](https://www.youtube.com/watch?v=hiQ57jbFY5s)|
+| Margarita| Tequila| [video](https://www.youtube.com/watch?v=lNwNvq8Kxl8)|
+| Negroni| Gin, Sweet Vermouth, Campari| [video](https://www.youtube.com/watch?v=nh_3suGRbN8)|
+| Daiquiri| Rum| [video](https://www.youtube.com/watch?v=ofwTyfKo8Mg)|
+| Pina Colada| Rum| [video](https://www.youtube.com/watch?v=-wea2usJIAA)|
+| Bloody Mary| Vodka| [video](https://www.youtube.com/watch?v=rpEzoWNbgSk&t=2s)|
+| Cosmopolitan| Vodka| [video](https://www.youtube.com/watch?v=TnkMtoDNgxE)|
+| White Russian| Vodka and coffe | [video](https://www.youtube.com/watch?v=Z0zqXFpuolw)|
+
+<img src="media/images/drink.jpg" alt="Drink responsibly">
+
+Image source: https://www.talkingretail.com/products-news/alcohol/new-formula-1-campaigns-heineken-09-09-2016/
+
+---
+
+<img align="left" width="40" height="40" src="media/icons/coding.png">
+
+## <a name="coding-projects"></a>Coding Projects
+
+<img align="left" width="40" height="40" src="media/icons/python.jpeg">
+
+### **Python**
+
+
+* Rock, Paper, Scissors Game
+
+A simple python program to test your skills. Try developing it as a player vs computer game in the beginning. Skills used: Learn how to use while loops and if statements
+
+* Build a Twitter Bot
+
+You can make a program that helps you engage your audience while studying or working on other projects! You will have to sign up as a Twitter developer, but dont worry, it is not that difficult.
+
+* Alarm Clock
+
+Creating an alarm clock is a cool way of demonstrating your coding skills. To begin with, create a program that sends a notification at a designated time. Afterwards, you can add functionality, like music or videos.
+
+* Typing Test
+
+Create a python program with a complete GUI, that gives you a random sentence, and tests your typing speed. It is an advanced project but you can learn a lot about design.
+
+
+Source : https://careerkarma.com/blog/python-projects-beginners/
+
+<img align="left" width="40" height="40" src="media/icons/java.jpg">
+
+### **Java**
+
+
+* Temperature Converter Tool
+
+This is a simple project to help you practice your Java skills. It just requires the basic mathematic skills that will help you build the logic of the program. 
+Tip: you can use the javafx package to build the tools interface.
+
+* Percentage Calculator
+
+This is another great project to help you develop your coding skills and it uses basic Java concepts. The user just inserts the value and the calculator returns the matching percentage.
+The javafx package will help you build the interface.
+
+
+Source: https://data-flair.training/blogs/java-project-ideas/
+
+<img align="left" width="40" height="40" src="media/icons/react.png">
+
+### **React**
+
+* Realtime Chat App
+
+Real-world examples: Slack, Messenger, Discord, Crisp Chat
+
+All of us use some kind of a realtime chat app in our daily life, you can also experiment with creating a widget within a website so that customers can directly talk to the site owners.
+
+All chat apps allow users to send messages in real-time, to react to messages and to show when a user is online or offline.
+
+> How to build a realtime chat app:
+> * Build your project with create-react-app or Next.js
+> * Use a service like Firebase or GraphQL subscriptions for messages
+> * Add reactions to message with emoji with the npm package emoji-mart
+> * Deploy to the web using Firebase Tools
+
+* Social media app
+
+It is similar to a chat app, but with a larger community of users and wider functionality. The users can interact in different ways. They can follow one another, add media to share with others, and interact with liking or commenting posts.
+
+> How to build a social media app:
+> * Build the frontend with create-react-app and the backend using Node API
+> * For a database, use Postgres or MongoDB, alongside an ORM like Prisma or Mongoose
+> * Use social authentication using Passport or a simpler service like Auth0
+> * Deploy backend to Heroku, frontend to Netlify
+
+* Video Sharing app
+
+Real-world examples: Youtube, TikTok, Snapchat
+
+One of the most broad categories of apps, that can be integrated in a site like Youtube with a browser to search for videos or like a messaging app eg. Snapchat.
+
+> How to build a video sharing app:
+> * As you might know by now, use create-react-app and Node
+> * Use Cloudinary for image and video uploads to the Cloudinary API
+> * Use Postgres or MongoDB
+> * Deploy to Heroku, frontend to Netlify
+
+* Music Streaming App
+
+React applications are perfect for streaming video content, aswell as music. Music apps have a similar structure to video sharing apps and they may or may not allow the user to upload their own music. You can listen to a song, comment on it, or even purchase it. Try to combine elemnts of a video sharing service and of an e-commerce app.
+
+Source : https://www.freecodecamp.org/news/react-projects-you-should-build-this-year/
+
+---
+
+<img align="left" width="40" height="40" src="media/icons/cook.png">
+
+## <a name="cooking"></a>Cooking
+Enjoy different kind of meals from around the world!
+
+In the following table, you can view recipes from different countries, along with the reccommender's personal rating.
+
+<img src="media/images/food-around-the-world.png" alt="Food around the world" width="500"/>
+
+Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/brunch-choice-crowd-dining-food-options-384205462)
+
+|DISH| ORIGIN| MY RATING| RECIPE| PRO-TIP|
+|---| ---| ---| ---| ---|
+| Avocado Brawnies | Universal | 10/10 | [Link](https://akispetretzikis.com/el/categories/keik/brownies-me-avokanto "How to make avocado brawnies") | Pick a ripe avocado. |
+| Banana Split | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/all-american-banana-split/) | Mix up the original recipe by adding different kinds of fruit. |
+| Banoffee | England | 10/10 | [Link](https://akispetretzikis.com/en/categories/glyka/banoffee/) | Transform it into a chocolate banoffee by adding some chocolate couverture in the caramel mixture!|
+| Brownies | U.S.A. | 10/10 | [Link](https://akispetretzikis.com/el/categories/keik/brownies)| Do not hesitate to serve with a scoop of vanilla ice cream. |
+| Burrito | Mexico | 10/10 | [Link](https://akispetretzikis.com/el/categories/snak-santoyits/burrito) | Add chili sauce to make it spicy.
+| Cheesecake | Ancient Greece | 10/10 | [Link](https://sugarspunrun.com/best-cheesecake-recipe/) | Serve with sweet apple preserve. |
+| Chocolate chip cookies | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/big-buttery-chocolate-chip-cookies/) | Use pecans instead of walnuts. |
+| Cupcakes| Universal| 10/10 | [Link](https://sallysbakingaddiction.com/super-moist-chocolate-cupcakes/) | Make sure you’re using natural unsweetened cocoa powder, not dutched cocoa.|
+| Egg fried rice | U.S.A. | 10/10 | [Link](https://www.bbcgoodfood.com/recipes/oriental-egg-fried-rice) | Consider adding chicken. |
+| Feta Pasta Challenge | Universal | 10/10 | [Link](https://www.youtube.com/watch?v=WRzQ-Ngt3Do) | Serve with olives. |
+| Greek Salad | Greece | 10/10 | [Link](https://www.loveandlemons.com/greek-salad/) | Add capers to gain maximum taste. |
+| Handmade Cinnamon Rolls | Northern Europe | 10/10 | [Link](https://www.youtube.com/watch?v=_Q0FYoCl4Cs) | Serve with extra cinnamon. |
+| Italian Pizza | Italy | 10/10 | [Link](https://www.walksofitaly.com/blog/food-and-wine/italian-pizza-dough-recipe) | Keep it simple on the ingredients! |
+| Lemon Pound Cake Loaf | England | 10/10 | [Link](https://www.seasonsandsuppers.ca/glazed-lemon-pound-cake-loaf/)| You can freeze it and grab a slice whenever you crave it! |
+| Lemon Rice | India | 9/10 | [Link](https://www.feastingathome.com/indian-lemon-rice/) | Serve it with fish. |
+| Lentil Soup | Morocco | 10/10 | [Link](https://www.simplyquinoa.com/detox-moroccan-lentil-soup/) | Serve with fresh onions. |
+| Light Spaghetti Souffle | Italy | 10/10 | [Link](https://akispetretzikis.com/en/categories/zymarika/light-soyfle-me-makaronia-ston-foyrno/) | Mix the spaghetti and heavy cream with the turkey, mushrooms and corn for an even more delicious outcome! |
+| New York-Style Pizza | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/new-york-style-pizza/) | Reheat in the oven. |
+| Onion Rings | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/crispy-fried-onion-rings/) | Serve with different kinds of sauce. |
+| Pancakes | Universal | 10/10| [Link](https://akispetretzikis.com/en/categories/glyka/pancakes "How to Make Pancakes")|  Flip when the small bubbles appear. |
+| Parmesan Chicken | Italy | 10/10 | [Link](http://www.itscheatdayeveryday.com/one-pan-parmesan-tuscan-chicken/) | Serve with brown rice. |
+| Pasta Primavera | Italy | 10/10 | [Link](https://www.cookingclassy.com/pasta-primavera/) | Mix up the veggies to create different combinations. |
+| Pasta Salad | Italy | 10/10 | [Link](https://carlsbadcravings.com/italian-pasta-salad/) | Experiment with different kinds of pasta. |
+| Pastitsio | Greece | 10/10| [Link](https://akispetretzikis.com/en/categories/zymarika/to-pastitsio-toy-akh "How to Make Pastitsio")|It's all about the Bechamel sauce. |
+| Penne Arrabiata | Italy | 10/10 | [Link](https://www.aline-made.com/penne-arrabiata/) | Serve with parmesan. |
+| Soft Cookies| Universal | 10/10 | [Link](https://www.youtube.com/watch?v=K-YHpNU0Dbk) | Serve with milk. |
+| Sushi | Japan | 10/10| [Link](https://akispetretzikis.com/en/categories/ryzi-amp-patates/soysi "How to Make Sushi")| Experiment with different types of fish. |
+| Sweet & Sour Chicken | China | 10/10 | [Link](https://www.bbcgoodfood.com/recipes/sweet-sour-chicken) | Serve with rice. |
+| Tacos | Mexico | 10/10 | [Link](https://www.thewholesomedish.com/the-best-homemade-tacos/) | Add extra cheese!! |
+| Tzatziki | Greece | 10/10| [Link](https://cookieandkate.com/how-to-make-tzatziki/ "How to Make Tzatziki")| Choose a creamy yoghurt to create the perfect spread! |
+
+---
+
+<img align="left" width="40" height="40" src="media/icons/coronavirus.png">
+
+## <a name="covid-infection"></a> Covid-19 Infection
+
+### What should we do if someone is infected from covid?
+
+**FIRST RULE: DON'T PANIC!**
+
+#### Stay home except from when you need medical care
+1. Inform you personal doctor! In case you don't have a personal doctor, call someone you know and you can trust and contact someone that can help you get the right treatment.
+2. Stay home!
+3. Take care of yourself.
+4. Stay in touch with your doctor.
+5. Avoid public transportation.
+6. Separate yourself from other people (its bad but not forever!!).
+7. Monitor your symptoms.
+8. Call ahead before visiting your doctor.
+9. Avoid sharing personal household items.
+10. Clean your hands often.
+11. Cover your coughs and sneezes.
+12. Wear a mask over your nose and mouth.
+13. Get Tested!!! It is important to repeat a positive test, in order to ensure that you got better.
+14. Clean all “high-touch” surfaces everyday!
+
+Information was taken from [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 
 ---
 
@@ -411,6 +576,65 @@ Once you have all the equipment needed, take many water bottles, maybe a sibling
 
 ---
 
+<img align="left" width="40" height="40" src="media/icons/videocall.png">
+
+## <a name="facetime"></a>Video call your long-distance friends
+Do you remember the nights when you used to hang out for hours with your friends? Since that is not possible any more you can use the following software to replicate the group feeling:
+- Skype
+- FaceTime
+- Microsoft Teams
+- Zoom
+- Discord
+- Or check out these [open source alternatives](https://opensource.com/alternatives/skype)
+
+Virtual Activities:
+- Sing karaoke 
+
+This is pretty much self-explanatory. Pick a song, find its karaoke version on YouTube and sing along! Tip: make sure everyone else's microphones are mute.
+
+- Disguised party 
+
+This can go in two ways. You can discuss with the group the theme of disguise for your next group call and everyone dresses accordingly OR each person picks their costume individually. It feels just like Halloween! How fun!
+
+- PowerPoint party 
+
+Essentially, everyone picks a topic near and dear to their heart —the more niche, the better— and prepare a five-minute PowerPoint presentation on it. Here's some fun and interesting ideas: Drunk history, The best [whatever] of all time, Ranking and rating my exes, How HSM changed my life
+
+- Movie/series night 
+
+Watch a movie or a series with your group of friends without leaving your home, just by screen sharing in a video call or using streaming platforms like Netflix Party. Plus, you can comment on it in chat without disturbing others.
+
+- Play an online game
+
+Who says you have to be in the same space to have fun? Gather your friends and prepare for the best game night ever! There are a lot of different virtual games to choose from, but you should always check the number of players every game allows. No one should be left behind! You can find a list of virtual board games [here](#board-games).
+
+---
+
+<img align="left" width="40" height="40" src="media/icons/gardening.png">
+
+## <a name="gardening"></a> Gardening
+Gardening is a very unique hobby to relax, feel creative and spend your time.
+Here are some of the vegetables that you can begin with! 
+
+<img src="media/images/vegetables.jpg" alt="Food around the world" width="500"/>
+
+
+
+|VEGETABLE| GROW TIME (days)| VITAMINS| COLD HARDNESS | WHEN TO WATER |
+|---| ---| ---| ---| ---|
+| Carrots  | 70-80  | 	A, C, K, and B6|	Half-hardy | Only during drought conditions |
+| Broccoli  | 100-150  | 	A, E, B1, and B6|	Hardy | Only during drought conditions |
+| Pumpkins  | 90-100  | 	Fiber, C, and Potassium|	Tender | Only during drought conditions |
+| Peppers  | 60-90 | 	 A, C, B6, B2, and E|	Very tender | Once a week |
+| Zucchini  | 50-60  | 	 A, B1, B6, and B2 | Very tender | Frequently, especially when fruits form |
+| Tomatoes  | 65-85  | 	 A, C, K, and B6|	Tender | Twice a week |
+| Potatoes  | 90-120  | 	B6 and C|	Half-hardy | Regularly, when tubers start to form |
+
+Photo owned by [kellogggarden.com](https://www.kellogggarden.com/wp-content/uploads/2017/07/Leafy-Vegetable-Garden.jpg)  
+Icon source: [thenounproject.com ](https://thenounproject.com/term/gardening/) 
+
+---
+
 <img align="left" width="40" height="40" src="media/icons/skill.png">
 
 ## <a name="new-skill"></a>Learn a new skill
@@ -432,205 +656,66 @@ Great ideas to learn new skills:
 
 ---
 
-<img align="left" width="40" height="40" src="media/icons/cook.png">
+<img align="left" width="40" height="40" src="media/icons/meditation.png">
 
-## <a name="cooking"></a>Cooking
-Enjoy different kind of meals from around the world!
-
-In the following table, you can view recipes from different countries, along with the reccommender's personal rating.
-
-<img src="media/images/food-around-the-world.png" alt="Food around the world" width="500"/>
-
-Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/brunch-choice-crowd-dining-food-options-384205462)
-
-|DISH| ORIGIN| MY RATING| RECIPE| PRO-TIP|
-|---| ---| ---| ---| ---|
-| Avocado Brawnies | Universal | 10/10 | [Link](https://akispetretzikis.com/el/categories/keik/brownies-me-avokanto "How to make avocado brawnies") | Pick a ripe avocado. |
-| Banana Split | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/all-american-banana-split/) | Mix up the original recipe by adding different kinds of fruit. |
-| Banoffee | England | 10/10 | [Link](https://akispetretzikis.com/en/categories/glyka/banoffee/) | Transform it into a chocolate banoffee by adding some chocolate couverture in the caramel mixture!|
-| Brownies | U.S.A. | 10/10 | [Link](https://akispetretzikis.com/el/categories/keik/brownies)| Do not hesitate to serve with a scoop of vanilla ice cream. |
-| Burrito | Mexico | 10/10 | [Link](https://akispetretzikis.com/el/categories/snak-santoyits/burrito) | Add chili sauce to make it spicy.
-| Cheesecake | Ancient Greece | 10/10 | [Link](https://sugarspunrun.com/best-cheesecake-recipe/) | Serve with sweet apple preserve. |
-| Chocolate chip cookies | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/big-buttery-chocolate-chip-cookies/) | Use pecans instead of walnuts. |
-| Cupcakes| Universal| 10/10 | [Link](https://sallysbakingaddiction.com/super-moist-chocolate-cupcakes/) | Make sure you’re using natural unsweetened cocoa powder, not dutched cocoa.|
-| Egg fried rice | U.S.A. | 10/10 | [Link](https://www.bbcgoodfood.com/recipes/oriental-egg-fried-rice) | Consider adding chicken. |
-| Feta Pasta Challenge | Universal | 10/10 | [Link](https://www.youtube.com/watch?v=WRzQ-Ngt3Do) | Serve with olives. |
-| Greek Salad | Greece | 10/10 | [Link](https://www.loveandlemons.com/greek-salad/) | Add capers to gain maximum taste. |
-| Handmade Cinnamon Rolls | Northern Europe | 10/10 | [Link](https://www.youtube.com/watch?v=_Q0FYoCl4Cs) | Serve with extra cinnamon. |
-| Italian Pizza | Italy | 10/10 | [Link](https://www.walksofitaly.com/blog/food-and-wine/italian-pizza-dough-recipe) | Keep it simple on the ingredients! |
-| Lemon Pound Cake Loaf | England | 10/10 | [Link](https://www.seasonsandsuppers.ca/glazed-lemon-pound-cake-loaf/)| You can freeze it and grab a slice whenever you crave it! |
-| Lemon Rice | India | 9/10 | [Link](https://www.feastingathome.com/indian-lemon-rice/) | Serve it with fish. |
-| Lentil Soup | Morocco | 10/10 | [Link](https://www.simplyquinoa.com/detox-moroccan-lentil-soup/) | Serve with fresh onions. |
-| Light Spaghetti Souffle | Italy | 10/10 | [Link](https://akispetretzikis.com/en/categories/zymarika/light-soyfle-me-makaronia-ston-foyrno/) | Mix the spaghetti and heavy cream with the turkey, mushrooms and corn for an even more delicious outcome! |
-| New York-Style Pizza | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/new-york-style-pizza/) | Reheat in the oven. |
-| Onion Rings | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/crispy-fried-onion-rings/) | Serve with different kinds of sauce. |
-| Pancakes | Universal | 10/10| [Link](https://akispetretzikis.com/en/categories/glyka/pancakes "How to Make Pancakes")|  Flip when the small bubbles appear. |
-| Parmesan Chicken | Italy | 10/10 | [Link](http://www.itscheatdayeveryday.com/one-pan-parmesan-tuscan-chicken/) | Serve with brown rice. |
-| Pasta Primavera | Italy | 10/10 | [Link](https://www.cookingclassy.com/pasta-primavera/) | Mix up the veggies to create different combinations. |
-| Pasta Salad | Italy | 10/10 | [Link](https://carlsbadcravings.com/italian-pasta-salad/) | Experiment with different kinds of pasta. |
-| Pastitsio | Greece | 10/10| [Link](https://akispetretzikis.com/en/categories/zymarika/to-pastitsio-toy-akh "How to Make Pastitsio")|It's all about the Bechamel sauce. |
-| Penne Arrabiata | Italy | 10/10 | [Link](https://www.aline-made.com/penne-arrabiata/) | Serve with parmesan. |
-| Soft Cookies| Universal | 10/10 | [Link](https://www.youtube.com/watch?v=K-YHpNU0Dbk) | Serve with milk. |
-| Sushi | Japan | 10/10| [Link](https://akispetretzikis.com/en/categories/ryzi-amp-patates/soysi "How to Make Sushi")| Experiment with different types of fish. |
-| Sweet & Sour Chicken | China | 10/10 | [Link](https://www.bbcgoodfood.com/recipes/sweet-sour-chicken) | Serve with rice. |
-| Tacos | Mexico | 10/10 | [Link](https://www.thewholesomedish.com/the-best-homemade-tacos/) | Add extra cheese!! |
-| Tzatziki | Greece | 10/10| [Link](https://cookieandkate.com/how-to-make-tzatziki/ "How to Make Tzatziki")| Choose a creamy yoghurt to create the perfect spread! |
+## <a name="meditation"></a>Meditation
+Meditation is a fun and relaxing way to spend your time in quarantine. Try lying down with your eyes closed and focusing on your breath, breathing in and out. This will help you lower stress levels, boost your mood, allow you to connect better with yourself and improve your focus.
+* 5-minute meditation - [link](https://www.youtube.com/watch?v=inpok4MKVLM&t=71s&ab_channel=Goodful)
+* 10-minute meditation - [link](https://www.youtube.com/watch?v=O-6f5wQXSu8&ab_channel=Goodful)
+* 20-minute meditation - [link](https://www.youtube.com/watch?v=-2zdUXve6fQ&ab_channel=TheMindfulMovement)
+>[Here is a good playlist to help you relax!](https://www.youtube.com/watch?v=oJnF5VxTO5g "Chill & Relax")
 
 ---
 
-<img align="left" width="40" height="40" src="media/icons/project.png">
+<img align="left" width="40" height="40" src="media/icons/movie.png">
 
-## <a name="projects"></a>Start a new Project
+## <a name="movies-docum-series"></a>Movies-Documentaries-Series
+_The most common activity during lock-down has been watching movies. So here are our recommendations for movies, series and documentaries:_
 
-Ideas for interesting projects:
+|TITLE| TYPE| AVAILABLE ON| MY RATING| IMDb RATING| TRAILER| INFO|
+|:---| :---:| :---:| :---:| :---:|:---:|:---:|
+|A Beautiful Mind | Biography / Drama | Netflix | 9/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=nIR3wj9Ssaw "A Beautiful Mind")|[INFO](https://www.imdb.com/title/tt0268978/?ref_=nv_sr_srsg_0 "A Beautiful Mind IMDb")|
+|Attack On Titan | Fantasy / Action | Crunchyroll | 9.9/10 | 8.9/10|[TRAILER](https://www.youtube.com/watch?v=MGRm4IzK1SQ "Attack On Titan")|[INFO](https://www.imdb.com/title/tt2560140/?ref_=nv_sr_srsg_0 "Attack On Titan IMDb")|
+|Better Call Saul | Crime / TV Series | Netflix | 10/10 | 8.7/10 | [TRAILER](https://www.youtube.com/watch?v=HN4oydykJFc "Better Call Saul")|[INFO](https://www.imdb.com/title/tt3032476/?ref_=nv_sr_srsg_0 "Better Call Saul")|
+|Blacklist | TV series | Netflix | 9/10 | 8/10|[TRAILER](https://www.youtube.com/watch?v=-WYdUaK54fU "Blacklist")|[INFO](https://www.imdb.com/title/tt2741602/?ref_=nv_sr_srsg_0 "Blacklist IMDb")|
+|Breaking Bad| TV series| Netflix| 9/10| 9.5/10|[TRAILER](https://www.youtube.com/watch?v=HhesaQXLuRY&ab_channel=TrailerBlend "Breaking Bad")|[INFO](https://www.imdb.com/title/tt0903747/?ref_=nv_sr_srsg_0 "Breaking Bad IMDb")|
+|Brooklyn Nine-Nine | TV series | Netflix | 8.5/10 | 8.4/10|[TRAILER](https://www.youtube.com/watch?v=sEOuJ4z5aTc "Brooklyn Nine-Nine")|[INFO](https://www.imdb.com/title/tt2467372/?ref_=nv_sr_srsg_0 "Brooklyn Nine-Nine IMDb")|
+|Cobra Kai| Action / Comedy / Drama | Netflix| 9/10| 8.6/10|[TRAILER](https://youtu.be/xCwwxNbtK6Y "Cobra Kai")|[INFO](https://www.imdb.com/title/tt7221388// "Cobra Kai")|
+|Community | TV series | Netflix | 9/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=sBCE9oIuN24 "Community")|[INFO](https://www.imdb.com/title/tt1439629/ "Community IMDb")|
+|Connected| Documentary - TV series| Netflix| 8.5/10| 7.5/10|[TRAILER](https://www.youtube.com/watch?v=B-aZrftUPlk&ab_channel=Netflix "Connected")|[INFO](https://www.imdb.com/title/tt12753692/?ref_=nv_sr_srsg_3 "Connected IMDb")|
+|Cowspiracy: The Sustainability Secret | Documentary | Netflix | 9/10 | 8.3/10|[TRAILER](https://www.youtube.com/watch?v=nV04zyfLyN4 "Cowspiracy: The Sustainability Secret")|[INFO](https://www.imdb.com/title/tt3302820/ "Cowspiracy: The Sustainability Secret")|
+|Don't f**k with cats| Documentary - TV series| Netflix| 9/10| 8/10|[TRAILER](https://www.youtube.com/watch?v=x41SMm-9-i4&ab_channel=Netflix "Don't f**k with cats")|[INFO](https://www.imdb.com/title/tt11318602/?ref_=fn_al_tt_2 "Don't f**k with cats IMDb")|
+|Game Of Thrones | TV series | HBO | 10/10 | 9.3/10|[TRAILER](https://www.hbo.com/game-of-thrones "Game Of Thrones")|[INFO](https://www.imdb.com/title/tt0944947/ "Game Of Thrones IMDb")|
+|House of Cards | Comedy / TV Series | Netflix | 8.5/10 | 8.7/10|[TRAILER](https://www.youtube.com/watch?v=SvSkxBYuoQY "House of Cards")|[INFO](https://www.imdb.com/title/tt1856010/?ref_=hm_tpks_tt_i_15_pd_tp1_cp "House of Cards")|
+|How I met your mother | Comedy / TV Series | Netflix | 9/10 | 8.3/10|[TRAILER](https://www.youtube.com/watch?v=aJtVL2_fA5w "How I met your mother")|[INFO](https://www.imdb.com/title/tt0460649/ "How I met your mother")|
+|Infinity War | Action / Adventure / Sci-Fi | Disney+ |10/10 | 8.4/10|[TRAILER](https://youtu.be/6ZfuNTqbHE8 "Infinity War")|[INFO](https://www.imdb.com/title/tt4154756/?ref_=nv_sr_srsg_0 "Infinity War IMDb")|
+|It's Okay to Not be Okay | Drama | Netflix | 9.5/10 | 8.7/10 | [TRAILER](https://www.youtube.com/watch?v=50ek4HQo0Bc&ab_channel=TheSwoon "It's Okay to Not be Okay")|[INFO](https://www.imdb.com/title/tt12451520/ "It's Okay to Not be Okay")|
+|Jeffrey Epstein: Filthy Rich | Documentary / Crime | Netflix | 8/10 | 7.1/10|[TRAILER](https://www.youtube.com/watch?v=-j0rjlfmDx4 "Jeffrey Epstein: Filthy Rich")|[INFO](https://www.imdb.com/title/tt12312250/ "Jeffrey Epstein: Filthy Rich")|
+|Joker| Drama | Amazon | 10/10 | 8.4/10|[TRAILER](https://www.youtube.com/watch?v=zAGVQLHvwOY "Joker")|[INFO](https://www.imdb.com/title/tt7286456/?ref_=nv_sr_srsg_0 "Joker IMDb")|
+|Lupin| TV series| Netflix| 7.5/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=ga0iTWXCGa0&ab_channel=Netflix "Lupin")|[INFO](https://www.imdb.com/title/tt2531336/?ref_=nv_sr_srsg_0 "Lupin IMDb")|
+|Mindhunter | TV series | Netflix | 9.5/10 | 8.6/10|[TRAILER](https://www.youtube.com/watch?v=evdxH50J3rs "Mindhunter")|[INFO](https://www.imdb.com/title/tt5290382/?ref_=nv_sr_srsg_0 "Mindhunter IMDb")|
+|Miracle in Cell No. 7 (2019)| Drama | Netflix | 9/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=MHdBW0gSsjo "Miracle in Cell No. 7")|[INFO](https://www.imdb.com/title/tt2659414/?ref_=nv_sr_srsg_0 "Miracle in Cell No. 7 IMDb")|
+|Mr. Robot | TV series | Netflix | 10/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=xIBiJ_SzJTA "Mr. Robot")|[INFO](https://www.imdb.com/title/tt4158110/?ref_=fn_al_tt_1 "Mr. Robot IMDb")|
+|Night Stalker: The Hunt for a Serial Killer  | Documentary / Crime | Netflix | 9/10 | 7.5/10|[TRAILER](https://www.youtube.com/watch?v=Mva2nGveYss "Night Stalker: The Hunt for a Serial Killer")|[INFO](https://www.imdb.com/title/tt13651632/ "Night Stalker: The Hunt for a Serial Killer")|
+|Peaky Blinders | Documentary - TV series | Netflix | 8/10 | 8.8/10|[TRAILER](https://youtu.be/oVzVdvGIC7U "Peaky Blinders")|[INFO](https://www.imdb.com/title/tt2442560/?ref_=nv_sr_srsg_0 "Peaky Blinders IMDb")|
+|Prison Break | Action / TV Series | Netflix | 10/10 | 8.3/10 | [TRAILER](https://www.imdb.com/video/vi3183588377?playlistId=tt0455275&ref_=tt_ov_vi "Prison Break")|[INFO](https://www.imdb.com/title/tt0455275/ "Prison Break")|
+|Rick and Morty | Comedy / TV Series | Netflix | 9/10 | 9.2/10 | [TRAILER](https://www.youtube.com/watch?v=_uUcMwsR5hg "Rick and Morty")|[INFO](https://www.imdb.com/title/tt2861424/ "Rick and Morty")|
+|Suits | TV series | Netflix | 9/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=85z53bAebsI "Suits")|[INFO](https://www.imdb.com/title/tt1632701/?ref_=fn_al_tt_1 "Suits IMDb")|
+|The 100 | Sci-Fi | Netflix | 9.5/10 | 7.6/10|[TRAILER](https://www.youtube.com/watch?v=ia1Fbg96vL0 "The 100")|[INFO](https://www.imdb.com/title/tt2661044/?ref_=nv_sr_srsg_0 "The 100 IMDb")|
+|The Big Bang Theory| Comedy/TV Series| Netflix| 8.5/10| 8.1/10|[TRAILER](https://www.youtube.com/watch?v=WBb3fojgW0Q&ab_channel=vidicsch "The Big Bang Theory")|[INFO](https://www.imdb.com/title/tt0898266/ "The Big Bang Theory")|
+|The Bold Type| Comedy/TV Series| Netflix| 8.0/10| 8.0/10|[TRAILER](https://www.youtube.com/watch?v=q9Evo8pJTV0&ab_channel=Freeform "The Bold Type")|[INFO](https://www.imdb.com/title/tt6116060/ "The Bold Type")|
+|The Boys| TV series| AmazonPrime| 7/10| 8.7/10|[TRAILER](https://www.youtube.com/watch?v=M1bhOaLV4FU&ab_channel=AmazonPrimeVideoUK "The Boys")|[INFO](https://www.imdb.com/title/tt1190634/?ref_=nv_sr_srsg_0 "The Boys IMDb")|
+|The Flash | Action / Adventure / Drama | Netflix| 7.7/10| 7/10|[TRAILER](https://youtu.be/Yj0l7iGKh8g "The Flash")|[INFO](https://www.imdb.com/title/tt3107288/ "The Flash")|
+|The Invisible Guest | Crime / Drama / Mystery | Netflix | 8.5/10 | 8.1/10|[TRAILER](https://www.youtube.com/watch?v=epCg2RbyF80 "The Invisible Guest")|[INFO](https://www.imdb.com/title/tt4857264/?ref_=nv_sr_srsg_0 "The Invisible Guest IMDb")|
+|The Last Dance| Documentary - TV series| Netflix| 9.5/10| 9.1/10|[TRAILER](https://www.youtube.com/watch?v=N9Z9JtNcCWY&ab_channel=ESPN "The Last Dance")|[INFO](https://www.imdb.com/title/tt8420184/?ref_=fn_al_tt_1 "The Last Dance IMDb")
+|The Queen's Gambit | TV series | Netflix | 9/10 | 8.6/10|[TRAILER](https://www.youtube.com/watch?v=CDrieqwSdgI "The Queen's Gambit")|[INFO](https://www.imdb.com/title/tt10048342/?ref_=nv_sr_srsg_0 "The Queen's Gambit IMDb")|
+|The Shutter Island | Thriller/ Mystery | Netflix | 8.5/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=5iaYLCiq5RM "The Shutter Island")|[INFO](https://www.imdb.com/title/tt1130884/ "The Shutter Island IMDb")|
+|The Social Dilemma| Documentary| Netflix| 7/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=uaaC57tcci0&ab_channel=Netflix "The Social Dilemma")|[INFO](https://www.imdb.com/title/tt11464826/?ref_=nv_sr_srsg_0 "The Social Dilemma IMDb")|
+|Unsolved Mysteries| Documentary - TV series| Netflix| 9/10| 7.3/10|[TRAILER](https://www.youtube.com/watch?v=oZ4FrgGILM8&ab_channel=Netflix "Unsolved Mysteries")|[INFO](https://www.imdb.com/title/tt9642938/?ref_=nv_sr_srsg_3 "Unsolved Mysteries IMDb")|
+|World's Most Wanted| Documentary / Crime| Netflix| 7.5/10| 7.2/10|[TRAILER](https://www.youtube.com/watch?v=TFOYTE3RtCs "World's Most Wanted")|[INFO](https://www.imdb.com/title/tt12753698/ "World's Most Wanted")|
 
-### Arduino projects:
+---        
 
-<img src="media/images/arduino.png" alt="Arduino" width="250"/>
-
-Photo owned by [commonslab.gr](https://commonslab.gr/2016/11/01/arduino-genuino-official-reseller/)
-
-Arduino is an open-source platform used for building electronics projects. Arduino consists of both a physical programmable circuit board (often referred to as a microcontroller) and a piece of software, or IDE (Integrated Development Environment) that runs on your computer, used to write and upload computer code to the physical board.
-
-#### What can you do with arduino?
-- [LED Controller](https://www.youtube.com/watch?v=azxshrFSgnA)
-- Hot Glue LED Matrix Lamp
-- Arduino Mega Chess
-- Robot Arm with Controller
-- [Make Musical Instrument](https://www.youtube.com/watch?v=YF24gxDccVY)
-- Basic Earthquake Detector
-- Security Access Using RFID Reader
-- Smoke Detection using MQ-2 Gas Sensor
-- Audio Spectrum Visualizer
-- Motion Following Motorized Camera
-- Water Quality Monitoring System
-- [Punch Activated Arm Flamethrower](https://www.youtube.com/watch?v=GS9A1JuOKE8&ab_channel=AllenPan-SufficientlyAdvanced)
-- Drawing Machine
-- Home Automations
-
-and many more!!!
-
-### Raspberry Pi projects:
-
-<img src="media/images/raspberry-pi.jpg" alt="Raspberry Pi" width="200"/>
-
-Photo owned by [robot-advance.com](https://www.robot-advance.com/EN/art-raspberry-pi-4-case-2641.htm)
-
-If you like tech projects and you want to work with a full-on computer in tiny package, you read the right section. Here you can find many raspberry pi projects to do alone or with your children.
-
-#### Projects for adults/students:
-* Use a Raspberry Pi to measure the room temperature and humidity ([Tutorial](https://www.instructables.com/Raspberry-Pi-IoT-Temperature-and-Humidity-Monitor/))
-* Raspberry Pi Radio FM Transmitter ([Tutorial](https://circuitdigest.com/microcontroller-projects/raspberry-pi-fm-transmitter)).
-* Become a professional Minecraft Pi player ([Tutorial](https://magpi.raspberrypi.org/books/essentials-minecraft-v1)).
-* Create a Raspberry Pi retro console emulator with [Retropie](https://retropie.org.uk/).
-* Build a motion capture security system using MotionEyeOS ([Tutorial](https://www.youtube.com/watch?v=og-zI0CozLs)).
-* Create Bitcoin Video Jukebox with raspberry pi ([Tutorial](https://www.youtube.com/watch?v=uUIdwVXTXRc)).
-* Create cloud storage with raspberry pi ([Tutorial](https://www.youtube.com/watch?v=FQoZuUrabok)).
-* Build a vpn server with raspberry pi ([Tutorial](https://www.pcmag.com/how-to/how-to-create-a-vpn-server-with-raspberry-pi)).
-
-#### Projects suitable for children:
-Do you want your kid to learn more about technology that just use facebook? Raspberry pi projects for children are the right choice for you.
-
-Here are some interesting projects:
-* Make Robots with rasberry pi and arduino ([Tutorial](https://create.arduino.cc/projecthub/jithinsanal1610/robotics-for-beginners-and-kids-build-your-robot-now-4b6b27))
-* Program a game using [scratch](https://scratch.mit.edu/) ([Tutorial](https://junilearning.com/blog/coding-projects/how-to-make-a-scratch-game-step-by-step/))
-
-You can also check out a variety of projects for kids at [projects.raspberrypi.org](https://projects.raspberrypi.org/en/projects)
-
-My recommendations for kids' projects from raspberrypi.org:
-* [Pac-Man treasure hunt on the terminal](https://projects.raspberrypi.org/en/projects/pacman-terminal)
-* [Balloon Pi-tay Popper](https://projects.raspberrypi.org/en/projects/balloon-pi-tay-popper)
-* [Beat the goalie](https://projects.raspberrypi.org/en/projects/beat-the-goalie)
-
-\* If this is your first time using raspberry pi with your child, we encourage you to read [Learn at home: a guide for parents #1](https://www.raspberrypi.org/blog/digital-making-at-home-parents-guide/) and [Learn at home: a guide for parents #2](https://www.raspberrypi.org/blog/digital-making-at-home-parents-guide-python/).
-
-\*\* You don't have a raspberry pi, but you want to buy one and start a project? You can [buy a raspberry pi from amazon](https://www.amazon.de/s?k=pi+4&language=en_GB&adgrpid=84986351427&gclid=Cj0KCQjwl9GCBhDvARIsAFunhsmpJd4HVuNUOEVw3RX1kIywnHUrA6O3AJadlZU4_ReP6kv28HPH3psaAud8EALw_wcB&hvadid=394689733589&hvdev=c&hvlocphy=9067699&hvnetw=g&hvqmt=b&hvrand=7715166971427816134&hvtargid=kwd-298510980949&hydadcr=27799_1817008&tag=googdemozdesk-21&ref=pd_sl_8sg80mw3d9_b) and [here](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up) you can find instructions on how to set up your raspberry pi.
-
-### Other projects
-
-* Turn your balcony into a small garden.
-* Start a wordpress blog.
-
----
-
-<img align="left" width="40" height="40" src="media/icons/videoGames.png">
-
-## <a name="video-games"></a>Video Games
-
-Amazing video games you must try out:
-
-* [Among Us](https://innersloth.com/gameAmongUs.php)
-* [Assetto Corsa](https://www.assettocorsa.it/home-ac/)
-* [Call of Duty: Black Ops](https://www.callofduty.com/blackops)
-* [Call of Duty: Warzone](https://www.callofduty.com/warzone)
-* [Dota 2](https://blog.dota2.com/?l=greek)
-* [Drakensang Online](https://www.drakensang.com/en)
-* [FIFA 2021](https://www.ea.com/games/fifa/fifa-21)
-* [Fortnite](https://www.epicgames.com/fortnite/en-US/home)
-* [Forza Horizon 4](https://forzamotorsport.net/en-us/games/fh4)
-* [God of War](https://www.playstation.com/el-gr/games/god-of-war/)
-* [GTA San Andreas](https://www.rockstargames.com/games/sanandreas)
-* [GTA V](https://www.rockstargames.com/V/restricted-content/agegate/form?redirect=https%3A%2F%2Fwww.rockstargames.com%2FV%2F&options=&locale=en_us)
-* [Hearthstone](https://playhearthstone.com/en-us)
-* [League of Legends](https://na.leagueoflegends.com/en-us/)
-* [Minecraft](https://www.minecraft.net/en-us/)
-* [NBA 2K21](https://nba.2k.com/)
-* [PES 2021](https://www.konami.com/wepes/2021/eu/en/ps4/)
-* [Red Dead Redemption II](https://www.rockstargames.com/reddeadredemption2/restricted-content/agegate/form?redirect=https%3A%2F%2Fwww.rockstargames.com%2Freddeadredemption2%2F&options=&locale=en_us)
-* [World of Warcraft](https://worldofwarcraft.com/en-us/)
-* [Vendetta Online](https://www.vendetta-online.com/)
-
-You can buy amazing video games for Windows, Mac and Linux computers in the following online stores:
-* [Battle.net](https://eu.shop.battle.net/en-gb)
-* [Epic Games Store](https://www.epicgames.com/store/en-US/)
-* [Good Old Games (GOG)](https://www.gog.com/)
-* [Origin](https://www.origin.com/irl/en-us/store)
-* [Steam](https://store.steampowered.com/)
-* [Ubisoft Store](https://store.ubi.com/ie/home)
-
-The stores above usually feature deals and discounts on specific games. In order to be informed about the best current deals about a specific game, check out [IsThereAnyDeal](https://isthereanydeal.com)!
-
----
-
-<img align="left" width="40" height="40" src="media/icons/boardgame.png">
-
-## <a name="board-games"></a>Board Games
-Board Games are a great way to have fun and spend your time with family and friends!
-
-### Online board games
-Below you may find some interesting websites where you can play different board games along with your friends:
-
-* [Scribbl](https://skribbl.io/): skribbl.io is a free multiplayer drawing and guessing game. One game consists of a few rounds in which every round someone has to draw their chosen word and others have to guess it to gain points! The person with the most points at the end of game will then be crowned as the winner! (*Source: https://skribbl.io/)*
-* [Playing cards](https://playingcards.io/): PlayingCards.io simply provides a synchronized card playspace. It's up to you to start the game, enforce rules, and determine the winner, just like a real deck of cards!
-* [Rento](https://playrento.com/): Rento is online multiplayer monopoly clone. The game is for 2 to 6 players and you can play it online versus friends, offline versus bots. In the game you trade lands, build houses, win auctions, go and most importantly - have fun. Your goal is to acquire monopoly and bankrupt the other players. (*Source: https://playrento.com/*)
-* [Pretend you 're xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp): Pretend You're Xyzzy is a Cards Against Humanity clone! *([github repo](https://github.com/ajanata/PretendYoureXyzzy))*
-* [Password](https://www.thegamegal.com/2017/11/10/password): The goal of this game is to get your partner to guess the password by giving him a one word and only one word clue. First, you divide yourselves into 2 teams and in each round one of the members from each team will be given a password. If your partner guesses the password then your team wins the points of the round, but if he doesn't, then it's the other team’s turn. If their team gets the password they get the points. If the other team also doesn’t get the word you get another try. So this goes on for 3 times till someone gets the password and then the next round starts. It's a really entertaining game to play with your friends. **Pro Tip**: Turn this into a drinking game and you'll maximize the fun!*([download it here](https://play.google.com/store/apps/details?id=in.androidmate.password_game))*
-* [GeoGuessr](https://www.geoguessr.com/): The goal of this game is to guess the location of a specific spot on the globe presented to you via google maps street view. You can either play alone, or with friends. The closer your guess to the selected location, the more point you gather. The winner of the game is the person with the most points at the end of a specified number of rounds.
-* [The Wiki Game](http://thewikigame.com/): In this game, you have to navigate around wiki pages and guess. You start from a specific wikipedia page and within a specified time limit, you have to go to another target wikipedia page using the available hyperlinks.
-* [Settera](https://www.seterra.com/): Learning geography doesn't have to be boring. Do it the easy way with Seterra! In no time, you could learn to locate every single country in the world on a map.
-Seterra includes fun quizzes that help familiarize you with countries, capital cities, flags, rivers, lakes, and notable geological features.
-* [Among Us](https://www.bluestacks.com/apps/action/among-us-on-pc.html): The game takes place in a space-themed setting, in which players each take on one of two roles, most being Crewmates, and a predetermined number being Impostors. The goal of the Crewmates is to identify the Impostors, eliminate them, and complete tasks around the map; the Impostors' goal is to covertly sabotage and kill the Crewmates before they complete all of their tasks. Players suspected to be Impostors may be eliminated via a plurality vote, which any player may initiate by calling an emergency meeting (except during a crisis) or reporting a dead body. Crewmates win if all Impostors are eliminated or all tasks are completed whereas Impostors win if there is an equal number of Impostors and Crewmates, or if a critical sabotage goes unresolved.
-* [Spyfall](https://www.spyfall.app/): Spyfall is a fun game that really tests your improvise abilities! You and your friends virtually attend an event and you all get assigned different roles. However, one of you is a spy and has no idea about the event you are attending. Try to figure out who the spy as soon as possible!
-
-### Classic board games
-If you are stuck at home with your family or your roommate(s), you could try one of these fun board games:
-
-* [Cluedo](https://en.wikipedia.org/wiki/Cluedo): A suspenseful murder mystery game that turns everyone into a detective.
-* [Taboo](https://en.wikipedia.org/wiki/Taboo_(game)): The game of forbidden words. In Taboo, your goal is to get your teammate to say the word written on one of the game cards without saying that word or any of the “taboo” words also listed with it.
-* [Twister](https://en.wikipedia.org/wiki/Twister_(game)): As the box promises, have you twisted up in knots and probably doubled over laughing, too.
-* [Stratego](https://en.wikipedia.org/wiki/Stratego): A Napoleonic version of capture the flag!
-* [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)): The classical buying and trading properties game. 
-* [Halli Galli](https://www.ultraboardgames.com/halli-galli/game-rules.php): A fast game in which you have to ring the bell as soon as 5 same fruits appear. Just watch for your hands!
-* [Citadels](https://en.wikipedia.org/wiki/Citadels_(card_game)): A card game in which on each round, players pick a role, build districts and make actions according to their role.
-* [Trivial Pursuit](https://en.wikipedia.org/wiki/Trivial_Pursuit): A game to test your knowledge about things around the globe.
-* [Scrabble](https://en.wikipedia.org/wiki/Scrabble): A game in which you use random letters to create words.
-* [Ticket to Ride](https://en.wikipedia.org/wiki/Ticket_to_Ride_(board_game)): A strategy game in which players collect train cards and use them in order to create train routes across a real world map and collect points. The purpose of the game is to collect the most points. This can be achieved by creating long railways and connecting remote cities which are determined by drawing ticket cards. This board game is ideal for people who like strategy, and love using..... Optimization Methods. :stuck_out_tongue:
-* [Bang!](https://en.wikipedia.org/wiki/Bang!_(card_game)): In this Wild-West themed game, a sheriff and a deputy sheriff are trying to uncover the outlaws. It sounds easy, but what happens when you don't know who the outlaws are?
-* [Wizard](https://en.wikipedia.org/wiki/Wizard_(card_game)): A fun card game that comes with a set of tricky rules. Each palyer has guess the results of the game and the winner is the one who makes the best guesses. 
-* [Risk](https://en.wikipedia.org/wiki/Risk_(game)): A strategy board game which combines war, debate, diplomacy, conflicts and luck. Each player has a quest to complete (usually to take over a continent) but so do your opponents. 2-6 Players, 1-8 hours. Do not play this game with your best friends, it will be the end of a friendship...    
-
-
----
 
 <img align="left" width="40" height="40" src="media/icons/music.png">
 
@@ -781,148 +866,7 @@ Additionally, MuseScore offers a large database of free-to-access sheet music. Y
 
 ---
 
-<img align="left" width="40" height="40" src="media/icons/meditation.png">
 
-## <a name="meditation"></a>Meditation
-Meditation is a fun and relaxing way to spend your time in quarantine. Try lying down with your eyes closed and focusing on your breath, breathing in and out. This will help you lower stress levels, boost your mood, allow you to connect better with yourself and improve your focus.
-* 5-minute meditation - [link](https://www.youtube.com/watch?v=inpok4MKVLM&t=71s&ab_channel=Goodful)
-* 10-minute meditation - [link](https://www.youtube.com/watch?v=O-6f5wQXSu8&ab_channel=Goodful)
-* 20-minute meditation - [link](https://www.youtube.com/watch?v=-2zdUXve6fQ&ab_channel=TheMindfulMovement)
->[Here is a good playlist to help you relax!](https://www.youtube.com/watch?v=oJnF5VxTO5g "Chill & Relax")
-
----
-
-<img align="left" width="40" height="40" src="media/icons/videocall.png">
-
-## <a name="facetime"></a>Video call your long-distance friends
-Do you remember the nights when you used to hang out for hours with your friends? Since that is not possible any more you can use the following software to replicate the group feeling:
-- Skype
-- FaceTime
-- Microsoft Teams
-- Zoom
-- Discord
-- Or check out these [open source alternatives](https://opensource.com/alternatives/skype)
-
-Virtual Activities:
-- Sing karaoke 
-
-This is pretty much self-explanatory. Pick a song, find its karaoke version on YouTube and sing along! Tip: make sure everyone else's microphones are mute.
-
-- Disguised party 
-
-This can go in two ways. You can discuss with the group the theme of disguise for your next group call and everyone dresses accordingly OR each person picks their costume individually. It feels just like Halloween! How fun!
-
-- PowerPoint party 
-
-Essentially, everyone picks a topic near and dear to their heart —the more niche, the better— and prepare a five-minute PowerPoint presentation on it. Here's some fun and interesting ideas: Drunk history, The best [whatever] of all time, Ranking and rating my exes, How HSM changed my life
-
-- Movie/series night 
-
-Watch a movie or a series with your group of friends without leaving your home, just by screen sharing in a video call or using streaming platforms like Netflix Party. Plus, you can comment on it in chat without disturbing others.
-
-- Play an online game
-
-Who says you have to be in the same space to have fun? Gather your friends and prepare for the best game night ever! There are a lot of different virtual games to choose from, but you should always check the number of players every game allows. No one should be left behind! You can find a list of virtual board games [here](#board-games).
-
----
-
-<img align="left" width="40" height="40" src="media/icons/art.png">
-
-## <a name="art"></a>Art
-Creating art can be of so many different types. It can be painting, constructing some art piece from recycled 
-materials, or also decorating your apartment/room. Especially painting can calm you really down and give you the 
-opportunity to express your feelings and emotions by using colors. The following tutorials will help you to make 
-the first step to become an artist and use the time during the pandemic more efficiently:
-
-* [Acrylic Painting Tutorial - Ocean Sunset (Beginner to Intermediate)](https://www.youtube.com/watch?v=VjCGJb5ltZM "Acrylic Painting")
-* [10 wonderful recycle do it yourself crafts that will brighten your room](https://www.youtube.com/watch?v=HkHEJEzMKwc "Recycling Crafts")
-* [24 cool decorative ideas you can do it yourself](https://www.youtube.com/watch?v=Uv-KC7szPN0 "Decorating Methods")
-* [Origami - Japanese Paperfolding Technique](https://www.origamiway.com/easy-origami.shtml "Origami Technique")
-* [EASY Step By Step Digital Collage TUTORIAL | NO DRAWING SKILLS REQUIRED | How To For Beginners](https://www.youtube.com/watch?v=xl3Zj_JgYKk "Digital Collage Tutorial")
-* [Basics of charcoal drawing](https://www.google.com/search?q=carbon+drawing&sxsrf=ALeKk00M9bDB-PlzL-DCft_0ae4hcXj4Dg%3A1616191227070&ei=-x5VYLHdA-anrgT0yrj4Dw&oq=carbon+drow&gs_lcp=Cgdnd3Mtd2l6EAEYADIICAAQFhAKEB4yBggAEBYQHjIICAAQFhAKEB4yCAgAEBYQChAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIIxAnOgQIABBDOggIABCxAxCDAToLCAAQsQMQxwEQowI6BQgAELEDOggILhCxAxCDAToECC4QQzoHCAAQsQMQQzoFCC4QsQM6AggAOggIABDHARCvAToECAAQCjoKCAAQxwEQrwEQCjoFCAAQywFQ3ClYqkBg9lpoAHACeACAAb4BiAHyDpIBBDAuMTKYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=gws-wiz#kpvalbx=_CB9VYN7QEOKwrgSlxZPQDg19 "Charcoal Drawing")
-* [Adult Colouring Books](https://www.amazon.com/s?k=adult+coloring+book&crid=3S3IZCUX5I7KQ&sprefix=adult+colo%2Caps%2C193&ref=nb_sb_noss_2)
-* [Beginner's guide to Digital Art](https://www.youtube.com/watch?v=5pmIYH1ugtk&ab_channel=Nadiaxel)
-
----
-
-<img align="left" width="40" height="40" src="media/icons/todo.png">
-
-## <a name="clean"></a> Clean and organize
-This is a great opportunity for you to clean and organize your space. Declutter, get rid of all the things you never use and organize the ones that you use. It will make you feel useful and you will have a clean, organized space at the end of the day. 
-
-You can also write down your to-dos and organize your schedule and notes. It is best that you stay organized in order to achieve high productivity!
-
-Best Apps for Organization and Productivity:
-* Notion [Find it here](https://www.notion.so)
-* Momentum Google Extension [Find it here](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en)
-* Trello [Find it here](https://trello.com/en)
-* Jour [Find it here](https://jour.com/)
-* Todoist [Find it here](https://todoist.com/)
-* Memento [Find it here](https://apps.apple.com/us/app/momento-diary-journal/id980592846)
-* 24me Find it [here](https://apps.apple.com/us/app/24me-smart-personal-assistant/id557745942) for iOS and [here](https://play.google.com/store/apps/details?id=me.twentyfour.www&hl=en) for Android
-
-Tips to Organise your Bedroom:
-1. Designate a Home for Every Item
-2. Utilize Under Bed Storage
-3. Arrange Furniture by Frequency of Use
-4. Store Seasonal Shoes Under the Bed
-5. Create a Storage Nook
-6. Use a Bedside Pocket Organizer
-7. Go Minimalist
-8. Use Personal Items as Decor
-9. Store Your Hats on a Wall
-* Information was taken from [here.](https://www.extraspace.com/blog/home-organization/room-organization/bedroom-organization-ideas-tips-hacks/)
----
-
-<img align="left" width="40" height="40" src="media/icons/pen.png">
-
-## <a name="writing"></a> Writing
-Writing is a skill that I consider to be underestimated. Written communication is everywhere around us; in emails, articles or even in remote work where slack messages are the default form of communication.
-There are many types of content produced by writing, like for example:
-- Novels
-- Short stories
-- Academic papers
-- Personal journals: Here are some journaling prompts to help your reflection journey:
-	- What are the 3 biggest lessons you've learned over the last year?
-	- Write down 10 things no one knows about you.
-	- Close your eyes and take yourself on your favourite walk. What do you observe?
-	- What is a resolution you made in January that you have let slip? How can you pick it back up?
-	- What gives you hope for the rest of this year? Why is 2021 a good one?
-	- What are your 10 favourite things about yourself?
-	- Look around your room. What are you grateful for today in the ordinary?
-- Technology documentations
-- Blog posts
-- And the list goes on
-
-Writing is most often a solitary activity, except for people who like to write in cafe's. The ongoing lockdown is a great opportunity to start practicing writing. I will kick it off with one important tip that I've found to be helpful whenever I'm writing something for other people to read.
-
-__Editing__ and __Writing__ are not the same thing. Whenever you write something, leave it for a few hours or maybe a few days. And then come back to it as an __editor__ to find ways to make it more captivating and understandable for the readers.
-
----
-<img align="left" width="40" height="40" src="media/icons/gardening.png">
-
-## <a name="gardening"></a> Gardening
-Gardening is a very unique hobby to relax, feel creative and spend your time.
-Here are some of the vegetables that you can begin with! 
-
-<img src="media/images/vegetables.jpg" alt="Food around the world" width="500"/>
-
-
-
-|VEGETABLE| GROW TIME (days)| VITAMINS| COLD HARDNESS | WHEN TO WATER |
-|---| ---| ---| ---| ---|
-| Carrots  | 70-80  | 	A, C, K, and B6|	Half-hardy | Only during drought conditions |
-| Broccoli  | 100-150  | 	A, E, B1, and B6|	Hardy | Only during drought conditions |
-| Pumpkins  | 90-100  | 	Fiber, C, and Potassium|	Tender | Only during drought conditions |
-| Peppers  | 60-90 | 	 A, C, B6, B2, and E|	Very tender | Once a week |
-| Zucchini  | 50-60  | 	 A, B1, B6, and B2 | Very tender | Frequently, especially when fruits form |
-| Tomatoes  | 65-85  | 	 A, C, K, and B6|	Tender | Twice a week |
-| Potatoes  | 90-120  | 	B6 and C|	Half-hardy | Regularly, when tubers start to form |
-
-Photo owned by [kellogggarden.com](https://www.kellogggarden.com/wp-content/uploads/2017/07/Leafy-Vegetable-Garden.jpg)  
-Icon source: [thenounproject.com ](https://thenounproject.com/term/gardening/) 
-
----
 <img align="left" width="40" height="40" src="media/icons/online_course.png">
 
 ## <a name="online_course"></a>Study online Courses 
@@ -966,21 +910,157 @@ Photo owned by [transform-elearning.com](https://www.transform-elearning.com/bui
 Icon source: [iconscout.com ](https://iconscout.com/icon/online-course-8) 
 
 ---
-<img align="left" width="40" height="40" src="media/icons/video.png">
 
-## <a name="videomaking"></a> Video Making
-Creating videos is a very fun and creative way to spend your time during lockdown(s) and who knows, you might as well make some money! Below you can find some interesting ideas to start with:
 
-- Create short films. (More [here](https://www.filmmakingstuff.com/filmmaking-lesson-8-make-some-short-films/)).
-- Create tiktok videos. (More [here](https://www.tiktok.com/?lang=en)).
-- Start vlogging. (More [here](https://nofilmschool.com/how-to-start-vlogging)).
-- Start live streaming. (More [here](https://www.boxcast.com/blog/how-to-start-live-streaming)).
-- Start a youtube channel. (More [here](https://www.adorama.com/alc/10-tips-for-starting-a-youtube-channel/))
+<img align="left" width="40" height="40" src="media/icons/grass_icon.png">
 
-Section icon owned by [freepik](https://www.freepik.com/).
+## <a name="outdoor_activities"></a>Outdoor Activities with Friends
+
+It's corona time for sure but that doesn't mean you can't spend quality time with your friends outside.
+
+Get two friends who you live close to and arrange a fun activity to do together. Make sure you respect the COVID-19 mesures and stay safe.
+
+* __Hoops__
+
+   Remember when as kids we used to run around all the time and actually played games like basketball, volleyball and football? 
+
+   Going for hoops with a friend or two will get your spirits up (without tiring you much) and definately make you feel nostalgic of your childhood.
+
+* __Cycling__
+
+   Spring is officially here and days are getting longer and longer. Enjoy the beautiful golden hour with a friend and a bike. You can explore every street of your neighborhood and even go further than that.
+
+* __Roller Skating__
+
+   Similar to cycling but a bit more fun, maybe. Even if you can't balance properly, you and your friend will surely have lots of laughs with your falls.
+
+* __Jogging__
+
+   If you'd like to exercise but can't find the motivation to do so, try with a friend. Go jogging together at a slow pace and watch each other getting fitter and fitter everyday.
+
+* __Setting goals__
+   
+   Have a chat with your friend and see what you'd like to have achieved in the next year. Set common goals and discuss your progress every week. Try to motivate each other. 
+   
+   This guide offers many suggestions for what those goals could be about.
 
 ---
 
+<img align="left" width="40" height="40" src="media/icons/library.png">
+
+## <a name="erasmus"></a>Plan your Erasmus
+An Erasmus exchange is a great way to step out of your comfort zone. Specifically, you will get a taste of living abroad, make valuable new connections from all over the world,
+improve a foreign language or two, experience university life in a foreign institution and most importantly have the time of your LIFE!
+
+<img src="media/images/erasmus.jpg" alt="erasmus" width="500"/>
+
+Start by visiting the [university page](https://www.dept.aueb.gr/el/dmst/content/%CF%80%CF%81%CF%8C%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1-erasmus), which includes lots of information
+about the procedure and the available destinations. Before you decide on your top 3 destinations, it is recommended to write down the pros and cons of all the
+universities you are interested in. In case you need more information on a university or country you can check [this facebook group](https://www.facebook.com/groups/2069463463353183)
+and the [ESN AUEB page](https://www.facebook.com/ESNAthensAUEB), where you can ask to be connected to students with erasmus experiences in the universities that you are interested in.
+Lastly, you can also check [this video](https://www.youtube.com/watch?v=IilqhLVRP6U&t=3s&ab_channel=LosAngie) in order to get more information on how to apply for an erasmus exchange.
+
+Photo owned by [ied.eu](https://ied.eu/blog/the-erasmus-plus-programme/)
+
+---
+
+
+
+<img align="left" width="40" height="40" src="media/icons/traveler.png">
+
+## <a name="trips"></a>Plan your next trip
+Tired of daydreaming about future trips? Get hands-on and start organizing your next journey!
+
+You could start by selecting your travel destination. There are a lot of websites, like [Triptile](https://triptile.com/), 
+that let you plan your trip by first selecting a country or a city that you would like to visit (you could also add multiple stops to your trip)
+and then select among a number af activities that you could engage in during your trip. Triptile also recommends hotels to stay in and then
+calculates your estimated cost, depending on the days you spend on each city, the hotel room price per day and the extra activities that you have added on your trip.
+
+### Planning a trip in Europe
+In Europe, you have many options regarding the places you can visit. However, traveling from one country to another is relatively easy.
+
+[Rail Europe](https://www.raileurope.com/) is a great option for adventurous people that want to have a truly memorable experience. 
+You can book tickets connecting one country to another and enjoy the beautiful European landscapes.
+
+Do you want to explore Europe on a ship? There are many companies offering cruises in the European seas. For those that prefer a luxurius trip, [Celebrity Cruises](https://www.royalcaribbean.com/european-cruises)
+offers a wide range of different cruise packages, from the Mediterranean to the Baltic sea. 
+
+---
+
+<img align="left" width="40" height="40" src="media/icons/project.png">
+
+## <a name="projects"></a>Start a new Project
+
+Ideas for interesting projects:
+
+### Arduino projects:
+
+<img src="media/images/arduino.png" alt="Arduino" width="250"/>
+
+Photo owned by [commonslab.gr](https://commonslab.gr/2016/11/01/arduino-genuino-official-reseller/)
+
+Arduino is an open-source platform used for building electronics projects. Arduino consists of both a physical programmable circuit board (often referred to as a microcontroller) and a piece of software, or IDE (Integrated Development Environment) that runs on your computer, used to write and upload computer code to the physical board.
+
+#### What can you do with arduino?
+- [LED Controller](https://www.youtube.com/watch?v=azxshrFSgnA)
+- Hot Glue LED Matrix Lamp
+- Arduino Mega Chess
+- Robot Arm with Controller
+- [Make Musical Instrument](https://www.youtube.com/watch?v=YF24gxDccVY)
+- Basic Earthquake Detector
+- Security Access Using RFID Reader
+- Smoke Detection using MQ-2 Gas Sensor
+- Audio Spectrum Visualizer
+- Motion Following Motorized Camera
+- Water Quality Monitoring System
+- [Punch Activated Arm Flamethrower](https://www.youtube.com/watch?v=GS9A1JuOKE8&ab_channel=AllenPan-SufficientlyAdvanced)
+- Drawing Machine
+- Home Automations
+
+and many more!!!
+
+### Raspberry Pi projects:
+
+<img src="media/images/raspberry-pi.jpg" alt="Raspberry Pi" width="200"/>
+
+Photo owned by [robot-advance.com](https://www.robot-advance.com/EN/art-raspberry-pi-4-case-2641.htm)
+
+If you like tech projects and you want to work with a full-on computer in tiny package, you read the right section. Here you can find many raspberry pi projects to do alone or with your children.
+
+#### Projects for adults/students:
+* Use a Raspberry Pi to measure the room temperature and humidity ([Tutorial](https://www.instructables.com/Raspberry-Pi-IoT-Temperature-and-Humidity-Monitor/))
+* Raspberry Pi Radio FM Transmitter ([Tutorial](https://circuitdigest.com/microcontroller-projects/raspberry-pi-fm-transmitter)).
+* Become a professional Minecraft Pi player ([Tutorial](https://magpi.raspberrypi.org/books/essentials-minecraft-v1)).
+* Create a Raspberry Pi retro console emulator with [Retropie](https://retropie.org.uk/).
+* Build a motion capture security system using MotionEyeOS ([Tutorial](https://www.youtube.com/watch?v=og-zI0CozLs)).
+* Create Bitcoin Video Jukebox with raspberry pi ([Tutorial](https://www.youtube.com/watch?v=uUIdwVXTXRc)).
+* Create cloud storage with raspberry pi ([Tutorial](https://www.youtube.com/watch?v=FQoZuUrabok)).
+* Build a vpn server with raspberry pi ([Tutorial](https://www.pcmag.com/how-to/how-to-create-a-vpn-server-with-raspberry-pi)).
+
+#### Projects suitable for children:
+Do you want your kid to learn more about technology that just use facebook? Raspberry pi projects for children are the right choice for you.
+
+Here are some interesting projects:
+* Make Robots with rasberry pi and arduino ([Tutorial](https://create.arduino.cc/projecthub/jithinsanal1610/robotics-for-beginners-and-kids-build-your-robot-now-4b6b27))
+* Program a game using [scratch](https://scratch.mit.edu/) ([Tutorial](https://junilearning.com/blog/coding-projects/how-to-make-a-scratch-game-step-by-step/))
+
+You can also check out a variety of projects for kids at [projects.raspberrypi.org](https://projects.raspberrypi.org/en/projects)
+
+My recommendations for kids' projects from raspberrypi.org:
+* [Pac-Man treasure hunt on the terminal](https://projects.raspberrypi.org/en/projects/pacman-terminal)
+* [Balloon Pi-tay Popper](https://projects.raspberrypi.org/en/projects/balloon-pi-tay-popper)
+* [Beat the goalie](https://projects.raspberrypi.org/en/projects/beat-the-goalie)
+
+\* If this is your first time using raspberry pi with your child, we encourage you to read [Learn at home: a guide for parents #1](https://www.raspberrypi.org/blog/digital-making-at-home-parents-guide/) and [Learn at home: a guide for parents #2](https://www.raspberrypi.org/blog/digital-making-at-home-parents-guide-python/).
+
+\*\* You don't have a raspberry pi, but you want to buy one and start a project? You can [buy a raspberry pi from amazon](https://www.amazon.de/s?k=pi+4&language=en_GB&adgrpid=84986351427&gclid=Cj0KCQjwl9GCBhDvARIsAFunhsmpJd4HVuNUOEVw3RX1kIywnHUrA6O3AJadlZU4_ReP6kv28HPH3psaAud8EALw_wcB&hvadid=394689733589&hvdev=c&hvlocphy=9067699&hvnetw=g&hvqmt=b&hvrand=7715166971427816134&hvtargid=kwd-298510980949&hydadcr=27799_1817008&tag=googdemozdesk-21&ref=pd_sl_8sg80mw3d9_b) and [here](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up) you can find instructions on how to set up your raspberry pi.
+
+### Other projects
+
+* Turn your balcony into a small garden.
+* Start a wordpress blog.
+
+---
 <img align="left" width="40" height="40" src="media/icons/podcasts.jpg">
 
 ## <a name="podcasts"></a>Start listening to Podcasts
@@ -1036,135 +1116,146 @@ Source: https://www.podcastinsights.com/start-a-podcast/
 
 ---
 
-<img align="left" width="40" height="40" src="media/icons/traveler.png">
 
-## <a name="trips"></a>Plan your next trip
-Tired of daydreaming about future trips? Get hands-on and start organizing your next journey!
+<img align="left" width="40" height="40" src="media/icons/videoGames.png">
 
-You could start by selecting your travel destination. There are a lot of websites, like [Triptile](https://triptile.com/), 
-that let you plan your trip by first selecting a country or a city that you would like to visit (you could also add multiple stops to your trip)
-and then select among a number af activities that you could engage in during your trip. Triptile also recommends hotels to stay in and then
-calculates your estimated cost, depending on the days you spend on each city, the hotel room price per day and the extra activities that you have added on your trip.
+## <a name="video-games"></a>Video Games
 
-### Planning a trip in Europe
-In Europe, you have many options regarding the places you can visit. However, traveling from one country to another is relatively easy.
+Amazing video games you must try out:
 
-[Rail Europe](https://www.raileurope.com/) is a great option for adventurous people that want to have a truly memorable experience. 
-You can book tickets connecting one country to another and enjoy the beautiful European landscapes.
+* [Among Us](https://innersloth.com/gameAmongUs.php)
+* [Assetto Corsa](https://www.assettocorsa.it/home-ac/)
+* [Call of Duty: Black Ops](https://www.callofduty.com/blackops)
+* [Call of Duty: Warzone](https://www.callofduty.com/warzone)
+* [Dota 2](https://blog.dota2.com/?l=greek)
+* [Drakensang Online](https://www.drakensang.com/en)
+* [FIFA 2021](https://www.ea.com/games/fifa/fifa-21)
+* [Fortnite](https://www.epicgames.com/fortnite/en-US/home)
+* [Forza Horizon 4](https://forzamotorsport.net/en-us/games/fh4)
+* [God of War](https://www.playstation.com/el-gr/games/god-of-war/)
+* [GTA San Andreas](https://www.rockstargames.com/games/sanandreas)
+* [GTA V](https://www.rockstargames.com/V/restricted-content/agegate/form?redirect=https%3A%2F%2Fwww.rockstargames.com%2FV%2F&options=&locale=en_us)
+* [Hearthstone](https://playhearthstone.com/en-us)
+* [League of Legends](https://na.leagueoflegends.com/en-us/)
+* [Minecraft](https://www.minecraft.net/en-us/)
+* [NBA 2K21](https://nba.2k.com/)
+* [PES 2021](https://www.konami.com/wepes/2021/eu/en/ps4/)
+* [Red Dead Redemption II](https://www.rockstargames.com/reddeadredemption2/restricted-content/agegate/form?redirect=https%3A%2F%2Fwww.rockstargames.com%2Freddeadredemption2%2F&options=&locale=en_us)
+* [World of Warcraft](https://worldofwarcraft.com/en-us/)
+* [Vendetta Online](https://www.vendetta-online.com/)
 
-Do you want to explore Europe on a ship? There are many companies offering cruises in the European seas. For those that prefer a luxurius trip, [Celebrity Cruises](https://www.royalcaribbean.com/european-cruises)
-offers a wide range of different cruise packages, from the Mediterranean to the Baltic sea. 
+You can buy amazing video games for Windows, Mac and Linux computers in the following online stores:
+* [Battle.net](https://eu.shop.battle.net/en-gb)
+* [Epic Games Store](https://www.epicgames.com/store/en-US/)
+* [Good Old Games (GOG)](https://www.gog.com/)
+* [Origin](https://www.origin.com/irl/en-us/store)
+* [Steam](https://store.steampowered.com/)
+* [Ubisoft Store](https://store.ubi.com/ie/home)
+
+The stores above usually feature deals and discounts on specific games. In order to be informed about the best current deals about a specific game, check out [IsThereAnyDeal](https://isthereanydeal.com)!
 
 ---
 
-<img align="left" width="40" height="40" src="media/icons/library.png">
 
-## <a name="erasmus"></a>Plan your Erasmus
-An Erasmus exchange is a great way to step out of your comfort zone. Specifically, you will get a taste of living abroad, make valuable new connections from all over the world,
-improve a foreign language or two, experience university life in a foreign institution and most importantly have the time of your LIFE!
 
-<img src="media/images/erasmus.jpg" alt="erasmus" width="500"/>
+<img align="left" width="40" height="40" src="media/icons/video.png">
 
-Start by visiting the [university page](https://www.dept.aueb.gr/el/dmst/content/%CF%80%CF%81%CF%8C%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1-erasmus), which includes lots of information
-about the procedure and the available destinations. Before you decide on your top 3 destinations, it is recommended to write down the pros and cons of all the
-universities you are interested in. In case you need more information on a university or country you can check [this facebook group](https://www.facebook.com/groups/2069463463353183)
-and the [ESN AUEB page](https://www.facebook.com/ESNAthensAUEB), where you can ask to be connected to students with erasmus experiences in the universities that you are interested in.
-Lastly, you can also check [this video](https://www.youtube.com/watch?v=IilqhLVRP6U&t=3s&ab_channel=LosAngie) in order to get more information on how to apply for an erasmus exchange.
+## <a name="videomaking"></a> Video Making
+Creating videos is a very fun and creative way to spend your time during lockdown(s) and who knows, you might as well make some money! Below you can find some interesting ideas to start with:
 
-Photo owned by [ied.eu](https://ied.eu/blog/the-erasmus-plus-programme/)
+- Create short films. (More [here](https://www.filmmakingstuff.com/filmmaking-lesson-8-make-some-short-films/)).
+- Create tiktok videos. (More [here](https://www.tiktok.com/?lang=en)).
+- Start vlogging. (More [here](https://nofilmschool.com/how-to-start-vlogging)).
+- Start live streaming. (More [here](https://www.boxcast.com/blog/how-to-start-live-streaming)).
+- Start a youtube channel. (More [here](https://www.adorama.com/alc/10-tips-for-starting-a-youtube-channel/))
+
+Section icon owned by [freepik](https://www.freepik.com/).
 
 ---
-<img align="left" width="40" height="40" src="media/icons/coding.png">
 
-## <a name="coding-projects"></a>Coding Projects
+<img align="left" width="40" height="40" src="media/icons/vr.png">
 
-<img align="left" width="40" height="40" src="media/icons/python.jpeg">
+## <a name="trips-tours"></a>Virtual Tours-Trips
+Tired of sitting at home?
+Why don't you take a virtual tour via **youtube**?
 
-### **Python**
+[Come and relax on youtube's virtual trips now!](https://www.youtube.com/watch?v=2Qcf1K3hP2g)
 
+Do you want to drive around your favourite cities while listening to their local radios?
+If yes, then you should definitely try the [Drive & Listen APP](https://driveandlisten.herokuapp.com/?fbclid=IwAR2jQV27oRk5A4UmCgGNEKwu2JXxDCuqm-6sqKrmLalAnO2N7bjXGVgcnhg)!
 
-* Rock, Paper, Scissors Game
+Take a look at any country from a drone's perspective! If you prefer exploring a country from above, visit [Fly & Listen](http://flyandlisten.com/?fbclid=IwAR2uuxF_Xd0vKNfpXIlh9N5f4nItuzQ-Lbhbj4WpC4CMWHgKd-EeVrYlvwg). You can choose
+a destination, pick a local radio station and enjoy your virtual trip. Fly and listen offers you a great variety of places to visit and a lot of different options regarding the local radio station. You are free to pick your favorite, sit back and relax!
 
-A simple python program to test your skills. Try developing it as a player vs computer game in the beginning. Skills used: Learn how to use while loops and if statements
+Due to the Covid-19 pandemic museums remain closed. Don't worry, art lovers!
 
-* Build a Twitter Bot
+You can have a look on the [online exhibition](https://www.vangoghmuseum.nl/en) offered by the Vincent van Gogh Museum in Amsterdam.
 
-You can make a program that helps you engage your audience while studying or working on other projects! You will have to sign up as a Twitter developer, but dont worry, it is not that difficult.
+Some of us are _bored in the house-in the house bored_!
 
-* Alarm Clock
+[WindowSwap](https://www.window-swap.com/) is a quarantine project which gives you the opportunity to enjoy the view from windows around the world!
 
-Creating an alarm clock is a cool way of demonstrating your coding skills. To begin with, create a program that sends a notification at a designated time. Afterwards, you can add functionality, like music or videos.
+---
 
-* Typing Test
+<img align="left" width="40" height="40" src="media/icons/walk.png">
 
-Create a python program with a complete GUI, that gives you a random sentence, and tests your typing speed. It is an advanced project but you can learn a lot about design.
+## <a name="walks"></a>Walks in Town
+Here a some sights and places which are definitely worth to make a walk at: 
 
+### Athens
 
-Source : https://careerkarma.com/blog/python-projects-beginners/
+<img src="media/images/athens.jpg" alt="Athens" width="500"/>
 
-<img align="left" width="40" height="40" src="media/icons/java.jpg">
+Photo owned by [greeking.me](https://greeking.me/blog/visiting-athens/item/88-50-things-to-do-in-athens)
 
-### **Java**
+* Climb to the Acropolis ([map](https://g.page/acropolis-bnb?share))
+* Take a walk to the Likavitou hill ([map](https://goo.gl/maps/9XdfRDUmPeepZp2W6))
+* Run around the Philopappos monument ([map](https://goo.gl/maps/qkz8KnM6fjswxCx46))
+* Stroll around in the harbour of Piräus ([map](https://g.page/acropolis-bnb?share))
+* Go walk at Stavros Niarchos Foundation Cultural Center ([map](https://goo.gl/maps/T1bH1XBxXFDUxyLR9))
+* A walk in Sygrou Park ([map](https://goo.gl/maps/Ae1pVnMKBdSEHfMQ9))
+* Walk alongside Illissos river in Kallithea ([map](https://goo.gl/maps/zJaYh1aShCi9jkr68))
+* Explore Plaka alleys and reach Anafiotika and Monastiraki ([map](https://goo.gl/maps/QY2uGpjgaqKiTGDA7))
+* Walk from Monastiraki all the way to Thisio ([map](https://goo.gl/maps/uqFYkQhrpb8Cjabh7))
+* Walk around the National Garden in the city centre ([map](https://goo.gl/maps/UcS2wfVs5EeSfSHJ8))
+* Go on a mountain hike in Mount Ymittos ([map](https://goo.gl/maps/srLnLmzefot26tiE9))
+* Walk around Koukaki neighbourhood ([map](https://goo.gl/maps/DErjSLYHLUyi3AdYA))
+* Take a walk to Flisvos Marina ([map](https://www.google.com/maps/place/%CE%9C%CE%B1%CF%81%CE%AF%CE%BD%CE%B1+%CE%A6%CE%BB%CE%BF%CE%AF%CF%83%CE%B2%CE%BF%CF%85/@37.9311938,23.682856,17z/data=!3m1!4b1!4m5!3m4!1s0x14a1bc1061760f69:0x814330c59b77c2ac!8m2!3d37.9311938!4d23.6850447))
+* Hiking at the Tatoi Royal Estate ([map](https://www.google.com/maps/search/Tatoi+Royal+Estate/@38.1584415,23.785362,15z/data=!3m1!4b1))
+* Have a picnic in Eleftherias Park ([map](https://www.google.com/maps/place/%CE%A0%CE%AC%CF%81%CE%BA%CE%BF+%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%B5%CF%81%CE%AF%CE%B1%CF%82,+%CE%91%CE%B8%CE%AE%CE%BD%CE%B1+115+21/@37.980496,23.7532421,15z/data=!4m5!3m4!1s0x0:0x15ddf444020efbf!8m2!3d37.980496!4d23.7532421))
 
+### Thessaloniki
 
-* Temperature Converter Tool
+<img src="media/images/thessaloniki.jpg" alt="Thessaloniki" width="500"/>
 
-This is a simple project to help you practice your Java skills. It just requires the basic mathematic skills that will help you build the logic of the program. 
-Tip: you can use the javafx package to build the tools interface.
+Photo owned by [discovergreece.com](https://www.discovergreece.com/macedonia/thessaloniki)
 
-* Percentage Calculator
+* Ladadika port ([map](https://goo.gl/maps/YDaDSL5Mi1fC69wC7))
+* Seih Sou forest ([map](https://goo.gl/maps/iK8rm1ogkinfoP7d6))
+* The Roman Forum and Agios Dimitrios Church ([map](https://goo.gl/maps/Shdhy5KCwZGaVC716))
+* Tsimiski Street ([map](https://goo.gl/maps/HUyptTX7PFwYESXS6))
+* Along the waterfront ([map](https://goo.gl/maps/Z2pXgpZxiUaJ9nF47))
+* Aristotelous square ([map](https://goo.gl/maps/wLecvCpb8Z6j3sMS8))
+* White Tower ([map](https://goo.gl/maps/6Gr19cabE4eZsLKRA))
+* Navarino square ([map](https://goo.gl/maps/vs5Fe3jtGUTvhr7E7))
+* Upper town and Eptapyrgio ([map](https://goo.gl/maps/4h8NoDRA9HPF5oUUA))
+* Western wall ([map](https://goo.gl/maps/vHeqWpBXy4Yrczrf8))
+* Axios Delta National Park ([map](https://goo.gl/maps/5e696rGw7pz9jzSEA))
 
-This is another great project to help you develop your coding skills and it uses basic Java concepts. The user just inserts the value and the calculator returns the matching percentage.
-The javafx package will help you build the interface.
+### Patras
 
+<img src="media/images/patra.jpg" alt="Patra" width="500"/>
 
-Source: https://data-flair.training/blogs/java-project-ideas/
+Photo owned by [zoogla.gr](https://www.zougla.gr/greece/article/i-patrini-gourou-ton-drones-mas-dixnoun-tin-patra-opos-tin-vlepoun-i-aeti)
 
-<img align="left" width="40" height="40" src="media/icons/react.png">
+* Run around Patras' lighthouse ([map](https://www.google.com/maps/place/%CE%A6%CE%AC%CF%81%CE%BF%CF%82/@38.24507,21.723487,17z/data=!3m1!4b1!4m5!3m4!1s0x135e49daf92b49dd:0xdb80e6e11329275b!8m2!3d38.24507!4d21.7256757))
+* Explore South Park ([map](https://www.google.com/maps/place/%CE%9D%CF%8C%CF%84%CE%B9%CE%BF+%CE%A0%CE%AC%CF%81%CE%BA%CE%BF+%CE%A0%CE%AC%CF%84%CF%81%CE%B1%CF%82/@38.234853,21.7222076,17z/data=!3m1!4b1!4m5!3m4!1s0x135e362f6b19261b:0x7f2023f2baff8160!8m2!3d38.234853!4d21.7243963))
+* Walk around patras' plage park ([map](https://www.google.com/maps/place/%CE%A0%CE%AC%CF%81%CE%BA%CE%BF+%CE%A0%CE%BB%CE%B1%CE%B6/@38.280133,21.7436127,17z/data=!3m1!4b1!4m5!3m4!1s0x135e499674859c5d:0x8c4e8a5324cc7749!8m2!3d38.280133!4d21.7458014))
+* Walk around in the port area ([map](https://www.google.com/search?tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=ALeKk00CdZZzhv0AYhne4GN6JjWQ5xDyLA:1616521399540&q=%CE%BB%CE%B9%CE%BC%CE%B1%CE%BD%CE%B9+%CF%80%CE%B1%CF%84%CF%81%CE%B1%CF%83&rflfq=1&num=10&ved=2ahUKEwj8-qm--8bvAhUtAWMBHd5XBhoQtgN6BAgBEAc#rlfi=hd:;si:;mv:[[38.2289136,21.7223068],[38.2138512,21.719319499999997]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3,lf:1,lf_ui:2))
+* Walk alongside a patras' beach. [See all patras' beaches in the map.](https://www.google.com/search?tbs=lf:1,lf_ui:1&tbm=lcl&sxsrf=ALeKk02rgnIi8Y5qwuvlA3J3QMbb-wIFxA:1616521647696&q=patras+beaches&rflfq=1&num=10&ved=2ahUKEwjBlNS0_MbvAhWJlqQKHQwnD_gQtgN6BAgyEAc)
+* Explore Patras Mycenaean Park-Voundeni [(map](https://www.google.com/maps/place/%CE%9C%CF%85%CE%BA%CE%B7%CE%BD%CE%B1%CF%8A%CE%BA%CF%8C+%CE%9D%CE%B5%CE%BA%CF%81%CE%BF%CF%84%CE%B1%CF%86%CE%B5%CE%AF%CE%BF+%CE%92%CE%BF%CF%8D%CE%BD%CF%84%CE%B5%CE%BD%CE%B7%CF%82/@38.252451,21.7826245,15z/data=!4m2!3m1!1s0x0:0xeff6c71133ac1c90?sa=X&ved=2ahUKEwiDj6qY-8bvAhXT8eAKHc4yChQQ_BIwG3oECCkQBQ))
 
-### **React**
-
-* Realtime Chat App
-
-Real-world examples: Slack, Messenger, Discord, Crisp Chat
-
-All of us use some kind of a realtime chat app in our daily life, you can also experiment with creating a widget within a website so that customers can directly talk to the site owners.
-
-All chat apps allow users to send messages in real-time, to react to messages and to show when a user is online or offline.
-
-> How to build a realtime chat app:
-> * Build your project with create-react-app or Next.js
-> * Use a service like Firebase or GraphQL subscriptions for messages
-> * Add reactions to message with emoji with the npm package emoji-mart
-> * Deploy to the web using Firebase Tools
-
-* Social media app
-
-It is similar to a chat app, but with a larger community of users and wider functionality. The users can interact in different ways. They can follow one another, add media to share with others, and interact with liking or commenting posts.
-
-> How to build a social media app:
-> * Build the frontend with create-react-app and the backend using Node API
-> * For a database, use Postgres or MongoDB, alongside an ORM like Prisma or Mongoose
-> * Use social authentication using Passport or a simpler service like Auth0
-> * Deploy backend to Heroku, frontend to Netlify
-
-* Video Sharing app
-
-Real-world examples: Youtube, TikTok, Snapchat
-
-One of the most broad categories of apps, that can be integrated in a site like Youtube with a browser to search for videos or like a messaging app eg. Snapchat.
-
-> How to build a video sharing app:
-> * As you might know by now, use create-react-app and Node
-> * Use Cloudinary for image and video uploads to the Cloudinary API
-> * Use Postgres or MongoDB
-> * Deploy to Heroku, frontend to Netlify
-
-* Music Streaming App
-
-React applications are perfect for streaming video content, aswell as music. Music apps have a similar structure to video sharing apps and they may or may not allow the user to upload their own music. You can listen to a song, comment on it, or even purchase it. Try to combine elemnts of a video sharing service and of an e-commerce app.
-
-Source : https://www.freecodecamp.org/news/react-projects-you-should-build-this-year/
+Sources: [thebest.gr](https://www.thebest.gr/article/412935-), [tripadvisor](https://www.tripadvisor.com/Attractions-g189488-Activities-c47-t76-Patras_Achaea_Region_West_Greece.html)
 
 ---
 
@@ -1204,110 +1295,32 @@ Source for youtube links: https://blog.feedspot.com/car_youtube_channels/
 
 ---
 
-<img align="left" width="40" height="40" src="media/icons/cocktail.png">
 
-## <a name="cocktails"></a> Cocktail Adventures!
-Let's be honest, Covid-19 pandemic and its several back-to-back lockdowns have been harsh for the most of us. Being in front of a screen for hours, unable to get in physical touch with our beloved ones and having our favorite restaurants and bars closed is an everyday struggle. After all that, the need to pour a glass (or two) of wine before bedtime comes naturally. 
+<img align="left" width="40" height="40" src="media/icons/pen.png">
 
-So, we are here to just say that we understand and that it's time to level up the game; Cocktail adventure nights! Do you want to advance you bartender skills or feel like a little kid again? Well, as you discover new tasty horizons and mix up your favorite ingredients, the art of mixology will start to unfold and we promise you to enjoy those lockdown days as they are passing by. 
+## <a name="writing"></a> Writing
+Writing is a skill that I consider to be underestimated. Written communication is everywhere around us; in emails, articles or even in remote work where slack messages are the default form of communication.
+There are many types of content produced by writing, like for example:
+- Novels
+- Short stories
+- Academic papers
+- Personal journals: Here are some journaling prompts to help your reflection journey:
+	- What are the 3 biggest lessons you've learned over the last year?
+	- Write down 10 things no one knows about you.
+	- Close your eyes and take yourself on your favourite walk. What do you observe?
+	- What is a resolution you made in January that you have let slip? How can you pick it back up?
+	- What gives you hope for the rest of this year? Why is 2021 a good one?
+	- What are your 10 favourite things about yourself?
+	- Look around your room. What are you grateful for today in the ordinary?
+- Technology documentations
+- Blog posts
+- And the list goes on
 
-### Organize your space.
-First things first; Before you start your mixing experiments, you need to set up your working station. There are not many things requiered for that, just the basic bar essentials and spirits of your preference.  
-- Bar tool essentials: 
-  1. Bar Spoons. You may already have some long-handle teaspoons but if you don't, you can find them [here](https://www.amazon.com/Hiware-Stirring-Stainless-Cocktail-Pattern/dp/B01EL7NAYU/ref=sr_1_9?keywords=bar+spoons&qid=1567433894&s=gateway&sr=8-9).
-  2. Bottle opener & corkscrew. We are pretty sure everyone has at least one bottle opener of any kind. [Here](https://www.amazon.com/WHELVE-Mounted-Magnetic-Functional-Upcycled/dp/B07NQRGVTR/ref=sr_1_19_sspa?keywords=wall+mounted+bar+bottle+opener&qid=1567439614&s=gateway&sr=8-19-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQlU3VFdCSTJUT1E0JmVuY3J5cHRlZElkPUEwMTc3NjgzMVRYV0VQWFJVSjIxWCZlbmNyeXB0ZWRBZElkPUEwNDk1MjY2M1FHM0hTV0ZPM0VFVSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) is an extra idea if you are looking for something new.
-  3. Cocktail shaker. Maybe the most important thing in a bar. For your homemade cocktails you probably won't need more than one shaker, which you can purchase [here](https://www.amazon.com/Boston-Cocktail-Shaker-Unweighted-Professional/dp/B07QFT835K/ref=sr_1_7?keywords=bar+cocktail+shaker&qid=1567440752&s=gateway&sr=8-7).
-  4. Cocktail strainer. If your cocktail shaker doesn’t come with a built-in strainer, you’ll definitly need one of these to create cold ice-free drinks. We suggest something stainless like [this](https://www.amazon.com/Hawthorne-Cocktail-Strainer-Professional-Mixologists/dp/B06WGNF3SX/ref=sr_1_4?keywords=bar+cocktail+strainer&qid=1567441714&s=gateway&sr=8-4).
-  5. Cutting board. That's an easy one too. Most kitchens are equipped with a wooden cutting board, but [here](https://www.amazon.com/Cutting-Board-Food-Prep-Restaurantware/dp/B075S5CX16/ref=sr_1_6?keywords=bar+cutting+board&qid=1567433589&s=gateway&sr=8-6) is a fresh suggestion to cut your cocktail garnishes. With a cutting board you provide your bar not only a hygienic and safe surface for cutting, but also you can avoid making a mess to your kitchen.
-  6. Ice crusher. It's a must when making cold cocktails. Having an ice crusher is the ideal way to crush ice to the right consistency for your signature cocktails. [This one](https://www.amazon.com/Time-Treats-Iceberg-crusher-white/dp/B087VJ13WB/ref=sr_1_1?_encoding=UTF8&c=ts&dchild=1&keywords=Blenders+%26+Ice+Crushers&qid=1616503456&s=kitchen&sr=1-1&ts_id=289732) is portable and doesn’t take up much room. Alternatively, you can buy crushed ice, however this can increase your budget.
-  7. Jigger. It is not as necessary as one might think, because the more cocktails you make the more familiar you become with the liquid doses. However, if you want to get some jiggers as a beginner mixologist or to be more professional one, then [this set](https://www.amazon.com/CucinaPrime-Cocktail-Jigger-Stainless-Steel/dp/B00VCBM4TQ/ref=sr_1_11?keywords=jigger&qid=1567444723&s=gateway&sr=8-11) is what you are looking for.
-  8. Muddler. Your homemade bar requires a muddler,[like this](https://www.amazon.com/Extra-Long-Cocktail-Muddler-Professional/dp/B07DMFH8SF/ref=sr_1_1_sspa?keywords=muddler&qid=1567433016&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzRU5SODNEUTJQVThUJmVuY3J5cHRlZElkPUExMDM0ODMyTzFJVTJXMEVCM0ZSJmVuY3J5cHRlZEFkSWQ9QTA0ODY0MjgzSDVJMUFCNFJZQTExJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) if you want to bring out the aromatics of herbs and spices so that their flavors are released and infused into your cocktails.
-  9. Rimmer. If you’re making margaritas and other drinks that require a rimmed glass edge, for a low budget you can always use a plate filled with salt or sugar, but [here](https://www.amazon.com/Greenco-Glass-Rimmer-Margarita-Cocktail/dp/B016YM64JI/ref=sr_1_15?keywords=rimmer+for+bar&qid=1567448578&s=gateway&sr=8-15) is a more professional option.
-  10. Proper kind of glasses. Last but not least, your bar will need the specific glasses to pour your creations, like Coupe Glasses, Single & Double Rocks Glasses, Highball & Collins Glasses, Nick & Nora Glasses and of course Shot glasses. Our suggetion is, if you don't have any of this kinds, to purchase just a pair of each and get more as your cocktail adventures proceed.[Here are the types of Cocktail Glasses You Actually Need](https://nymag.com/strategist/article/best-cocktail-glass-types.html).
+Writing is most often a solitary activity, except for people who like to write in cafe's. The ongoing lockdown is a great opportunity to start practicing writing. I will kick it off with one important tip that I've found to be helpful whenever I'm writing something for other people to read.
 
-- Bar spirit essentials:
-  1. Rum: Its sweeter flavor makes it one of the more versatile spirits. It was among the first liquors to be mixed into drinks, so there are some excellent classic rum cocktails to choose from. It is the obvious base for tropical drinks and appears in several warm cocktails.
-  2. Whiskey - Bourbon: It mixes well with other liquors to create complex drinks, and it pairs well with many fruits, particularly the darker fruits. Warm drinks are also very popular with whiskey.
-  3. Tequila: It has a great flavor profile that mixes well into a variety of cocktails. There are, of course, the margaritas and frozen cocktails in which tequila is mixed with any fruit imaginable. It also makes a perfect base for spicy cocktails and is very popular for party shots.
-  4. Brandy: It's popularly featured in several classic cocktails and tends to be used in drinks that include just a few ingredients. However, many modern brandy recipes break this mold and experiment with brandy in some unique flavor combinations.
-  5. Gin: Gin's dry profile makes it a perfect candidate for dry (non-sweet) cocktails, including many classics and martinis. It is a nice base for cocktails and pairs well with lighter mixers, fruits and naturally works well with herbs.
-  6. Vodka: Its neutral taste makes it the most versatile spirit available today. Vodka cocktails include almost every imaginable flavor profile, from sweet to savory, fruits to herbs, and spices to sparkling mixers.
-  7. Dry and Sweet Vermouth: Dry vermouth is famously used to make martinis and is dry and floral. Sweet vermouth is sweet, spiced, and herbal, and is used in cocktails like Manhattans and negronis.
-  8. Amaretto: It is very adaptable, mixing with a variety of flavors, from fruits to coffee and cinnamon to ginger. Amaretto is found in creamy cocktails, adds a sweet touch to martinis, and gives a nice depth to fruity highballs.
-  9. Campari: It is commonly served with soda water or citrus juice, or with prosecco as a spritz. Campari is an essential ingredient in the classic Negroni cocktail, the Garibaldi, the Americano and the spritz (an aperitif popular in northern Italy).
-
-- Bar Non-Alcoholic Essentials:
-  1. Ice! Yeap, you're going to use lots of it, so you better stock your freezer before you get started with your cocktail experiments.
-  2. Juices: Most common used are lemon, lime, orange and cranberry/strawberry juice. For more tropical cocktails you may want to have pineapple juice or coconut cream/milk. Of course don't forget tomato juice as it is essential for making Bloody Mary.
-  3. Sodas: Club soda, Tonic Water, Ginger Ale, Cola. The list is simple and includes the basics that you are likely to encounter in recipes.
-  4. Bitters: It is amazing what a dash or two of bitters can do to the flavor of almost any cocktail. To start, you'll find that aromatic and orange bitters are used most often and a bottle of each can last years.
-  5. Simple Syrup: Sugar and water, that's it. This is the best way to sweeten cocktails and it's incredibly simple to make yourself.
-  6. Grenadine: That famous red syrup, it's essential for many great drinks. You can buy or make this one yourself.
-  7. Garnishes: lime, lemon, orange and any other fruit slices you prefer, cinnamon sticks to add flavor to any cocktail especially warm ones, mint and DO NOT forget to stock salt and sugar (extra tip: try adding brown sugar) 
-
-
-Sources: [glimpose.blog](https://www.glimpsecorp.com/bar-tools-and-equipment-and-their-uses/), [the spruce eats](https://www.thespruceeats.com/essential-distilled-spirits-and-mixers-760741)
-
-### Get to action: Basic cocktails To Try
-
-<img src="media/images/cocktails.jpg" alt="Cocktails" width="500"/>
-
-photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/) 
-
-
-|Name| Primary Alcohol | How to make | 
-|---| ---| ---| 
-| Mojito| Rum | [video](https://www.youtube.com/watch?v=KWU9ZaWbeuQ)|
-| Manhattan| Whiskey| [video](https://www.youtube.com/watch?v=TFWPtkNoF4Y)|
-| Martini| Vodka or Gin| [video](https://www.youtube.com/watch?v=hiQ57jbFY5s)|
-| Margarita| Tequila| [video](https://www.youtube.com/watch?v=lNwNvq8Kxl8)|
-| Negroni| Gin, Sweet Vermouth, Campari| [video](https://www.youtube.com/watch?v=nh_3suGRbN8)|
-| Daiquiri| Rum| [video](https://www.youtube.com/watch?v=ofwTyfKo8Mg)|
-| Pina Colada| Rum| [video](https://www.youtube.com/watch?v=-wea2usJIAA)|
-| Bloody Mary| Vodka| [video](https://www.youtube.com/watch?v=rpEzoWNbgSk&t=2s)|
-| Cosmopolitan| Vodka| [video](https://www.youtube.com/watch?v=TnkMtoDNgxE)|
-| White Russian| Vodka and coffe | [video](https://www.youtube.com/watch?v=Z0zqXFpuolw)|
-
-<img src="media/images/drink.jpg" alt="Drink responsibly">
-
-Image source: https://www.talkingretail.com/products-news/alcohol/new-formula-1-campaigns-heineken-09-09-2016/
+__Editing__ and __Writing__ are not the same thing. Whenever you write something, leave it for a few hours or maybe a few days. And then come back to it as an __editor__ to find ways to make it more captivating and understandable for the readers.
 
 ---
-
-<img align="left" width="40" height="40" src="media/icons/grass_icon.png">
-
-## <a name="outdoor_activities"></a>Outdoor Activities with Friends
-
-It's corona time for sure but that doesn't mean you can't spend quality time with your friends outside.
-
-Get two friends who you live close to and arrange a fun activity to do together. Make sure you respect the COVID-19 mesures and stay safe.
-
-* __Hoops__
-
-   Remember when as kids we used to run around all the time and actually played games like basketball, volleyball and football? 
-
-   Going for hoops with a friend or two will get your spirits up (without tiring you much) and definately make you feel nostalgic of your childhood.
-
-* __Cycling__
-
-   Spring is officially here and days are getting longer and longer. Enjoy the beautiful golden hour with a friend and a bike. You can explore every street of your neighborhood and even go further than that.
-
-* __Roller Skating__
-
-   Similar to cycling but a bit more fun, maybe. Even if you can't balance properly, you and your friend will surely have lots of laughs with your falls.
-
-* __Jogging__
-
-   If you'd like to exercise but can't find the motivation to do so, try with a friend. Go jogging together at a slow pace and watch each other getting fitter and fitter everyday.
-
-* __Setting goals__
-   
-   Have a chat with your friend and see what you'd like to have achieved in the next year. Set common goals and discuss your progress every week. Try to motivate each other. 
-   
-   This guide offers many suggestions for what those goals could be about.
-
----
-
 
 <img align="left" width="40" height="40" src="media/icons/trippy.jpg">
 
