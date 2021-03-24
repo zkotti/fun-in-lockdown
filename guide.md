@@ -304,6 +304,11 @@ If you are not in the mood for alcohol, be sure to try these non-alcoholic cockt
 | Pinapple & Lime Mocktail | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/shine-light) |
 | Drivers' punch | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/drivers-punch) |
 | Pomegranate Mojito Mocktail | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/pomegranate-mojito-mocktail) |
+| Shirley Temple | Easy | [Get the recipe here](https://www.delish.com/cooking/recipe-ideas/a29813919/shirley-temple-drink-recipe/) |
+| Popsicle Punch | Easy | [Get the recipe here](https://www.delish.com/cooking/recipe-ideas/a22805581/popsicle-punch-recipe/) |
+| Moscow Mule Mocktail | Easy | [Get the recipe here](https://themerrythought.com/diy/moscow-mule-mocktail/) |
+| Citrus Strawberry Mocktail | Easy | [Get the recipe here](https://www.playpartyplan.com/citrus-strawberry-mocktail-recipe) |
+| Blueberry Maple Mojito | Easy | [Get the recipe here](https://www.healthyrecipeecstasy.com/blueberry-maple-mojito-mocktal-gender-reveal/) |
 
 <img src="media/images/drink.jpg" alt="Drink responsibly">
 
