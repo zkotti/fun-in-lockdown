@@ -632,6 +632,17 @@ Here are some of the vegetables that you can begin with!
 | Tomatoes  | 65-85  | 	 A, C, K, and B6|	Tender | Twice a week |
 | Potatoes  | 90-120  | 	B6 and C|	Half-hardy | Regularly, when tubers start to form |
 
+Easy-to-grow plants
+
+| PLANT NAME | PLANT TYPE | BLOOM TIME | SUN EXPOSURE | LINK |
+|---|---|---|---|---|
+|Pothos| Vine | Doesn't bloom | Full sun, partial shade | [More info](https://www.thespruce.com/pothos-an-easy-to-grow-houseplant-1403154)|
+|Chinese Evergreen| Herbaceous perennial | Spring, summer | Partial shade, full shade | [More info](https://www.thespruce.com/grow-aglaonema-houseplants-1902734)|
+|Jade Plant| Succulent | Spring | Full sun | [More info](https://www.thespruce.com/grow-jade-plants-indoors-1902981)|
+|Asparagus Fern| Annual, houseplant | Summer | Indirect light (indoors); part sun (outdoors) | [More info](https://www.thespruce.com/grow-asparagus-ferns-1902714)|
+|Chinese Money Plant | Evergreen perennial | Spring |  Bright indirect light | [More info](https://www.thespruce.com/growing-pilea-peperomioides-5090425)|
+|Yucca | Herbaceous perennials | Mid-summer to early fall | Full sun or bright, indirect sun | [More info](https://www.thespruce.com/grow-yucca-inside-1902500)|
+
 Photo owned by [kellogggarden.com](https://www.kellogggarden.com/wp-content/uploads/2017/07/Leafy-Vegetable-Garden.jpg)  
 Icon source: [thenounproject.com ](https://thenounproject.com/term/gardening/) 
 
