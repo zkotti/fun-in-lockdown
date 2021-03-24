@@ -736,6 +736,16 @@ There are 3 major guitar types:
 
 Source: https://www.artistguitars.com.au/buying/how-to-choose-a-guitar-in-2-simple-steps
 
+### You want to learn guitar?
+
+Here you can see some useful videos to start learning!
+
+[10 easy pieces for beginners](https://youtu.be/cd62yluRmsc/)
+[10 best and easy riffs for beginners](https://youtu.be/7PxvFRFIFFg/)
+[5 basic rythms in Guitar](https://youtu.be/f-tJjTIZvWI/)
+[How to find the rythm of a song](https://youtu.be/OcPL-iFbKUI/)
+[The most important rythm in guitar](https://youtu.be/RYVQ4SDbPWc/)
+
 #### Piano
 
 <img src="media/images/piano.jpg" alt="Piano" width="400"/>
