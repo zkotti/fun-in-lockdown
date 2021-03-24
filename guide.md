@@ -1268,6 +1268,13 @@ photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/
 Image source: https://www.talkingretail.com/products-news/alcohol/new-formula-1-campaigns-heineken-09-09-2016/
 
 ---
+
+### If you are bored to do any of the above just watch those trippy gifs and time will past fast
+
+<img src="https://media1.tenor.com/images/a3c16b22b8376099408926ee11672a14/tenor.gif?itemid=5424822" />
+
+---
+
 <img align="left" width="40" height="40" src="media/icons/warning-shield.png">
 
 ## <a name="note"></a>Note : Before you head outside
