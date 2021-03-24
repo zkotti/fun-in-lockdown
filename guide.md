@@ -1273,7 +1273,7 @@ Image source: https://www.talkingretail.com/products-news/alcohol/new-formula-1-
 
 ---
 
-<img align="left" width="40" height="40" src="media/icons/trippy.gif">
+<img align="left" width="40" height="40" src="media/icons/trippy.jpg">
 ## <a name="trippygifs"></a> Trippy Gifs!
 
 If you are bored to do any of the above just watch those trippy gifs and time will pass
