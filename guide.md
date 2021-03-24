@@ -243,6 +243,8 @@ Below, you can find information about certain processes every bartender should k
 * [Work with ice in different ways](https://www.youtube.com/watch?v=Rnd_tOFrSW0&list=WL&index=2)
 * [Stir like an expert](https://www.youtube.com/watch?v=4c71fnMpFNE&list=WL&index=1)
 
+Sources: [Absolut](https://www.absolutdrinks.com/en/learn/)
+
 ### Get to action: Basic cocktails To Try
 
 <img src="media/images/cocktails.jpg" alt="Cocktails" width="500"/>
