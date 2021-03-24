@@ -927,6 +927,7 @@ Online courses:
 |Introduction to Machine Learning|25 hours|Free|Duke|Intermediate |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/learn/machine-learning-duke "Introduction to Machine Learning")|
 =======
 |Digital Marketing|  23.5 Hours | 14.99 | - | Beginner | English | [Udemy](https://www.udemy.com/) | [COURSE](https://www.udemy.com/course/learn-digital-marketing-course/)|
+|E-commerce - Shopify | 5 Hours | 12.99 | - | Beginner | English | [Udemy](https://www.udemy.com/) | [COURSE](https://www.udemy.com/course/make-money-become-a-shopify-expert-from-zero-to-hero/)|
 |Introduction to Machine Learning|25 hours|Free|Duke|Intermediate |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/learn/machine-learning-duke "Introduction to Machine Learning")|
 |Introduction to Psychology|15 hours|40/month|Yale|Beginner |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/learn/introduction-psychology "Introduction to Psychology")|
 |Photoshop | 14 Hours | 16.99 | - | Beginner | English | [Udemy](https://www.udemy.com/) | [COURSE](https://www.udemy.com/course/photoshop-cc-masterclass/)|
