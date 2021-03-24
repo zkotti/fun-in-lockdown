@@ -19,6 +19,8 @@ Do you have any ideas about an existing category? Share them under the specific 
 
 When adding content, don't hesitate to be as thorough as possible. In that way you can inspire others and inform them about all the different ways they can have fun!
 
+Don't forget to add the required references to your content.
+
 ## Add media
 
 Do you think that the content is fun, but the appearance isn't ? Add images or videos and create beautiful content for everyone to see.
