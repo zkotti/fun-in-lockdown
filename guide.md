@@ -118,6 +118,7 @@ Photo owned by [elearningindustry.com](https://elearningindustry.com/top-10-book
 |21 Lessons for the 21st Century | Non-Fiction | Yuval Noah Harrari | Amazon | 9/10 | [Link](https://www.amazon.com/gp/product/B079WM7KLS/ref=dbs_a_def_rwt_bibl_vppi_i1)|
 |Algorithms to Live By: The Computer Science of Human Decisions | Non-Fiction | Brian Christian & Tom Griffiths | Amazon | 9.5/10 | [Link](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)|
 |Atlantis | Historical Novel | David Gibbins | Amazon| 10/10| [Link](https://www.amazon.com/gp/product/0755324226/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0755324226&SubscriptionId=1MGPYB6YW3HWK55XCGG2) |
+|Chaos| History & Science | James Gleik | bookstores | 7/10 | [Link](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453) |
 |Crime and Punishment| Crime fiction | Fyodor Dostoevsky | Amazon| 9/10| [Link](https://www.amazon.com/Crime-Punishment-Volokhonsky-Translation-Classics/dp/0679734503/ref=sr_1_1?crid=2ECOFGIAH7E7F&dchild=1&keywords=crime+and+punishment&qid=1616082855&sprefix=crime+and%2Caps%2C312&sr=8-1)|
 |Factfulness | Non-Fiction | Hans Rosling | Amazon | 9/10 | [Link](https://www.amazon.com/Factfulness-Reasons-World-Things-Better/dp/1250123828/ref=sr_1_1?crid=AWTNDRHKCZMH&dchild=1&keywords=factfulness&qid=1616416120&s=books&sprefix=factful%2Cstripbooks-intl-ship%2C266&sr=1-1)|
 |Homo Deus: A Brief History of Tomorrow | Non-Fiction | Yuval Noah Harrari | Amazon | 10/10 | [Link](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464345/ref=pd_lpo_14_img_0/138-6955471-0282806?_encoding=UTF8&pd_rd_i=0062464345&pd_rd_r=79940c5c-c962-4bff-97f0-d312b9386d69&pd_rd_w=eY4eA&pd_rd_wg=OWlZW&pf_rd_p=337be819-13af-4fb9-8b3e-a5291c097ebb&pf_rd_r=76HARP4SKM7BRFS4FGE9&psc=1&refRID=76HARP4SKM7BRFS4FGE9)|
@@ -129,6 +130,7 @@ Photo owned by [elearningindustry.com](https://elearningindustry.com/top-10-book
 |Rich Dad Poor Dad | Personal Finance |  Robert T. Kiyosaki | Amazon| 9.5/10| [Link](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194) |
 |Sapiens: A Brief History of Humankind | Non-Fiction | Yuval Noah Harrari | Amazon | 10/10 | [Link](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)|
 |Six of Crows | Fantasy, Fiction | Leigh Bardugo | Amazon | 9/10 | [Link](https://www.amazon.com/Six-Crows-Leigh-Bardugo-ebook/dp/B00UG9LC4I)|
+|Steal Like An Artist| Creativity | Austin Kleon | Bookstores | 9/10 | [Link](https://www.amazon.de/-/en/Austin-Kleon/dp/0761169253/ref=sr_1_1?adgrpid=82460957179&dchild=1&gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQitLQAkurrXgf3JUTAR4TFLTkE7sbYw1pCPzpWxsIQU1IDT6uN96zDcaAltvEALw_wcB&hvadid=394592758731&hvdev=c&hvlocphy=9067699&hvnetw=g&hvqmt=e&hvrand=9651998940140669448&hvtargid=kwd-297493624991&hydadcr=24491_1812059&keywords=steal+like+an+artist&qid=1616562423&sr=8-1)
 |The Baltimore Boys| Fiction | Joël Dicker | Amazon | 9.5/10 | [Link](https://www.amazon.com/Baltimore-Alison-Anderson-translator-Dicker/dp/0857056867)|
 |The Fifth Season| Science fantasy | N. K. Jemisin | Amazon | 9/10 | [Link](https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1616329101&sr=1-1)|
 |The Ice Princess | Crime Novel | Camilla Läckberg | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/crime-fiction/the-ice-princess/prod1150813pp/)|
@@ -676,6 +678,7 @@ _The most common activity during lock-down has been watching movies. So here are
 |:---| :---:| :---:| :---:| :---:|:---:|:---:|
 |A Beautiful Mind | Biography / Drama | Netflix | 9/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=nIR3wj9Ssaw "A Beautiful Mind")|[INFO](https://www.imdb.com/title/tt0268978/?ref_=nv_sr_srsg_0 "A Beautiful Mind IMDb")|
 |Attack On Titan | Fantasy / Action | Crunchyroll | 9.9/10 | 8.9/10|[TRAILER](https://www.youtube.com/watch?v=MGRm4IzK1SQ "Attack On Titan")|[INFO](https://www.imdb.com/title/tt2560140/?ref_=nv_sr_srsg_0 "Attack On Titan IMDb")|
+|Babyteeth| Comedy, Drama, Music | Cinobo | 6/10 | 7.2/10 | [TRAILER](https://www.imdb.com/video/vi3688152601?playlistId=tt8399664&ref_=tt_ov_vi) | [INFO](https://www.imdb.com/title/tt8399664/?ref_=rt_li_i) |
 |Better Call Saul | Crime / TV Series | Netflix | 10/10 | 8.7/10 | [TRAILER](https://www.youtube.com/watch?v=HN4oydykJFc "Better Call Saul")|[INFO](https://www.imdb.com/title/tt3032476/?ref_=nv_sr_srsg_0 "Better Call Saul")|
 |Blacklist | TV series | Netflix | 9/10 | 8/10|[TRAILER](https://www.youtube.com/watch?v=-WYdUaK54fU "Blacklist")|[INFO](https://www.imdb.com/title/tt2741602/?ref_=nv_sr_srsg_0 "Blacklist IMDb")|
 |Breaking Bad| TV series| Netflix| 9/10| 9.5/10|[TRAILER](https://www.youtube.com/watch?v=HhesaQXLuRY&ab_channel=TrailerBlend "Breaking Bad")|[INFO](https://www.imdb.com/title/tt0903747/?ref_=nv_sr_srsg_0 "Breaking Bad IMDb")|
@@ -692,6 +695,7 @@ _The most common activity during lock-down has been watching movies. So here are
 |It's Okay to Not be Okay | Drama | Netflix | 9.5/10 | 8.7/10 | [TRAILER](https://www.youtube.com/watch?v=50ek4HQo0Bc&ab_channel=TheSwoon "It's Okay to Not be Okay")|[INFO](https://www.imdb.com/title/tt12451520/ "It's Okay to Not be Okay")|
 |Jeffrey Epstein: Filthy Rich | Documentary / Crime | Netflix | 8/10 | 7.1/10|[TRAILER](https://www.youtube.com/watch?v=-j0rjlfmDx4 "Jeffrey Epstein: Filthy Rich")|[INFO](https://www.imdb.com/title/tt12312250/ "Jeffrey Epstein: Filthy Rich")|
 |Joker| Drama | Amazon | 10/10 | 8.4/10|[TRAILER](https://www.youtube.com/watch?v=zAGVQLHvwOY "Joker")|[INFO](https://www.imdb.com/title/tt7286456/?ref_=nv_sr_srsg_0 "Joker IMDb")|
+|La La Land| Film Musical | Stremio | 9/10 | 8/10 | [TRAILER](https://www.youtube.com/watch?v=0pdqf4P9MB8&ab_channel=LionsgateMovies) | [INFO](https://www.imdb.com/title/tt3783958/)|
 |Lupin| TV series| Netflix| 7.5/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=ga0iTWXCGa0&ab_channel=Netflix "Lupin")|[INFO](https://www.imdb.com/title/tt2531336/?ref_=nv_sr_srsg_0 "Lupin IMDb")|
 |Mindhunter | TV series | Netflix | 9.5/10 | 8.6/10|[TRAILER](https://www.youtube.com/watch?v=evdxH50J3rs "Mindhunter")|[INFO](https://www.imdb.com/title/tt5290382/?ref_=nv_sr_srsg_0 "Mindhunter IMDb")|
 |Miracle in Cell No. 7 (2019)| Drama | Netflix | 9/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=MHdBW0gSsjo "Miracle in Cell No. 7")|[INFO](https://www.imdb.com/title/tt2659414/?ref_=nv_sr_srsg_0 "Miracle in Cell No. 7 IMDb")|
@@ -700,6 +704,7 @@ _The most common activity during lock-down has been watching movies. So here are
 |Peaky Blinders | Documentary - TV series | Netflix | 8/10 | 8.8/10|[TRAILER](https://youtu.be/oVzVdvGIC7U "Peaky Blinders")|[INFO](https://www.imdb.com/title/tt2442560/?ref_=nv_sr_srsg_0 "Peaky Blinders IMDb")|
 |Prison Break | Action / TV Series | Netflix | 10/10 | 8.3/10 | [TRAILER](https://www.imdb.com/video/vi3183588377?playlistId=tt0455275&ref_=tt_ov_vi "Prison Break")|[INFO](https://www.imdb.com/title/tt0455275/ "Prison Break")|
 |Rick and Morty | Comedy / TV Series | Netflix | 9/10 | 9.2/10 | [TRAILER](https://www.youtube.com/watch?v=_uUcMwsR5hg "Rick and Morty")|[INFO](https://www.imdb.com/title/tt2861424/ "Rick and Morty")|
+|Spider-Man: Into the Spider-Verse | Animation, Action, Adventure |Stremio | 9/10 | 8.4/10 | [TRAILER](https://www.youtube.com/watch?v=tg52up16eq0&ab_channel=SonyPicturesEntertainment)| [INFO](https://www.imdb.com/title/tt4633694/)|
 |Suits | TV series | Netflix | 9/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=85z53bAebsI "Suits")|[INFO](https://www.imdb.com/title/tt1632701/?ref_=fn_al_tt_1 "Suits IMDb")|
 |The 100 | Sci-Fi | Netflix | 9.5/10 | 7.6/10|[TRAILER](https://www.youtube.com/watch?v=ia1Fbg96vL0 "The 100")|[INFO](https://www.imdb.com/title/tt2661044/?ref_=nv_sr_srsg_0 "The 100 IMDb")|
 |The Big Bang Theory| Comedy/TV Series| Netflix| 8.5/10| 8.1/10|[TRAILER](https://www.youtube.com/watch?v=WBb3fojgW0Q&ab_channel=vidicsch "The Big Bang Theory")|[INFO](https://www.imdb.com/title/tt0898266/ "The Big Bang Theory")|
@@ -708,6 +713,7 @@ _The most common activity during lock-down has been watching movies. So here are
 |The Flash | Action / Adventure / Drama | Netflix| 7.7/10| 7/10|[TRAILER](https://youtu.be/Yj0l7iGKh8g "The Flash")|[INFO](https://www.imdb.com/title/tt3107288/ "The Flash")|
 |The Invisible Guest | Crime / Drama / Mystery | Netflix | 8.5/10 | 8.1/10|[TRAILER](https://www.youtube.com/watch?v=epCg2RbyF80 "The Invisible Guest")|[INFO](https://www.imdb.com/title/tt4857264/?ref_=nv_sr_srsg_0 "The Invisible Guest IMDb")|
 |The Last Dance| Documentary - TV series| Netflix| 9.5/10| 9.1/10|[TRAILER](https://www.youtube.com/watch?v=N9Z9JtNcCWY&ab_channel=ESPN "The Last Dance")|[INFO](https://www.imdb.com/title/tt8420184/?ref_=fn_al_tt_1 "The Last Dance IMDb")
+|The Name of the Rose|  Crime, Drama, Mystery| Cinobo| 7/10 | 7.7/10 | [TRALER](https://www.youtube.com/watch?v=7-yYJgpQ-CE&ab_channel=MovieclipsClassicTrailers) | [INFO](https://www.imdb.com/title/tt0091605/?ref_=rt_li_tt) |
 |The Queen's Gambit | TV series | Netflix | 9/10 | 8.6/10|[TRAILER](https://www.youtube.com/watch?v=CDrieqwSdgI "The Queen's Gambit")|[INFO](https://www.imdb.com/title/tt10048342/?ref_=nv_sr_srsg_0 "The Queen's Gambit IMDb")|
 |The Shutter Island | Thriller/ Mystery | Netflix | 8.5/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=5iaYLCiq5RM "The Shutter Island")|[INFO](https://www.imdb.com/title/tt1130884/ "The Shutter Island IMDb")|
 |The Social Dilemma| Documentary| Netflix| 7/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=uaaC57tcci0&ab_channel=Netflix "The Social Dilemma")|[INFO](https://www.imdb.com/title/tt11464826/?ref_=nv_sr_srsg_0 "The Social Dilemma IMDb")|
@@ -731,6 +737,7 @@ You can have an amazing time just by relaxing and listening to your favorite mus
 * Ambient Study Music [listen here](https://www.youtube.com/watch?v=sjkrrmBnpGE)
 * Relaxing Jazz Music [listen here](https://www.youtube.com/watch?v=neV3EPgvZ3g)
 * Top techno songs [listen here](https://open.spotify.com/playlist/6g7ZfOfEqqSR4o7iPVZggC?si=jDMehvIDSweA0UJqu4Vhng)
+* Greek "Plintirio* playlist [listen here](https://open.spotify.com/playlist/0X4ZYdFFZKnizCaT2WCro9?si=ghSDdd5tQwOhHPgLbhFikA)
 
 
 ### Songs
@@ -1095,6 +1102,7 @@ Podcasts is a great way to learn from other people about things that interest yo
 * [Business Wars](https://play.acast.com/s/businesswars)
 * [My First Million](https://play.acast.com/s/myfirstmillion)
 * [TED Talks Daily](https://play.acast.com/s/tedtalks)
+* [The Enthusiasts Show](https://open.spotify.com/show/12gv2o7uxW3hqCY2HVBkbl?si=jlzAtaBqSdeu7quW8vOnzg)
 * [Planet Money](https://www.npr.org/sections/money/?t=1616235730554)
 
 #### Games & Hobbies
