@@ -247,6 +247,7 @@ photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/
 |---| ---| ---| 
 | Aperol Spritz| Prosecco, Aperol| [video](https://www.youtube.com/watch?v=z1adrnWCfvg)|
 | Bloody Mary| Vodka| [video](https://www.youtube.com/watch?v=rpEzoWNbgSk&t=2s)|
+| Caipirinha| Cachaça (Brazilian Rum)| [video](https://www.youtube.com/watch?v=alEN21hwRYI)|
 | Cosmopolitan| Vodka| [video](https://www.youtube.com/watch?v=TnkMtoDNgxE)|
 | Daiquiri| Rum| [video](https://www.youtube.com/watch?v=ofwTyfKo8Mg)|
 | Manhattan| Whiskey| [video](https://www.youtube.com/watch?v=TFWPtkNoF4Y)|
