@@ -594,12 +594,16 @@ or you can start a 30day Yoga Challenge with Adriene:
 * Day 2 [video](https://www.youtube.com/watch?v=GaL3YF1vY2k)
 * Day 3 [video](https://www.youtube.com/watch?v=hJjqx6YlcWs)
 
-Don't forget to stretch! Here are some videos to help you:
+Whether you have worked out or not, don't forget to stretch daily! It will make you feel so much better and help you fix your posture and relax your muscles! Here are some videos to help you:
 
 * Lower body stretch [video](https://www.youtube.com/watch?v=elcwsSqNhS8)
 * Recovery day stretch [video](https://www.youtube.com/watch?v=2MHGldCeJ04)
 * Foam roller stretch [video](https://www.youtube.com/watch?v=pCX3qmWYkS4)
 * Hips and back stretch [video](https://www.youtube.com/watch?v=XVC8LGbxVG0)
+* 6 min everyday stretch [video](https://www.youtube.com/watch?v=72MQmD8Z9Zw&t=300s)
+* 8 min sitting too much stretch [video](https://www.youtube.com/watch?v=12pSXygAzwk)
+* 10 min full body stretch [video](https://www.youtube.com/watch?v=xOqGI7EDe6U)
+
 
 **Exercising apps**
 
