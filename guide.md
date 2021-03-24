@@ -1181,6 +1181,18 @@ Do you like cars? Of course you do! Who doesn't?
 * [Car.gr](https://www.car.gr)
 * [Offroad parts](https://www.xtreme4x4.gr)
 
+### If you like car videos you should definetely check these youtube channels:
+
+*[Motor Trend Channel](https://www.youtube.com/user/MotorTrend/videos)
+*[Top Gear](https://www.youtube.com/user/TopGear/videos)
+*[Mighty Car Mods](https://www.youtube.com/user/mightycarmods/videos)
+*[ChrisFix](https://www.youtube.com/user/PaintballOO7/videos)
+*[Jay Leno's Garage](https://www.youtube.com/user/JayLenosGarage/videos)
+*[DRIVE](https://www.youtube.com/user/drive/videos)
+*[1320video](https://www.youtube.com/user/1320video/videos)
+*[Car Throttle](https://www.youtube.com/user/CarThrottle/videos)
+*[Scotty Kilmer](https://www.youtube.com/user/scottykilmer/videos)
+*[Supercar Blondie](https://www.youtube.com/user/nikhirschi/videos)
 
 Section icon Source: https://2sleepylagoonter.info/car-news/best-cars/top-10-best-sports-cars
 
