@@ -418,6 +418,12 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 Information was taken from [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 
 ---
+<img align="left" width="40" height="40" src="media/drinking-games.png">
+
+## <a name="drinking-games"></a>Drinking Games
+Drinking games offer the oppurtinity to come closer with your friends and have a a great time **(Drink responsibly).**
+
+---
 
 <img align="left" width="40" height="40" src="media/icons/exercise.png">
 
