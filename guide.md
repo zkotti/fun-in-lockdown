@@ -4,6 +4,7 @@
 |---|---|
 
 Photo owned by [csuchico.edu](https://www.csuchico.edu/)
+Gif owned by [giphy.com](https://giphy.com/ "giphy.com")
 
 Not sure how to spend time in lockdown? This guide contains a range of different activities to choose from.
 
