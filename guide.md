@@ -1288,6 +1288,8 @@ Do you want to explore Europe on a ship? There are many companies offering cruis
 offers a wide range of different cruise packages, from the Mediterranean to the Baltic sea. 
 
 ---
+<img align="left" width="40" height="40" src="media/icons/social-movement.jpeg">
+
 ## <a name="social-movements"></a>Social Movements
 
 Learn and educate yourself about these social movements that have happened in the last year and become an ally by engaging in activism around those issues. What you do with your power and privilege matters and you have the opportunity to use your power and privilege for good. Being an ally within the dominant group that you are a part of can help bring attention to the issues and causes that others experience.
