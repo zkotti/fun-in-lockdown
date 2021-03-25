@@ -688,7 +688,7 @@ The intent of the project was to study “the use of biological and chemical mat
 
 Under MKUltra, the CIA gave itself the authority to research how drugs could: “promote the intoxicating effects of alcohol;” “render the induction of hypnosis easier;” “enhance the ability of individuals to withstand privation, torture and coercion;” produce amnesia, shock and confusion; and much more. Many of these questions were investigated using unwitting test subjects, like drug-addicted prisoners, marginalized sex workers and terminal cancer patients–”people who could not fight back,” in the words of Sidney Gottlieb, the chemist who introduced LSD to the CIA.
 
-<img src="media/images/mkultra.jpeg" alt="Quarantine Activities" width="500" height="500"/>
+<img src="media/images/mkultra.jpeg" alt="Quarantine Activities"/>
 Image Source : https://www.theguardian.com/tv-and-radio/shortcuts/2016/aug/15/netflix-stranger-things-project-mkultra
 
 * __Flat Earth__
