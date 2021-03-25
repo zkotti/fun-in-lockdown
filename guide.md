@@ -368,6 +368,33 @@ Tip: you can use the javafx package to build the tools interface.
 This is another great project to help you develop your coding skills and it uses basic Java concepts. The user just inserts the value and the calculator returns the matching percentage.
 The javafx package will help you build the interface.
 
+* Laboratory Management System
+
+Java Project Idea: The laboratory management system is another exciting beginner level project that is used to provide security of the data of the laboratory. Access permissions for viewing and updating the data are set for each entity. There are three entities in this system.
+
+The Admin maintains database of laboratory and can retrieve data from the database using oracle and solves the technical problems if it occurs by using technologies like Java servlets and JSP using the tomcat server.
+
+The Faculty can post and update marks of students and can provide notices and latest updates related to tasks, like date of task submission, dates of lab examinations. Faculty also generates the report.
+
+Students are the main users of this system. Their attendance is updated whenever they login to the system. The student has only permission to view the notices and updates.
+
+* Stadium Seat Booking System
+
+Java Projects Idea: This is another automated system that can be developed in Java and will be useful to the people for booking their seats in the stadium through the online method. Every detail of the stadium should be mentioned properly including the number of seats, seat availability, price of the seat, category of seats.
+
+Admin will manage all the details related to the stadium and matches that would take place in the stadiums and will have to update each detail. When the user books a seat, he will get a unique seat number.
+
+This application will require a robust database as it would contain the details of all the matches taking place in a particular region.
+
+* Color Hunt Gaming Project
+
+Java Project Idea: Color hunt is an entertaining mind game which consists of letters with different colors arranged randomly on it. In this Java game, we mention a statement of a precise color and letter, which we’re supposed to click in the block box fastly. We need to click on the exact color which has been mentioned and the statement immediately keeps changing.
+
+* I-card generator system
+
+Java Project Idea: As the name suggests, the I-Card Generator System will help in smoothly generating the identity cards for the employees of any organization or for the students and teachers of the educational institutes with great ease.
+
+The admin will add all the relevant details to be shown on the id card like photograph, name, age, department, year of joining, blood group, address, mobile number. And the system will generate the id card based on these details. The system will ensure that only one ID card is generated for a person. This project will prove to be one of the unique and interesting core Java projects to be opted for and to Java expertise in your profile.
 
 Source: https://data-flair.training/blogs/java-project-ideas/
 
