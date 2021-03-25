@@ -1574,6 +1574,80 @@ Source: https://www.podcastinsights.com/start-a-podcast/
 
 ---
 
+<img align="left" width="40" height="40" src="media/gifs/trippy.gif">
+
+## <a name="trippygifs"></a> Trippy Gifs!
+
+
+### If you are bored to do any of the above just watch those trippy gifs and time will pass
+
+
+<img src="https://media1.tenor.com/images/a3c16b22b8376099408926ee11672a14/tenor.gif?itemid=5424822" />
+
+Gif source: https://tenor.com/view/cat-endless-trippy-sigh-gif-5424822/
+
+<img src="https://media1.tenor.com/images/484a160f7580e28381752d40928b9b4a/tenor.gif?itemid=5468929" />
+
+Gif source: https://tenor.com/view/trippy-cool-aesthetic-gif-5468929/
+
+<img src="https://i.imgur.com/4MZ6g8F.gif" />
+
+Gif source: https://imgur.com/gallery/4p6Du/
+
+<img src="https://i.pinimg.com/originals/83/28/87/832887d27a4b417d7cbe5359a03c390d.gif" />
+
+Gif source: https://gr.pinterest.com/pin/121878733647068437/
+
+<img src="https://i.imgur.com/gayGySV.gif" />
+
+Gif source: https://imgur.com/gallery/4p6Du/
+
+<img src="https://i.pinimg.com/originals/e0/0d/a7/e00da7e6895b4b778a7d1201f4465972.gif" />
+
+Gif source: https://gr.pinterest.com/pin/255438610098286748/
+
+<img src="https://media0.giphy.com/media/l4JyMhNmNSZIBFtjG/giphy.gif?cid=ecf05e47nm89zkxmoyzjqft5cu0yg0jinu872k4mxvrqkk98&rid=giphy.gif" />
+
+Gif source: https://giphy.com/gifs/psychedelic-scifi-fractals-l4JyMhNmNSZIBFtjG/
+
+<img src="https://media2.giphy.com/media/3Kwo4SFbdQcIo/giphy.gif?cid=ecf05e475devyo7szvvte7a10ocq27b6gmec99um35bypmh5&rid=giphy.gif" />
+
+Gif source: https://giphy.com/gifs/tumblr-featured-sheepfilms-3Kwo4SFbdQcIo
+
+<img src="https://media0.giphy.com/media/pZvnLIFQxbKfK/giphy.gif?cid=ecf05e47v0lmegozh3dlqnzmowvme02yar9ev9c5lk0899m4&rid=giphy.gif" />
+
+Gif source: https://giphy.com/gifs/tumblr-featured-sheepfilms-building-zoom-pZvnLIFQxbKfK/
+
+<img src="https://i.pinimg.com/originals/af/1d/3c/af1d3c45f1bc776b8f68f1c927f4a16c.gif" />
+
+Gif source: https://gr.pinterest.com/pin/518617713341925156/
+
+<img src="https://i.pinimg.com/originals/5f/27/f2/5f27f228183820056d7c32b416a9a7e1.gif" />
+
+Gif source: https://gr.pinterest.com/pin/346847608801164088/
+
+<img src="https://i.pinimg.com/originals/f4/8b/46/f48b467ac9ffdd2dd272b728e0a062bc.gif" />
+
+Gif source: https://gr.pinterest.com/pin/132293307794459075/
+
+<img src="https://i.pinimg.com/originals/1f/54/dd/1f54ddb3637cf0e8f4efe7b6bbc11b4a.gif" />
+
+Gif source: https://gr.pinterest.com/pin/434738170254293120/
+
+<img src="https://i.pinimg.com/originals/3b/fe/33/3bfe33b62d68969f1c37b3e88b40b70a.gif" />
+
+Gif source: https://gr.pinterest.com/pin/535506211915299573/
+
+<img src="https://i.pinimg.com/originals/60/d7/e9/60d7e9b9c5d48c52489384245d1bb8f0.gif" />
+
+Gif source: https://gr.pinterest.com/pin/825847650397358846/
+
+<img src="https://i.pinimg.com/originals/57/44/ef/5744ef7546d3476888de4cbcaaded349.gif" />
+
+Gif source: https://gr.pinterest.com/pin/360076932691017349/
+
+---
+
 
 <img align="left" width="40" height="40" src="media/icons/videoGames.png">
 
@@ -1737,6 +1811,19 @@ Photo owned by [zoogla.gr](https://www.zougla.gr/greece/article/i-patrini-gourou
 Sources: [thebest.gr](https://www.thebest.gr/article/412935-), [tripadvisor](https://www.tripadvisor.com/Attractions-g189488-Activities-c47-t76-Patras_Achaea_Region_West_Greece.html)
 
 ---
+<img align="left" width="40" height="40" src="media/icons/avoid.png">
+
+## <a name="whattoavoid"></a> What to avoid
+Being isolated all day long can make you a person, that you in the future would be ashamed for. To prevent such a situation, make sure you avoid the following.
+
+* Reality TV Shows:
+  
+  * Survivor
+  * Battle of the couples
+  
+* Fast food
+* Recommended youtube videos
+---
 
 <img align="left" width="40" height="40" src="media/icons/car.jpg">
 
@@ -1798,94 +1885,6 @@ There are many types of content produced by writing, like for example:
 Writing is most often a solitary activity, except for people who like to write in cafe's. The ongoing lockdown is a great opportunity to start practicing writing. I will kick it off with one important tip that I've found to be helpful whenever I'm writing something for other people to read.
 
 __Editing__ and __Writing__ are not the same thing. Whenever you write something, leave it for a few hours or maybe a few days. And then come back to it as an __editor__ to find ways to make it more captivating and understandable for the readers.
-
----
-
-<img align="left" width="40" height="40" src="media/gifs/trippy.gif">
-
-## <a name="trippygifs"></a> Trippy Gifs!
-
-
-### If you are bored to do any of the above just watch those trippy gifs and time will pass
-
-
-<img src="https://media1.tenor.com/images/a3c16b22b8376099408926ee11672a14/tenor.gif?itemid=5424822" />
-
-Gif source: https://tenor.com/view/cat-endless-trippy-sigh-gif-5424822/
-
-<img src="https://media1.tenor.com/images/484a160f7580e28381752d40928b9b4a/tenor.gif?itemid=5468929" />
-
-Gif source: https://tenor.com/view/trippy-cool-aesthetic-gif-5468929/
-
-<img src="https://i.imgur.com/4MZ6g8F.gif" />
-
-Gif source: https://imgur.com/gallery/4p6Du/
-
-<img src="https://i.pinimg.com/originals/83/28/87/832887d27a4b417d7cbe5359a03c390d.gif" />
-
-Gif source: https://gr.pinterest.com/pin/121878733647068437/
-
-<img src="https://i.imgur.com/gayGySV.gif" />
-
-Gif source: https://imgur.com/gallery/4p6Du/
-
-<img src="https://i.pinimg.com/originals/e0/0d/a7/e00da7e6895b4b778a7d1201f4465972.gif" />
-
-Gif source: https://gr.pinterest.com/pin/255438610098286748/
-
-<img src="https://media0.giphy.com/media/l4JyMhNmNSZIBFtjG/giphy.gif?cid=ecf05e47nm89zkxmoyzjqft5cu0yg0jinu872k4mxvrqkk98&rid=giphy.gif" />
-
-Gif source: https://giphy.com/gifs/psychedelic-scifi-fractals-l4JyMhNmNSZIBFtjG/
-
-<img src="https://media2.giphy.com/media/3Kwo4SFbdQcIo/giphy.gif?cid=ecf05e475devyo7szvvte7a10ocq27b6gmec99um35bypmh5&rid=giphy.gif" />
-
-Gif source: https://giphy.com/gifs/tumblr-featured-sheepfilms-3Kwo4SFbdQcIo
-
-<img src="https://media0.giphy.com/media/pZvnLIFQxbKfK/giphy.gif?cid=ecf05e47v0lmegozh3dlqnzmowvme02yar9ev9c5lk0899m4&rid=giphy.gif" />
-
-Gif source: https://giphy.com/gifs/tumblr-featured-sheepfilms-building-zoom-pZvnLIFQxbKfK/
-
-<img src="https://i.pinimg.com/originals/af/1d/3c/af1d3c45f1bc776b8f68f1c927f4a16c.gif" />
-
-Gif source: https://gr.pinterest.com/pin/518617713341925156/
-
-<img src="https://i.pinimg.com/originals/5f/27/f2/5f27f228183820056d7c32b416a9a7e1.gif" />
-
-Gif source: https://gr.pinterest.com/pin/346847608801164088/
-
-<img src="https://i.pinimg.com/originals/f4/8b/46/f48b467ac9ffdd2dd272b728e0a062bc.gif" />
-
-Gif source: https://gr.pinterest.com/pin/132293307794459075/
-
-<img src="https://i.pinimg.com/originals/1f/54/dd/1f54ddb3637cf0e8f4efe7b6bbc11b4a.gif" />
-
-Gif source: https://gr.pinterest.com/pin/434738170254293120/
-
-<img src="https://i.pinimg.com/originals/3b/fe/33/3bfe33b62d68969f1c37b3e88b40b70a.gif" />
-
-Gif source: https://gr.pinterest.com/pin/535506211915299573/
-
-<img src="https://i.pinimg.com/originals/60/d7/e9/60d7e9b9c5d48c52489384245d1bb8f0.gif" />
-
-Gif source: https://gr.pinterest.com/pin/825847650397358846/
-
-<img src="https://i.pinimg.com/originals/57/44/ef/5744ef7546d3476888de4cbcaaded349.gif" />
-
-Gif source: https://gr.pinterest.com/pin/360076932691017349/
-
----
-<img align="left" width="40" height="40" src="media/icons/avoid.png">
-
-## <a name="whattoavoid"></a> What to avoid
-Being isolated all day long can make you a person, that you in the future would be ashamed for. To prevent such a situation, make sure you avoid the following.
-
-* Reality TV Shows:
-  
-  * Survivor
-  * Battle of the couples
-  
-* Fast food
-* Recommended youtube videos
 
 ---
 
