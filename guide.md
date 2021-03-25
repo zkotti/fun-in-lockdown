@@ -1428,6 +1428,9 @@ Podcasts is a great way to learn from other people about things that interest yo
 #### Games & Hobbies
 * [Rusty Quill Gaming](https://play.acast.com/s/rustyquillgaming)
 * [Whatculture Gaming](https://play.acast.com/s/whatculturegaming)
+* [WayPoint Radio](https://play.acast.com/s/vicegamingsnewpodcast)
+* [Running Commentary](https://play.acast.com/s/runningcommentary)
+* [Kingdom Smarts](https://play.acast.com/s/kingdom-smarts)
 
 ### Do you have ideas you want to share? Create your own Podcast!
 Here are a few simple steps to help you start:
