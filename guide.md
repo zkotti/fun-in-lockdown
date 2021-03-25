@@ -695,9 +695,16 @@ Image Source : https://www.theguardian.com/tv-and-radio/shortcuts/2016/aug/15/ne
 
 Flat Earth theory first emerged in 19th-century England, despite the Earth's spherical nature having been known since at least the time of Pythagoras. Lately, it has been promoted by American software consultant Mark Sargent through the use of YouTube videos. Flat-earther conspiracy theorists believe that planet Earth is not a sphere, and that evidence has been faked to hide the fact that is instead a disc, or a single infinite plane. The conspiracy often implicates NASA. Other claims include that GPS devices are rigged to make aircraft pilots wrongly believe they are flying around a globe.
 
+<img src="media/images/flatearth.jpeg" alt="Quarantine Activities"/>
+Image Source : https://theconversation.com/flat-earthers-vs-climate-change-sceptics-why-conspiracy-theorists-keep-contradicting-each-other-96060
+
 * __Weather and earthquake control projects__
 
 Many theories pertain to real or alleged weather-controlling projects. Theories include the debunked assertion that HAARP, a radio-technology research program funded by the US government, is a secret weather-controlling system. Some theorists blamed HAARP for 2005's Hurricane Katrina. HAARP has also been suggested to have somehow caused earthquakes, such as the 2011 Tōhoku earthquake and tsunami, the 2013 Saravan earthquake or the 2010 Haiti earthquake. Some HAARP-related claims refer to mind-control technology.
+
+<img src="media/images/weather.jpeg" alt="Quarantine Activities"/>
+Image Source : https://www.dnv.com/news/reducing-cyclone-and-earthquake-challenges-for-wind-turbines-144220
+
 
 * __Area 51__
 
@@ -706,6 +713,9 @@ The famous Area 51 in the Nevada desert is a military installation at the Nellis
 Some believe Area 51 is researching and experimenting on aliens and their spacecraft. More specifically, people think they are studying a crash that happened near Roswell, New Mexico, in 1947. Others theorize that the moon landing was staged at Area 51.
 
 The government has said the facility is used to test experimental aircraft for the military.
+
+<img src="media/images/area51.jpeg" alt="Quarantine Activities"/>
+Image Source : https://theconversation.com/flat-earthers-vs-climate-change-sceptics-why-conspiracy-theorists-keep-contradicting-each-other-96060
 
 * __QAnon__
 
@@ -716,6 +726,9 @@ The conspiracy theory dates back to 2017 when a supposed high-level government o
 While QAnon started as a niche online forum, it has turned into a mainstream belief system for some conservatives, according to The Washington Post. 
 
 However, the claims within the conspiracy theories are not supported by evidence.
+
+<img src="media/images/qanon.jpeg" alt="Quarantine Activities"/>
+Image Source : https://www.nature.com/articles/d41586-021-00257-y
 
 * __Alaska mind control__
 
@@ -730,6 +743,9 @@ theories. One theory suggests that this plane was hidden away and reintroduced a
 year in order to be shot down over Ukraine for political purposes. Prolific American conspiracy theorist James
 H. Fetzer has placed responsibility for the disappearance with Israeli Prime Minister Benjamin Netanyahu.
 
+<img src="media/images/malaysia.jpeg" alt="Quarantine Activities"/>
+Image Source : https://www.bbc.com/news/magazine-26609687
+
 * __Chemtrails__
 
 Also known as SLAP (Secret Large-scale Atmospheric Program), this
@@ -742,6 +758,9 @@ the first-ever peer-reviewed study of the chemtrail theory; 76 out of 77
 participating atmospheric chemists and geochemists stated that they had
 seen no evidence to support the chemtrail theory, or stated that chemtrail
 theorists rely on poor sampling.
+
+<img src="media/images/chemtrails.jpeg" alt="Quarantine Activities"/>
+Image Source : https://www.scientificamerican.com/article/what-are-chemtrails-made-of/
 
 Source : https://en.wikipedia.org/wiki/List_of_conspiracy_theories
 
