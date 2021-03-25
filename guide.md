@@ -11,6 +11,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 ## <a name="categories"></a>Categories
 * [Anime](#anime)
 * [Art](#art)
+* [Binge Youtube](#youtube)
 * [Board Games](#board-games)
 * [Books](#books)
 * [Clean and organize](#clean)
@@ -44,7 +45,6 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [What to avoid](#whattoavoid)
 * [Work with cars](#Work-with-cars)
 * [Writing](#writing)
-* [Binge Youtube](#youtube)
 
 [Note : Before you head outside](#note)
 
@@ -122,6 +122,27 @@ the first step to become an artist and use the time during the pandemic more eff
 * [Basics of charcoal drawing](https://www.google.com/search?q=carbon+drawing&sxsrf=ALeKk00M9bDB-PlzL-DCft_0ae4hcXj4Dg%3A1616191227070&ei=-x5VYLHdA-anrgT0yrj4Dw&oq=carbon+drow&gs_lcp=Cgdnd3Mtd2l6EAEYADIICAAQFhAKEB4yBggAEBYQHjIICAAQFhAKEB4yCAgAEBYQChAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIIxAnOgQIABBDOggIABCxAxCDAToLCAAQsQMQxwEQowI6BQgAELEDOggILhCxAxCDAToECC4QQzoHCAAQsQMQQzoFCC4QsQM6AggAOggIABDHARCvAToECAAQCjoKCAAQxwEQrwEQCjoFCAAQywFQ3ClYqkBg9lpoAHACeACAAb4BiAHyDpIBBDAuMTKYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=gws-wiz#kpvalbx=_CB9VYN7QEOKwrgSlxZPQDg19 "Charcoal Drawing")
 * [Adult Colouring Books](https://www.amazon.com/s?k=adult+coloring+book&crid=3S3IZCUX5I7KQ&sprefix=adult+colo%2Caps%2C193&ref=nb_sb_noss_2)
 * [Beginner's guide to Digital Art](https://www.youtube.com/watch?v=5pmIYH1ugtk&ab_channel=Nadiaxel)
+
+---
+
+<img align="left" width="40" height="40" src="media/icons/youtubeicon.png">
+
+## <a name="youtube"></a>Binge Youtube
+Youtube is an American owned video-sharing platform with headquarters located in California . Being the second most visited website in 2020 it has long evolved from it's days of being a platform for users to upload random content they thought was funny or interesting , nowadays it can provide meaningful content that could surely accompany us in the lonely days the quarantine has given us.Below you can find some channels i thought could interest you. 
+
+### Notable Channels
+
+|Channel Name|Content Type| Subscribers|Channel Link|
+|---| ---| ---| ---|
+|James Bond 007|James Bond News| 441.000| [Link](https://www.youtube.com/channel/UCwTkM6CvIsYFaFiMKIKCqHw)|
+|Ownage Pranks|Animated Phone Pranks| 5.340.000| [Link](https://www.youtube.com/channel/UCxOGHW-aqciBe5Wjq8ltzOg)|
+|Comedy Lab|Greek Comedy| 636.000| [Link](https://www.youtube.com/channel/UCiOkLGlj4azqep3O_J0wLkw)|
+|Luben|Trolling Greece| 354.000| [Link](https://www.youtube.com/channel/UCOXgW2DaRkuyDlOf96ffhmg)|
+|Tipsy Bartender|Cocktail Guides| 4.200.000| [Link](https://www.youtube.com/channel/UCaDY8WjYWy36bnt0RVzSklw)|
+|Nightblue3|Gaming-League of Legends| 2.590.000| [Link](https://www.youtube.com/channel/UCN078UFNwPgwWlU_V5WCTNw)|
+|CoralFish12g|Aquarium Hobbyists| 803.000| [Link](https://www.youtube.com/channel/UCXoCSxSbh2d5DAlA5FiyuOQ)|
+|12os Pithikos|Greek Rap| 160.000| [Link](https://www.youtube.com/channel/UC8J0vy5x7scOm6itUxWH8gg)|
+|Crunchyroll Collection|Anime Clips| 2.870.000| [Link](https://www.youtube.com/channel/UC6pGDc4bFGD1_36IKv3FnYg)|
 
 ---
 
@@ -1954,36 +1975,6 @@ Writing is most often a solitary activity, except for people who like to write i
 __Editing__ and __Writing__ are not the same thing. Whenever you write something, leave it for a few hours or maybe a few days. And then come back to it as an __editor__ to find ways to make it more captivating and understandable for the readers.
 
 ---
-
-<img align="left" width="40" height="40" src="media/icons/youtubeicon.png">
-
-## <a name="youtube"></a>Binge Youtube
-Youtube is an American owned video-sharing platform with headquarters located in California . Being the second most visited website in 2020 it has long evolved from it's days of being a platform for users to upload random content they thought was funny or interesting , nowadays it can provide meaningful content that could surely accompany us in the lonely days the quarantine has given us.Below you can find some channels i thought could interest you. 
-
-### Notable Channels
-
-|Channel Name|Content Type| Subscribers|Channel Link|
-|---| ---| ---| ---|
-|James Bond 007|James Bond News| 441.000| [Link](https://www.youtube.com/channel/UCwTkM6CvIsYFaFiMKIKCqHw)|
-|Ownage Pranks|Animated Phone Pranks| 5.340.000| [Link](https://www.youtube.com/channel/UCxOGHW-aqciBe5Wjq8ltzOg)|
-|Comedy Lab|Greek Comedy| 636.000| [Link](https://www.youtube.com/channel/UCiOkLGlj4azqep3O_J0wLkw)|
-|Luben|Trolling Greece| 354.000| [Link](https://www.youtube.com/channel/UCOXgW2DaRkuyDlOf96ffhmg)|
-|Tipsy Bartender|Cocktail Guides| 4.200.000| [Link](https://www.youtube.com/channel/UCaDY8WjYWy36bnt0RVzSklw)|
-|Nightblue3|Gaming-League of Legends| 2.590.000| [Link](https://www.youtube.com/channel/UCN078UFNwPgwWlU_V5WCTNw)|
-|CoralFish12g|Aquarium Hobbyists| 803.000| [Link](https://www.youtube.com/channel/UCXoCSxSbh2d5DAlA5FiyuOQ)|
-|12os Pithikos|Greek Rap| 160.000| [Link](https://www.youtube.com/channel/UC8J0vy5x7scOm6itUxWH8gg)|
-|Crunchyroll Collection|Anime Clips| 2.870.000| [Link](https://www.youtube.com/channel/UC6pGDc4bFGD1_36IKv3FnYg)|
-
-
-
-
-
-
-
-
----
-
-
 
 <img align="left" width="40" height="40" src="media/icons/warning-shield.png">
 
