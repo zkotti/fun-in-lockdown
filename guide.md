@@ -697,6 +697,50 @@ Flat Earth theory first emerged in 19th-century England, despite the Earth's sph
 
 Many theories pertain to real or alleged weather-controlling projects. Theories include the debunked assertion that HAARP, a radio-technology research program funded by the US government, is a secret weather-controlling system. Some theorists blamed HAARP for 2005's Hurricane Katrina. HAARP has also been suggested to have somehow caused earthquakes, such as the 2011 Tōhoku earthquake and tsunami, the 2013 Saravan earthquake or the 2010 Haiti earthquake. Some HAARP-related claims refer to mind-control technology.
 
+*__Area 51__
+
+The famous Area 51 in the Nevada desert is a military installation at the Nellis Military Operations Area. But the base quickly became known as the most secretive military site in the world because it does not exist on any map or government website, leading many to craft conspiracy theories.
+
+Some believe Area 51 is researching and experimenting on aliens and their spacecraft. More specifically, people think they are studying a crash that happened near Roswell, New Mexico, in 1947. Others theorize that the moon landing was staged at Area 51.
+
+The government has said the facility is used to test experimental aircraft for the military.
+
+*__QAnon__
+
+QAnon is a baseless far-right conspiracy theory that claims President Donald Trump is secretly fighting a "deep state" cabal of satanic pedophiles and cannibals.
+
+The conspiracy theory dates back to 2017 when a supposed high-level government official posted details of the inner workings of the government on the anonymous messaging board 4chan. The person identified themselves simply as "Q." From there, the far-right group of people known as QAnon was born. 
+
+While QAnon started as a niche online forum, it has turned into a mainstream belief system for some conservatives, according to The Washington Post. 
+
+However, the claims within the conspiracy theories are not supported by evidence.
+
+*__Alaska mind control__
+
+In the mountains of Alaska, you can find the High-Frequency Active Auroral Research Program that helps scientists study the farthest distances of the atmosphere. The facility sits on 33 acres of land and has over 180 antennas. The antennas have collected data about the aurora borealis, radio waves, and other atmospheric occurrences.
+
+But some think the antennas are an experimental weapon that can control people's minds, according to the Smithsonian. Others believe it caused the Columbia space shuttle to destruct in 2003. In 2016, however, the facility held an open house so the public could see that they were not up to anything dangerous.
+
+*__Malaysia Airlines Flight MH370__
+
+The disappearance of Malaysia Airlines Flight 370 in southeast Asia in March 2014 has prompted many
+theories. One theory suggests that this plane was hidden away and reintroduced as Flight MH17 later the same
+year in order to be shot down over Ukraine for political purposes. Prolific American conspiracy theorist James
+H. Fetzer has placed responsibility for the disappearance with Israeli Prime Minister Benjamin Netanyahu.
+
+*__Chemtrails__
+
+Also known as SLAP (Secret Large-scale Atmospheric Program), this
+theory alleges that water condensation trails ("contrails") from aircraft
+consist of chemical or biological agents, or contain a supposedly toxic
+mix of aluminum, strontium and barium, under secret government
+policies. An estimated 17% of people globally believe the theory to be
+true or partly true. In 2016, the Carnegie Institution for Science published
+the first-ever peer-reviewed study of the chemtrail theory; 76 out of 77
+participating atmospheric chemists and geochemists stated that they had
+seen no evidence to support the chemtrail theory, or stated that chemtrail
+theorists rely on poor sampling.
+
 Source : https://en.wikipedia.org/wiki/List_of_conspiracy_theories
 
 ---
