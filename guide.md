@@ -293,6 +293,8 @@ Unusual flavor combinations that actually work in drinks. Be sure to test them y
 | Eucalyptus Martini | Gin | [recipe](https://www.thespruceeats.com/eucalyptus-martini-recipe-760078)|
 | Ruby Queen | Vodka | [recipe](https://www.thespruceeats.com/ruby-queen-cocktail-recipe-759220)|
 | The Beer, Bourbon & Barbecue Cocktail | Whiskey | [recipe](https://www.thespruceeats.com/beer-bourbon-and-barbecue-cocktail-recipe-4156984)|
+| Jungle Bird | Rum | [recipe](https://www.thespruceeats.com/jungle-bird-cocktail-4687092)|
+| Coconut Martini | Vodka | [recipe](https://www.thespruceeats.com/coconut-martini-recipe-759080)|
 
 For more details don't forget to check [this](https://www.thespruceeats.com/unique-cocktails-for-adventurous-drinkers-759874) out!
 
