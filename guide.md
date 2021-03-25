@@ -1,11 +1,10 @@
 # A guide to survive the COVID-19 lockdown(s)
 
-|<img src="media/images/quarantine-activities-image.png" alt="Quarantine Activities" width="500" height="500"/>|<img src="https://media.giphy.com/media/3ohhwiSbK4IdpTIB0Y/giphy.gif" alt="Endless time" width="500" height="500" />|
-|---|---|
+<img src="media/images/quarantine-activities-image.png" alt="Quarantine Activities" width="500" height="500"/>
 
 Photo owned by [csuchico.edu](https://www.csuchico.edu/)
 
-Gif owned by [giphy.com](https://giphy.com/ "giphy.com")
+
 
 Not sure how to spend time in lockdown? This guide contains a range of different activities to choose from.
 
@@ -1645,6 +1644,10 @@ Gif source: https://gr.pinterest.com/pin/825847650397358846/
 <img src="https://i.pinimg.com/originals/57/44/ef/5744ef7546d3476888de4cbcaaded349.gif" />
 
 Gif source: https://gr.pinterest.com/pin/360076932691017349/
+
+<img src="https://media.giphy.com/media/3ohhwiSbK4IdpTIB0Y/giphy.gif" alt="Endless time" width="500" height="500" />
+
+Gif owned by [giphy.com](https://giphy.com/ "giphy.com")
 
 ---
 
