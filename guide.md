@@ -1297,10 +1297,10 @@ You can learn more about the ways you can help these communities and stand by th
 
 ### Important Movements
 
+* ACAB - more info [here](https://acabexplained.carrd.co/)
 * Anti-Asian Violance - more info [here](https://anti-asianviolenceresources.carrd.co/)
 * Black Lives Matter - more info [here](https://blacklivesmatters.carrd.co/)
 * Black Trans Lives Matter - more info [here](https://blacktranslivesmatter.carrd.co/)
-* ACAB - more info [here](https://acabexplained.carrd.co/)
 
 ---
 
