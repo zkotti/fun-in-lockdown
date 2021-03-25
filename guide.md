@@ -1909,7 +1909,7 @@ Youtube is an American owned video-sharing platform with headquarters located in
 |Channel Name|Content Type| Subscribers|Channel Link|
 |---| ---| ---| ---|
 |James Bond 007|James Bond News| 441.000| [Link](https://www.youtube.com/channel/UCwTkM6CvIsYFaFiMKIKCqHw)|
-|Ownage Pranks|Animated Phone Pranks| 5.340.000 mil| [Link](https://www.youtube.com/channel/UCxOGHW-aqciBe5Wjq8ltzOg)|
+|Ownage Pranks|Animated Phone Pranks| 5.340.000| [Link](https://www.youtube.com/channel/UCxOGHW-aqciBe5Wjq8ltzOg)|
 |Comedy Lab|Greek Comedy| 636.000| [Link](https://www.youtube.com/channel/UCiOkLGlj4azqep3O_J0wLkw)|
 |Luben|Trolling Greece| 354.000| [Link](https://www.youtube.com/channel/UCOXgW2DaRkuyDlOf96ffhmg)|
 |Tipsy Bartender|Cocktail Guides| 4.200.000| [Link](https://www.youtube.com/channel/UCaDY8WjYWy36bnt0RVzSklw)|
