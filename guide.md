@@ -369,6 +369,33 @@ Tip: you can use the javafx package to build the tools interface.
 This is another great project to help you develop your coding skills and it uses basic Java concepts. The user just inserts the value and the calculator returns the matching percentage.
 The javafx package will help you build the interface.
 
+* Laboratory Management System
+
+Java Project Idea: The laboratory management system is another exciting beginner level project that is used to provide security of the data of the laboratory. Access permissions for viewing and updating the data are set for each entity. There are three entities in this system.
+
+The Admin maintains database of laboratory and can retrieve data from the database using oracle and solves the technical problems if it occurs by using technologies like Java servlets and JSP using the tomcat server.
+
+The Faculty can post and update marks of students and can provide notices and latest updates related to tasks, like date of task submission, dates of lab examinations. Faculty also generates the report.
+
+Students are the main users of this system. Their attendance is updated whenever they login to the system. The student has only permission to view the notices and updates.
+
+* Stadium Seat Booking System
+
+Java Projects Idea: This is another automated system that can be developed in Java and will be useful to the people for booking their seats in the stadium through the online method. Every detail of the stadium should be mentioned properly including the number of seats, seat availability, price of the seat, category of seats.
+
+Admin will manage all the details related to the stadium and matches that would take place in the stadiums and will have to update each detail. When the user books a seat, he will get a unique seat number.
+
+This application will require a robust database as it would contain the details of all the matches taking place in a particular region.
+
+* Color Hunt Gaming Project
+
+Java Project Idea: Color hunt is an entertaining mind game which consists of letters with different colors arranged randomly on it. In this Java game, we mention a statement of a precise color and letter, which we’re supposed to click in the block box fastly. We need to click on the exact color which has been mentioned and the statement immediately keeps changing.
+
+* I-card generator system
+
+Java Project Idea: As the name suggests, the I-Card Generator System will help in smoothly generating the identity cards for the employees of any organization or for the students and teachers of the educational institutes with great ease.
+
+The admin will add all the relevant details to be shown on the id card like photograph, name, age, department, year of joining, blood group, address, mobile number. And the system will generate the id card based on these details. The system will ensure that only one ID card is generated for a person. This project will prove to be one of the unique and interesting core Java projects to be opted for and to Java expertise in your profile.
 
 Source: https://data-flair.training/blogs/java-project-ideas/
 
@@ -673,6 +700,50 @@ Flat Earth theory first emerged in 19th-century England, despite the Earth's sph
 * __Weather and earthquake control projects__
 
 Many theories pertain to real or alleged weather-controlling projects. Theories include the debunked assertion that HAARP, a radio-technology research program funded by the US government, is a secret weather-controlling system. Some theorists blamed HAARP for 2005's Hurricane Katrina. HAARP has also been suggested to have somehow caused earthquakes, such as the 2011 Tōhoku earthquake and tsunami, the 2013 Saravan earthquake or the 2010 Haiti earthquake. Some HAARP-related claims refer to mind-control technology.
+
+*__Area 51__
+
+The famous Area 51 in the Nevada desert is a military installation at the Nellis Military Operations Area. But the base quickly became known as the most secretive military site in the world because it does not exist on any map or government website, leading many to craft conspiracy theories.
+
+Some believe Area 51 is researching and experimenting on aliens and their spacecraft. More specifically, people think they are studying a crash that happened near Roswell, New Mexico, in 1947. Others theorize that the moon landing was staged at Area 51.
+
+The government has said the facility is used to test experimental aircraft for the military.
+
+*__QAnon__
+
+QAnon is a baseless far-right conspiracy theory that claims President Donald Trump is secretly fighting a "deep state" cabal of satanic pedophiles and cannibals.
+
+The conspiracy theory dates back to 2017 when a supposed high-level government official posted details of the inner workings of the government on the anonymous messaging board 4chan. The person identified themselves simply as "Q." From there, the far-right group of people known as QAnon was born. 
+
+While QAnon started as a niche online forum, it has turned into a mainstream belief system for some conservatives, according to The Washington Post. 
+
+However, the claims within the conspiracy theories are not supported by evidence.
+
+*__Alaska mind control__
+
+In the mountains of Alaska, you can find the High-Frequency Active Auroral Research Program that helps scientists study the farthest distances of the atmosphere. The facility sits on 33 acres of land and has over 180 antennas. The antennas have collected data about the aurora borealis, radio waves, and other atmospheric occurrences.
+
+But some think the antennas are an experimental weapon that can control people's minds, according to the Smithsonian. Others believe it caused the Columbia space shuttle to destruct in 2003. In 2016, however, the facility held an open house so the public could see that they were not up to anything dangerous.
+
+*__Malaysia Airlines Flight MH370__
+
+The disappearance of Malaysia Airlines Flight 370 in southeast Asia in March 2014 has prompted many
+theories. One theory suggests that this plane was hidden away and reintroduced as Flight MH17 later the same
+year in order to be shot down over Ukraine for political purposes. Prolific American conspiracy theorist James
+H. Fetzer has placed responsibility for the disappearance with Israeli Prime Minister Benjamin Netanyahu.
+
+*__Chemtrails__
+
+Also known as SLAP (Secret Large-scale Atmospheric Program), this
+theory alleges that water condensation trails ("contrails") from aircraft
+consist of chemical or biological agents, or contain a supposedly toxic
+mix of aluminum, strontium and barium, under secret government
+policies. An estimated 17% of people globally believe the theory to be
+true or partly true. In 2016, the Carnegie Institution for Science published
+the first-ever peer-reviewed study of the chemtrail theory; 76 out of 77
+participating atmospheric chemists and geochemists stated that they had
+seen no evidence to support the chemtrail theory, or stated that chemtrail
+theorists rely on poor sampling.
 
 Source : https://en.wikipedia.org/wiki/List_of_conspiracy_theories
 
