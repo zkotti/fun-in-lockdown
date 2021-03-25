@@ -125,31 +125,32 @@ Photo owned by [elearningindustry.com](https://elearningindustry.com/top-10-book
 |21 Lessons for the 21st Century | Non-Fiction | Yuval Noah Harrari | Amazon | 9/10 | [Link](https://www.amazon.com/gp/product/B079WM7KLS/ref=dbs_a_def_rwt_bibl_vppi_i1)|
 |Algorithms to Live By: The Computer Science of Human Decisions | Non-Fiction | Brian Christian & Tom Griffiths | Amazon | 9.5/10 | [Link](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)|
 |Atlantis | Historical Novel | David Gibbins | Amazon| 10/10| [Link](https://www.amazon.com/gp/product/0755324226/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0755324226&SubscriptionId=1MGPYB6YW3HWK55XCGG2) |
-|Chaos| History & Science | James Gleik | bookstores | 7/10 | [Link](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453) |
-|Crime and Punishment| Crime fiction | Fyodor Dostoevsky | Amazon| 9/10| [Link](https://www.amazon.com/Crime-Punishment-Volokhonsky-Translation-Classics/dp/0679734503/ref=sr_1_1?crid=2ECOFGIAH7E7F&dchild=1&keywords=crime+and+punishment&qid=1616082855&sprefix=crime+and%2Caps%2C312&sr=8-1)|
+|Chaos | History & Science | James Gleik | bookstores | 7/10 | [Link](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453) |
+|Crime and Punishment | Crime fiction | Fyodor Dostoevsky | Amazon| 9/10| [Link](https://www.amazon.com/Crime-Punishment-Volokhonsky-Translation-Classics/dp/0679734503/ref=sr_1_1?crid=2ECOFGIAH7E7F&dchild=1&keywords=crime+and+punishment&qid=1616082855&sprefix=crime+and%2Caps%2C312&sr=8-1)|
 |Factfulness | Non-Fiction | Hans Rosling | Amazon | 9/10 | [Link](https://www.amazon.com/Factfulness-Reasons-World-Things-Better/dp/1250123828/ref=sr_1_1?crid=AWTNDRHKCZMH&dchild=1&keywords=factfulness&qid=1616416120&s=books&sprefix=factful%2Cstripbooks-intl-ship%2C266&sr=1-1)|
 |Homo Deus: A Brief History of Tomorrow | Non-Fiction | Yuval Noah Harrari | Amazon | 10/10 | [Link](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464345/ref=pd_lpo_14_img_0/138-6955471-0282806?_encoding=UTF8&pd_rd_i=0062464345&pd_rd_r=79940c5c-c962-4bff-97f0-d312b9386d69&pd_rd_w=eY4eA&pd_rd_wg=OWlZW&pf_rd_p=337be819-13af-4fb9-8b3e-a5291c097ebb&pf_rd_r=76HARP4SKM7BRFS4FGE9&psc=1&refRID=76HARP4SKM7BRFS4FGE9)|
 |Influence: The Psychology of Persuasion | Psychology | Robert B. Cialdini | Amazon| 9.5/10| [Link](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X) |
-|Little Women| Classic Novel | Alcott Louisa | Public | 9/10 | [Link](https://www.public.gr/product/mikres-kyries/prod851670pp/)|
+|Little Women | Classic Novel | Alcott Louisa | Public | 9/10 | [Link](https://www.public.gr/product/mikres-kyries/prod851670pp/)|
 |Murder on the Orient Express | Crime Novel | Agatha Christie | Amazon | 9/10 | [Link](https://www.amazon.com/Murder-Orient-Express-Hercule-Mysteries/dp/0062073508)|
 |Norwegian Wood | Fiction | Haruki Murakami | Amazon | 9/10 | [Link](https://www.amazon.com/Norwegian-Wood-Haruki-Murakami/dp/1860468004)|
 |Pharaoh | Historical Novel | Valerio Manfredi | Amazon| 10/10| [Link](https://www.amazon.com/gp/product/0230530737/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0230530737&SubscriptionId=1MGPYB6YW3HWK55XCGG2) |
 |Rich Dad Poor Dad | Personal Finance |  Robert T. Kiyosaki | Amazon| 9.5/10| [Link](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194) |
 |Sapiens: A Brief History of Humankind | Non-Fiction | Yuval Noah Harrari | Amazon | 10/10 | [Link](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)|
 |Six of Crows | Fantasy, Fiction | Leigh Bardugo | Amazon | 9/10 | [Link](https://www.amazon.com/Six-Crows-Leigh-Bardugo-ebook/dp/B00UG9LC4I)|
-|Steal Like An Artist| Creativity | Austin Kleon | Bookstores | 9/10 | [Link](https://www.amazon.de/-/en/Austin-Kleon/dp/0761169253/ref=sr_1_1?adgrpid=82460957179&dchild=1&gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQitLQAkurrXgf3JUTAR4TFLTkE7sbYw1pCPzpWxsIQU1IDT6uN96zDcaAltvEALw_wcB&hvadid=394592758731&hvdev=c&hvlocphy=9067699&hvnetw=g&hvqmt=e&hvrand=9651998940140669448&hvtargid=kwd-297493624991&hydadcr=24491_1812059&keywords=steal+like+an+artist&qid=1616562423&sr=8-1)
+|Steal Like An Artist | Creativity | Austin Kleon | Bookstores | 9/10 | [Link](https://www.amazon.de/-/en/Austin-Kleon/dp/0761169253/ref=sr_1_1?adgrpid=82460957179&dchild=1&gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQitLQAkurrXgf3JUTAR4TFLTkE7sbYw1pCPzpWxsIQU1IDT6uN96zDcaAltvEALw_wcB&hvadid=394592758731&hvdev=c&hvlocphy=9067699&hvnetw=g&hvqmt=e&hvrand=9651998940140669448&hvtargid=kwd-297493624991&hydadcr=24491_1812059&keywords=steal+like+an+artist&qid=1616562423&sr=8-1)
 |The Baltimore Boys| Fiction | Joël Dicker | Amazon | 9.5/10 | [Link](https://www.amazon.com/Baltimore-Alison-Anderson-translator-Dicker/dp/0857056867)|
-|The Fifth Season| Science fantasy | N. K. Jemisin | Amazon | 9/10 | [Link](https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1616329101&sr=1-1)|
+|The Fifth Season | Science fantasy | N. K. Jemisin | Amazon | 9/10 | [Link](https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1616329101&sr=1-1)|
 |The Ice Princess | Crime Novel | Camilla Läckberg | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/crime-fiction/the-ice-princess/prod1150813pp/)|
-|The Royal Game| Novella|  Stefan Zweig | Amazon| 8.5/10| [Link](https://www.amazon.com/Royal-Game-translated-Stefan-Zweig-ebook/dp/B08LBT67W2/ref=sr_1_4?dchild=1&keywords=the+royal+game&qid=1616082952&sr=8-4)|
+|The Royal Game | Novella|  Stefan Zweig | Amazon| 8.5/10| [Link](https://www.amazon.com/Royal-Game-translated-Stefan-Zweig-ebook/dp/B08LBT67W2/ref=sr_1_4?dchild=1&keywords=the+royal+game&qid=1616082952&sr=8-4)|
 |The Secret History | Modern Literature | Donna Tartt | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/modern-literature/the-secret-history/prod141934/)|
 |The Selfish Gene | Non-Fiction | Richard Dawkins | Amazon | 10/10 | [Link](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Paperback/dp/B0722G5V92/ref=sr_1_2?crid=1Q7ZO9QVZSHC0&dchild=1&keywords=the+selfish+gene&qid=1616416041&s=books&sprefix=the+shelfi%2Cstripbooks-intl-ship%2C269&sr=1-2)|
-|The Sixth Man: A Memoir| Autobiography| Andre Iguodala | Amazon| 9.5/10| [Link](https://www.amazon.com/The-Sixth-Man-audiobook/dp/B07N487TMC/ref=sr_1_1?crid=12L3C7BF27NT6&dchild=1&keywords=the+sixth+man+iguodala&qid=1616082921&sprefix=the+sixth+man+iguo%2Caps%2C384&sr=8-1)|
+|The Sixth Man: A Memoir | Autobiography| Andre Iguodala | Amazon| 9.5/10| [Link](https://www.amazon.com/The-Sixth-Man-audiobook/dp/B07N487TMC/ref=sr_1_1?crid=12L3C7BF27NT6&dchild=1&keywords=the+sixth+man+iguodala&qid=1616082921&sprefix=the+sixth+man+iguo%2Caps%2C384&sr=8-1)|
 |The Unbearable Lightness of Being | Modern Literature | Milan Kundera | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/modern-literature/the-unbearable-lightness-of-being/prod140346/)|
 |Thinking, Fast and Slow | Psychology | Daniel Kahneman | Amazon | 9/10| [Link](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=391NW1M3NG4SX&dchild=1&keywords=think+fast+and+slow&qid=1616005195&sprefix=think+fast%2Caps%2C216&sr=8-1 "Thinking, Fast and Slow")|
 |To Kill a Mocking Bird | Classic Literature | Harper Lee | Public | 9.5/10| [Link](https://www.public.gr/product/to-kill-a-mockingbird/prod1260555pp/) |
 |We Hope This Reaches You in Time| poetry | Sin r.h. , King Holmes Samantha | Public | 9/10| [Link](https://www.public.gr/product/we-hope-this-reaches-you-in-time/prod10270092pp/ "We Hope This Reaches You in Time")|
 |We Were Liars | Young Adult Fiction | E. Lockhart. | Amazon | 9/10 | [Link](https://www.amazon.com/We-Were-Liars-Lockhart/dp/0385741278/ref=sr_1_1?dchild=1&keywords=we+were+liars&qid=1616411727&s=books&sr=1-1)|
+|When Nietzsche Wept | Modern Literature | Yalom Irvin D. | Public | 9/10 | [Link](https://www.public.gr/product/when-nietzsche-wept/prod2240341pp/ "When Nietzsche Wept")|
 |Zero to One| Management | Pieter Thiel | Public | 9.5/10| [Link](https://www.public.gr/product/books/greek-books/economics/management/zero-to-one/prod6840642pp/ "Zero to One")|
 
 
@@ -265,13 +266,16 @@ photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/
 | Manhattan| Whiskey| [video](https://www.youtube.com/watch?v=TFWPtkNoF4Y)|
 | Margarita| Tequila| [video](https://www.youtube.com/watch?v=lNwNvq8Kxl8)|
 | Martini| Vodka or Gin| [video](https://www.youtube.com/watch?v=hiQ57jbFY5s)|
-| Mojito| Rum | [video](https://www.youtube.com/watch?v=KWU9ZaWbeuQ)|
+| Mojito| Rum| [video](https://www.youtube.com/watch?v=KWU9ZaWbeuQ)|
 | Negroni| Gin, Sweet Vermouth, Campari| [video](https://www.youtube.com/watch?v=nh_3suGRbN8)|
 | Old Fashioned| Bourbon| [video](https://www.youtube.com/watch?v=mf1ax7y0yyI)|
 | Paloma| Tequila Blanco| [video](https://www.youtube.com/watch?v=2y6ZP1d18BU)|
 | Pina Colada| Rum| [video](https://www.youtube.com/watch?v=-wea2usJIAA)|
+| Porn star Martini| Vodka| [video](https://www.youtube.com/watch?v=IJG89JW1iaU)|
+| Tequila Sunrise| Tequila| [video](https://www.youtube.com/watch?v=QmBkd_Zxv8k)|
 | Tom Collins| Gin| [video](https://www.youtube.com/watch?v=bK_kBsqqA0I)|
-| White Russian| Vodka and coffe | [video](https://www.youtube.com/watch?v=Z0zqXFpuolw)|
+| White Russian| Vodka and coffe| [video](https://www.youtube.com/watch?v=Z0zqXFpuolw)|
+| Zombie| Rum| [video](https://www.youtube.com/watch?v=RebrdfQnMNs)| 
 
 ### Cocktails for the Adventurous Drinker
 
@@ -285,9 +289,9 @@ Unusual flavor combinations that actually work in drinks. Be sure to test them y
 |---| ---| ---| 
 | Bacon Me Angry | Vodka | [recipe](https://bacontoday.com/2015/01/19/bacon-me-angry-angry-orchard-cocktail/)|
 | Butternut Old Fashioned | Whiskey | [recipe](https://www.thespruceeats.com/little-doms-butternut-old-fashioned-recipe-761338)|
+| Eucalyptus Martini | Gin | [recipe](https://www.thespruceeats.com/eucalyptus-martini-recipe-760078)|
 | Ruby Queen | Vodka | [recipe](https://www.thespruceeats.com/ruby-queen-cocktail-recipe-759220)|
 | The Beer, Bourbon & Barbecue Cocktail | Whiskey | [recipe](https://www.thespruceeats.com/beer-bourbon-and-barbecue-cocktail-recipe-4156984)|
-| Eucalyptus Martini | Gin | [recipe](https://www.thespruceeats.com/eucalyptus-martini-recipe-760078)|
 
 For more details don't forget to check [this](https://www.thespruceeats.com/unique-cocktails-for-adventurous-drinkers-759874) out!
 
@@ -297,19 +301,19 @@ If you are not in the mood for alcohol, be sure to try these non-alcoholic cockt
 
 |Name| Difficulty | How to make | 
 |---| ---| ---|
-| Chai Blossom | Easy | [Get the recipe here](https://www.bonappetit.com/recipe/chai-blossom) |
-| Summer Cup Mocktail | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/summer-cup-mocktail) |
-| New York Sour Mocktail | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/new-york-sour-mocktail) |
-| Pear & Rose Punch | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/pear-apple-rose-punch) |
-| Raw Raspberry Shrub | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/raw-raspberry-shrub) |
-| Pinapple & Lime Mocktail | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/shine-light) |
-| Drivers' punch | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/drivers-punch) |
-| Pomegranate Mojito Mocktail | Easy | [Get the recipe here](https://www.bbcgoodfood.com/recipes/pomegranate-mojito-mocktail) |
-| Shirley Temple | Easy | [Get the recipe here](https://www.delish.com/cooking/recipe-ideas/a29813919/shirley-temple-drink-recipe/) |
-| Popsicle Punch | Easy | [Get the recipe here](https://www.delish.com/cooking/recipe-ideas/a22805581/popsicle-punch-recipe/) |
-| Moscow Mule Mocktail | Easy | [Get the recipe here](https://themerrythought.com/diy/moscow-mule-mocktail/) |
-| Citrus Strawberry Mocktail | Easy | [Get the recipe here](https://www.playpartyplan.com/citrus-strawberry-mocktail-recipe) |
-| Blueberry Maple Mojito | Easy | [Get the recipe here](https://www.healthyrecipeecstasy.com/blueberry-maple-mojito-mocktal-gender-reveal/) |
+| Blueberry Maple Mojito | Easy | [recipe](https://www.healthyrecipeecstasy.com/blueberry-maple-mojito-mocktal-gender-reveal/) |
+| Citrus Strawberry Mocktail | Easy | [recipe](https://www.playpartyplan.com/citrus-strawberry-mocktail-recipe) |
+| Chai Blossom | Easy | [recipe](https://www.bonappetit.com/recipe/chai-blossom) |
+| Drivers' punch | Easy | [recipe](https://www.bbcgoodfood.com/recipes/drivers-punch) |
+| Moscow Mule Mocktail | Easy | [recipe](https://themerrythought.com/diy/moscow-mule-mocktail/) |
+| New York Sour Mocktail | Easy | [recipe](https://www.bbcgoodfood.com/recipes/new-york-sour-mocktail) |
+| Pear & Rose Punch | Easy | [recipe](https://www.bbcgoodfood.com/recipes/pear-apple-rose-punch) |
+| Pinapple & Lime Mocktail | Easy | [recipe](https://www.bbcgoodfood.com/recipes/shine-light) |
+| Pomegranate Mojito Mocktail | Easy | [recipe](https://www.bbcgoodfood.com/recipes/pomegranate-mojito-mocktail) |
+| Popsicle Punch | Easy | [recipe](https://www.delish.com/cooking/recipe-ideas/a22805581/popsicle-punch-recipe/) |
+| Raw Raspberry Shrub | Easy | [recipe](https://www.bbcgoodfood.com/recipes/raw-raspberry-shrub) |
+| Shirley Temple | Easy | [recipe](https://www.delish.com/cooking/recipe-ideas/a29813919/shirley-temple-drink-recipe/) |
+| Summer Cup Mocktail | Easy | [recipe](https://www.bbcgoodfood.com/recipes/summer-cup-mocktail) |
 
 <img src="media/images/drink.jpg" alt="Drink responsibly">
 
