@@ -49,6 +49,25 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 
 
 ---
+<img align="left" width="40" height="40" src="media/icons/animeicon.jpg">
+
+## <a name="art"></a>Art
+Creating art can be of so many different types. It can be painting, constructing some art piece from recycled 
+materials, or also decorating your apartment/room. Especially painting can calm you really down and give you the 
+opportunity to express your feelings and emotions by using colors. The following tutorials will help you to make 
+the first step to become an artist and use the time during the pandemic more efficiently:
+
+* [Acrylic Painting Tutorial - Ocean Sunset (Beginner to Intermediate)](https://www.youtube.com/watch?v=VjCGJb5ltZM "Acrylic Painting")
+* [10 wonderful recycle do it yourself crafts that will brighten your room](https://www.youtube.com/watch?v=HkHEJEzMKwc "Recycling Crafts")
+* [24 cool decorative ideas you can do it yourself](https://www.youtube.com/watch?v=Uv-KC7szPN0 "Decorating Methods")
+* [Origami - Japanese Paperfolding Technique](https://www.origamiway.com/easy-origami.shtml "Origami Technique")
+* [EASY Step By Step Digital Collage TUTORIAL | NO DRAWING SKILLS REQUIRED | How To For Beginners](https://www.youtube.com/watch?v=xl3Zj_JgYKk "Digital Collage Tutorial")
+* [Basics of charcoal drawing](https://www.google.com/search?q=carbon+drawing&sxsrf=ALeKk00M9bDB-PlzL-DCft_0ae4hcXj4Dg%3A1616191227070&ei=-x5VYLHdA-anrgT0yrj4Dw&oq=carbon+drow&gs_lcp=Cgdnd3Mtd2l6EAEYADIICAAQFhAKEB4yBggAEBYQHjIICAAQFhAKEB4yCAgAEBYQChAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIIxAnOgQIABBDOggIABCxAxCDAToLCAAQsQMQxwEQowI6BQgAELEDOggILhCxAxCDAToECC4QQzoHCAAQsQMQQzoFCC4QsQM6AggAOggIABDHARCvAToECAAQCjoKCAAQxwEQrwEQCjoFCAAQywFQ3ClYqkBg9lpoAHACeACAAb4BiAHyDpIBBDAuMTKYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=gws-wiz#kpvalbx=_CB9VYN7QEOKwrgSlxZPQDg19 "Charcoal Drawing")
+* [Adult Colouring Books](https://www.amazon.com/s?k=adult+coloring+book&crid=3S3IZCUX5I7KQ&sprefix=adult+colo%2Caps%2C193&ref=nb_sb_noss_2)
+* [Beginner's guide to Digital Art](https://www.youtube.com/watch?v=5pmIYH1ugtk&ab_channel=Nadiaxel)
+
+---
+
 
 <img align="left" width="40" height="40" src="media/icons/art.png">
 
@@ -177,7 +196,7 @@ Best Apps for Organization and Productivity:
 * Memento [Find it here](https://apps.apple.com/us/app/momento-diary-journal/id980592846)
 * 24me Find it [here](https://apps.apple.com/us/app/24me-smart-personal-assistant/id557745942) for iOS and [here](https://play.google.com/store/apps/details?id=me.twentyfour.www&hl=en) for Android
 
-Tips to Organise your Bedroom:
+Tips to Organize your Bedroom:
 1. Designate a Home for Every Item
 2. Utilize Under Bed Storage
 3. Arrange Furniture by Frequency of Use
@@ -198,18 +217,18 @@ Let's be honest, Covid-19 pandemic and its several back-to-back lockdowns have b
 So, we are here to just say that we understand and that it's time to level up the game; Cocktail adventure nights! Do you want to advance you bartender skills or feel like a little kid again? Well, as you discover new tasty horizons and mix up your favorite ingredients, the art of mixology will start to unfold and we promise you to enjoy those lockdown days as they are passing by. 
 
 ### Organize your space.
-First things first; Before you start your mixing experiments, you need to set up your working station. There are not many things requiered for that, just the basic bar essentials and spirits of your preference.  
+First things first; Before you start your mixing experiments, you need to set up your working station. There are not many things required for that, just the basic bar essentials and spirits of your preference.  
 - Bar tool essentials: 
   1. Bar Spoons. You may already have some long-handle teaspoons but if you don't, you can find them [here](https://www.amazon.com/Hiware-Stirring-Stainless-Cocktail-Pattern/dp/B01EL7NAYU/ref=sr_1_9?keywords=bar+spoons&qid=1567433894&s=gateway&sr=8-9).
   2. Bottle opener & corkscrew. We are pretty sure everyone has at least one bottle opener of any kind. [Here](https://www.amazon.com/WHELVE-Mounted-Magnetic-Functional-Upcycled/dp/B07NQRGVTR/ref=sr_1_19_sspa?keywords=wall+mounted+bar+bottle+opener&qid=1567439614&s=gateway&sr=8-19-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQlU3VFdCSTJUT1E0JmVuY3J5cHRlZElkPUEwMTc3NjgzMVRYV0VQWFJVSjIxWCZlbmNyeXB0ZWRBZElkPUEwNDk1MjY2M1FHM0hTV0ZPM0VFVSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) is an extra idea if you are looking for something new.
   3. Cocktail shaker. Maybe the most important thing in a bar. For your homemade cocktails you probably won't need more than one shaker, which you can purchase [here](https://www.amazon.com/Boston-Cocktail-Shaker-Unweighted-Professional/dp/B07QFT835K/ref=sr_1_7?keywords=bar+cocktail+shaker&qid=1567440752&s=gateway&sr=8-7).
-  4. Cocktail strainer. If your cocktail shaker doesn’t come with a built-in strainer, you’ll definitly need one of these to create cold ice-free drinks. We suggest something stainless like [this](https://www.amazon.com/Hawthorne-Cocktail-Strainer-Professional-Mixologists/dp/B06WGNF3SX/ref=sr_1_4?keywords=bar+cocktail+strainer&qid=1567441714&s=gateway&sr=8-4).
+  4. Cocktail strainer. If your cocktail shaker doesn’t come with a built-in strainer, you’ll definitely need one of these to create cold ice-free drinks. We suggest something stainless like [this](https://www.amazon.com/Hawthorne-Cocktail-Strainer-Professional-Mixologists/dp/B06WGNF3SX/ref=sr_1_4?keywords=bar+cocktail+strainer&qid=1567441714&s=gateway&sr=8-4).
   5. Cutting board. That's an easy one too. Most kitchens are equipped with a wooden cutting board, but [here](https://www.amazon.com/Cutting-Board-Food-Prep-Restaurantware/dp/B075S5CX16/ref=sr_1_6?keywords=bar+cutting+board&qid=1567433589&s=gateway&sr=8-6) is a fresh suggestion to cut your cocktail garnishes. With a cutting board you provide your bar not only a hygienic and safe surface for cutting, but also you can avoid making a mess to your kitchen.
   6. Ice crusher. It's a must when making cold cocktails. Having an ice crusher is the ideal way to crush ice to the right consistency for your signature cocktails. [This one](https://www.amazon.com/Time-Treats-Iceberg-crusher-white/dp/B087VJ13WB/ref=sr_1_1?_encoding=UTF8&c=ts&dchild=1&keywords=Blenders+%26+Ice+Crushers&qid=1616503456&s=kitchen&sr=1-1&ts_id=289732) is portable and doesn’t take up much room. Alternatively, you can buy crushed ice, however this can increase your budget.
   7. Jigger. It is not as necessary as one might think, because the more cocktails you make the more familiar you become with the liquid doses. However, if you want to get some jiggers as a beginner mixologist or to be more professional one, then [this set](https://www.amazon.com/CucinaPrime-Cocktail-Jigger-Stainless-Steel/dp/B00VCBM4TQ/ref=sr_1_11?keywords=jigger&qid=1567444723&s=gateway&sr=8-11) is what you are looking for.
   8. Muddler. Your homemade bar requires a muddler,[like this](https://www.amazon.com/Extra-Long-Cocktail-Muddler-Professional/dp/B07DMFH8SF/ref=sr_1_1_sspa?keywords=muddler&qid=1567433016&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzRU5SODNEUTJQVThUJmVuY3J5cHRlZElkPUExMDM0ODMyTzFJVTJXMEVCM0ZSJmVuY3J5cHRlZEFkSWQ9QTA0ODY0MjgzSDVJMUFCNFJZQTExJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) if you want to bring out the aromatics of herbs and spices so that their flavors are released and infused into your cocktails.
   9. Rimmer. If you’re making margaritas and other drinks that require a rimmed glass edge, for a low budget you can always use a plate filled with salt or sugar, but [here](https://www.amazon.com/Greenco-Glass-Rimmer-Margarita-Cocktail/dp/B016YM64JI/ref=sr_1_15?keywords=rimmer+for+bar&qid=1567448578&s=gateway&sr=8-15) is a more professional option.
-  10. Proper kind of glasses. Last but not least, your bar will need the specific glasses to pour your creations, like Coupe Glasses, Single & Double Rocks Glasses, Highball & Collins Glasses, Nick & Nora Glasses and of course Shot glasses. Our suggetion is, if you don't have any of this kinds, to purchase just a pair of each and get more as your cocktail adventures proceed.[Here are the types of Cocktail Glasses You Actually Need](https://nymag.com/strategist/article/best-cocktail-glass-types.html).
+  10. Proper kind of glasses. Last but not least, your bar will need the specific glasses to pour your creations, like Coupe Glasses, Single & Double Rocks Glasses, Highball & Collins Glasses, Nick & Nora Glasses and of course Shot glasses. Our suggestion is, if you don't have any of this kinds, to purchase just a pair of each and get more as your cocktail adventures proceed.[Here are the types of Cocktail Glasses You Actually Need](https://nymag.com/strategist/article/best-cocktail-glass-types.html).
 
 - Bar spirit essentials:
   1. Rum: Its sweeter flavor makes it one of the more versatile spirits. It was among the first liquors to be mixed into drinks, so there are some excellent classic rum cocktails to choose from. It is the obvious base for tropical drinks and appears in several warm cocktails.
@@ -235,7 +254,7 @@ First things first; Before you start your mixing experiments, you need to set up
 Sources: [glimpose.blog](https://www.glimpsecorp.com/bar-tools-and-equipment-and-their-uses/), [the spruce eats](https://www.thespruceeats.com/essential-distilled-spirits-and-mixers-760741)
 
 ### Before you start: some important guidelines
-After you have collected all the essential equipment needed for starting your cocktail career, you might want to take some time to take a look at this section. Making a cocktail is undoubtedly a whole process, which may involves specific ingredients you have to make on your own. On the other hand, bartenders use so many tools that noone knows how to deal with them in the appropriate way. All this might look a whole different world, but I assure you there is no reason to worry about! It will take only a little of your time to learn how to use each element of your working station and perform successfully some basic ingredients of cocktails, as well as a true bartender!
+After you have collected all the essential equipment needed for starting your cocktail career, you might want to take some time to take a look at this section. Making a cocktail is undoubtedly a whole process, which may involves specific ingredients you have to make on your own. On the other hand, bartenders use so many tools that none knows how to deal with them in the appropriate way. All this might look a whole different world, but I assure you there is no reason to worry about! It will take only a little of your time to learn how to use each element of your working station and perform successfully some basic ingredients of cocktails, as well as a true bartender!
 
 Enough talking, let's get into action!
 
@@ -341,7 +360,7 @@ A simple python program to test your skills. Try developing it as a player vs co
 
 * Build a Twitter Bot
 
-You can make a program that helps you engage your audience while studying or working on other projects! You will have to sign up as a Twitter developer, but dont worry, it is not that difficult.
+You can make a program that helps you engage your audience while studying or working on other projects! You will have to sign up as a Twitter developer, but don't worry, it is not that difficult.
 
 * Alarm Clock
 
@@ -389,7 +408,7 @@ This application will require a robust database as it would contain the details 
 
 * Color Hunt Gaming Project
 
-Java Project Idea: Color hunt is an entertaining mind game which consists of letters with different colors arranged randomly on it. In this Java game, we mention a statement of a precise color and letter, which we’re supposed to click in the block box fastly. We need to click on the exact color which has been mentioned and the statement immediately keeps changing.
+Java Project Idea: Color hunt is an entertaining mind game which consists of letters with different colors arranged randomly on it. In this Java game, we mention a statement of a precise color and letter, which we’re supposed to click in the block box as fast as we can. We need to click on the exact color which has been mentioned and the statement immediately keeps changing.
 
 * I-card generator system
 
@@ -587,7 +606,7 @@ Click **here** for tutorials:
 
 Source: [http://www.bbc.com/earth/story/20150923-the-sun-creates-space-weather-that-affects-us-all?referer=https%3A%2F%2Fwww.google.gr%2F&referer=https%3A%2F%2Fwww.google.gr%2F&referer=https%3A%2F%2Fwww.google.gr%2F&referer=https%3A%2F%2Fwww.google.gr%2F](http://www.bbc.com/earth/story/20150923-the-sun-creates-space-weather-that-affects-us-all?referer=https%3A%2F%2Fwww.google.gr%2F&referer=https%3A%2F%2Fwww.google.gr%2F&referer=https%3A%2F%2Fwww.google.gr%2F&referer=https%3A%2F%2Fwww.google.gr%2F)
 
-Solar strom is a common phenomenom that the sun vommits million tons of plasma and radiation in random destinations, known as Coronal Mass Ejections (CME). A simple solar storm doesn't affect the earth, because atmosphere works as a filter to such waves, but if the wave is too big, then the wave will affect the global communication system and all the devices that use electricity will be out of order. Althought this effect affects the earth twice in a century, the mechanics know how to protect the system.
+Solar strom is a common phenomenon that the sun vomit's million tons of plasma and radiation in random destinations, known as Coronal Mass Ejections (CME). A simple solar storm doesn't affect the earth, because atmosphere works as a filter to such waves, but if the wave is too big, then the wave will affect the global communication system and all the devices that use electricity will be out of order. Although this effect affects the earth twice in a century, the mechanics know how to protect the system.
 
 Click **here** for tutorial:
 - [here](https://www.youtube.com/watch?v=oHHSSJDJ4oo&ab_channel=Kurzgesagt%E2%80%93InaNutshell)
@@ -624,7 +643,7 @@ Source: [https://phys.org/news/2021-01-extreme-black-holes-hair.html](https://ph
 
    Source: [https://www.reddit.com/r/space/comments/5qkole/s5_001481_the_largest_known_supermassive_black/](https://www.reddit.com/r/space/comments/5qkole/s5_001481_the_largest_known_supermassive_black/)
 
-   Actually the size of a black hole has no possible limit (althought scienctist say that it can't exist a black hole with 50 bln times the mass of our sun). The more matter it swallows, the bigger it can get. The easiest way for a black hole to grow is by swallow another black hole. In result, a new black hole will be created with both their masses and with unbelievable  gravitational power. In order to understand this better, in the above photo the dat in the center of the black hole, is how big is our solar system in front of this supermassive black hole..
+   Actually the size of a black hole has no possible limit (although scientists support that it can't exist a black hole with 50 bln times the mass of our sun). The more matter it swallows, the bigger it can get. The easiest way for a black hole to grow is by swallow another black hole. In result, a new black hole will be created with both their masses and with unbelievable  gravitational power. In order to understand this better, in the above photo the dat in the center of the black hole, is how big is our solar system in front of this supermassive black hole..
 
    Click **here** for tutorial:
    - [here](https://www.youtube.com/watch?v=yWO-cvGETRQ)
@@ -637,7 +656,7 @@ Source: [https://phys.org/news/2021-01-extreme-black-holes-hair.html](https://ph
 
    Source: [https://www.sciencenewsforstudents.org/article/could-spacetime-ripples-point-at-wormholes](https://www.sciencenewsforstudents.org/article/could-spacetime-ripples-point-at-wormholes)
 
-   The most obvious thing that everyone would imagine that might happen inside a black holem is complete destruction. Actually, Einstein with the relativity theory changed completly the way that we perceive black holes. If matter is capable of bending the time and space, then the black hole, which is the most amount of matter that can be located in a single spot, is doing the biggest den in spacetime. Therefore, if spacetime dimension is like a paper that is folded, the black hole is like a tube that unites the two surfaces. By entering a black hole, you will travel to another location of the universe, where you will be spit out from a white hole, like a detour. Althought, neither white hole nor wormhole have been found, they exist only in theory.
+   The most obvious thing that everyone would imagine that might happen inside a black hole is complete destruction. Actually, Einstein with the relativity theory changed completely the way that we perceive black holes. If matter is capable of bending the time and space, then the black hole, which is the most amount of matter that can be located in a single spot, is doing the biggest den in spacetime. Therefore, if spacetime dimension is like a paper that is folded, the black hole is like a tube that unites the two surfaces. By entering a black hole, you will travel to another location of the universe, where you will be spit out from a white hole, like a detour. Although, neither white hole nor wormhole have been found, they exist only in theory.
 
    Click **here** for tutorial:   
    - [here](https://www.youtube.com/watch?v=9P6rdqiybaw)
@@ -718,7 +737,7 @@ Image Source : https://www.dnv.com/news/reducing-cyclone-and-earthquake-challeng
 
 * __Area 51__
 
-The famous Area 51 in the Nevada desert is a military installation at the Nellis Military Operations Area. But the base quickly became known as the most secretive military site in the world because it does not exist on any map or government website, leading many to craft conspiracy theories.
+The famous Area 51 in the Nevada desert is a military installation at the Nelli's Military Operations Area. But the base quickly became known as the most secretive military site in the world because it does not exist on any map or government website, leading many to craft conspiracy theories.
 
 Some believe Area 51 is researching and experimenting on aliens and their spacecraft. More specifically, people think they are studying a crash that happened near Roswell, New Mexico, in 1947. Others theorize that the moon landing was staged at Area 51.
 
@@ -786,11 +805,11 @@ Source : https://en.wikipedia.org/wiki/List_of_conspiracy_theories
 <img align="left" width="40" height="40" src="media/icons/drinking-games.png">
 
 ## <a name="drinking-games"></a>Drinking Games
-Drinking games offer the oppurtinity to come closer with your friends and have a a great time **(Drink responsibly).**
+Drinking games offer the opportunity to come closer with your friends and have a a great time **(Drink responsibly).**
 * **Flip cup:** This is a team game, where two opposing groups stand on opposite sides of a table or counter, with a full cup in front of each player.
 The games begin, and the first players in line race to down their drinks, and then place their empty cups upside down on the edge of the surface. They then have to successfully flip their cups the right way up – not so easy once you've had a few – at which point the next player in line has to do the same. It's a relay, so the first team to get to the end wins!\
 *What you need: Large plastic cups(can also be used for [beerpong](#beerpong))*
-* **Drunk Jenga:** Buy a jenga set (there are loads of cheap ones on [Amazon](https://www.amazon.com/Jenga-A2120EU4-Classic-Game/dp/B00ABA0ZOA?ref_=ast_sto_dp&th=1&psc=1)), and write a different rule on the top of each wooden block. Things like 'drink two fingers of your drink'or 'have a shot'. The more you play, the drunker you'll get, and the more clumsy your game will be.\
+* **Drunk Jenga:** Buy a jenga set (there are loads of cheap ones on [Amazon](https://www.amazon.com/Jenga-A2120EU4-Classic-Game/dp/B00ABA0ZOA?ref_=ast_sto_dp&th=1&psc=1)), and write a different rule on the top of each wooden block. Things like 'drink two fingers of your drink 'or 'have a shot'. The more you play, the drunker you'll get, and the more clumsy your game will be.\
 *What you need: A jenga set.*
 * **Back to back:** Two people in your group stand back to back, drinks in hand. The rest of the group ask them a 'Who's the most likely to....' question, and which ever member thinks they're the most likely to, drinks. If one of them drinks, you ask the next question. If they both drink, they both have to drink again. If neither of them drink, they also both have to drink again.\
 *What you need: Only your drinks.*
@@ -824,7 +843,7 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 **Workout tips:**
 
 * Set realistic goals
-* Set a weekly programm and stick to it
+* Set a weekly program and stick to it
 * Write down what you want to achieve with every training
 * Find a workout buddy
 * Eat at least one-two hours before you train
@@ -904,7 +923,7 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 
 * 40 min Power pilates workout [video](https://www.youtube.com/watch?v=AePgbGKj6yk)
 * 30 min Power pilates workout [video](https://www.youtube.com/watch?v=oLuq_J_ptVw)
-* 50 min Power pilates and cardio wokrout [video](https://www.youtube.com/watch?v=hNfsWaT00rw)
+* 50 min Power pilates and cardio workout [video](https://www.youtube.com/watch?v=hNfsWaT00rw)
 
 **Dance workouts (Have the best time and burn calories!):** 
 * 10 min R&B Dance [video](https://www.youtube.com/watch?v=89lzERjtwqE&t=305s)
@@ -948,14 +967,14 @@ Quarantine gives you  a great opportunity to feel healthy again.These apps will 
 
 **Running:**
 
-The quarantine is a great opportunity to practise your running skills. Running during quarantine is a great way improve your stamina and compete to various virtual running challenges with others around the globe, and why not, attempt to run your first marathon! Below you may find useful running tutorials:
+The quarantine is a great opportunity to practice your running skills. Running during quarantine is a great way improve your stamina and compete to various virtual running challenges with others around the globe, and why not, attempt to run your first marathon! Below you may find useful running tutorials:
 
 * Useful Running Tips for Beginners [video](https://www.youtube.com/watch?v=kVnyY17VS9Y)
 * Run your first 5k [video](https://www.youtube.com/watch?v=YACmfwcBDnM&list=PLRjIvR8JIRzE6plDzDDwkUmjR5be_aud1)
 * Keep a perfect running form [video](https://www.youtube.com/watch?v=brFHyOtTwH4)
 * Useful 2+ hour run tips [video](https://www.youtube.com/watch?v=xzlmjvLpKw8)
 
-You may also find some really useful running guides and training plans for beginner and expericenced runners [here](https://www.runningshoesguru.com/free-running-training-plans/).
+You may also find some really useful running guides and training plans for beginner and experienced runners [here](https://www.runningshoesguru.com/free-running-training-plans/).
 
 * **Running apps:** using exercise tracking apps to train, has been proven to greatly increase motivation ([related paper](https://www.sciencedirect.com/science/article/pii/S0747563220302752?casa_token=DE2BlRmSeAIAAAAA:6DqidfQjZrwM_oiVU2E73e9lxkYNjupnNKCCkGkqbSVXWIzm4PoEtMbJmoiJ000TFQ1zIQ9-)). Downloading a running app may help you achieve your goals faster, keep track of your daily exercise routine as well as socialize with people sharing the same passion for exercise! Below, you may find some useful running apps to download:
   * Best for getting motivated: [Human](http://human.co/#)
@@ -1089,7 +1108,7 @@ Meditation is a fun and relaxing way to spend your time in quarantine. Try lying
 * 20-minute meditation - [link](https://www.youtube.com/watch?v=-2zdUXve6fQ&ab_channel=TheMindfulMovement)
 >[Here is a good playlist to help you relax!](https://www.youtube.com/watch?v=oJnF5VxTO5g "Chill & Relax")
 
-#### If you are a begginer, here are a few steps to help you start:
+#### If you are a beginner, here are a few steps to help you start:
 1. Find a nice place in your house and take a seat
 2. Set a time limit (5-10 minutes for starters)
 3. Notice your body, make sure you are stable and in a position where you can stay for a long time.
@@ -1268,9 +1287,9 @@ Here you can see some useful videos to start learning!
 
 * [10 easy pieces for beginners](https://youtu.be/cd62yluRmsc/)
 * [10 best and easy riffs for beginners](https://youtu.be/7PxvFRFIFFg/)
-* [5 basic rythms in Guitar](https://youtu.be/f-tJjTIZvWI/)
+* [5 basic rhythms in Guitar](https://youtu.be/f-tJjTIZvWI/)
 * [How to find the rythm of a song](https://youtu.be/OcPL-iFbKUI/)
-* [The most important rythm in guitar](https://youtu.be/RYVQ4SDbPWc/)
+* [The most important rhythm in guitar](https://youtu.be/RYVQ4SDbPWc/)
 
 #### Piano
 
@@ -1290,15 +1309,15 @@ It really doesn't matter how old or young you are, and even if you’ve never pl
 * borrow a ukulele from a friend or buy one that feels right for you
 * get in the right mindset to play and put aside your fears and doubts about playing
 * tune your ukulele
-* practise some chords starting with C
-* practise a strumming pattern
+* practice some chords starting with C
+* practice a strumming pattern
 * learn a song and enjoy yourself
 
 Source: https://ukuleletricks.com/how-to-play-ukulele/
 
 ### Writing/Composing Music
 
-The quarantine is a great opportunity if you want to compose your own music! You can check out [MuseScore](https://musescore.com/), the world's leading free and open-source software for writing music. It offers a user-friendly interface and immensely powerful features. If you are interested, you may also want to check out MuseScore's GitHub reposotory [here](https://github.com/musescore/MuseScore).
+The quarantine is a great opportunity if you want to compose your own music! You can check out [MuseScore](https://musescore.com/), the world's leading free and open-source software for writing music. It offers a user-friendly interface and immensely powerful features. If you are interested, you may also want to check out MuseScore's GitHub repository [here](https://github.com/musescore/MuseScore).
 
 Additionally, MuseScore offers a large database of free-to-access sheet music. You can find sheet music ranging from [Imagine by John Lennon](https://musescore.com/user/6662591/scores/4369656) to [Undertale theme song](https://musescore.com/user/5174461/scores/1321576)!
 
@@ -1309,7 +1328,7 @@ Additionally, MuseScore offers a large database of free-to-access sheet music. Y
 
 ## <a name="online_course"></a>Study online Courses 
 Take advantage of quarantine by investing in yourself!
-Learn a topic that interests you from an online class! Below you can find various sites for online cources as well as examples of online courses.  
+Learn a topic that interests you from an online class! Below you can find various sites for online courses as well as examples of online courses.  
 
 <img src="media/images/online_course.jpg" alt="online course" width="500"/>
 
@@ -1337,11 +1356,11 @@ Sites for online courses:
 Online courses: 
 |TITLE|LENGTH|PRICE|INSTITUTION|LEVEL | LANGUAGE| HOST SITE| LINK|
 |---| ---|  ---| ---|---|---|---|---|
-|Project Management Professional |240 hours|32/month|Google|Begginer |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/professional-certificates/google-project-management "Project Management Professional Certificate")|
+|Project Management Professional |240 hours|32/month|Google|Beginner |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/professional-certificates/google-project-management "Project Management Professional Certificate")|
 |Cybersecurity Fundamentals|96 hours|Free|RITx|Advanced|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/cybersecurity-fundamentals "Cybersecurity Fundamentals")|
 |Bitcoin and Cryptocurrencies|30 hours|Free|BerkleyX|Introductory|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/bitcoin-and-cryptocurrencies?index=product&queryID=b3b6160e788842372317117050e9c774&position=1 "Bitcoin and Cryptocurrencies")|
 |Introduction to Machine Learning|25 hours|Free|Duke|Intermediate |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/learn/machine-learning-duke "Introduction to Machine Learning")|
-|Statistics and R|16 hours|Free|HarvardX|Intermidiate|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/statistics-and-r "Statistics and R")|
+|Statistics and R|16 hours|Free|HarvardX|Intermediate|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/statistics-and-r "Statistics and R")|
 |Introduction to Psychology|15 hours|40/month|Yale|Beginner |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/learn/introduction-psychology "Introduction to Psychology")|
 
 Photo owned by [transform-elearning.com](https://www.transform-elearning.com/build-online-course-guide/)  
@@ -1356,13 +1375,13 @@ Icon source: [iconscout.com ](https://iconscout.com/icon/online-course-8)
 
 It's corona time for sure but that doesn't mean you can't spend quality time with your friends outside.
 
-Get two friends who you live close to and arrange a fun activity to do together. Make sure you respect the COVID-19 mesures and stay safe.
+Get two friends who you live close to and arrange a fun activity to do together. Make sure you respect the COVID-19 measures and stay safe.
 
 * __Hoops__
 
    Remember when as kids we used to run around all the time and actually played games like basketball, volleyball and football? 
 
-   Going for hoops with a friend or two will get your spirits up (without tiring you much) and definately make you feel nostalgic of your childhood.
+   Going for hoops with a friend or two will get your spirits up (without tiring you much) and definitely make you feel nostalgic of your childhood.
 
 * __Cycling__
 
@@ -1395,8 +1414,8 @@ improve a foreign language or two, experience university life in a foreign insti
 Start by visiting the [university page](https://www.dept.aueb.gr/el/dmst/content/%CF%80%CF%81%CF%8C%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1-erasmus), which includes lots of information
 about the procedure and the available destinations. Before you decide on your top 3 destinations, it is recommended to write down the pros and cons of all the
 universities you are interested in. In case you need more information on a university or country you can check [this facebook group](https://www.facebook.com/groups/2069463463353183)
-and the [ESN AUEB page](https://www.facebook.com/ESNAthensAUEB), where you can ask to be connected to students with erasmus experiences in the universities that you are interested in.
-Lastly, you can also check [this video](https://www.youtube.com/watch?v=IilqhLVRP6U&t=3s&ab_channel=LosAngie) in order to get more information on how to apply for an erasmus exchange.
+and the [ESN AUEB page](https://www.facebook.com/ESNAthensAUEB), where you can ask to be connected to students with Erasmus experiences in the universities that you are interested in.
+Lastly, you can also check [this video](https://www.youtube.com/watch?v=IilqhLVRP6U&t=3s&ab_channel=LosAngie) in order to get more information on how to apply for an Erasmus exchange.
 
 Photo owned by [ied.eu](https://ied.eu/blog/the-erasmus-plus-programme/)
 
@@ -1411,7 +1430,7 @@ Tired of daydreaming about future trips? Get hands-on and start organizing your 
 
 You could start by selecting your travel destination. There are a lot of websites, like [Triptile](https://triptile.com/), 
 that let you plan your trip by first selecting a country or a city that you would like to visit (you could also add multiple stops to your trip)
-and then select among a number af activities that you could engage in during your trip. Triptile also recommends hotels to stay in and then
+and then select among a number of activities that you could engage in during your trip. Triptile also recommends hotels to stay in and then
 calculates your estimated cost, depending on the days you spend on each city, the hotel room price per day and the extra activities that you have added on your trip.
 
 ### Planning a trip in Europe
@@ -1492,10 +1511,10 @@ If you like tech projects and you want to work with a full-on computer in tiny p
 * Build a vpn server with raspberry pi ([Tutorial](https://www.pcmag.com/how-to/how-to-create-a-vpn-server-with-raspberry-pi)).
 
 #### Projects suitable for children:
-Do you want your kid to learn more about technology that just use facebook? Raspberry pi projects for children are the right choice for you.
+Do you want your kid to learn more about technology that just use Facebook? Raspberry pi projects for children are the right choice for you.
 
 Here are some interesting projects:
-* Make Robots with rasberry pi and arduino ([Tutorial](https://create.arduino.cc/projecthub/jithinsanal1610/robotics-for-beginners-and-kids-build-your-robot-now-4b6b27))
+* Make Robots with Raspberry pi and Arduino ([Tutorial](https://create.arduino.cc/projecthub/jithinsanal1610/robotics-for-beginners-and-kids-build-your-robot-now-4b6b27))
 * Program a game using [scratch](https://scratch.mit.edu/) ([Tutorial](https://junilearning.com/blog/coding-projects/how-to-make-a-scratch-game-step-by-step/))
 
 You can also check out a variety of projects for kids at [projects.raspberrypi.org](https://projects.raspberrypi.org/en/projects)
@@ -1512,7 +1531,7 @@ My recommendations for kids' projects from raspberrypi.org:
 ### Other projects
 
 * Turn your balcony into a small garden.
-* Start a wordpress blog.
+* Start a Wordpress blog.
 
 ---
 <img align="left" width="40" height="40" src="media/icons/podcasts.jpg">
@@ -1741,7 +1760,7 @@ Why don't you take a virtual tour via **youtube**?
 
 [Come and relax on youtube's virtual trips now!](https://www.youtube.com/watch?v=2Qcf1K3hP2g)
 
-Do you want to drive around your favourite cities while listening to their local radios?
+Do you want to drive around your favorite cities while listening to their local radios?
 If yes, then you should definitely try the [Drive & Listen APP](https://driveandlisten.herokuapp.com/?fbclid=IwAR2jQV27oRk5A4UmCgGNEKwu2JXxDCuqm-6sqKrmLalAnO2N7bjXGVgcnhg)!
 
 Take a look at any country from a drone's perspective! If you prefer exploring a country from above, visit [Fly & Listen](http://flyandlisten.com/?fbclid=IwAR2uuxF_Xd0vKNfpXIlh9N5f4nItuzQ-Lbhbj4WpC4CMWHgKd-EeVrYlvwg). You can choose
@@ -1851,7 +1870,7 @@ Do you like cars? Of course you do! Who doesn't?
 
 Section icon Source: https://2sleepylagoonter.info/car-news/best-cars/top-10-best-sports-cars
 
-### If you like car videos you should definetely check these youtube channels:
+### If you like car videos you should definitely check these youtube channels:
 
 * [Motor Trend Channel](https://www.youtube.com/user/MotorTrend/videos)
 * [Top Gear](https://www.youtube.com/user/TopGear/videos)
@@ -1884,10 +1903,10 @@ There are many types of content produced by writing, like for example:
 - Personal journals: Here are some journaling prompts to help your reflection journey:
 	- What are the 3 biggest lessons you've learned over the last year?
 	- Write down 10 things no one knows about you.
-	- Close your eyes and take yourself on your favourite walk. What do you observe?
+	- Close your eyes and take yourself on your favorite walk. What do you observe?
 	- What is a resolution you made in January that you have let slip? How can you pick it back up?
 	- What gives you hope for the rest of this year? Why is 2021 a good one?
-	- What are your 10 favourite things about yourself?
+	- What are your 10 favorite things about yourself?
 	- Look around your room. What are you grateful for today in the ordinary?
 - Technology documentations
 - Blog posts
@@ -1902,7 +1921,7 @@ __Editing__ and __Writing__ are not the same thing. Whenever you write something
 <img align="left" width="40" height="40" src="media/icons/youtubeicon.png">
 
 ## <a name="youtube"></a>Binge Youtube
-Youtube is an American owned video-sharing platform with headquarters located in California . Being the second most visited website in 2020 it has long evolved from it's days of being a platform for users to upload random content they thought was funny or interesting , nowdays it can provide meaningful content that could surely accompany us in the lonely days the quarantine has given us.Below you can find some channels i thought could interest you 
+Youtube is an American owned video-sharing platform with headquarters located in California . Being the second most visited website in 2020 it has long evolved from it's days of being a platform for users to upload random content they thought was funny or interesting , nowadays it can provide meaningful content that could surely accompany us in the lonely days the quarantine has given us.Below you can find some channels i thought could interest you. 
 
 ### Notable Channels
 
