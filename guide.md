@@ -691,6 +691,8 @@ Under MKUltra, the CIA gave itself the authority to research how drugs could: ‚Ä
 <img src="media/images/mkultra.jpeg" alt="Quarantine Activities"/>
 Image Source : https://www.theguardian.com/tv-and-radio/shortcuts/2016/aug/15/netflix-stranger-things-project-mkultra
 
+
+
 * __Flat Earth__
 
 Flat Earth theory first emerged in 19th-century England, despite the Earth's spherical nature having been known since at least the time of Pythagoras. Lately, it has been promoted by American software consultant Mark Sargent through the use of YouTube videos. Flat-earther conspiracy theorists believe that planet Earth is not a sphere, and that evidence has been faked to hide the fact that is instead a disc, or a single infinite plane. The conspiracy often implicates NASA. Other claims include that GPS devices are rigged to make aircraft pilots wrongly believe they are flying around a globe.
@@ -698,12 +700,16 @@ Flat Earth theory first emerged in 19th-century England, despite the Earth's sph
 <img src="media/images/flatearth.jpeg" alt="Quarantine Activities"/>
 Image Source : https://theconversation.com/flat-earthers-vs-climate-change-sceptics-why-conspiracy-theorists-keep-contradicting-each-other-96060
 
+
+
 * __Weather and earthquake control projects__
 
 Many theories pertain to real or alleged weather-controlling projects. Theories include the debunked assertion that HAARP, a radio-technology research program funded by the US government, is a secret weather-controlling system. Some theorists blamed HAARP for 2005's Hurricane Katrina. HAARP has also been suggested to have somehow caused earthquakes, such as the 2011 T≈çhoku earthquake and tsunami, the 2013 Saravan earthquake or the 2010 Haiti earthquake. Some HAARP-related claims refer to mind-control technology.
 
 <img src="media/images/weather.jpeg" alt="Quarantine Activities"/>
 Image Source : https://www.dnv.com/news/reducing-cyclone-and-earthquake-challenges-for-wind-turbines-144220
+
+
 
 
 * __Area 51__
@@ -716,6 +722,8 @@ The government has said the facility is used to test experimental aircraft for t
 
 <img src="media/images/area51.jpeg" alt="Quarantine Activities"/>
 Image Source : https://theconversation.com/flat-earthers-vs-climate-change-sceptics-why-conspiracy-theorists-keep-contradicting-each-other-96060
+
+
 
 * __QAnon__
 
@@ -730,11 +738,15 @@ However, the claims within the conspiracy theories are not supported by evidence
 <img src="media/images/qanon.jpeg" alt="Quarantine Activities"/>
 Image Source : https://www.nature.com/articles/d41586-021-00257-y
 
+
+
 * __Alaska mind control__
 
 In the mountains of Alaska, you can find the High-Frequency Active Auroral Research Program that helps scientists study the farthest distances of the atmosphere. The facility sits on 33 acres of land and has over 180 antennas. The antennas have collected data about the aurora borealis, radio waves, and other atmospheric occurrences.
 
 But some think the antennas are an experimental weapon that can control people's minds, according to the Smithsonian. Others believe it caused the Columbia space shuttle to destruct in 2003. In 2016, however, the facility held an open house so the public could see that they were not up to anything dangerous.
+
+
 
 * __Malaysia Airlines Flight MH370__
 
@@ -745,6 +757,8 @@ H. Fetzer has placed responsibility for the disappearance with Israeli Prime Min
 
 <img src="media/images/malaysia.jpeg" alt="Quarantine Activities"/>
 Image Source : https://www.bbc.com/news/magazine-26609687
+
+
 
 * __Chemtrails__
 
