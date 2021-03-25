@@ -9,6 +9,7 @@ Photo owned by [csuchico.edu](https://www.csuchico.edu/)
 Not sure how to spend time in lockdown? This guide contains a range of different activities to choose from.
 
 ## <a name="categories"></a>Categories
+* [Anime](#anime)
 * [Art](#art)
 * [Board Games](#board-games)
 * [Books](#books)
@@ -46,6 +47,58 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Binge Youtube](#youtube)
 
 [Note : Before you head outside](#note)
+
+
+
+---
+<img align="left" width="40" height="40" src="media/icons/animeicon2.jpg">
+
+## <a name="art"></a>Anime
+
+### What is Anime
+
+Anime describes all animated work , despite of style and origin until early 2000's anime was produced strictly by and for Japan , in the last 20 years we have seen anime growing into a worldwide phenomenon creating a fanbase of millions and being translated into numerous languages . A whole generation of viewers myself included have grown watching their favorite anime , turning what was once "branded" as child-show and cartoon into a something everyone can and should enjoy in their free time. 
+
+
+### My Hero Academia (from 2016)
+
+<img align="left" src="media/images/myhacademia.jpg">
+
+**My Hero Academia (僕のヒーローアカデミア)** continues to be one of the most popular ongoing anime getting traction incredibly fast . A Shonen anime about a young boy called Izuku born without power's in a world dominated by heroes
+and villains that are born with extraordinary power's ,called quirks what is going to happen when he will inherit the world's strongest power by the world's strongest hero All Might? 
+
+
+Air Dates: from 2016 
+Genre: Action, Fantasy
+Recommended for Beginners
+
+### Tokyo Ghoul (2014-2018)
+<img align="left" src="media/images/tokyoghoul.jpg">
+
+**Tokyo Ghoul (東京喰種トーキョーグール)** is a dark fantasy anime, depicting a world inhabited by ghouls that are seemingly human blending in society, the problem is that they need human flesh to survive . Our protagonist is Kaneki-Kun a young student that spirals uncontrollably in the underworld of ghouls trying to find his place in the world after a transplantation change's his life for ever.
+
+
+Air Dates: 2014-2018
+Genre: Dark Fantasy
+Recommended for Anime Fans/Anime Freaks
+
+### Dragonball (From 1984)
+<img align="left" src="media/images/dragonball.jpg">
+
+**Dragonball (東京喰種トーキョーグール)** is perhaps the most well known anime in the western world releasing episodes for more than 35 years , and for good reason it is a fan favorite and the easiest way to get your friends into anime. The story depicts the life of Goku an alien from the planet Vegeta , with super-powers following him in his adventures and the everlasting responsibility of protecting earth whom he dearly loves. 
+
+
+Air Dates: Action, Adventure
+Genre: from 1984
+Recommended for Beginners
+
+
+
+
+
+
+
+
 
 
 
