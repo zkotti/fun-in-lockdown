@@ -18,7 +18,9 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Coding Projects](#coding-projects)
 * [Cooking](#cooking)
 * [Covid-19 Infection](#covid-infection)
+* [Discover Space](#Discover-Space)
 * [Down the rabbit hole](#conspiracies)
+* [Drinking games](#drinking-games)
 * [Exercise](#exercise)
 * [Facetime your long-distance friends](#facetime)
 * [Gardening](#gardening)
@@ -30,11 +32,13 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Outdoor Activities with Friends](#outdoor_activities)
 * [Plan your Erasmus](#erasmus)
 * [Plan your next trip](#trips)
+* [Social Movements](#social-movements)
 * [Start a new Project](#projects)
 * [Start listening to Podcasts](#podcasts)
 * [Video Games](#video-games)
 * [Video Making](#videomaking)
 * [Virtual Tours-Trips](#trips-tours)
+* [Create your own Video Game](#create-video-game)
 * [Walks in Town](#walks)
 * [Work with cars](#Work-with-cars)
 * [Writing](#writing)
@@ -123,31 +127,32 @@ Photo owned by [elearningindustry.com](https://elearningindustry.com/top-10-book
 |21 Lessons for the 21st Century | Non-Fiction | Yuval Noah Harrari | Amazon | 9/10 | [Link](https://www.amazon.com/gp/product/B079WM7KLS/ref=dbs_a_def_rwt_bibl_vppi_i1)|
 |Algorithms to Live By: The Computer Science of Human Decisions | Non-Fiction | Brian Christian & Tom Griffiths | Amazon | 9.5/10 | [Link](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)|
 |Atlantis | Historical Novel | David Gibbins | Amazon| 10/10| [Link](https://www.amazon.com/gp/product/0755324226/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0755324226&SubscriptionId=1MGPYB6YW3HWK55XCGG2) |
-|Chaos| History & Science | James Gleik | bookstores | 7/10 | [Link](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453) |
-|Crime and Punishment| Crime fiction | Fyodor Dostoevsky | Amazon| 9/10| [Link](https://www.amazon.com/Crime-Punishment-Volokhonsky-Translation-Classics/dp/0679734503/ref=sr_1_1?crid=2ECOFGIAH7E7F&dchild=1&keywords=crime+and+punishment&qid=1616082855&sprefix=crime+and%2Caps%2C312&sr=8-1)|
+|Chaos | History & Science | James Gleik | bookstores | 7/10 | [Link](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453) |
+|Crime and Punishment | Crime fiction | Fyodor Dostoevsky | Amazon| 9/10| [Link](https://www.amazon.com/Crime-Punishment-Volokhonsky-Translation-Classics/dp/0679734503/ref=sr_1_1?crid=2ECOFGIAH7E7F&dchild=1&keywords=crime+and+punishment&qid=1616082855&sprefix=crime+and%2Caps%2C312&sr=8-1)|
 |Factfulness | Non-Fiction | Hans Rosling | Amazon | 9/10 | [Link](https://www.amazon.com/Factfulness-Reasons-World-Things-Better/dp/1250123828/ref=sr_1_1?crid=AWTNDRHKCZMH&dchild=1&keywords=factfulness&qid=1616416120&s=books&sprefix=factful%2Cstripbooks-intl-ship%2C266&sr=1-1)|
 |Homo Deus: A Brief History of Tomorrow | Non-Fiction | Yuval Noah Harrari | Amazon | 10/10 | [Link](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464345/ref=pd_lpo_14_img_0/138-6955471-0282806?_encoding=UTF8&pd_rd_i=0062464345&pd_rd_r=79940c5c-c962-4bff-97f0-d312b9386d69&pd_rd_w=eY4eA&pd_rd_wg=OWlZW&pf_rd_p=337be819-13af-4fb9-8b3e-a5291c097ebb&pf_rd_r=76HARP4SKM7BRFS4FGE9&psc=1&refRID=76HARP4SKM7BRFS4FGE9)|
 |Influence: The Psychology of Persuasion | Psychology | Robert B. Cialdini | Amazon| 9.5/10| [Link](https://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X) |
-|Little Women| Classic Novel | Alcott Louisa | Public | 9/10 | [Link](https://www.public.gr/product/mikres-kyries/prod851670pp/)|
+|Little Women | Classic Novel | Alcott Louisa | Public | 9/10 | [Link](https://www.public.gr/product/mikres-kyries/prod851670pp/)|
 |Murder on the Orient Express | Crime Novel | Agatha Christie | Amazon | 9/10 | [Link](https://www.amazon.com/Murder-Orient-Express-Hercule-Mysteries/dp/0062073508)|
 |Norwegian Wood | Fiction | Haruki Murakami | Amazon | 9/10 | [Link](https://www.amazon.com/Norwegian-Wood-Haruki-Murakami/dp/1860468004)|
 |Pharaoh | Historical Novel | Valerio Manfredi | Amazon| 10/10| [Link](https://www.amazon.com/gp/product/0230530737/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0230530737&SubscriptionId=1MGPYB6YW3HWK55XCGG2) |
 |Rich Dad Poor Dad | Personal Finance |  Robert T. Kiyosaki | Amazon| 9.5/10| [Link](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194) |
 |Sapiens: A Brief History of Humankind | Non-Fiction | Yuval Noah Harrari | Amazon | 10/10 | [Link](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)|
 |Six of Crows | Fantasy, Fiction | Leigh Bardugo | Amazon | 9/10 | [Link](https://www.amazon.com/Six-Crows-Leigh-Bardugo-ebook/dp/B00UG9LC4I)|
-|Steal Like An Artist| Creativity | Austin Kleon | Bookstores | 9/10 | [Link](https://www.amazon.de/-/en/Austin-Kleon/dp/0761169253/ref=sr_1_1?adgrpid=82460957179&dchild=1&gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQitLQAkurrXgf3JUTAR4TFLTkE7sbYw1pCPzpWxsIQU1IDT6uN96zDcaAltvEALw_wcB&hvadid=394592758731&hvdev=c&hvlocphy=9067699&hvnetw=g&hvqmt=e&hvrand=9651998940140669448&hvtargid=kwd-297493624991&hydadcr=24491_1812059&keywords=steal+like+an+artist&qid=1616562423&sr=8-1)
+|Steal Like An Artist | Creativity | Austin Kleon | Bookstores | 9/10 | [Link](https://www.amazon.de/-/en/Austin-Kleon/dp/0761169253/ref=sr_1_1?adgrpid=82460957179&dchild=1&gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQitLQAkurrXgf3JUTAR4TFLTkE7sbYw1pCPzpWxsIQU1IDT6uN96zDcaAltvEALw_wcB&hvadid=394592758731&hvdev=c&hvlocphy=9067699&hvnetw=g&hvqmt=e&hvrand=9651998940140669448&hvtargid=kwd-297493624991&hydadcr=24491_1812059&keywords=steal+like+an+artist&qid=1616562423&sr=8-1)
 |The Baltimore Boys| Fiction | Joël Dicker | Amazon | 9.5/10 | [Link](https://www.amazon.com/Baltimore-Alison-Anderson-translator-Dicker/dp/0857056867)|
-|The Fifth Season| Science fantasy | N. K. Jemisin | Amazon | 9/10 | [Link](https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1616329101&sr=1-1)|
+|The Fifth Season | Science fantasy | N. K. Jemisin | Amazon | 9/10 | [Link](https://www.amazon.com/Fifth-Season-Broken-Earth/dp/0316229296/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1616329101&sr=1-1)|
 |The Ice Princess | Crime Novel | Camilla Läckberg | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/crime-fiction/the-ice-princess/prod1150813pp/)|
-|The Royal Game| Novella|  Stefan Zweig | Amazon| 8.5/10| [Link](https://www.amazon.com/Royal-Game-translated-Stefan-Zweig-ebook/dp/B08LBT67W2/ref=sr_1_4?dchild=1&keywords=the+royal+game&qid=1616082952&sr=8-4)|
+|The Royal Game | Novella|  Stefan Zweig | Amazon| 8.5/10| [Link](https://www.amazon.com/Royal-Game-translated-Stefan-Zweig-ebook/dp/B08LBT67W2/ref=sr_1_4?dchild=1&keywords=the+royal+game&qid=1616082952&sr=8-4)|
 |The Secret History | Modern Literature | Donna Tartt | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/modern-literature/the-secret-history/prod141934/)|
 |The Selfish Gene | Non-Fiction | Richard Dawkins | Amazon | 10/10 | [Link](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Paperback/dp/B0722G5V92/ref=sr_1_2?crid=1Q7ZO9QVZSHC0&dchild=1&keywords=the+selfish+gene&qid=1616416041&s=books&sprefix=the+shelfi%2Cstripbooks-intl-ship%2C269&sr=1-2)|
-|The Sixth Man: A Memoir| Autobiography| Andre Iguodala | Amazon| 9.5/10| [Link](https://www.amazon.com/The-Sixth-Man-audiobook/dp/B07N487TMC/ref=sr_1_1?crid=12L3C7BF27NT6&dchild=1&keywords=the+sixth+man+iguodala&qid=1616082921&sprefix=the+sixth+man+iguo%2Caps%2C384&sr=8-1)|
+|The Sixth Man: A Memoir | Autobiography| Andre Iguodala | Amazon| 9.5/10| [Link](https://www.amazon.com/The-Sixth-Man-audiobook/dp/B07N487TMC/ref=sr_1_1?crid=12L3C7BF27NT6&dchild=1&keywords=the+sixth+man+iguodala&qid=1616082921&sprefix=the+sixth+man+iguo%2Caps%2C384&sr=8-1)|
 |The Unbearable Lightness of Being | Modern Literature | Milan Kundera | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/modern-literature/the-unbearable-lightness-of-being/prod140346/)|
 |Thinking, Fast and Slow | Psychology | Daniel Kahneman | Amazon | 9/10| [Link](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=391NW1M3NG4SX&dchild=1&keywords=think+fast+and+slow&qid=1616005195&sprefix=think+fast%2Caps%2C216&sr=8-1 "Thinking, Fast and Slow")|
 |To Kill a Mocking Bird | Classic Literature | Harper Lee | Public | 9.5/10| [Link](https://www.public.gr/product/to-kill-a-mockingbird/prod1260555pp/) |
 |We Hope This Reaches You in Time| poetry | Sin r.h. , King Holmes Samantha | Public | 9/10| [Link](https://www.public.gr/product/we-hope-this-reaches-you-in-time/prod10270092pp/ "We Hope This Reaches You in Time")|
 |We Were Liars | Young Adult Fiction | E. Lockhart. | Amazon | 9/10 | [Link](https://www.amazon.com/We-Were-Liars-Lockhart/dp/0385741278/ref=sr_1_1?dchild=1&keywords=we+were+liars&qid=1616411727&s=books&sr=1-1)|
+|When Nietzsche Wept | Modern Literature | Yalom Irvin D. | Public | 9/10 | [Link](https://www.public.gr/product/when-nietzsche-wept/prod2240341pp/ "When Nietzsche Wept")|
 |Zero to One| Management | Pieter Thiel | Public | 9.5/10| [Link](https://www.public.gr/product/books/greek-books/economics/management/zero-to-one/prod6840642pp/ "Zero to One")|
 
 
@@ -263,13 +268,16 @@ photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/
 | Manhattan| Whiskey| [video](https://www.youtube.com/watch?v=TFWPtkNoF4Y)|
 | Margarita| Tequila| [video](https://www.youtube.com/watch?v=lNwNvq8Kxl8)|
 | Martini| Vodka or Gin| [video](https://www.youtube.com/watch?v=hiQ57jbFY5s)|
-| Mojito| Rum | [video](https://www.youtube.com/watch?v=KWU9ZaWbeuQ)|
+| Mojito| Rum| [video](https://www.youtube.com/watch?v=KWU9ZaWbeuQ)|
 | Negroni| Gin, Sweet Vermouth, Campari| [video](https://www.youtube.com/watch?v=nh_3suGRbN8)|
 | Old Fashioned| Bourbon| [video](https://www.youtube.com/watch?v=mf1ax7y0yyI)|
 | Paloma| Tequila Blanco| [video](https://www.youtube.com/watch?v=2y6ZP1d18BU)|
 | Pina Colada| Rum| [video](https://www.youtube.com/watch?v=-wea2usJIAA)|
+| Porn star Martini| Vodka| [video](https://www.youtube.com/watch?v=IJG89JW1iaU)|
+| Tequila Sunrise| Tequila| [video](https://www.youtube.com/watch?v=QmBkd_Zxv8k)|
 | Tom Collins| Gin| [video](https://www.youtube.com/watch?v=bK_kBsqqA0I)|
-| White Russian| Vodka and coffe | [video](https://www.youtube.com/watch?v=Z0zqXFpuolw)|
+| White Russian| Vodka and coffe| [video](https://www.youtube.com/watch?v=Z0zqXFpuolw)|
+| Zombie| Rum| [video](https://www.youtube.com/watch?v=RebrdfQnMNs)| 
 
 ### Cocktails for the Adventurous Drinker
 
@@ -283,11 +291,33 @@ Unusual flavor combinations that actually work in drinks. Be sure to test them y
 |---| ---| ---| 
 | Bacon Me Angry | Vodka | [recipe](https://bacontoday.com/2015/01/19/bacon-me-angry-angry-orchard-cocktail/)|
 | Butternut Old Fashioned | Whiskey | [recipe](https://www.thespruceeats.com/little-doms-butternut-old-fashioned-recipe-761338)|
+| Eucalyptus Martini | Gin | [recipe](https://www.thespruceeats.com/eucalyptus-martini-recipe-760078)|
 | Ruby Queen | Vodka | [recipe](https://www.thespruceeats.com/ruby-queen-cocktail-recipe-759220)|
 | The Beer, Bourbon & Barbecue Cocktail | Whiskey | [recipe](https://www.thespruceeats.com/beer-bourbon-and-barbecue-cocktail-recipe-4156984)|
-| Eucalyptus Martini | Gin | [recipe](https://www.thespruceeats.com/eucalyptus-martini-recipe-760078)|
+| Jungle Bird | Rum | [recipe](https://www.thespruceeats.com/jungle-bird-cocktail-4687092)|
+| Coconut Martini | Vodka | [recipe](https://www.thespruceeats.com/coconut-martini-recipe-759080)|
 
 For more details don't forget to check [this](https://www.thespruceeats.com/unique-cocktails-for-adventurous-drinkers-759874) out!
+
+### Take it slow and try an alcohol-free cocktail
+
+If you are not in the mood for alcohol, be sure to try these non-alcoholic cocktails. We are sure that they'll surprise you!
+
+|Name| Difficulty | How to make | 
+|---| ---| ---|
+| Blueberry Maple Mojito | Easy | [recipe](https://www.healthyrecipeecstasy.com/blueberry-maple-mojito-mocktal-gender-reveal/) |
+| Citrus Strawberry Mocktail | Easy | [recipe](https://www.playpartyplan.com/citrus-strawberry-mocktail-recipe) |
+| Chai Blossom | Easy | [recipe](https://www.bonappetit.com/recipe/chai-blossom) |
+| Drivers' punch | Easy | [recipe](https://www.bbcgoodfood.com/recipes/drivers-punch) |
+| Moscow Mule Mocktail | Easy | [recipe](https://themerrythought.com/diy/moscow-mule-mocktail/) |
+| New York Sour Mocktail | Easy | [recipe](https://www.bbcgoodfood.com/recipes/new-york-sour-mocktail) |
+| Pear & Rose Punch | Easy | [recipe](https://www.bbcgoodfood.com/recipes/pear-apple-rose-punch) |
+| Pinapple & Lime Mocktail | Easy | [recipe](https://www.bbcgoodfood.com/recipes/shine-light) |
+| Pomegranate Mojito Mocktail | Easy | [recipe](https://www.bbcgoodfood.com/recipes/pomegranate-mojito-mocktail) |
+| Popsicle Punch | Easy | [recipe](https://www.delish.com/cooking/recipe-ideas/a22805581/popsicle-punch-recipe/) |
+| Raw Raspberry Shrub | Easy | [recipe](https://www.bbcgoodfood.com/recipes/raw-raspberry-shrub) |
+| Shirley Temple | Easy | [recipe](https://www.delish.com/cooking/recipe-ideas/a29813919/shirley-temple-drink-recipe/) |
+| Summer Cup Mocktail | Easy | [recipe](https://www.bbcgoodfood.com/recipes/summer-cup-mocktail) |
 
 <img src="media/images/drink.jpg" alt="Drink responsibly">
 
@@ -402,7 +432,7 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 
 |DISH| ORIGIN| MY RATING| RECIPE| PRO-TIP|
 |---| ---| ---| ---| ---|
-| Avocado Brawnies | Universal | 10/10 | [Link](https://akispetretzikis.com/el/categories/keik/brownies-me-avokanto "How to make avocado brawnies") | Pick a ripe avocado. |
+| Avocado Brownies | Universal | 10/10 | [Link](https://akispetretzikis.com/el/categories/keik/brownies-me-avokanto "How to make avocado brawnies") | Pick a ripe avocado. |
 | Banana Split | U.S.A. | 10/10 | [Link](https://www.tasteofhome.com/recipes/all-american-banana-split/) | Mix up the original recipe by adding different kinds of fruit. |
 | Banoffee | England | 10/10 | [Link](https://akispetretzikis.com/en/categories/glyka/banoffee/) | Transform it into a chocolate banoffee by adding some chocolate couverture in the caramel mixture!|
 | Brownies | U.S.A. | 10/10 | [Link](https://akispetretzikis.com/el/categories/keik/brownies)| Do not hesitate to serve with a scoop of vanilla ice cream. |
@@ -433,6 +463,17 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 | Tacos | Mexico | 10/10 | [Link](https://www.thewholesomedish.com/the-best-homemade-tacos/) | Add extra cheese!! |
 | Tzatziki | Greece | 10/10| [Link](https://cookieandkate.com/how-to-make-tzatziki/ "How to Make Tzatziki")| Choose a creamy yoghurt to create the perfect spread! |
 
+## Check out some healthy alternatives!!
+
+It is very important to eat healthily in a daily basis so that we give our body the energy it deserves to get us through our everyday obligations. These recipes are proof that healthy can be very tasty!
+
+|DISH|RECIPE| PRO-TIP|
+|---| ---| ---|
+| Banana Oatmeal Pancakes| [recipe here](https://www.youtube.com/watch?v=y8kvazx1C6I)| Serve with honey and blueberries|
+| Healthy Chocolate Cupcakes | [recipe here](https://www.youtube.com/watch?v=_Oe_EGO9xsc)| Go crazy on the decoration|
+| Special Overnight Oats 5 ways| [recipe here](https://www.youtube.com/watch?v=3uiaaiugNdE&t=314s)| Best combo is choco & PB|
+| Banana Bread| [recipe here](https://www.youtube.com/watch?v=zYHYrkdVQ38)| Do not forget to incude some extra choco chips|
+| Healthy Salted Caramel Popcorn| [recipe here](https://laurenslatest.com/healthy-caramel-corn/)| Enjoy them!|
 ---
 
 <img align="left" width="40" height="40" src="media/icons/coronavirus.png">
@@ -462,6 +503,149 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 Information was taken from [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 
 ---
+<img align="left" width="40" height="40" src="media/icons/alien.png">
+
+## <a name="Discover-Space"></a> **Discover Space**
+
+A lockdown can cause a sudden increase in leisure and boredom at the same time. So, why not take advantage of this time to discover many aspects of the world that can cause awe and the feeling of how small and fragile we are in this world, and killing our boredom.
+
+### **What is space?**
+Space is the boundless three-dimensional extent in which objects and events have relative position and direction. Physical space is often conceived in three linear dimensions, although modern physicists usually consider it, with time, to be part of a boundless four-dimensional continuum known as spacetime. 
+
+Source: [https://en.wikipedia.org/wiki/Space](https://en.wikipedia.org/wiki/Space)
+
+
+### **Dark Matter and Dark Energy**
+
+Dark matter is an undiscovered yet matter way different from the normal matter or anti-matter, that interact with gravity and doesn't reflect any light, so, as a result, it is, also, invisible and that's why it's called 'Dark' matter. 
+
+ Its presence is implied in a variety of astrophysical observations, including gravitational effects, that cannot be explained by accepted theories of gravity, unless more matter is present than can be seen. For this reason, most experts think that dark matter is abundant in the universe and that it has had a strong influence on its structure and evolution.
+
+ Primary evidence for dark matter comes from calculations, showing that many galaxies would fly apart, or that they would not have formed or would not move as they do, if they did not contain a large amount of unseen matter.
+
+ Source: [https://en.wikipedia.org/wiki/Dark_matter](https://en.wikipedia.org/wiki/Dark_matter)
+
+
+
+Click **here** for a tutorial:
+- [here](https://www.youtube.com/watch?v=QAa2O_8wBUQ)
+- [here](https://www.youtube.com/watch?v=2gWzwG1KNe8)
+
+
+### **Big Bang**
+
+<img align="center" width="500" height="400" src="media/images/big_bang.jpg">
+
+Source: [https://www.esa.int/ESA_Multimedia/Videos/2014/05/ESA_Euronews_Echoes_from_the_Big_Bang](https://www.esa.int/ESA_Multimedia/Videos/2014/05/ESA_Euronews_Echoes_from_the_Big_Bang)
+
+Big Bang theory is a cosmology theory, that try to explain from where the universe and the all the matter came from and how they have been created. In particular, the theory mentions that 13.8 billion years ago, a huge explosion, bigger than anything else in history, took place and became the start of the universe creation and the creation of matter.
+
+Much research has been carried out, in order to prove the Big Bang theory true, with the most valuable of them being this of Edwin Hubble, who has found that galaxies are moving apart from one another in a way that fits previous predictions with the help of Hubble telescope.
+
+While the majority of the astronomical community accepts the theory, there are some theorists who have alternative explanations besides the Big Bang — such as eternal inflation or an oscillating universe.
+
+
+Click **here** for tutorials:
+- [here](https://www.youtube.com/watch?v=wNDGgL73ihY&ab_channel=Kurzgesagt%E2%80%93InaNutshell)
+- [here](https://www.youtube.com/watch?v=0zyWy9JPPtc&ab_channel=Astronio)
+
+
+### **Solar Stroms**
+
+<img align="center" width="600" height="300" src="media/images/solar_storm.jpg">
+
+Source: [http://www.bbc.com/earth/story/20150923-the-sun-creates-space-weather-that-affects-us-all?referer=https%3A%2F%2Fwww.google.gr%2F&referer=https%3A%2F%2Fwww.google.gr%2F&referer=https%3A%2F%2Fwww.google.gr%2F&referer=https%3A%2F%2Fwww.google.gr%2F](http://www.bbc.com/earth/story/20150923-the-sun-creates-space-weather-that-affects-us-all?referer=https%3A%2F%2Fwww.google.gr%2F&referer=https%3A%2F%2Fwww.google.gr%2F&referer=https%3A%2F%2Fwww.google.gr%2F&referer=https%3A%2F%2Fwww.google.gr%2F)
+
+Solar strom is a common phenomenom that the sun vommits million tons of plasma and radiation in random destinations, known as Coronal Mass Ejections (CME). A simple solar storm doesn't affect the earth, because atmosphere works as a filter to such waves, but if the wave is too big, then the wave will affect the global communication system and all the devices that use electricity will be out of order. Althought this effect affects the earth twice in a century, the mechanics know how to protect the system.
+
+Click **here** for tutorial:
+- [here](https://www.youtube.com/watch?v=oHHSSJDJ4oo&ab_channel=Kurzgesagt%E2%80%93InaNutshell)
+
+
+### **Black Holes**
+
+<img align="center" width="500" height="300" src="media/images/black_hole.jpg">
+
+Source: [https://phys.org/news/2021-01-extreme-black-holes-hair.html](https://phys.org/news/2021-01-extreme-black-holes-hair.html)
+
+   #### How they are created and what are they
+   A black hole is an extremely dense astronomical object from which nothing can escape, not even light. When a star explodes in a supernova, a black hole can be left behind. Alternatively, a supermassive star can burn through its fuel quickly and turn into a black hole, no explosion needed.
+
+   According to Einstein's theory of special relativity, nothing can travel faster through space than the speed of light. This means a black hole's event horizon is essentially the point from which nothing can return. The name refers to the impossibility of witnessing any event taking place inside that border, the horizon beyond which one cannot see. 
+   
+   "The event horizon is the ultimate prison wall — one can get in but never get out," Avi Loeb, chair of astronomy at Harvard University, told Space.com.
+
+   Source:
+   - [https://www.nasa.gov/feature/goddard/2019/birth-of-massive-black-holes-in-the-early-universe-revealed](https://www.nasa.gov/feature/goddard/2019/birth-of-massive-black-holes-in-the-early-universe-revealed)
+   - [https://www.space.com/black-holes-event-horizon-explained.html](https://www.space.com/black-holes-event-horizon-explained.html)
+
+
+   Click **here** for tutorials:
+   - [here](https://www.youtube.com/watch?v=e-P5IFTqB98)
+   - [here](https://www.youtube.com/watch?v=nz4mOCRveP8)
+   - [here](https://www.youtube.com/watch?v=ulCdoCfw-bY&ab_channel=Kurzgesagt%E2%80%93InaNutshell)
+   - [here](https://www.youtube.com/watch?v=zdKAM5E9gWk)
+
+
+   #### **How big can they get? (Supermassive Black Holes)**
+
+   <img align="" width="" height="" src="media/images/supermassive_black_hole.jpg">
+
+   Source: [https://www.reddit.com/r/space/comments/5qkole/s5_001481_the_largest_known_supermassive_black/](https://www.reddit.com/r/space/comments/5qkole/s5_001481_the_largest_known_supermassive_black/)
+
+   Actually the size of a black hole has no possible limit (althought scienctist say that it can't exist a black hole with 50 bln times the mass of our sun). The more matter it swallows, the bigger it can get. The easiest way for a black hole to grow is by swallow another black hole. In result, a new black hole will be created with both their masses and with unbelievable  gravitational power. In order to understand this better, in the above photo the dat in the center of the black hole, is how big is our solar system in front of this supermassive black hole..
+
+   Click **here** for tutorial:
+   - [here](https://www.youtube.com/watch?v=yWO-cvGETRQ)
+   - [here](https://www.youtube.com/watch?v=7WtrAuNnXKI)
+
+
+   #### **Travel inside a Black Hole & Wormholes**
+
+   <img align="center" width="" height="" src="media/images/wormhole.jpg">
+
+   Source: [https://www.sciencenewsforstudents.org/article/could-spacetime-ripples-point-at-wormholes](https://www.sciencenewsforstudents.org/article/could-spacetime-ripples-point-at-wormholes)
+
+   The most obvious thing that everyone would imagine that might happen inside a black holem is complete destruction. Actually, Einstein with the relativity theory changed completly the way that we perceive black holes. If matter is capable of bending the time and space, then the black hole, which is the most amount of matter that can be located in a single spot, is doing the biggest den in spacetime. Therefore, if spacetime dimension is like a paper that is folded, the black hole is like a tube that unites the two surfaces. By entering a black hole, you will travel to another location of the universe, where you will be spit out from a white hole, like a detour. Althought, neither white hole nor wormhole have been found, they exist only in theory.
+
+   Click **here** for tutorial:   
+   - [here](https://www.youtube.com/watch?v=9P6rdqiybaw)
+
+
+   #### **Gamma Ray burst (Quazars)**
+
+   <img align="center" width="300" height="300" src="media/images/quazar.jpg">
+   
+   Source: [https://www.efreenews.com/a/are-gamma-ray-bursts-powered-by-a-star-s-collapsing-magnetic-fields](https://www.efreenews.com/a/are-gamma-ray-bursts-powered-by-a-star-s-collapsing-magnetic-fields)
+
+   When a massive star in a distant galaxy collapses, forming a black hole, two giant jets of light-emitting plasma shoot from its core. These extremely bright gamma-ray bursts (GRBs) are the most powerful explosions in the universe, and when a jet points towards Earth, the afterglow can be detected from ground and space-borne telescopes. Material does not simply catapult from an exploding star, it accelerates to ultra-high speeds along the narrow beam of the gamma-ray jet, leaving astrophysics puzzled over the power source driving these extraordinary explosions.
+
+   source: [https://www.efreenews.com/a/are-gamma-ray-bursts-powered-by-a-star-s-collapsing-magnetic-fields](https://www.efreenews.com/a/are-gamma-ray-bursts-powered-by-a-star-s-collapsing-magnetic-fields)
+
+   click **here** for some tutorials:
+   - [here](https://www.youtube.com/watch?v=RLykC1VN7NY)
+   - [here](https://www.youtube.com/watch?v=jVHnVcZ6YMQ)
+   - [here](https://www.youtube.com/watch?v=PPlrtgilgK8)
+
+
+### Neutron Stars
+
+<img align="center" width="300" height="300" src="media/images/neutron_star.jpeg">
+
+Source: [https://www.sciencephoto.com/media/814141/view/neutron-star-artwork](https://www.sciencephoto.com/media/814141/view/neutron-star-artwork)
+
+When the core of a massive star undergoes gravitational collapse at the end of its life, protons and electrons are literally scrunched together, leaving behind one of nature's most wondrous creations: a neutron star. Neutron stars cram roughly 1.3 to 2.5 solar masses into a city-sized sphere perhaps 20 kilometers (12 miles) across. Matter is packed so tightly that a sugar-cube-sized amount of material would weigh more than 1 billion tons, about the same as Mount Everest!
+
+Most known neutron stars belong to a subclass known as pulsars. These relatively young objects rotate extremely rapidly, with some spinning faster than a kitchen blender. They beam radio waves in narrow cones, which periodically sweep across Earth like lighthouse beacons. But as GLAST Project Scientist Steve Ritz of NASA Goddard points out, "With magnetic fields trillions of times stronger than Earth's, pulsar magnetic fields are high-energy particle accelerators." The magnetospheres of some pulsars, accelerate particles to such high energies that they are relatively bright gamma-ray sources.
+
+Source: [https://www.nasa.gov/mission_pages/GLAST/science/neutron_stars.html](https://www.nasa.gov/mission_pages/GLAST/science/neutron_stars.html)
+
+Click **here** for tutorial:
+- [here](https://www.youtube.com/watch?v=udFxKZRyQt4&t=27s)
+
+
+---
+
 <img align="left" width="40" height="40" src="media/icons/pizza.png">
 
 ## <a name="conspiracies"></a>Down the rabbit hole
@@ -503,7 +687,9 @@ The games begin, and the first players in line race to down their drinks, and th
 *  **Beerpong:**<a name="beerpong"></a> Beerpong is an all-around crowd pleaser, because it’s easy to follow, however difficult to master. To play this team drinking game lay out two sets of cups forming a pyramid on both ends of the table, gather a ping pong ball and fill the cups with your drink of choice. The teams then take it in turns to throw the ball into the other team’s cups. If you get the ping pong ball into your opponent’s cup, they have to drink its contents.\
 *What you need: Large cups and a pingpong ball(maybe more than one).*
 * **Ring of Fire:** This is an exciting drinking game that is played using playing cards. The player must drink and pass round the drinks based on the card drawn. [Each card has a rule that is established before the start of the game](https://ringoffirerules.com/). Every player picks a card and does what the card represents, and it can be anything from choosing someone to take a drink to start a game of categories. When a player draws a king, he pours a quarter of what he is drinking into the middle cup. The game comes to an end when the last king is drawn. The player who draws the last King has to drink the concoction in the King’s cup to the last drop.\
-*What you need: A deck of cards.*  
+*What you need: A deck of cards.*
+* **Never Have I Ever:** This is an awesome drinking game to get to know your drinking partners better. Everyone needs a drink and their memory to be sharp. Players take turns calling experiences they have never had. Anyone that has had the called experience has to take a sip of their drink. Be careful though! Crazy people will probably get drunk quickly while the shier ones stay sober.\
+*What you need: Your drinks and a good mood.*
 
 
 
@@ -512,6 +698,7 @@ The games begin, and the first players in line race to down their drinks, and th
 ---
 
 <img align="left" width="40" height="40" src="media/icons/exercise.png">
+
 
 ## <a name="exercise"></a>Exercise 
 My gym is closed for almost 6 months now, and I think yours is, too.
@@ -527,55 +714,53 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 **Workout tips:**
 
 * Set realistic goals
-* Set a weekly programm and stick to it!
-* Put on the clothes that make you feel motivated
-* Eat at least one-two hours before you train
+* Set a weekly programm and stick to it
 * Write down what you want to achieve with every training
-* Always warm up
+* Find a workout buddy
+* Eat at least one-two hours before you train
+* Put on the clothes that make you feel motivated
 * Make sure to choose the right workout for you
+* Always warm up!
 * Stay Hydrated
 * Listen to music
-* Find a workout buddy
 * Don't forget to stretch!
 
 **Workout motivation quotes:**
 
-* No pain, No gain -> shut up and train.
-* Master your mindset, and you'll master your body.
-* Push yourself because no one else is going to do it for you.
-* The pain you feel today will be the strength you need tomorrow.
+* No pain, No gain -> shut up and train
+* Master your mindset, and you'll master your body
+* Push yourself because no one else is going to do it for you
+* The pain you feel today will be the strength you need tomorrow
 * Later = Never (Do it now)
 * Push harder than yesterday if you want a different tomorrow
 * Its you vs you
 * Never forget why you started
 * Impossible is just a word
-* You can if you think you can
+* You can if you believe you can
 * Energy flows where attention goes
 
 **Different kinds of workouts and sports:**
 
-* Freeletics (bodyweight workout)
-* HIIT (High Intensity Interval Training)
-* Crossfit
-* Powerlifting
-* Tabata
-* TRX
-* Pilates
-* Yoga
-* Dance Workouts
 * Aerobic Workouts
 * Anaerobic workouts
+* Crossfit
 * Cycling
+* Dance Workouts
+* Freeletics (bodyweight workout)
+* HIIT (High Intensity Interval Training)
+* Pilates
+* Powerlifting
 * Running
-
-
+* Tabata
+* TRX
+* Yoga
 
 **Warm up**
+
 * Boxing Warm Up [video](https://www.youtube.com/watch?v=GtFO7P8sr0E)
 * Fun Warm Up [video](https://www.youtube.com/watch?v=jHw6HxD1j30&t=69s)
 * Happy Dance Warm Up [video](https://www.youtube.com/watch?v=vNUWtyW0js0)
 * Classic Full Body Warm Up [video](https://www.youtube.com/watch?v=wswdAzOfU1Y&t=122s)
-
 
 **“Burning” particular muscle groups:**
 
@@ -601,18 +786,19 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * 45 min full body HIIT workout [video](https://www.youtube.com/watch?v=pAOPPQFQgcQ&t=6s)
 
 **Pilates workouts:**
+
 * 40 min Power pilates workout [video](https://www.youtube.com/watch?v=AePgbGKj6yk)
 * 30 min Power pilates workout [video](https://www.youtube.com/watch?v=oLuq_J_ptVw)
 * 50 min Power pilates and cardio wokrout [video](https://www.youtube.com/watch?v=hNfsWaT00rw)
 
-**Best Dance Workouts (Have the best time and burn calories!):** 
+**Dance workouts (Have the best time and burn calories!):** 
 * 10 min R&B Dance [video](https://www.youtube.com/watch?v=89lzERjtwqE&t=305s)
 * 15 min Happy Dance [video](https://www.youtube.com/watch?v=Cw-Wt4xKD2s)
 * 10 min Happy Cardio (AMAZIIIIIING) [video](https://www.youtube.com/watch?v=QPKXw8XEQiA)
 * Dance fitness workout [video](https://www.youtube.com/watch?v=1XU4RCD85jM)
 
-
 **Yoga:**
+
 * 20 min Full Body Stress Relief [video](https://www.youtube.com/watch?v=sTANio_2E0Q&t=813s)
 * 30 min Yoga Flow (with Maldives in the background) [video](https://www.youtube.com/watch?v=5v1wqxnrmrk&t=831s)
 * 45 Minute Power Yoga Class with Ally Maz | lululemon [video](https://www.youtube.com/watch?v=lDbJdJWX82M)
@@ -624,6 +810,8 @@ or you can start a 30day Yoga Challenge with Adriene:
 * Day 2 [video](https://www.youtube.com/watch?v=GaL3YF1vY2k)
 * Day 3 [video](https://www.youtube.com/watch?v=hJjqx6YlcWs)
 
+**Stretching:**
+
 Whether you have worked out or not, don't forget to stretch daily! It will make you feel so much better and help you fix your posture and relax your muscles! Here are some videos to help you:
 
 * Lower body stretch [video](https://www.youtube.com/watch?v=elcwsSqNhS8)
@@ -634,21 +822,18 @@ Whether you have worked out or not, don't forget to stretch daily! It will make 
 * 8 min sitting too much stretch [video](https://www.youtube.com/watch?v=12pSXygAzwk)
 * 10 min full body stretch [video](https://www.youtube.com/watch?v=xOqGI7EDe6U)
 
+**Workout apps:**
 
-**Exercising apps**
-
-Quarantine gives you  a great opportunity to feel healthy  again.These apps will make you fall in love with exercising.
+Quarantine gives you  a great opportunity to feel healthy again.These apps will make you fall in love with exercising.
 
 * Plank Workout at Home-30 days Plank Challenge[Link](https://play.google.com/store/apps/details?id=fat.burnning.plank.fitness.loseweight&hl=el&gl=US)
 * Flexibility Training & Stretching Exercise at Home[Link](https://play.google.com/store/apps/details?id=com.fitifyapps.bwstretching&hl=en_US&gl=US)
 * Yoga daily fitness - Yoga workout plan[Link](https://play.google.com/store/apps/details?id=com.ssstudio.yogadailyfitness&hl=en_US&gl=US)
 * Yoga Workout-Yoga&Meditation for Daily Fitness [Link](https://play.google.com/store/apps/details?id=com.homefit.yoga.health&hl=en_US&gl=US)
 
+**Running:**
 
-
-**Running**
-
-The quarantine is a great opportunity to practice your running skills. Running during quarantine is a great way improve your stamina and compete to various virtual running challenges with others around the globe, and why not, attempt to run your first marathon! Below you may find useful running tutorials:
+The quarantine is a great opportunity to practise your running skills. Running during quarantine is a great way improve your stamina and compete to various virtual running challenges with others around the globe, and why not, attempt to run your first marathon! Below you may find useful running tutorials:
 
 * Useful Running Tips for Beginners [video](https://www.youtube.com/watch?v=kVnyY17VS9Y)
 * Run your first 5k [video](https://www.youtube.com/watch?v=YACmfwcBDnM&list=PLRjIvR8JIRzE6plDzDDwkUmjR5be_aud1)
@@ -663,7 +848,7 @@ You may also find some really useful running guides and training plans for begin
   * Best professional running app: [Strava](https://www.strava.com)
   * Best for creating training plans: [Runcoach](https://runcoach.com)
 
-**Cycling**
+**Cycling:**
 
 The quarantine is definitely the perfect period to exercise more and even adopt new ways of exercise. Cycling during the hard times of quarantine can easily boost your mood while improving your stamina, strength and aerobic fitness as well. Don't forget that with a bike you can explore many hidden gems of Athens that you had no idea of. 
 So, what are you waiting? Take your dusty bike and start cycling this moment!
@@ -788,6 +973,15 @@ Meditation is a fun and relaxing way to spend your time in quarantine. Try lying
 * 10-minute meditation - [link](https://www.youtube.com/watch?v=O-6f5wQXSu8&ab_channel=Goodful)
 * 20-minute meditation - [link](https://www.youtube.com/watch?v=-2zdUXve6fQ&ab_channel=TheMindfulMovement)
 >[Here is a good playlist to help you relax!](https://www.youtube.com/watch?v=oJnF5VxTO5g "Chill & Relax")
+
+#### If you are a begginer, here are a few steps to help you start:
+1. Find a nice place in your house and take a seat
+2. Set a time limit (5-10 minutes for starters)
+3. Notice your body, make sure you are stable and in a position where you can stay for a long time.
+4. Feel your breath
+5. Notice when your mind has started focusing on different thoughts and not your breath
+6. Be kind to your mind's behavior
+7. When you are ready open your eyes, look up and notice the environment's sounds. Notice your thoughts and emotions.
 
 ---
 
@@ -922,10 +1116,10 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 ### Albums
 A subsection to add your favorite Music Albums
 
-* Play(2014 Remastered Version), by Moby [listen here](https://open.spotify.com/album/7yqSkf4TGPOHUtDKMVjhbD?si=lCj-kEh1QiuvGlsTQwfLVA)
-* Nothing Around us (2018), by Mathame [Listen here](https://open.spotify.com/album/3S8eBDaNXOgauG0Rtco6Kj?si=ShHzHVxeTeC9-az0szKw4A)
-* Wake me up (2020), by Tale of Us [Listen here](https://open.spotify.com/album/7aeL8XFsUp7BF7Jps0DoRi?si=iZUpANWlRZivHWit3_UTbw)
 * A night at the opera (2011 Remaster), by Queen [listen here](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx?si=bcOcHr7lSbS2PGYLVyT-XQ)
+* Nothing Around us (2018), by Mathame [Listen here](https://open.spotify.com/album/3S8eBDaNXOgauG0Rtco6Kj?si=ShHzHVxeTeC9-az0szKw4A)
+* Play(2014 Remastered Version), by Moby [listen here](https://open.spotify.com/album/7yqSkf4TGPOHUtDKMVjhbD?si=lCj-kEh1QiuvGlsTQwfLVA)
+* Wake me up (2020), by Tale of Us [Listen here](https://open.spotify.com/album/7aeL8XFsUp7BF7Jps0DoRi?si=iZUpANWlRZivHWit3_UTbw)
 
 
 ### Musical Instruments
@@ -1115,6 +1309,22 @@ Do you want to explore Europe on a ship? There are many companies offering cruis
 offers a wide range of different cruise packages, from the Mediterranean to the Baltic sea. 
 
 ---
+<img align="left" width="40" height="40" src="media/icons/social-movement.jpeg">
+
+## <a name="social-movements"></a>Social Movements
+
+Learn and educate yourself about these social movements that have happened in the last year and become an ally by engaging in activism around those issues. What you do with your power and privilege matters and you have the opportunity to use your power and privilege for good. Being an ally within the dominant group that you are a part of can help bring attention to the issues and causes that others experience.
+You can learn more about the ways you can help these communities and stand by their side, [here](https://dotherightthing.carrd.co/) and [here](https://2020issues.carrd.co/).
+
+### Important Movements
+
+* ACAB - more info [here](https://acabexplained.carrd.co/)
+* Anti-Asian Violance - more info [here](https://anti-asianviolenceresources.carrd.co/)
+* Black Lives Matter - more info [here](https://blacklivesmatters.carrd.co/)
+* Black Trans Lives Matter - more info [here](https://blacktranslivesmatter.carrd.co/)
+
+---
+
 
 <img align="left" width="40" height="40" src="media/icons/project.png">
 
@@ -1230,6 +1440,9 @@ Podcasts is a great way to learn from other people about things that interest yo
 #### Games & Hobbies
 * [Rusty Quill Gaming](https://play.acast.com/s/rustyquillgaming)
 * [Whatculture Gaming](https://play.acast.com/s/whatculturegaming)
+* [WayPoint Radio](https://play.acast.com/s/vicegamingsnewpodcast)
+* [Running Commentary](https://play.acast.com/s/runningcommentary)
+* [Kingdom Smarts](https://play.acast.com/s/kingdom-smarts)
 
 ### Do you have ideas you want to share? Create your own Podcast!
 Here are a few simple steps to help you start:
@@ -1300,6 +1513,27 @@ Creating videos is a very fun and creative way to spend your time during lockdow
 - Start a youtube channel. (More [here](https://www.adorama.com/alc/10-tips-for-starting-a-youtube-channel/))
 
 Section icon owned by [freepik](https://www.freepik.com/).
+
+---
+<img align="left" width="40" height="40" src="media/icons/controller.png">
+
+## <a name="create-video-game"></a>Create your own video game
+If you are a fan of video games, you can create your own game. All it takes is creativity and willpower.
+Ηere you can find the most famous [game engines](https://en.wikipedia.org/wiki/Game_engine "What is game engine?") that will help you develop your own game.
+
+|Name|Since| Famous Games |
+|---|---|---|
+|[Unreal](https://www.unrealengine.com/en-US/ "Unreal Home Page")|1998| Borderlands 2 |
+|[Unity](https://unity.com/ "Unity Home Page")|2005| Rust |
+|[Amazon Lumberyard](https://aws.amazon.com/lumberyard/ "Lumberyard Home Page")|2016|
+|[CryEngine](https://www.cryengine.com/ "CryEngine Home Page")|2002| Ryse: Son of Rome |
+
+<br />
+More info: 
+
+[What Are the Most Popular Game Engines?](https://www.perforce.com/blog/vcs/most-popular-game-engines)
+
+
 
 ---
 
