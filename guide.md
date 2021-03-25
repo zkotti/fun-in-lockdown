@@ -699,55 +699,53 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 **Workout tips:**
 
 * Set realistic goals
-* Set a weekly programm and stick to it!
-* Put on the clothes that make you feel motivated
-* Eat at least one-two hours before you train
+* Set a weekly programm and stick to it
 * Write down what you want to achieve with every training
-* Always warm up
+* Find a workout buddy
+* Eat at least one-two hours before you train
+* Put on the clothes that make you feel motivated
 * Make sure to choose the right workout for you
+* Always warm up!
 * Stay Hydrated
 * Listen to music
-* Find a workout buddy
 * Don't forget to stretch!
 
 **Workout motivation quotes:**
 
-* No pain, No gain -> shut up and train.
-* Master your mindset, and you'll master your body.
-* Push yourself because no one else is going to do it for you.
-* The pain you feel today will be the strength you need tomorrow.
+* No pain, No gain -> shut up and train
+* Master your mindset, and you'll master your body
+* Push yourself because no one else is going to do it for you
+* The pain you feel today will be the strength you need tomorrow
 * Later = Never (Do it now)
 * Push harder than yesterday if you want a different tomorrow
 * Its you vs you
 * Never forget why you started
 * Impossible is just a word
-* You can if you think you can
+* You can if you believe you can
 * Energy flows where attention goes
 
 **Different kinds of workouts and sports:**
 
-* Freeletics (bodyweight workout)
-* HIIT (High Intensity Interval Training)
-* Crossfit
-* Powerlifting
-* Tabata
-* TRX
-* Pilates
-* Yoga
-* Dance Workouts
 * Aerobic Workouts
 * Anaerobic workouts
+* Crossfit
 * Cycling
+* Dance Workouts
+* Freeletics (bodyweight workout)
+* HIIT (High Intensity Interval Training)
+* Pilates
+* Powerlifting
 * Running
-
-
+* Tabata
+* TRX
+* Yoga
 
 **Warm up**
+
 * Boxing Warm Up [video](https://www.youtube.com/watch?v=GtFO7P8sr0E)
 * Fun Warm Up [video](https://www.youtube.com/watch?v=jHw6HxD1j30&t=69s)
 * Happy Dance Warm Up [video](https://www.youtube.com/watch?v=vNUWtyW0js0)
 * Classic Full Body Warm Up [video](https://www.youtube.com/watch?v=wswdAzOfU1Y&t=122s)
-
 
 **“Burning” particular muscle groups:**
 
@@ -773,18 +771,19 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * 45 min full body HIIT workout [video](https://www.youtube.com/watch?v=pAOPPQFQgcQ&t=6s)
 
 **Pilates workouts:**
+
 * 40 min Power pilates workout [video](https://www.youtube.com/watch?v=AePgbGKj6yk)
 * 30 min Power pilates workout [video](https://www.youtube.com/watch?v=oLuq_J_ptVw)
 * 50 min Power pilates and cardio wokrout [video](https://www.youtube.com/watch?v=hNfsWaT00rw)
 
-**Best Dance Workouts (Have the best time and burn calories!):** 
+**Dance workouts (Have the best time and burn calories!):** 
 * 10 min R&B Dance [video](https://www.youtube.com/watch?v=89lzERjtwqE&t=305s)
 * 15 min Happy Dance [video](https://www.youtube.com/watch?v=Cw-Wt4xKD2s)
 * 10 min Happy Cardio (AMAZIIIIIING) [video](https://www.youtube.com/watch?v=QPKXw8XEQiA)
 * Dance fitness workout [video](https://www.youtube.com/watch?v=1XU4RCD85jM)
 
-
 **Yoga:**
+
 * 20 min Full Body Stress Relief [video](https://www.youtube.com/watch?v=sTANio_2E0Q&t=813s)
 * 30 min Yoga Flow (with Maldives in the background) [video](https://www.youtube.com/watch?v=5v1wqxnrmrk&t=831s)
 * 45 Minute Power Yoga Class with Ally Maz | lululemon [video](https://www.youtube.com/watch?v=lDbJdJWX82M)
@@ -796,6 +795,8 @@ or you can start a 30day Yoga Challenge with Adriene:
 * Day 2 [video](https://www.youtube.com/watch?v=GaL3YF1vY2k)
 * Day 3 [video](https://www.youtube.com/watch?v=hJjqx6YlcWs)
 
+**Stretching:**
+
 Whether you have worked out or not, don't forget to stretch daily! It will make you feel so much better and help you fix your posture and relax your muscles! Here are some videos to help you:
 
 * Lower body stretch [video](https://www.youtube.com/watch?v=elcwsSqNhS8)
@@ -806,21 +807,18 @@ Whether you have worked out or not, don't forget to stretch daily! It will make 
 * 8 min sitting too much stretch [video](https://www.youtube.com/watch?v=12pSXygAzwk)
 * 10 min full body stretch [video](https://www.youtube.com/watch?v=xOqGI7EDe6U)
 
+**Workout apps:**
 
-**Exercising apps**
-
-Quarantine gives you  a great opportunity to feel healthy  again.These apps will make you fall in love with exercising.
+Quarantine gives you  a great opportunity to feel healthy again.These apps will make you fall in love with exercising.
 
 * Plank Workout at Home-30 days Plank Challenge[Link](https://play.google.com/store/apps/details?id=fat.burnning.plank.fitness.loseweight&hl=el&gl=US)
 * Flexibility Training & Stretching Exercise at Home[Link](https://play.google.com/store/apps/details?id=com.fitifyapps.bwstretching&hl=en_US&gl=US)
 * Yoga daily fitness - Yoga workout plan[Link](https://play.google.com/store/apps/details?id=com.ssstudio.yogadailyfitness&hl=en_US&gl=US)
 * Yoga Workout-Yoga&Meditation for Daily Fitness [Link](https://play.google.com/store/apps/details?id=com.homefit.yoga.health&hl=en_US&gl=US)
 
+**Running:**
 
-
-**Running**
-
-The quarantine is a great opportunity to practice your running skills. Running during quarantine is a great way improve your stamina and compete to various virtual running challenges with others around the globe, and why not, attempt to run your first marathon! Below you may find useful running tutorials:
+The quarantine is a great opportunity to practise your running skills. Running during quarantine is a great way improve your stamina and compete to various virtual running challenges with others around the globe, and why not, attempt to run your first marathon! Below you may find useful running tutorials:
 
 * Useful Running Tips for Beginners [video](https://www.youtube.com/watch?v=kVnyY17VS9Y)
 * Run your first 5k [video](https://www.youtube.com/watch?v=YACmfwcBDnM&list=PLRjIvR8JIRzE6plDzDDwkUmjR5be_aud1)
@@ -835,7 +833,7 @@ You may also find some really useful running guides and training plans for begin
   * Best professional running app: [Strava](https://www.strava.com)
   * Best for creating training plans: [Runcoach](https://runcoach.com)
 
-**Cycling**
+**Cycling:**
 
 The quarantine is definitely the perfect period to exercise more and even adopt new ways of exercise. Cycling during the hard times of quarantine can easily boost your mood while improving your stamina, strength and aerobic fitness as well. Don't forget that with a bike you can explore many hidden gems of Athens that you had no idea of. 
 So, what are you waiting? Take your dusty bike and start cycling this moment!
