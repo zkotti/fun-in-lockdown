@@ -464,7 +464,7 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 | Tacos | Mexico | 10/10 | [Link](https://www.thewholesomedish.com/the-best-homemade-tacos/) | Add extra cheese!! |
 | Tzatziki | Greece | 10/10| [Link](https://cookieandkate.com/how-to-make-tzatziki/ "How to Make Tzatziki")| Choose a creamy yoghurt to create the perfect spread! |
 
-## Check out some healthy alternatives!!
+### Check out some healthy alternatives
 
 It is very important to eat healthily in a daily basis so that we give our body the energy it deserves to get us through our everyday obligations. These recipes are proof that healthy can be very tasty!
 
@@ -475,6 +475,9 @@ It is very important to eat healthily in a daily basis so that we give our body 
 | Special Overnight Oats 5 ways| [recipe here](https://www.youtube.com/watch?v=3uiaaiugNdE&t=314s)| Best combo is choco & PB|
 | Banana Bread| [recipe here](https://www.youtube.com/watch?v=zYHYrkdVQ38)| Do not forget to incude some extra choco chips|
 | Healthy Salted Caramel Popcorn| [recipe here](https://laurenslatest.com/healthy-caramel-corn/)| Enjoy them!|
+| Berry Smoothie Bowl| [recipe here](https://www.youtube.com/watch?v=b_h0-IHvvAw)| Add peanut butter as a topping|
+| Greek Chicken Grain Bowl| [recipe here](https://www.goodhousekeeping.com/food-recipes/a35353557/greek-chicken-grain-bowl-recipe/)| Enjoy!|
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/coronavirus.png">
@@ -739,6 +742,11 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * Impossible is just a word
 * You can if you believe you can
 * Energy flows where attention goes
+* Train insane or remain the same
+* Good things come to those who sweat
+* Someone busier than you is working out right now
+* Hustle for that muscle
+* Nothing truly great ever came from a comfort zone
 
 **Different kinds of workouts and sports:**
 
