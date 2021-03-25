@@ -971,7 +971,7 @@ Meditation is a fun and relaxing way to spend your time in quarantine. Try lying
 * 20-minute meditation - [link](https://www.youtube.com/watch?v=-2zdUXve6fQ&ab_channel=TheMindfulMovement)
 >[Here is a good playlist to help you relax!](https://www.youtube.com/watch?v=oJnF5VxTO5g "Chill & Relax")
 
-If you are a begginer, here are a few steps to help you start:
+#### If you are a begginer, here are a few steps to help you start:
 1. Find a nice place in your house and take a seat
 2. Set a time limit (5-10 minutes for starters)
 3. Notice your body, make sure you are stable and in a position where you can stay for a long time.
