@@ -32,6 +32,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Outdoor Activities with Friends](#outdoor_activities)
 * [Plan your Erasmus](#erasmus)
 * [Plan your next trip](#trips)
+* [Social Movements](#social-movements)
 * [Start a new Project](#projects)
 * [Start listening to Podcasts](#podcasts)
 * [Video Games](#video-games)
@@ -1092,10 +1093,10 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 ### Albums
 A subsection to add your favorite Music Albums
 
-* Play(2014 Remastered Version), by Moby [listen here](https://open.spotify.com/album/7yqSkf4TGPOHUtDKMVjhbD?si=lCj-kEh1QiuvGlsTQwfLVA)
-* Nothing Around us (2018), by Mathame [Listen here](https://open.spotify.com/album/3S8eBDaNXOgauG0Rtco6Kj?si=ShHzHVxeTeC9-az0szKw4A)
-* Wake me up (2020), by Tale of Us [Listen here](https://open.spotify.com/album/7aeL8XFsUp7BF7Jps0DoRi?si=iZUpANWlRZivHWit3_UTbw)
 * A night at the opera (2011 Remaster), by Queen [listen here](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx?si=bcOcHr7lSbS2PGYLVyT-XQ)
+* Nothing Around us (2018), by Mathame [Listen here](https://open.spotify.com/album/3S8eBDaNXOgauG0Rtco6Kj?si=ShHzHVxeTeC9-az0szKw4A)
+* Play(2014 Remastered Version), by Moby [listen here](https://open.spotify.com/album/7yqSkf4TGPOHUtDKMVjhbD?si=lCj-kEh1QiuvGlsTQwfLVA)
+* Wake me up (2020), by Tale of Us [Listen here](https://open.spotify.com/album/7aeL8XFsUp7BF7Jps0DoRi?si=iZUpANWlRZivHWit3_UTbw)
 
 
 ### Musical Instruments
@@ -1285,6 +1286,22 @@ Do you want to explore Europe on a ship? There are many companies offering cruis
 offers a wide range of different cruise packages, from the Mediterranean to the Baltic sea. 
 
 ---
+<img align="left" width="40" height="40" src="media/icons/social-movement.jpeg">
+
+## <a name="social-movements"></a>Social Movements
+
+Learn and educate yourself about these social movements that have happened in the last year and become an ally by engaging in activism around those issues. What you do with your power and privilege matters and you have the opportunity to use your power and privilege for good. Being an ally within the dominant group that you are a part of can help bring attention to the issues and causes that others experience.
+You can learn more about the ways you can help these communities and stand by their side, [here](https://dotherightthing.carrd.co/) and [here](https://2020issues.carrd.co/).
+
+### Important Movements
+
+* ACAB - more info [here](https://acabexplained.carrd.co/)
+* Anti-Asian Violance - more info [here](https://anti-asianviolenceresources.carrd.co/)
+* Black Lives Matter - more info [here](https://blacklivesmatters.carrd.co/)
+* Black Trans Lives Matter - more info [here](https://blacktranslivesmatter.carrd.co/)
+
+---
+
 
 <img align="left" width="40" height="40" src="media/icons/project.png">
 
