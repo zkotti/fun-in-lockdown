@@ -35,15 +35,15 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Social Movements](#social-movements)
 * [Start a new Project](#projects)
 * [Start listening to Podcasts](#podcasts)
+* [Trippy Gifs](#trippygifs)
 * [Video Games](#video-games)
 * [Video Making](#videomaking)
 * [Virtual Tours-Trips](#trips-tours)
 * [Create your own Video Game](#create-video-game)
 * [Walks in Town](#walks)
+* [What to avoid](#whattoavoid)
 * [Work with cars](#Work-with-cars)
 * [Writing](#writing)
-* [Trippy Gifs](#trippygifs)
-* [What to avoid](#whattoavoid)
 
 [Note : Before you head outside](#note)
 
