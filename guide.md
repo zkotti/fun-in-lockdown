@@ -1280,6 +1280,7 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Memories, by Maroon 5 [listen here](https://www.youtube.com/watch?v=SlPhMPnQ58k)
 * More Than Words, by Extreme [listen here](https://www.youtube.com/watch?v=UrIiLvg58SY)
 * Natural Blues, Moby [listen here](https://www.youtube.com/watch?v=z3YMxM1_S48)
+* New Morning, Monolink [listen here](https://open.spotify.com/track/1XYGVM8TsjeadnoNG4ZKbh?si=02CL6KwhSL-l2jI9zt15uw)
 * New Rules, John Legend [listen here](https://www.youtube.com/watch?v=k2qgadSvNyU)
 * Nothing Around us, Mathame [listen here](https://www.youtube.com/watch?v=C0pRbPlTVbo)
 * Obsesión, by Aventura ft. Judy Santos [listen here](https://www.youtube.com/watch?v=8_QY5gFQUTg)
