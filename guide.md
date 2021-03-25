@@ -738,6 +738,11 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * Impossible is just a word
 * You can if you believe you can
 * Energy flows where attention goes
+* Train insane or remain the same
+* Good things come to those who sweat
+* Someone busier than you is working out right now
+* Hustle for that muscle
+* Nothing truly great ever came from a comfort zone
 
 **Different kinds of workouts and sports:**
 
