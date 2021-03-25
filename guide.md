@@ -271,8 +271,10 @@ photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/
 | Paloma| Tequila Blanco| [video](https://www.youtube.com/watch?v=2y6ZP1d18BU)|
 | Pina Colada| Rum| [video](https://www.youtube.com/watch?v=-wea2usJIAA)|
 | Porn star Martini| Vodka| [video](https://www.youtube.com/watch?v=IJG89JW1iaU)|
+| Tequila Sunrise| Tequila| [video](https://www.youtube.com/watch?v=QmBkd_Zxv8k)|
 | Tom Collins| Gin| [video](https://www.youtube.com/watch?v=bK_kBsqqA0I)|
 | White Russian| Vodka and coffe| [video](https://www.youtube.com/watch?v=Z0zqXFpuolw)|
+| Zombie| Rum| [video](https://www.youtube.com/watch?v=RebrdfQnMNs)| 
 
 ### Cocktails for the Adventurous Drinker
 
