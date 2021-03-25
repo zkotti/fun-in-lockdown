@@ -43,6 +43,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Work with cars](#Work-with-cars)
 * [Writing](#writing)
 * [Trippy Gifs](#trippygifs)
+* [What to avoid](#whattoavoid)
 
 [Note : Before you head outside](#note)
 
@@ -1757,6 +1758,20 @@ Gif source: https://gr.pinterest.com/pin/825847650397358846/
 <img src="https://i.pinimg.com/originals/57/44/ef/5744ef7546d3476888de4cbcaaded349.gif" />
 
 Gif source: https://gr.pinterest.com/pin/360076932691017349/
+
+---
+<img align="left" width="40" height="40" src="media/icons/avoid.png">
+
+## <a name="whattoavoid"></a> What to avoid
+Being isolated all day long can make you a person, that you in the future would be ashamed for. To prevent such a situation, make sure you avoid the following.
+
+* Reality TV Shows:
+  
+  * Survivor
+  * Battle of the couples
+  
+* Fast food
+* Recommended youtube videos
 
 ---
 
