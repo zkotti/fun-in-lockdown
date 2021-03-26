@@ -69,9 +69,25 @@ Anime describes all animated work , despite of style and origin until early 2000
 and villains that are born with extraordinary power's ,called quirks what is going to happen when he will inherit the world's strongest power by the world's strongest hero All Might? 
 
 
-Air Dates: from 2016 
-Genre: Action, Fantasy
+Air Dates: from 2016| 
+Genre: Action, Fantasy|
 Recommended for Beginners
+
+Pictures Taken from IMBd
+
+
+### Death Note (from 2016)
+
+<img width="500" height="500" src="media/images/deathnote.jpg">
+
+**Death Note (デスノート)** is a mystery/horror anime , based loosely on the manga published in the period 2003-2006 receiving great reviews by both japan and international viewers alike. A well elaborated but short story that is sure to keep you on your toes. Light Yagami is the protagonist that develops a god syndrome after discovering a notebook that kills whoever gets their name written on it. 
+
+
+Air Dates: 2006-2007|
+Genre: Mystery|
+Recommended for Beginners/Anime Fans
+
+Pictures Taken from IMBd
 
 ### Tokyo Ghoul (2014-2018)
 <img width="500" height="500" src="media/images/tokyoghoul.jpg">
@@ -79,9 +95,23 @@ Recommended for Beginners
 **Tokyo Ghoul (東京喰種トーキョーグール)** is a dark fantasy anime, depicting a world inhabited by ghouls that are seemingly human blending in society, the problem is that they need human flesh to survive . Our protagonist is Kaneki-Kun a young student that spirals uncontrollably in the underworld of ghouls trying to find his place in the world after a transplantation change's his life for ever.
 
 
-Air Dates: 2014-2018
-Genre: Dark Fantasy
-Recommended for Anime Fans/Anime Freaks
+Air Dates: 2014-2018|
+Genre: Dark Fantasy|
+Recommended for Anime Fans/Anime Freaks|
+
+Pictures Taken from IMBd
+
+### Naruto (2007-2017)
+<img width="500" height="500" src="media/images/naruto.jpg">
+
+**Naruto (東京喰種トーキョーグール)** is about a young boy called naruto that carries the heavy burden of keeping a tailed beast the demonic fox inside of him while living in the dangerous world of ninjas . Naruto is a fan favorite that anyone who enjoys a great adventure should take the time to enjoy.
+
+
+Air Dates: 2007-2017|
+Genre: Shonen , Adventure|
+Recommended for Beginners , Younger Audience|
+
+Picture taken from Imbd
 
 ### One Piece (1997-present)
 <img width="250" height="380" src="media/images/onepiece1.jpg"><img width="250" height="380" src="media/images/onepiece2.jpg">
