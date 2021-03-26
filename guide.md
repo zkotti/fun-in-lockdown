@@ -2150,8 +2150,8 @@ Working outside is an option during the lockdown so even though you can't go to 
 * what kind of workout each day
 
 There are apps that can help you track your progress and motivate you to keep going.
-[tomsguide.com](https://www.tomsguide.com/best-picks/best-workout-apps) 
-To remind you to drink the appropriate amount of water and to count the calories intake per  day. [healthline.com]( https://www.healthline.com/health/hydration-top-iphone-android-apps-drinking-water) , [learningenglish.voanews.com](https://learningenglish.voanews.com/a/personal-tech-healthy-eating-fitness-apps/3958706.html#:~:text=MyFitnessPal%20is%20an%20app%20that,more%20information%20about%20healthy%20eating.)</p>
+([tomsguide.com](https://www.tomsguide.com/best-picks/best-workout-apps))
+To remind you to drink the appropriate amount of water and to count the calories intake per  day. ([healthline.com]( https://www.healthline.com/health/hydration-top-iphone-android-apps-drinking-water) , [learningenglish.voanews.com](https://learningenglish.voanews.com/a/personal-tech-healthy-eating-fitness-apps/3958706.html#:~:text=MyFitnessPal%20is%20an%20app%20that,more%20information%20about%20healthy%20eating.))</p>
 
 <img width="400" src="media/images/healthylife.jpg">
 Image owned by: [dreamstime.com](https://www.dreamstime.com/photos-images/healthy-life.html)
