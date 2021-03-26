@@ -2138,9 +2138,10 @@ Image owned by: [mindful.org](https://www.mindful.org/use-breath-strengthen-mind
 Image owned by:[indianfolk.com](https://www.indianfolk.com/effects-healthy-food-personal-life-environment-mahek/)
 
 <p align=”left” width=”700”>Being healthy should be part of your overall lifestyle. 
-* Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses.
 
-* Feeling good about yourself and taking care of your health are important for your self-esteem and self-image. 
++ Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses.
+
++ Feeling good about yourself and taking care of your health are important for your self-esteem and self-image. 
 
 Maintain a healthy lifestyle by doing what is right for your body.
 Now is the time to start caring about yourself by eating right and exercising regularly. You need to stop sinking into your couch and become active. The lockdown is your chance to change the things you don't like about your life and yourself. You have more time than ever to learn about physical and mental health and find inner peace.</p>
