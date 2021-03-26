@@ -82,6 +82,18 @@ Air Dates: 2014-2018
 Genre: Dark Fantasy
 Recommended for Anime Fans/Anime Freaks
 
+### One Piece (1997-present)
+<img width="250" height="380" src="media/images/onepiece1.jpg">
+<img width="250" height="380" src="media/images/onepiece2.jpg">
+
+**One Piece (東京喰種ワンピース)** is one of the most popular manga and anime series of all time. The story is about the adventures of  Monkey D. Luffy, a young ambitious pirate whose body attained the properties of rubber after accidentally eating a Devil Fruit. With his pirate crew called Straw Hat Pirates, Luffy sets sail in pursuit of the world's most valuable treasure known as "One Piece" aiming to eventually be the next King of Pirates. One Piece has released more than 965 episodes and is stil releasing new ones every week. Both the anime and the manga have recieved mulltiple awards over the course of years.
+
+Air Dates: from 1997 
+Genre: Adventure, Fantasy, Action
+Recommended for Beginners
+
+Image Source for One Piece pictures is  [One Piece Fandom Wiki](https://onepiece.fandom.com/wiki/One_Piece_Wiki)
+
 ### Dragonball (From 1984)
 <img width="500" height="500" src="media/images/dragonball.jpg">
 
