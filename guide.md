@@ -45,7 +45,6 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [What to avoid](#whattoavoid)
 * [Work with cars](#Work-with-cars)
 * [Writing](#writing)
-* [Learn a new Instrument](#Learn-a-new-instrument)
 
 [Note : Before you head outside](#note)
 
