@@ -1331,6 +1331,7 @@ A subsection to add your favorite Music Albums
 
 * A night at the opera (2011 Remaster), by Queen [listen here](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx?si=bcOcHr7lSbS2PGYLVyT-XQ)
 * American Idiot (2004), by Green Day [Listen here](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke?si=4eMZxuPfQE6YsZkQLZTTsw)
+* La La Land (2016), by Justin Hurwitz [listen here](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S)
 * Nothing Around us (2018), by Mathame [Listen here](https://open.spotify.com/album/3S8eBDaNXOgauG0Rtco6Kj?si=ShHzHVxeTeC9-az0szKw4A)
 * Play (2014 Remastered Version), by Moby [listen here](https://open.spotify.com/album/7yqSkf4TGPOHUtDKMVjhbD?si=lCj-kEh1QiuvGlsTQwfLVA)
 * Wake me up (2020), by Tale of Us [Listen here](https://open.spotify.com/album/7aeL8XFsUp7BF7Jps0DoRi?si=iZUpANWlRZivHWit3_UTbw)
