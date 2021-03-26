@@ -2114,16 +2114,14 @@ __Editing__ and __Writing__ are not the same thing. Whenever you write something
 Image owned by: [mindful.org](https://www.mindful.org/use-breath-strengthen-mind/)
 <img align="left" width="70" height="60" src="media/icons/lungs-1.png">
 
-## <a name="health"></a> Lead a Healthy Life
-Image owned by: [mindful.org](https://www.mindful.org/use-breath-strengthen-mind/)
 
-*[Exercise Regularly]
-*[Eat Heathy]
-*[Drink Plenty of Water]
-*[Think Positive]
+* [Exercise Regularly]
+* [Eat Heathy]
+* [Drink Plenty of Water]
+* [Think Positive]
 
 <img width="400" src="media/images/healthy.jpg">
-Image owned by:[](https://www.indianfolk.com/effects-healthy-food-personal-life-environment-mahek/)
+Image owned by:[indianfolk.com](https://www.indianfolk.com/effects-healthy-food-personal-life-environment-mahek/)
 
 <p align=”left” width=”700”>Being healthy should be part of your overall lifestyle. 
 Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses.
@@ -2134,21 +2132,21 @@ Now is the time to start caring about yourself by eating right and exercising re
 
 Image owned by: [blog.usejournal.com](https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
 
-We all have different needs according to our workout and diet habits. 
+<p align=”left” width=”700”>We all have different needs according to our workout and diet habits. 
 Since this section is all about the motivation of the reader we would say that it focuses more on the needs of the inactive rather than the active people.
-Workout and diet plans should be decided after consideration of our short term goals. For example a currently inactive person except of gaining stamina and endurance, he might also want to  lose some weight. Or somebody might not be concerned about weight loss and just want to build muscle strength. Or maybe he just wants to create a healthy and balanced lifestyle due to eating disorders.  On that account, different short term goals require different meal and workout plans. Although it is possible even during the lockdown to visit a dietitian there are plenty of applications or websites, free or with a monthly/yearly subscription (probably more accurate) to help you create a plan and stick to it.
+Workout and diet plans should be decided after consideration of our short term goals. For example a currently inactive person except of gaining stamina and endurance, he might also want to  lose some weight. Or somebody might not be concerned about weight loss and just want to build muscle strength. Or maybe he just wants to create a healthy and balanced lifestyle due to eating disorders.  On that account, different short term goals require different meal and workout plans. Although it is possible even during the lockdown to visit a dietitian there are plenty of applications or websites, free or with a monthly/yearly subscription (probably more accurate) to help you create a plan and stick to it.</p>
 
 <img width="400" src="media/images/workout2.jfif">
 
 Image owned by: [stack.com](https://www.stack.com/a/how-to-become-a-morning-workout-person)
 Quarantine comes with many challenges regarding your health. It’s hard to maintain a balanced diet when you are home for most of the day, with a reduced social life and not much to do. That can lead to decreased productivity  and a pessimistic attitude to life. That’s why it is important to keep taking care of yourself. Learn to appreciate the value of sleep and don’t forget to go out for a walk or a quick run at least once a day. Create a daily routine that you enjoy to follow and learn to love your body and yourself.
 
-Create a balanced diet that suits your needs and will eventually help you reach your goal. Follow a weekly workout routine.
+<p align=”left” width=”700”>Create a balanced diet that suits your needs and will eventually help you reach your goal. Follow a weekly workout routine.
 Working outside is an option during the lockdown so even though you can't go to the gym, you can still go for a run, get some fresh air and power your Mental Health batteries. Some yoga is always a good workout option to strengthen your body and relax. Depending on your skills there are many workout programmes depending on your current level (beginner to intermediate). Create your plan:
 *how many days per week
 *what kind of workout each day
 There are apps that can help you track your progress and motivate you to keep going. [tomsguide.com]( https://www.tomsguide.com/best-picks/best-workout-apps) 
-To remind you to drink the appropriate amount of water and to count the calories intake per  day. [healthline.com]( https://www.healthline.com/health/hydration-top-iphone-android-apps-drinking-water) , [learningenglish.voanews.com]( https://learningenglish.voanews.com/a/personal-tech-healthy-eating-fitness-apps/3958706.html#:~:text=MyFitnessPal%20is%20an%20app%20that,more%20information%20about%20healthy%20eating.)
+To remind you to drink the appropriate amount of water and to count the calories intake per  day. [healthline.com]( https://www.healthline.com/health/hydration-top-iphone-android-apps-drinking-water) , [learningenglish.voanews.com]( https://learningenglish.voanews.com/a/personal-tech-healthy-eating-fitness-apps/3958706.html#:~:text=MyFitnessPal%20is%20an%20app%20that,more%20information%20about%20healthy%20eating.)</p>
 
 <img width="400" src="media/images/healthylife.jpg">
 Image owned by: [dreamstime.com](https://www.dreamstime.com/photos-images/healthy-life.html)
