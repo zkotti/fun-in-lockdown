@@ -1437,12 +1437,13 @@ Sites for online courses:
 Online courses: 
 |TITLE|LENGTH|PRICE|INSTITUTION|LEVEL | LANGUAGE| HOST SITE| LINK|
 |---| ---|  ---| ---|---|---|---|---|
-|Project Management Professional |240 hours|32/month|Google|Beginner |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/professional-certificates/google-project-management "Project Management Professional Certificate")|
-|Cybersecurity Fundamentals|96 hours|Free|RITx|Advanced|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/cybersecurity-fundamentals "Cybersecurity Fundamentals")|
 |Bitcoin and Cryptocurrencies|30 hours|Free|BerkleyX|Introductory|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/bitcoin-and-cryptocurrencies?index=product&queryID=b3b6160e788842372317117050e9c774&position=1 "Bitcoin and Cryptocurrencies")|
+|Cybersecurity Fundamentals|96 hours|Free|RITx|Advanced|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/cybersecurity-fundamentals "Cybersecurity Fundamentals")|
 |Introduction to Machine Learning|25 hours|Free|Duke|Intermediate |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/learn/machine-learning-duke "Introduction to Machine Learning")|
-|Statistics and R|16 hours|Free|HarvardX|Intermediate|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/statistics-and-r "Statistics and R")|
 |Introduction to Psychology|15 hours|40/month|Yale|Beginner |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/learn/introduction-psychology "Introduction to Psychology")|
+|Project Management Professional |240 hours|32/month|Google|Beginner |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/professional-certificates/google-project-management "Project Management Professional Certificate")|
+|Statistics and R|16 hours|Free|HarvardX|Intermediate|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/statistics-and-r "Statistics and R")|
+
 
 Photo owned by [transform-elearning.com](https://www.transform-elearning.com/build-online-course-guide/)  
 Icon source: [iconscout.com ](https://iconscout.com/icon/online-course-8) 
