@@ -591,13 +591,13 @@ It is very important to eat healthily in a daily basis so that we give our body 
 
 |DISH|RECIPE| PRO-TIP|
 |---| ---| ---|
-| Banana Oatmeal Pancakes| [recipe here](https://www.youtube.com/watch?v=y8kvazx1C6I)| Serve with honey and blueberries|
-| Healthy Chocolate Cupcakes | [recipe here](https://www.youtube.com/watch?v=_Oe_EGO9xsc)| Go crazy on the decoration|
-| Special Overnight Oats 5 ways| [recipe here](https://www.youtube.com/watch?v=3uiaaiugNdE&t=314s)| Best combo is choco & PB|
 | Banana Bread| [recipe here](https://www.youtube.com/watch?v=zYHYrkdVQ38)| Do not forget to include some extra choco chips|
-| Healthy Salted Caramel Popcorn| [recipe here](https://laurenslatest.com/healthy-caramel-corn/)| Enjoy them!|
+| Banana Oatmeal Pancakes| [recipe here](https://www.youtube.com/watch?v=y8kvazx1C6I)| Serve with honey and blueberries|
 | Berry Smoothie Bowl| [recipe here](https://www.youtube.com/watch?v=b_h0-IHvvAw)| Add peanut butter as a topping|
 | Greek Chicken Grain Bowl| [recipe here](https://www.goodhousekeeping.com/food-recipes/a35353557/greek-chicken-grain-bowl-recipe/)| Enjoy!|
+| Healthy Chocolate Cupcakes | [recipe here](https://www.youtube.com/watch?v=_Oe_EGO9xsc)| Go crazy on the decoration|
+| Healthy Salted Caramel Popcorn| [recipe here](https://laurenslatest.com/healthy-caramel-corn/)| Enjoy them!|
+| Special Overnight Oats 5 ways| [recipe here](https://www.youtube.com/watch?v=3uiaaiugNdE&t=314s)| Best combo is choco & PB|
 
 ---
 
