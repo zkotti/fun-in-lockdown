@@ -1931,17 +1931,17 @@ Section icon Source: https://2sleepylagoonter.info/car-news/best-cars/top-10-bes
 
 ### If you like car videos you should definitely check these youtube channels:
 
-* [CARWOW](https://www.youtube.com/channel/UCUhFaUpnq31m6TNX2VKVSVA) (Highly recommended) 
-* [Motor Trend Channel](https://www.youtube.com/user/MotorTrend/videos)
-* [Top Gear](https://www.youtube.com/user/TopGear/videos)
-* [Mighty Car Mods](https://www.youtube.com/user/mightycarmods/videos)
-* [ChrisFix](https://www.youtube.com/user/PaintballOO7/videos)
-* [Jay Leno's Garage](https://www.youtube.com/user/JayLenosGarage/videos)
-* [DRIVE](https://www.youtube.com/user/drive/videos)
 * [1320video](https://www.youtube.com/user/1320video/videos)
 * [Car Throttle](https://www.youtube.com/user/CarThrottle/videos)
+* [CARWOW](https://www.youtube.com/channel/UCUhFaUpnq31m6TNX2VKVSVA) (Highly recommended) 
+* [ChrisFix](https://www.youtube.com/user/PaintballOO7/videos)
+* [DRIVE](https://www.youtube.com/user/drive/videos)
+* [Jay Leno's Garage](https://www.youtube.com/user/JayLenosGarage/videos)
+* [Mighty Car Mods](https://www.youtube.com/user/mightycarmods/videos)
+* [Motor Trend Channel](https://www.youtube.com/user/MotorTrend/videos)
 * [Scotty Kilmer](https://www.youtube.com/user/scottykilmer/videos)
 * [Supercar Blondie](https://www.youtube.com/user/nikhirschi/videos)
+* [Top Gear](https://www.youtube.com/user/TopGear/videos)
 
 Source for youtube links: https://blog.feedspot.com/car_youtube_channels/
 
