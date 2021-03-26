@@ -106,11 +106,40 @@ Recommended for Beginners
 
 Image Source for pictures is  [IMBd](https://www.imdb.com)
 
+### Attack on titan (From 2013)
+<img width="500" height="600" src="media/images/Attack on Titan (2013).jpg">
 
+**Storyline**
 
+Humans are nearly exterminated by giant creatures called Titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest of titans. Flash forward to the present and the city has not seen a titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as the city walls are destroyed by a colossal titan that appears out of thin air. As the smaller titans flood the city, the two kids watch in horror as their mother is eaten alive. Eren vows that he will murder every single titan and take revenge for all of mankind.
 
+Genres: Animation | Action | Adventure | Drama | Fantasy | Horror
 
+Image source and info [imdb](https://www.imdb.com/title/tt2560140/)
 
+### Jujutsu Kaisen (From 2020)
+
+<img width="500" height="600" src="media/images/JujutsuKaisen.png">
+
+**Storyline**
+
+Yuji Itadori, a kind-hearted teenager, joins his school's Occult Club for fun, but discovers that its members are actual sorcerers who can manipulate the energy between beings for their own use. He hears about a cursed talisman - the finger of Sukuna, a demon - and its being targeted by other cursed beings. Yuji eats the finger to protect his friends, and ends up becoming Sukuna's host. However, Yuji discovers that he has inherited magic and is able to control this power without interference from Sukuna. He joins the Tokyo Metropolitan Magic Technical College to consumes all of Sukuna's fingers, which will enable a full exorcism to take place that will free him.
+
+Genres: Animation | Action | Adventure | Fantasy | Thriller
+
+Image source and info [imdb](https://www.imdb.com/title/tt12343534/?ref_=nv_sr_srsg_0)
+
+### Black Clover (From 2017)
+
+<img width="600" height="700" src="media/images/blackclover.jpg">
+
+**Storyline**
+
+Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor Magus. However, latrine as they grew up, some differences between them became plain. Yuno was a genius with magic, with amazing power and control, while Asta could not use magic at all, and tried to make up for his lack by training physically. When they received their Grimoires at age 15, Yuno got a spectacular book with a four-leaf clover (most people receive a three-leaf-clover), while Asta received nothing at all. However, when Yuno was threatened, the truth about Asta's power was revealed, he received a five-leaf clover Grimoire, a "black clover". Now the two friends are heading out in the world, both seeking the same goal.
+
+Genres: Animation | Action | Adventure | Comedy | Drama | Fantasy | Sci-Fi | Thriller
+
+Image source and info [imdb](https://www.imdb.com/title/tt7441658/?ref_=nv_sr_srsg_0)
 
 
 
@@ -170,6 +199,7 @@ Below you may find some interesting websites where you can play different board 
 * [Among Us](https://www.bluestacks.com/apps/action/among-us-on-pc.html): The game takes place in a space-themed setting, in which players each take on one of two roles, most being Crewmates, and a predetermined number being Impostors. The goal of the Crewmates is to identify the Impostors, eliminate them, and complete tasks around the map; the Impostors' goal is to covertly sabotage and kill the Crewmates before they complete all of their tasks. Players suspected to be Impostors may be eliminated via a plurality vote, which any player may initiate by calling an emergency meeting (except during a crisis) or reporting a dead body. Crewmates win if all Impostors are eliminated or all tasks are completed whereas Impostors win if there is an equal number of Impostors and Crewmates, or if a critical sabotage goes unresolved.
 * [Chess](https://www.chess.com/): Probably the most famous strategy game.
 * [GeoGuessr](https://www.geoguessr.com/): The goal of this game is to guess the location of a specific spot on the globe presented to you via google maps street view. You can either play alone, or with friends. The closer your guess to the selected location, the more point you gather. The winner of the game is the person with the most points at the end of a specified number of rounds.
+* [League of legend: Wild Rift](https://wildrift.leagueoflegends.com/en-gb/): A 5v5 MOBA experience of League of Legends, now built from the ground up for mobile and console. With fresh controls and fast-paced games, players of every level can team up with friends, lock in their champion, and go for the big plays.
 * [Password](https://www.thegamegal.com/2017/11/10/password): The goal of this game is to get your partner to guess the password by giving him a one word and only one word clue. First, you divide yourselves into 2 teams and in each round one of the members from each team will be given a password. If your partner guesses the password then your team wins the points of the round, but if he doesn't, then it's the other team’s turn. If their team gets the password, they get the points. If the other team also doesn’t get the word you get another try. So, this goes on for 3 times till someone gets the password and then the next round starts. It's a really entertaining game to play with your friends. **Pro Tip**: Turn this into a drinking game and you'll maximize the fun!*([download it here](https://play.google.com/store/apps/details?id=in.androidmate.password_game))*
 * [Playing cards](https://playingcards.io/): PlayingCards.io simply provides a synchronized card playspace. It's up to you to start the game, enforce rules, and determine the winner, just like a real deck of cards!
 * [Pretend you're xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp): Pretend You're Xyzzy is a Cards Against Humanity clone! *([github repo](https://github.com/ajanata/PretendYoureXyzzy))*
@@ -179,6 +209,7 @@ Below you may find some interesting websites where you can play different board 
 Seterra includes fun quizzes that help familiarize you with countries, capital cities, flags, rivers, lakes, and notable geological features.
 * [Spyfall](https://www.spyfall.app/): Spyfall is a fun game that really tests your improvise abilities! You and your friends virtually attend an event and you all get assigned different roles. However, one of you is a spy and has no idea about the event you are attending. Try to figure out who the spy as soon as possible!
 * [The Wiki Game](http://thewikigame.com/): In this game, you have to navigate around wiki pages and guess. You start from a specific Wikipedia page and within a specified time limit, you have to go to another target Wikipedia page using the available hyperlinks.
+
 
 
 ### Classic board games
@@ -195,6 +226,7 @@ If you are stuck at home with your family or your roommate(s), you could try one
 * [Scrabble](https://en.wikipedia.org/wiki/Scrabble): A game in which you use random letters to create words.
 * [Stratego](https://en.wikipedia.org/wiki/Stratego): A Napoleonic version of capture the flag!
 * [Taboo](https://en.wikipedia.org/wiki/Taboo_(game)): The game of forbidden words. In Taboo, your goal is to get your teammate to say the word written on one of the game cards without saying that word or any of the “taboo” words also listed with it.
+* [Tichu](https://el.wikipedia.org/wiki/Τίτσου): Tichu (also known as Haris) is a multi-genre card game; primarily a shedding game that includes elements of Bridge, Daihinmin, and Poker played between two teams of two players each. Teams work to accumulate points; the first team to reach a predetermined score (usually 1,000 points) is the winner. You can also play online at: [dod-games](https://www.dod.gr/?app=games)
 * [Ticket to Ride](https://en.wikipedia.org/wiki/Ticket_to_Ride_(board_game)): A strategy game in which players collect train cards and use them in order to create train routes across a real world map and collect points. The purpose of the game is to collect the most points. This can be achieved by creating long railways and connecting remote cities which are determined by drawing ticket cards. This board game is ideal for people who like strategy, and love using..... Optimization Methods. :stuck_out_tongue:
 * [Trivial Pursuit](https://en.wikipedia.org/wiki/Trivial_Pursuit): A game to test your knowledge about things around the globe.
 * [Twister](https://en.wikipedia.org/wiki/Twister_(game)): As the box promises, have you twisted up in knots and probably doubled over laughing, too.
