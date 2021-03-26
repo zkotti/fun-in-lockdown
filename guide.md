@@ -269,6 +269,15 @@ If you are stuck at home with your family or your roommate(s), you could try one
 * [Twister](https://en.wikipedia.org/wiki/Twister_(game)): As the box promises, have you twisted up in knots and probably doubled over laughing, too.
 * [Wizard](https://en.wikipedia.org/wiki/Wizard_(card_game)): A fun card game that comes with a set of tricky rules. Each player has guess the results of the game and the winner is the one who makes the best guesses. 
   
+### Puzzles' Bestsellers
+
+* Katosca 1,000 Piece Jigsaw Puzzle. [Buy it from amazon.](https://www.amazon.com/Katosca-Jigsaw-Puzzles-Astronaut-Educational/dp/B07RHSKLYL)
+* Moruska 1,000 Piece Gradient Rainbow Jigsaw Puzzle. [Buy it from banggood.](https://www.banggood.com/1000-Pieces-Thousands-Of-Colors-Rainbow-Coil-Series-Childrens-Gift-Jigsaw-Puzzle-Toy-Educational-Toys-p-1654342.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=GR&utm_content=minha&utm_campaign=minha-gr-en-pc&currency=EUR&cur_warehouse=USA&createTmp=1&ID=528218&utm_source=googleshopping&utm_medium=cpc_bgs&utm_content=sxxx&utm_campaign=sxxx-ssc-gr-en-all-newcustom-ncv65-0409&ad_id=430724963733&gclid=Cj0KCQjwjPaCBhDkARIsAISZN7Q--mXvBmCI8-JlruhaZyEpmkm4MaucElhb1WD2k3YGo2OZFMS1O6MaAnk5EALw_wcB)
+* Gray Malin 500 Piece Snow Jigsaw Puzzle. [Buy it from amara.](https://www.amara.com/ie/products/the-snow-double-sided-puzzle?utm_source=google&utm_medium=cpc&amss=ldo&pdg=pla-296303633664:kwd-296303633664:cmp-6772810709:adg-84881265732:crv-388972891590:pid-191950:dev-c&__currency=EUR&amss=kbz&gclid=Cj0KCQjwjPaCBhDkARIsAISZN7TQUSWMeAZ_zhnOExxAdz_2FMsty803VJZe4ZA-5Uye-rakWUSMV1YaAixYEALw_wcB)
+* Custom Hometown Map Puzzle. [Buy it from amazon.](https://www.amazon.com/Personalized-Hometown-Map-Jigsaw-Mapping/dp/B00LLDPQ22)
+* New York Times Custom Front Page Puzzle. [Buy it from uncommongoods.](https://www.uncommongoods.com/product/new-york-times-custom-front-page-puzzle)
+
+Source:[today.com](https://www.today.com/shop/best-puzzles-adults-2020-t171244) 
 
 ---
 
@@ -2128,33 +2137,60 @@ __Editing__ and __Writing__ are not the same thing. Whenever you write something
 <img align="left" width="70" height="60" src="media/icons/lungs-1.png">
 
 ## <a name="health"></a> Lead a Healthy Life
-
 Image owned by: [mindful.org](https://www.mindful.org/use-breath-strengthen-mind/)
 
-Being healthy should be part of your overall lifestyle. 
-Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses.
-Feeling good about yourself and taking care of your health are important for your self-esteem and self-image. 
-Maintain a healthy lifestyle by doing what is right for your body.
-Now is the time to start caring about yourself by eating right and exercising regularly!
 
+
+* Exercise Regularly
+* Eat Heathy
+* Drink Plenty of Water
+* Think Positive
+
+<img width="400" src="media/images/healthy.jpg">
+Image owned by:[indianfolk.com](https://www.indianfolk.com/effects-healthy-food-personal-life-environment-mahek/)
+
+<p align=”left” width=”700”>Being healthy should be part of your overall lifestyle. 
+Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses.
+
+Feeling good about yourself and taking care of your health are important for your self-esteem and self-image. 
+
+Maintain a healthy lifestyle by doing what is right for your body.
+Now is the time to start caring about yourself by eating right and exercising regularly! You need to stay active and not sink in your couch. The lockdown is your chance to change the things you don't like about your life and yourself. You have more time than ever to learn about physical and mental health and find inner peace.</p>
 <img width="400" src="media/images/workout1.jfif">
 
 Image owned by: [blog.usejournal.com](https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
 
-We all have different needs according to our workout and diet habits. 
+<p align=”left” width=”700”>We all have different needs according to our workout and diet habits. 
 Since this section is all about the motivation of the reader we would say that it focuses more on the needs of the inactive rather than the active people.
-Workout and diet plans should be decided after consideration of our short term goals. For example a currently inactive person except of gaining stamina and endurance, he might also want to  lose some weight. Also, he might not be concerned about weight loss and just want to build muscle strength. Or maybe he just want to create a healthy and balanced lifestyle due to eating disorders.  On that account, different short term goals require different meal and workout plans. Although it is possible even during the lockdown to visit a dietitian there are plenty of applications or websites, free or with a monthly/yearly subscription to help you create a plan and stick to it.
+Workout and diet plans should be decided after consideration of our short term goals. For example a currently inactive person except of gaining stamina and endurance, he might also want to  lose some weight. Or somebody might not be concerned about weight loss and just want to build muscle strength. Or maybe he just wants to create a healthy and balanced lifestyle due to eating disorders.  On that account, different short term goals require different meal and workout plans. Although it is possible even during the lockdown to visit a dietitian there are plenty of applications or websites, free or with a monthly/yearly subscription (probably more accurate) to help you create a plan and stick to it.</p>
 
 <img width="400" src="media/images/workout2.jfif">
 
 Image owned by: [stack.com](https://www.stack.com/a/how-to-become-a-morning-workout-person)
 
-Create a balanced diet that suits your needs and will eventually help you reach your goal; and follow a weekly workout routine.
-Working outside is an option during the lockdown so even thogh you can't go to the gym, you can still go for a run, get some fresh air and power your Mental Health battaries.
-You need to stay active and not sink in your couch. Thiw is a chance to change the things you don't like about your life and yourself. 
+Quarantine comes with many challenges regarding your health. It’s hard to maintain a balanced diet when you are home for most of the day, with a reduced social life and not much to do. That can lead to decreased productivity  and a pessimistic attitude to life. That’s why it is important to keep taking care of yourself. Learn to appreciate the value of sleep and don’t forget to go out for a walk or a quick run at least once a day. Create a daily routine that you enjoy to follow and learn to love your body and yourself.
+
+<p align=”left” width=”700”>Create a balanced diet that suits your needs and will eventually help you reach your goal. Follow a weekly workout routine.
+Working outside is an option during the lockdown so even though you can't go to the gym, you can still go for a run, get some fresh air and power your Mental Health batteries. Some yoga is always a good workout option to strengthen your body and relax. Depending on your skills there are many workout programmes depending on your current level (beginner to intermediate). Create your plan:
+
+* how many days per week
+* what kind of workout each day
+
+There are apps that can help you track your progress and motivate you to keep going.
+[tomsguide.com](https://www.tomsguide.com/best-picks/best-workout-apps) 
+To remind you to drink the appropriate amount of water and to count the calories intake per  day. [healthline.com]( https://www.healthline.com/health/hydration-top-iphone-android-apps-drinking-water) , [learningenglish.voanews.com](https://learningenglish.voanews.com/a/personal-tech-healthy-eating-fitness-apps/3958706.html#:~:text=MyFitnessPal%20is%20an%20app%20that,more%20information%20about%20healthy%20eating.)</p>
+
+<img width="400" src="media/images/healthylife.jpg">
+Image owned by: [dreamstime.com](https://www.dreamstime.com/photos-images/healthy-life.html)
+
+Check out [health.gov](https://health.gov/myhealthfinder/topics/health-conditions/diabetes/eat-healthy#:~:text=A%20healthy%20eating%20pattern%20can%20help%20keep%20you%20healthy.&text=Making%20smart%20food%20choices%20can,Heart%20disease), [medicalnewstoday.com]( https://www.medicalnewstoday.com/articles/322268), [everydayhealth.com]( https://www.everydayhealth.com/diet-nutrition/importance-healthy-eating-habits/) to learn why you need o stay healthy and how.
+
+Also [greatist.com](https://greatist.com/fitness/best-health-fitness-apps#other) has may apps to suggest depending on your food and fitness interests. Check it out and start living your new life.
 
 Source: <https://www.foundationforpn.org/living-well/lifestyle/#:~:text=Being%20healthy%20should%20be%20>
+
 ---
+
 <img align="left" width="40" height="40" src="media/icons/warning-shield.png">
 
 
@@ -2191,8 +2227,3 @@ regulations that are currently active on every Greek regional unit. For informat
 ---
 
 _Section icons owned by [Pichon](https://icons8.com/app/windows)_
->>>>>>> b5c6653faaf6daca4d3c92501ba77b4a78241f79
-
-=======
->>>>>>> Stashed changes
->>>>>>> beecb3023822e5c553e61b86f7fc17be7aa75e79
