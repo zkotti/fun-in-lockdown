@@ -1966,6 +1966,16 @@ Photo owned by [zoogla.gr](https://www.zougla.gr/greece/article/i-patrini-gourou
 * Walk alongside a patras' beach. [See all patras' beaches in the map.](https://www.google.com/search?tbs=lf:1,lf_ui:1&tbm=lcl&sxsrf=ALeKk02rgnIi8Y5qwuvlA3J3QMbb-wIFxA:1616521647696&q=patras+beaches&rflfq=1&num=10&ved=2ahUKEwjBlNS0_MbvAhWJlqQKHQwnD_gQtgN6BAgyEAc)
 * Explore Patras Mycenaean Park-Voundeni [(map](https://www.google.com/maps/place/%CE%9C%CF%85%CE%BA%CE%B7%CE%BD%CE%B1%CF%8A%CE%BA%CF%8C+%CE%9D%CE%B5%CE%BA%CF%81%CE%BF%CF%84%CE%B1%CF%86%CE%B5%CE%AF%CE%BF+%CE%92%CE%BF%CF%8D%CE%BD%CF%84%CE%B5%CE%BD%CE%B7%CF%82/@38.252451,21.7826245,15z/data=!4m2!3m1!1s0x0:0xeff6c71133ac1c90?sa=X&ved=2ahUKEwiDj6qY-8bvAhXT8eAKHc4yChQQ_BIwG3oECCkQBQ))
 
+### Mykonos
+
+<img src="media/images/mykonos.jpg" alt="Mykonos" width="500"/>
+
+Photo owned by [adornosuites.com](https://www.adornosuites.com/top-10-best-things-to-do-on-mykonos-island-greece/)
+
+* Explore the magical streets of Mykonos town ([map](https://www.google.com/maps/place/Mikonos+846+00/@37.444457,25.3180739,14z/data=!3m1!4b1!4m5!3m4!1s0x14a2bf06bf0fdd37:0xfaa85debe77b7a44!8m2!3d37.4467185!4d25.3288623?hl=en))
+* Walk around the square of Ano Mera village ([map](https://www.google.com/maps?q=ano+mera+mykonos&source=lmns&bih=722&biw=1519&hl=en&sa=X&ved=2ahUKEwie4pvDls7vAhWT0oUKHTp1BuAQ_AUoAnoECAEQAg))
+* Enjoy your walk around Kanalia while enjoying the fabulous Mykonos sunset ([map](https://www.google.com/maps/search/kanalia+mykonos/@37.4342891,25.3077225,16z/data=!3m1!4b1?hl=en))
+
 Sources: [thebest.gr](https://www.thebest.gr/article/412935-), [tripadvisor](https://www.tripadvisor.com/Attractions-g189488-Activities-c47-t76-Patras_Achaea_Region_West_Greece.html)
 
 ---
