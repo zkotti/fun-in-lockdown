@@ -2142,9 +2142,9 @@ Image owned by: [mindful.org](https://www.mindful.org/use-breath-strengthen-mind
 * Drink Plenty of Water
 * Think Positive
 
-Image owned by:[indianfolk.com](https://www.indianfolk.com/effects-healthy-food-personal-life-environment-mahek/)
 <img width="500" src="media/images/healthy.jpg">
 
+Image owned by:[indianfolk.com](https://www.indianfolk.com/effects-healthy-food-personal-life-environment-mahek/)
 
 <p align=”left” width=”700”>Being healthy should be part of your overall lifestyle. 
 Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses.
@@ -2152,7 +2152,8 @@ Living a healthy lifestyle can help prevent chronic diseases and long-term illne
 Feeling good about yourself and taking care of your health are important for your self-esteem and self-image. 
 
 Maintain a healthy lifestyle by doing what is right for your body.
-Now is the time to start caring about yourself by eating right and exercising regularly! You need to stay active and not sink into your couch. The lockdown is your chance to change the things you don't like about your life and yourself. You have more time than ever to learn about physical and mental health and find inner peace.</p>
+Now is the time to start caring about yourself by eating right and exercising regularly! You need to stop sinking into your couch and become active. The lockdown is your chance to change the things you don't like about your life and yourself. You have more time than ever to learn about physical and mental health and find inner peace.</p>
+
 <img width="400" src="media/images/workout1.jfif">
 
 Image owned by: [blog.usejournal.com](https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
@@ -2180,9 +2181,9 @@ To remind you to drink the appropriate amount of water and to count the calories
 Check out [health.gov](https://health.gov/myhealthfinder/topics/health-conditions/diabetes/eat-healthy#:~:text=A%20healthy%20eating%20pattern%20can%20help%20keep%20you%20healthy.&text=Making%20smart%20food%20choices%20can,Heart%20disease), [medicalnewstoday.com]( https://www.medicalnewstoday.com/articles/322268), [everydayhealth.com]( https://www.everydayhealth.com/diet-nutrition/importance-healthy-eating-habits/) to learn why you need o stay healthy and how.
 Also [greatist.com](https://greatist.com/fitness/best-health-fitness-apps#other) has may apps to suggest depending on your food and fitness interests. Check it out and start living your new life.
 
-Image owned by: [dreamstime.com](https://www.dreamstime.com/photos-images/healthy-life)
 <image width="500" src="media/images/healthylife.jpg">
 
+Image owned by: [dreamstime.com](https://www.dreamstime.com/photos-images/healthy-life)
 
 Source: <https://www.foundationforpn.org/living-well/lifestyle/#:~:text=Being%20healthy%20should%20be%20>
 
@@ -2223,4 +2224,4 @@ regulations that are currently active on every Greek regional unit. For informat
 
 ---
 
-_Section icons owned by [Pichon](https://icons8.com/app/windows)_
+_Section icons owned by [icons8.com](https://icons8.com/app/windows)_
