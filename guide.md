@@ -46,6 +46,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [What to avoid](#whattoavoid)
 * [Work with cars](#Work-with-cars)
 * [Writing](#writing)
+* [Learn a new Instrument](#Learn-a-new-instrument)
 
 [Note : Before you head outside](#note)
 
@@ -189,6 +190,7 @@ If you are stuck at home with your family or your roommate(s), you could try one
 * [Citadels](https://en.wikipedia.org/wiki/Citadels_(card_game)): A card game in which on each round, players pick a role, build districts and make actions according to their role.
 * [Cluedo](https://en.wikipedia.org/wiki/Cluedo): A suspenseful murder mystery game that turns everyone into a detective.
 * [Halli Galli](https://www.ultraboardgames.com/halli-galli/game-rules.php): A fast game in which you have to ring the bell as soon as 5 same fruits appear. Just watch for your hands!
+* [Jenga](https://en.wikipedia.org/wiki/Jenga): Jenga is a game of physical skill. Players take turns removing one block at a time from a tower constructed of 54 blocks.
 * [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)): The classical buying and trading properties game. 
 * [Risk](https://en.wikipedia.org/wiki/Risk_(game)): A strategy board game which combines war, debate, diplomacy, conflicts, and luck. Each player has a quest to complete (usually to take over a continent) but so do your opponents. 2-6 Players, 1-8 hours. Do not play this game with your best friends, it will be the end of a friendship...  
 * [Scrabble](https://en.wikipedia.org/wiki/Scrabble): A game in which you use random letters to create words.
@@ -386,11 +388,11 @@ Unusual flavor combinations that actually work in drinks. Be sure to test them y
 |---| ---| ---| 
 | Bacon Me Angry | Vodka | [recipe](https://bacontoday.com/2015/01/19/bacon-me-angry-angry-orchard-cocktail/)|
 | Butternut Old Fashioned | Whiskey | [recipe](https://www.thespruceeats.com/little-doms-butternut-old-fashioned-recipe-761338)|
+| Coconut Martini | Vodka | [recipe](https://www.thespruceeats.com/coconut-martini-recipe-759080)|
 | Eucalyptus Martini | Gin | [recipe](https://www.thespruceeats.com/eucalyptus-martini-recipe-760078)|
+| Jungle Bird | Rum | [recipe](https://www.thespruceeats.com/jungle-bird-cocktail-4687092)|
 | Ruby Queen | Vodka | [recipe](https://www.thespruceeats.com/ruby-queen-cocktail-recipe-759220)|
 | The Beer, Bourbon & Barbecue Cocktail | Whiskey | [recipe](https://www.thespruceeats.com/beer-bourbon-and-barbecue-cocktail-recipe-4156984)|
-| Jungle Bird | Rum | [recipe](https://www.thespruceeats.com/jungle-bird-cocktail-4687092)|
-| Coconut Martini | Vodka | [recipe](https://www.thespruceeats.com/coconut-martini-recipe-759080)|
 
 For more details don't forget to check [this](https://www.thespruceeats.com/unique-cocktails-for-adventurous-drinkers-759874) out!
 
@@ -591,13 +593,13 @@ It is very important to eat healthily in a daily basis so that we give our body 
 
 |DISH|RECIPE| PRO-TIP|
 |---| ---| ---|
-| Banana Oatmeal Pancakes| [recipe here](https://www.youtube.com/watch?v=y8kvazx1C6I)| Serve with honey and blueberries|
-| Healthy Chocolate Cupcakes | [recipe here](https://www.youtube.com/watch?v=_Oe_EGO9xsc)| Go crazy on the decoration|
-| Special Overnight Oats 5 ways| [recipe here](https://www.youtube.com/watch?v=3uiaaiugNdE&t=314s)| Best combo is choco & PB|
 | Banana Bread| [recipe here](https://www.youtube.com/watch?v=zYHYrkdVQ38)| Do not forget to include some extra choco chips|
-| Healthy Salted Caramel Popcorn| [recipe here](https://laurenslatest.com/healthy-caramel-corn/)| Enjoy them!|
+| Banana Oatmeal Pancakes| [recipe here](https://www.youtube.com/watch?v=y8kvazx1C6I)| Serve with honey and blueberries|
 | Berry Smoothie Bowl| [recipe here](https://www.youtube.com/watch?v=b_h0-IHvvAw)| Add peanut butter as a topping|
 | Greek Chicken Grain Bowl| [recipe here](https://www.goodhousekeeping.com/food-recipes/a35353557/greek-chicken-grain-bowl-recipe/)| Enjoy!|
+| Healthy Chocolate Cupcakes | [recipe here](https://www.youtube.com/watch?v=_Oe_EGO9xsc)| Go crazy on the decoration|
+| Healthy Salted Caramel Popcorn| [recipe here](https://laurenslatest.com/healthy-caramel-corn/)| Enjoy them!|
+| Special Overnight Oats 5 ways| [recipe here](https://www.youtube.com/watch?v=3uiaaiugNdE&t=314s)| Best combo is choco & PB|
 
 ---
 
@@ -1127,27 +1129,27 @@ Here are some of the vegetables that you can begin with!
 
 |VEGETABLE| GROW TIME (days)| VITAMINS| COLD HARDNESS | WHEN TO WATER |
 |---| ---| ---| ---| ---|
-| Carrots  | 70-80  | 	A, C, K, and B6|	Half-hardy | Only during drought conditions |
 | Broccoli  | 100-150  | 	A, E, B1, and B6|	Hardy | Only during drought conditions |
-| Pumpkins  | 90-100  | 	Fiber, C, and Potassium|	Tender | Only during drought conditions |
+| Carrots  | 70-80  | 	A, C, K, and B6|	Half-hardy | Only during drought conditions |
 | Peppers  | 60-90 | 	 A, C, B6, B2, and E|	Very tender | Once a week |
-| Zucchini  | 50-60  | 	 A, B1, B6, and B2 | Very tender | Frequently, especially when fruits form |
-| Tomatoes  | 65-85  | 	 A, C, K, and B6|	Tender | Twice a week |
 | Potatoes  | 90-120  | 	B6 and C|	Half-hardy | Regularly, when tubers start to form |
+| Pumpkins  | 90-100  | 	Fiber, C, and Potassium|	Tender | Only during drought conditions |
+| Tomatoes  | 65-85  | 	 A, C, K, and B6|	Tender | Twice a week |
+| Zucchini  | 50-60  | 	 A, B1, B6, and B2 | Very tender | Frequently, especially when fruits form |
 
 ### Easy-to-grow plants
 
 | PLANT NAME | PLANT TYPE | BLOOM TIME | SUN EXPOSURE | LINK |
 |---|---|---|---|---|
-|Pothos| Vine | Doesn't bloom | Full sun, partial shade | [More info](https://www.thespruce.com/pothos-an-easy-to-grow-houseplant-1403154)|
-|Chinese Evergreen| Herbaceous perennial | Spring, summer | Partial shade, full shade | [More info](https://www.thespruce.com/grow-aglaonema-houseplants-1902734)|
-|Jade Plant| Succulent | Spring | Full sun | [More info](https://www.thespruce.com/grow-jade-plants-indoors-1902981)|
 |Asparagus Fern| Annual, houseplant | Summer | Indirect light (indoors); part sun (outdoors) | [More info](https://www.thespruce.com/grow-asparagus-ferns-1902714)|
+|Chinese Evergreen| Herbaceous perennial | Spring, summer | Partial shade, full shade | [More info](https://www.thespruce.com/grow-aglaonema-houseplants-1902734)|
 |Chinese Money Plant | Evergreen perennial | Spring |  Bright indirect light | [More info](https://www.thespruce.com/growing-pilea-peperomioides-5090425)|
-|Yucca | Herbaceous perennials | Mid-summer to early fall | Full sun or bright, indirect sun | [More info](https://www.thespruce.com/grow-yucca-inside-1902500)|
-|Tillandsia | Air Plant | Doesn't bloom | Bright, indirect sunlight | [More info](https://www.thespruce.com/grow-air-plants-1902663)|
 |Croton Plant | Evergreen shrub | Doesn't bloom | Bright, indirect light | [More info](https://www.thespruce.com/grow-codiaeum-variegatum-1902750)|
+|Jade Plant| Succulent | Spring | Full sun | [More info](https://www.thespruce.com/grow-jade-plants-indoors-1902981)|
 |Peace Lily | Flowering tropical plant | Spring | Medium, indirect light | [More info](https://www.thespruce.com/grow-peace-lilies-1902767)|
+|Pothos| Vine | Doesn't bloom | Full sun, partial shade | [More info](https://www.thespruce.com/pothos-an-easy-to-grow-houseplant-1403154)|
+|Tillandsia | Air Plant | Doesn't bloom | Bright, indirect sunlight | [More info](https://www.thespruce.com/grow-air-plants-1902663)|
+|Yucca | Herbaceous perennials | Mid-summer to early fall | Full sun or bright, indirect sun | [More info](https://www.thespruce.com/grow-yucca-inside-1902500)|
 
 Photo owned by [kellogggarden.com](https://www.kellogggarden.com/wp-content/uploads/2017/07/Leafy-Vegetable-Garden.jpg)  
 Icon source: [thenounproject.com ](https://thenounproject.com/term/gardening/) 
@@ -1257,14 +1259,14 @@ Music is probably the best way to survive while at home. Whether you headbang wh
 
 ### Playlists 
 You can have an amazing time just by relaxing and listening to your favorite music. Here are some music playlists you might enjoy:
+* Ambient Study Music [listen here](https://www.youtube.com/watch?v=sjkrrmBnpGE)
 * Cozy evenings (a chill mix) [listen here](https://www.youtube.com/watch?v=tHNSzNlgRZA&t=217s)
-* Top 40 songs of 2020 2021 [listen here](https://www.youtube.com/watch?v=_pLO4jFDeIc)
+* Greek "Plintirio* playlist [listen here](https://open.spotify.com/playlist/0X4ZYdFFZKnizCaT2WCro9?si=ghSDdd5tQwOhHPgLbhFikA)
 * Italian songs to dance to [listen here](https://www.youtube.com/watch?v=dsb9Fakq1A8)
 * Piano Acoustic Music [listen here](https://www.youtube.com/watch?v=wmFz6CD-MTE)
-* Ambient Study Music [listen here](https://www.youtube.com/watch?v=sjkrrmBnpGE)
 * Relaxing Jazz Music [listen here](https://www.youtube.com/watch?v=neV3EPgvZ3g)
+* Top 40 songs of 2020 2021 [listen here](https://www.youtube.com/watch?v=_pLO4jFDeIc)
 * Top techno songs [listen here](https://open.spotify.com/playlist/6g7ZfOfEqqSR4o7iPVZggC?si=jDMehvIDSweA0UJqu4Vhng)
-* Greek "Plintirio* playlist [listen here](https://open.spotify.com/playlist/0X4ZYdFFZKnizCaT2WCro9?si=ghSDdd5tQwOhHPgLbhFikA)
 
 
 ### Songs
@@ -1310,6 +1312,7 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Sleep on the Floor, Lumineers [listen here](https://www.youtube.com/watch?v=v4pi1LxuDHc)
 * Space Song, by Beach House [listen here](https://www.youtube.com/watch?v=RBtlPT23PTM&list=PLRQDSvpEpYzBUdlMzMhAWSD4TyE0ga7Et&index=4)
 * Spring 1, recomposed by Max Richter (original by Vivaldi) [listen here](https://www.youtube.com/watch?v=41IOkVjy3MM)
+* Strangers In The Night, Frank Sinatra [listen here](https://www.youtube.com/watch?v=ZwAERaRUsp0)
 * Summer Breeze, Seals and Crofts [listen here](https://www.youtube.com/watch?v=GQQbjpomexo)
 * Survival, Muse [listen here](https://www.youtube.com/watch?v=bKFhS0cQLE8)
 * TOP OF THE WORLD, ZAYDE WOLF [listen here](https://www.youtube.com/watch?v=Sdy9PY0CVQ0)
@@ -1329,11 +1332,12 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 A subsection to add your favorite Music Albums
 
 * A night at the opera (2011 Remaster), by Queen [listen here](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx?si=bcOcHr7lSbS2PGYLVyT-XQ)
-* Nothing Around us (2018), by Mathame [Listen here](https://open.spotify.com/album/3S8eBDaNXOgauG0Rtco6Kj?si=ShHzHVxeTeC9-az0szKw4A)
-* Play(2014 Remastered Version), by Moby [listen here](https://open.spotify.com/album/7yqSkf4TGPOHUtDKMVjhbD?si=lCj-kEh1QiuvGlsTQwfLVA)
-* Wake me up (2020), by Tale of Us [Listen here](https://open.spotify.com/album/7aeL8XFsUp7BF7Jps0DoRi?si=iZUpANWlRZivHWit3_UTbw)
-* American Idiot (2004), by Green Day [Listen here](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke?si=4eMZxuPfQE6YsZkQLZTTsw)
-
+* American Idiot (2004), by Green Day [listen here](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke?si=4eMZxuPfQE6YsZkQLZTTsw)
+* La La Land (2016), by Justin Hurwitz [listen here](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S)
+* Les Misérables (1985), by London Cast Recording [listen here](https://open.spotify.com/album/3QnkeixkKiKpP3ObLb7DtT)
+* Nothing Around us (2018), by Mathame [listen here](https://open.spotify.com/album/3S8eBDaNXOgauG0Rtco6Kj?si=ShHzHVxeTeC9-az0szKw4A)
+* Play (2014 Remastered Version), by Moby [listen here](https://open.spotify.com/album/7yqSkf4TGPOHUtDKMVjhbD?si=lCj-kEh1QiuvGlsTQwfLVA)
+* Wake me up (2020), by Tale of Us [listen here](https://open.spotify.com/album/7aeL8XFsUp7BF7Jps0DoRi?si=iZUpANWlRZivHWit3_UTbw)
 
 ### Musical Instruments
 You are never actually too old to learn to play an instrument you have always liked. It is a perfect break from your laptop's screen.
@@ -1435,12 +1439,13 @@ Sites for online courses:
 Online courses: 
 |TITLE|LENGTH|PRICE|INSTITUTION|LEVEL | LANGUAGE| HOST SITE| LINK|
 |---| ---|  ---| ---|---|---|---|---|
-|Project Management Professional |240 hours|32/month|Google|Beginner |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/professional-certificates/google-project-management "Project Management Professional Certificate")|
-|Cybersecurity Fundamentals|96 hours|Free|RITx|Advanced|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/cybersecurity-fundamentals "Cybersecurity Fundamentals")|
 |Bitcoin and Cryptocurrencies|30 hours|Free|BerkleyX|Introductory|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/bitcoin-and-cryptocurrencies?index=product&queryID=b3b6160e788842372317117050e9c774&position=1 "Bitcoin and Cryptocurrencies")|
+|Cybersecurity Fundamentals|96 hours|Free|RITx|Advanced|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/cybersecurity-fundamentals "Cybersecurity Fundamentals")|
 |Introduction to Machine Learning|25 hours|Free|Duke|Intermediate |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/learn/machine-learning-duke "Introduction to Machine Learning")|
-|Statistics and R|16 hours|Free|HarvardX|Intermediate|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/statistics-and-r "Statistics and R")|
 |Introduction to Psychology|15 hours|40/month|Yale|Beginner |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/learn/introduction-psychology "Introduction to Psychology")|
+|Project Management Professional |240 hours|32/month|Google|Beginner |English|[Coursera](https://www.coursera.org/)|[COURSE](https://www.coursera.org/professional-certificates/google-project-management "Project Management Professional Certificate")|
+|Statistics and R|16 hours|Free|HarvardX|Intermediate|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/statistics-and-r "Statistics and R")|
+
 
 Photo owned by [transform-elearning.com](https://www.transform-elearning.com/build-online-course-guide/)  
 Icon source: [iconscout.com ](https://iconscout.com/icon/online-course-8) 
