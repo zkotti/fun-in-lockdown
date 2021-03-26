@@ -1931,7 +1931,7 @@ Section icon Source: https://2sleepylagoonter.info/car-news/best-cars/top-10-bes
 
 ### If you like car videos you should definitely check these youtube channels:
 
-* [CARWOW](https://www.youtube.com/channel/UCUhFaUpnq31m6TNX2VKVSVA) Highly recommended 
+* [CARWOW](https://www.youtube.com/channel/UCUhFaUpnq31m6TNX2VKVSVA) (Highly recommended) 
 * [Motor Trend Channel](https://www.youtube.com/user/MotorTrend/videos)
 * [Top Gear](https://www.youtube.com/user/TopGear/videos)
 * [Mighty Car Mods](https://www.youtube.com/user/mightycarmods/videos)
