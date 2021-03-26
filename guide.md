@@ -2056,14 +2056,18 @@ __Editing__ and __Writing__ are not the same thing. Whenever you write something
 
 ## <a name="health"></a> Lead a Healthy Life
 
-image owner:Stephany Tlalka <https://www.mindful.org/use-breath-strengthen-mind/>
-Being healthy should be part of your overall lifestyle. Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses.
+Image owner:Stephany Tlalka <https://www.mindful.org/use-breath-strengthen-mind/>
+
+Being healthy should be part of your overall lifestyle. 
+Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses.
 Feeling good about yourself and taking care of your health are important for your self-esteem and self-image. 
 Maintain a healthy lifestyle by doing what is right for your body.
 Now is the time to start caring about yourself by eating right and exercising regularly!
 
-<img src="media/icons/Morning-Workout.png">
+<img src="media/icons/Morning.png">
+
 Image owner: <https://www.stack.com/a/how-to-become-a-morning-workout-person>
+
 Create a balanced diet that suits your needs and will eventually help you reach your goal; and follow a weekly workout routine.
 Working outside is an option during the lockdown so even thogh you can't go to the gym, you can still go for a run, get some fresh air and power your Mental Health battaries.
 You need to stay active and not sink in your couch. Thiw is a chance to change the things you don't like about your life and yourself. 
