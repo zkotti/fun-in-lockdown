@@ -2110,9 +2110,8 @@ __Editing__ and __Writing__ are not the same thing. Whenever you write something
 <img align="left" width="70" height="60" src="media/icons/lungs-1.png">
 
 ## <a name="health"></a> Lead a Healthy Life
-
 Image owned by: [mindful.org](https://www.mindful.org/use-breath-strengthen-mind/)
-<img align="left" width="70" height="60" src="media/icons/lungs-1.png">
+
 
 
 * [Exercise Regularly]
