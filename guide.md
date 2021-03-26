@@ -244,8 +244,8 @@ Photo owned by [elearningindustry.com](https://elearningindustry.com/top-10-book
 |We Were Liars | Young Adult Fiction | E. Lockhart. | Amazon | 9/10 | [Link](https://www.amazon.com/We-Were-Liars-Lockhart/dp/0385741278/ref=sr_1_1?dchild=1&keywords=we+were+liars&qid=1616411727&s=books&sr=1-1)|
 |When Nietzsche Wept | Modern Literature | Yalom Irvin D. | Public | 9/10 | [Link](https://www.public.gr/product/when-nietzsche-wept/prod2240341pp/ "When Nietzsche Wept")|
 |Zero to One| Management | Pieter Thiel | Public | 9.5/10| [Link](https://www.public.gr/product/books/greek-books/economics/management/zero-to-one/prod6840642pp/ "Zero to One")|
-
-
+|Προς τ'άστρα| Science| Παύλος Καστανάς| Public| 9/10|  [Link](https://www.public.gr/product/books/greek-books/natural-science/popular-science/pros-t-astra/prod12560011pp/?gclid=Cj0KCQjwjPaCBhDkARIsAISZN7SI5pPnqJ68ac1tcRHg9hRMr2VHwHRsfXB6iRGCm2eAJV3lH2N346YaAglmEALw_wcB "Προς τ'άστρα")
+|Big Bang| Science| Simon Singh| Public |10/10| [Link](https://www.public.gr/product/big-bang/prod249173/?gclid=Cj0KCQjwjPaCBhDkARIsAISZN7TMTFMAJATZov3gBLTDVN6wgpI6tKZy6OQ21KzfgbF-3-QXS1BHDiYaArXoEALw_wcB "Big Bang")
 
 ---
 
