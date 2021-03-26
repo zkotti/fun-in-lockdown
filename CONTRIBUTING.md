@@ -27,4 +27,6 @@ Do you think that the content is fun, but the appearance isn't ? Add images or v
 
 When adding media, do not forget to add the references to the original source. Try to be creative!
 
-_Icons owned by [Pichon](https://icons8.com/app/windows)_
+---
+
+_Icons owned by [icons8.com](https://icons8.com/app/windows)_
