@@ -268,6 +268,15 @@ If you are stuck at home with your family or your roommate(s), you could try one
 * [Twister](https://en.wikipedia.org/wiki/Twister_(game)): As the box promises, have you twisted up in knots and probably doubled over laughing, too.
 * [Wizard](https://en.wikipedia.org/wiki/Wizard_(card_game)): A fun card game that comes with a set of tricky rules. Each player has guess the results of the game and the winner is the one who makes the best guesses. 
   
+### Puzzles' Bestsellers
+
+* Katosca 1,000 Piece Jigsaw Puzzle. [Buy it from amazon.](https://www.amazon.com/Katosca-Jigsaw-Puzzles-Astronaut-Educational/dp/B07RHSKLYL)
+* Moruska 1,000 Piece Gradient Rainbow Jigsaw Puzzle. [Buy it from banggood.](https://www.banggood.com/1000-Pieces-Thousands-Of-Colors-Rainbow-Coil-Series-Childrens-Gift-Jigsaw-Puzzle-Toy-Educational-Toys-p-1654342.html?utm_source=googleshopping&utm_medium=cpc_organic&gmcCountry=GR&utm_content=minha&utm_campaign=minha-gr-en-pc&currency=EUR&cur_warehouse=USA&createTmp=1&ID=528218&utm_source=googleshopping&utm_medium=cpc_bgs&utm_content=sxxx&utm_campaign=sxxx-ssc-gr-en-all-newcustom-ncv65-0409&ad_id=430724963733&gclid=Cj0KCQjwjPaCBhDkARIsAISZN7Q--mXvBmCI8-JlruhaZyEpmkm4MaucElhb1WD2k3YGo2OZFMS1O6MaAnk5EALw_wcB)
+* Gray Malin 500 Piece Snow Jigsaw Puzzle. [Buy it from amara.](https://www.amara.com/ie/products/the-snow-double-sided-puzzle?utm_source=google&utm_medium=cpc&amss=ldo&pdg=pla-296303633664:kwd-296303633664:cmp-6772810709:adg-84881265732:crv-388972891590:pid-191950:dev-c&__currency=EUR&amss=kbz&gclid=Cj0KCQjwjPaCBhDkARIsAISZN7TQUSWMeAZ_zhnOExxAdz_2FMsty803VJZe4ZA-5Uye-rakWUSMV1YaAixYEALw_wcB)
+* Custom Hometown Map Puzzle. [Buy it from amazon.](https://www.amazon.com/Personalized-Hometown-Map-Jigsaw-Mapping/dp/B00LLDPQ22)
+* New York Times Custom Front Page Puzzle. [Buy it from uncommongoods.](https://www.uncommongoods.com/product/new-york-times-custom-front-page-puzzle)
+
+Source:[today.com](https://www.today.com/shop/best-puzzles-adults-2020-t171244) 
 
 ---
 
