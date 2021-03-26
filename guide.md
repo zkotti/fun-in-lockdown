@@ -177,7 +177,7 @@ Below you may find some interesting websites where you can play different board 
 * [Settera](https://www.seterra.com/): Learning geography doesn't have to be boring. Do it the easy way with Seterra! In no time, you could learn to locate every single country in the world on a map.
 Seterra includes fun quizzes that help familiarize you with countries, capital cities, flags, rivers, lakes, and notable geological features.
 * [Spyfall](https://www.spyfall.app/): Spyfall is a fun game that really tests your improvise abilities! You and your friends virtually attend an event and you all get assigned different roles. However, one of you is a spy and has no idea about the event you are attending. Try to figure out who the spy as soon as possible!
-* [The Wiki Game](http://thewikigame.com/): In this game, you have to navigate around wiki pages and guess. You start from a specific wikipedia page and within a specified time limit, you have to go to another target wikipedia page using the available hyperlinks.
+* [The Wiki Game](http://thewikigame.com/): In this game, you have to navigate around wiki pages and guess. You start from a specific Wikipedia page and within a specified time limit, you have to go to another target Wikipedia page using the available hyperlinks.
 
 
 ### Classic board games
@@ -189,14 +189,14 @@ If you are stuck at home with your family or your roommate(s), you could try one
 * [Cluedo](https://en.wikipedia.org/wiki/Cluedo): A suspenseful murder mystery game that turns everyone into a detective.
 * [Halli Galli](https://www.ultraboardgames.com/halli-galli/game-rules.php): A fast game in which you have to ring the bell as soon as 5 same fruits appear. Just watch for your hands!
 * [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)): The classical buying and trading properties game. 
-* [Risk](https://en.wikipedia.org/wiki/Risk_(game)): A strategy board game which combines war, debate, diplomacy, conflicts and luck. Each player has a quest to complete (usually to take over a continent) but so do your opponents. 2-6 Players, 1-8 hours. Do not play this game with your best friends, it will be the end of a friendship...  
+* [Risk](https://en.wikipedia.org/wiki/Risk_(game)): A strategy board game which combines war, debate, diplomacy, conflicts, and luck. Each player has a quest to complete (usually to take over a continent) but so do your opponents. 2-6 Players, 1-8 hours. Do not play this game with your best friends, it will be the end of a friendship...  
 * [Scrabble](https://en.wikipedia.org/wiki/Scrabble): A game in which you use random letters to create words.
 * [Stratego](https://en.wikipedia.org/wiki/Stratego): A Napoleonic version of capture the flag!
 * [Taboo](https://en.wikipedia.org/wiki/Taboo_(game)): The game of forbidden words. In Taboo, your goal is to get your teammate to say the word written on one of the game cards without saying that word or any of the “taboo” words also listed with it.
 * [Ticket to Ride](https://en.wikipedia.org/wiki/Ticket_to_Ride_(board_game)): A strategy game in which players collect train cards and use them in order to create train routes across a real world map and collect points. The purpose of the game is to collect the most points. This can be achieved by creating long railways and connecting remote cities which are determined by drawing ticket cards. This board game is ideal for people who like strategy, and love using..... Optimization Methods. :stuck_out_tongue:
 * [Trivial Pursuit](https://en.wikipedia.org/wiki/Trivial_Pursuit): A game to test your knowledge about things around the globe.
 * [Twister](https://en.wikipedia.org/wiki/Twister_(game)): As the box promises, have you twisted up in knots and probably doubled over laughing, too.
-* [Wizard](https://en.wikipedia.org/wiki/Wizard_(card_game)): A fun card game that comes with a set of tricky rules. Each palyer has guess the results of the game and the winner is the one who makes the best guesses. 
+* [Wizard](https://en.wikipedia.org/wiki/Wizard_(card_game)): A fun card game that comes with a set of tricky rules. Each player has guess the results of the game and the winner is the one who makes the best guesses. 
   
 
 ---
