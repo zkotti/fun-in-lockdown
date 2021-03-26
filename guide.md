@@ -199,7 +199,10 @@ Below you may find some interesting websites where you can play different board 
 * [Chess](https://www.chess.com/): Probably the most famous strategy game.
 * [GeoGuessr](https://www.geoguessr.com/): The goal of this game is to guess the location of a specific spot on the globe presented to you via google maps street view. You can either play alone, or with friends. The closer your guess to the selected location, the more point you gather. The winner of the game is the person with the most points at the end of a specified number of rounds.
 * [League of legends: Wild Rift](https://wildrift.leagueoflegends.com/en-gb/): A 5v5 MOBA experience of League of Legends, now built from the ground up for mobile and console. With fresh controls and fast-paced games, players of every level can team up with friends, lock in their champion, and go for the big plays
+<<<<<<< HEAD
 
+=======
+>>>>>>> a45d442c192c74fcb6f5d182036027e38b82a579
 * [Password](https://www.thegamegal.com/2017/11/10/password): The goal of this game is to get your partner to guess the password by giving him a one word and only one word clue. First, you divide yourselves into 2 teams and in each round one of the members from each team will be given a password. If your partner guesses the password then your team wins the points of the round, but if he doesn't, then it's the other team’s turn. If their team gets the password, they get the points. If the other team also doesn’t get the word you get another try. So, this goes on for 3 times till someone gets the password and then the next round starts. It's a really entertaining game to play with your friends. **Pro Tip**: Turn this into a drinking game and you'll maximize the fun!*([download it here](https://play.google.com/store/apps/details?id=in.androidmate.password_game))*
 * [Playing cards](https://playingcards.io/): PlayingCards.io simply provides a synchronized card playspace. It's up to you to start the game, enforce rules, and determine the winner, just like a real deck of cards!
 * [Pretend you're xyzzy](https://pyx-1.pretendyoure.xyz/zy/game.jsp): Pretend You're Xyzzy is a Cards Against Humanity clone! *([github repo](https://github.com/ajanata/PretendYoureXyzzy))*
@@ -2065,7 +2068,7 @@ __Editing__ and __Writing__ are not the same thing. Whenever you write something
 
 ## <a name="health"></a> Lead a Healthy Life
 
-Image owned by:Stephany Tlalka [mindful.org] (https://www.mindful.org/use-breath-strengthen-mind/)
+Image owned by: [mindful.org](https://www.mindful.org/use-breath-strengthen-mind/)
 
 Being healthy should be part of your overall lifestyle. 
 Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses.
@@ -2073,13 +2076,13 @@ Feeling good about yourself and taking care of your health are important for you
 Maintain a healthy lifestyle by doing what is right for your body.
 Now is the time to start caring about yourself by eating right and exercising regularly!
 
-<img height="350" width="500" src="media/images/workout1.jfif">
+<img width="500" src="media/images/workout1.jfif">
 
-Image owned by:[blog.usejournal.com] (https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
+Image owned by: [blog.usejournal.com](https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
 
-<img height="400" width="500" src="media/images/workout2.jfif">
+<img width="500" src="media/images/workout2.jfif">
 
-Image owned by:[stack.com] (https://www.stack.com/a/how-to-become-a-morning-workout-person)
+Image owned by: [stack.com](https://www.stack.com/a/how-to-become-a-morning-workout-person)
 
 Create a balanced diet that suits your needs and will eventually help you reach your goal; and follow a weekly workout routine.
 Working outside is an option during the lockdown so even thogh you can't go to the gym, you can still go for a run, get some fresh air and power your Mental Health battaries.
