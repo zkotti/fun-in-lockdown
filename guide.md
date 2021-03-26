@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
 # A guide to survive the COVID-19 lockdown(s)
 
 <img src="media/images/quarantine-activities-image.png" alt="Quarantine Activities" width="500" height="500"/>
