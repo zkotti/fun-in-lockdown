@@ -614,6 +614,10 @@ In order to convince you that breakfast is not always a time-consuming process, 
 | Chocolate & Banana French Toast| [recipe](https://www.jamieoliver.com/recipes/french-toast-recipes/chocolate-banana-french-toast/)| 15 minutes| Not too tricky|
 | Simple Cheese Omelette| [recipe](https://www.jamieoliver.com/recipes/eggs-recipes/simple-cheese-omelette/)| 10 minutes| Super easy|
 | Anglo-French Toast| [recipe](https://www.jamieoliver.com/recipes/bread-recipes/anglo-french-toastie/)| 20 minutes| Super easy|
+| Porridge| [recipe](https://akispetretzikis.com/en/categories/snak-santoyits/porridge)| 10 minutes| Easy|
+| Ham, Cheese and Avocado Sandwich| [recipe](https://akispetretzikis.com/en/categories/snak-santoyits/tost-me-avokanto-tyri-kai-zampon/)| 10 minutes| Super easy|
+| Peanut Butter Oatmeal| [recipe](https://www.tasteofhome.com/recipes/peanut-butter-oatmeal/)| 15 minutes| Easy|
+| Marmalade French Toast Sandwiches| [recipe](https://www.tasteofhome.com/recipes/marmalade-french-toast-sandwiches/)| 15 minutes| Not too tricky|
 
 ---
 
