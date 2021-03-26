@@ -386,11 +386,11 @@ Unusual flavor combinations that actually work in drinks. Be sure to test them y
 |---| ---| ---| 
 | Bacon Me Angry | Vodka | [recipe](https://bacontoday.com/2015/01/19/bacon-me-angry-angry-orchard-cocktail/)|
 | Butternut Old Fashioned | Whiskey | [recipe](https://www.thespruceeats.com/little-doms-butternut-old-fashioned-recipe-761338)|
+| Coconut Martini | Vodka | [recipe](https://www.thespruceeats.com/coconut-martini-recipe-759080)|
 | Eucalyptus Martini | Gin | [recipe](https://www.thespruceeats.com/eucalyptus-martini-recipe-760078)|
+| Jungle Bird | Rum | [recipe](https://www.thespruceeats.com/jungle-bird-cocktail-4687092)|
 | Ruby Queen | Vodka | [recipe](https://www.thespruceeats.com/ruby-queen-cocktail-recipe-759220)|
 | The Beer, Bourbon & Barbecue Cocktail | Whiskey | [recipe](https://www.thespruceeats.com/beer-bourbon-and-barbecue-cocktail-recipe-4156984)|
-| Jungle Bird | Rum | [recipe](https://www.thespruceeats.com/jungle-bird-cocktail-4687092)|
-| Coconut Martini | Vodka | [recipe](https://www.thespruceeats.com/coconut-martini-recipe-759080)|
 
 For more details don't forget to check [this](https://www.thespruceeats.com/unique-cocktails-for-adventurous-drinkers-759874) out!
 
