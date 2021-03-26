@@ -45,7 +45,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [What to avoid](#whattoavoid)
 * [Work with cars](#Work-with-cars)
 * [Writing](#writing)
-* [Healthy Lifstyle](#health)
+* [Healthy Lifestyle](#health)
 
 [Note : Before you head outside](#note)
 
@@ -2020,9 +2020,9 @@ Writing is most often a solitary activity, except for people who like to write i
 __Editing__ and __Writing__ are not the same thing. Whenever you write something, leave it for a few hours or maybe a few days. And then come back to it as an __editor__ to find ways to make it more captivating and understandable for the readers.
 
 ---
-<img align="left" width="45" height="45" src="media/icons/lungs-1.png">
+<img align="left" width="55" height="55" src="media/icons/lungs-1.png">
 
-##<a name="health"></a> Lead a Healthy Life
+## <a name="health"></a> Lead a Healthy Life
 image owner:Stephany Tlalka <https://www.mindful.org/use-breath-strengthen-mind/>
 ---
 <img align="left" width="40" height="40" src="media/icons/warning-shield.png">
