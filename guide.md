@@ -213,6 +213,13 @@ Youtube is an American owned video-sharing platform with headquarters located in
 |CoralFish12g|Aquarium Hobbyists| 803.000| [Link](https://www.youtube.com/channel/UCXoCSxSbh2d5DAlA5FiyuOQ)|
 |12os Pithikos|Greek Rap| 160.000| [Link](https://www.youtube.com/channel/UC8J0vy5x7scOm6itUxWH8gg)|
 |Crunchyroll Collection|Anime Clips| 2.870.000| [Link](https://www.youtube.com/channel/UC6pGDc4bFGD1_36IKv3FnYg)|
+|Slappers Only|Comedy Videos| 435.000| [Link](https://www.youtube.com/user/EmersonStevie)|
+|Based Zeus|Life Advice for Men| 1.400.000| [Link](https://www.youtube.com/channel/UC1PkRYud11ogYDqgdqd23Zw)|
+|Astronio|Making Astronomy Fun| 193.000| [Link](https://www.youtube.com/channel/UCYhH65nE2M8rGwMWvAlVu2A)|
+|Netwix|Greek Comedy Videos| 615.000| [Link](https://www.youtube.com/channel/UCLexrmd9Dn8SnzdsZZcavYQ)|
+
+
+Don't be hesitant to enrich the list with your favorite channels ,sharing is caring in these hard times.
 
 ---
 
