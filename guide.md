@@ -249,6 +249,7 @@ If you are stuck at home with your family or your roommate(s), you could try one
 * [Cluedo](https://en.wikipedia.org/wiki/Cluedo): A suspenseful murder mystery game that turns everyone into a detective.
 * [Halli Galli](https://www.ultraboardgames.com/halli-galli/game-rules.php): A fast game in which you have to ring the bell as soon as 5 same fruits appear. Just watch for your hands!
 * [Jenga](https://en.wikipedia.org/wiki/Jenga): Jenga is a game of physical skill. Players take turns removing one block at a time from a tower constructed of 54 blocks.
+* [Munchkin](https://en.wikipedia.org/wiki/Munchkin_(card_game)): Munchkin is a dedicated deck card game by Steve Jackson Games, written by Steve Jackson and illustrated by John Kovalic. It is a humorous take on role-playing games, based on the concept of munchkins (immature role-players, playing only to "win" by having the most powerful character possible).In Munchkin, all players start at level 1, with the goal of reaching level 10 (or level 20 in Epic Level games). Players primarily progress by killing monsters, and level up every time they kill a monster. However, players can freely use cards against monsters and other players during play, allowing them to either assist or to sabotage others during their turn. Each person's turn begins when they "kick down the door" by drawing a Door Card face-up. A Door Card can be one of the following types: a Monster Card, which the player must engage by fighting or fleeing; a Curse Card, which applies an effect; or an Item Card, Race Card, or Class Card, which the player adds to their hand. If the card drawn is not a Monster Card, the player can either "loot the room" by drawing a face-down door card and adding it to their hand, or "look for trouble" by playing a Monster Card from their hand to fight it.
 * [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)): The classical buying and trading properties game. 
 * [Risk](https://en.wikipedia.org/wiki/Risk_(game)): A strategy board game which combines war, debate, diplomacy, conflicts, and luck. Each player has a quest to complete (usually to take over a continent) but so do your opponents. 2-6 Players, 1-8 hours. Do not play this game with your best friends, it will be the end of a friendship...  
 * [Scrabble](https://en.wikipedia.org/wiki/Scrabble): A game in which you use random letters to create words.
@@ -2094,7 +2095,7 @@ __Editing__ and __Writing__ are not the same thing. Whenever you write something
 
 ## <a name="health"></a> Lead a Healthy Life
 
-Image owner:Stephany Tlalka <https://www.mindful.org/use-breath-strengthen-mind/>
+Image owned by: [mindful.org](https://www.mindful.org/use-breath-strengthen-mind/)
 
 Being healthy should be part of your overall lifestyle. 
 Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses.
@@ -2102,13 +2103,17 @@ Feeling good about yourself and taking care of your health are important for you
 Maintain a healthy lifestyle by doing what is right for your body.
 Now is the time to start caring about yourself by eating right and exercising regularly!
 
-<img src="media/images/workout1.jfif">
+<img width="500" src="media/images/workout1.jfif">
 
-Image owner:<https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4>
+Image owned by: [blog.usejournal.com](https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
 
-<img src="media/images/workout2.jfif">
+We all have different needs according to our workout and diet habits. 
+Since this section is all about the motivation of the reader we would say that it focuses more on the needs of the inactive rather than the active people.
+Workout and diet plans should be decided after consideration of our short term goals. For example a currently inactive person except of gaining stamina and endurance, he might also want to  lose some weight. Also, he might not be concerned about weight loss and just want to build muscle strength. Or maybe he just want to create a healthy and balanced lifestyle due to eating disorders.  On that account, different short term goals require different meal and workout plans. Although it is possible even during the lockdown to visit a dietitian there are plenty of applications or websites, free or with a monthly/yearly subscription to help you create a plan and stick to it.
 
-Image owner: <https://www.stack.com/a/how-to-become-a-morning-workout-person>
+<img width="500" src="media/images/workout2.jfif">
+
+Image owned by: [stack.com](https://www.stack.com/a/how-to-become-a-morning-workout-person)
 
 Create a balanced diet that suits your needs and will eventually help you reach your goal; and follow a weekly workout routine.
 Working outside is an option during the lockdown so even thogh you can't go to the gym, you can still go for a run, get some fresh air and power your Mental Health battaries.
