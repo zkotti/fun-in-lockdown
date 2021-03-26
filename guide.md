@@ -2127,7 +2127,9 @@ Working outside is an option during the lockdown so even thogh you can't go to t
 You need to stay active and not sink in your couch. Thiw is a chance to change the things you don't like about your life and yourself. 
 
 Source: <https://www.foundationforpn.org/living-well/lifestyle/#:~:text=Being%20healthy%20should%20be%20>
+
 ---
+
 <img align="left" width="40" height="40" src="media/icons/warning-shield.png">
 
 
@@ -2164,8 +2166,3 @@ regulations that are currently active on every Greek regional unit. For informat
 ---
 
 _Section icons owned by [Pichon](https://icons8.com/app/windows)_
->>>>>>> b5c6653faaf6daca4d3c92501ba77b4a78241f79
-
-=======
->>>>>>> Stashed changes
->>>>>>> beecb3023822e5c553e61b86f7fc17be7aa75e79
