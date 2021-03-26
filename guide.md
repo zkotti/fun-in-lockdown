@@ -1127,13 +1127,13 @@ Here are some of the vegetables that you can begin with!
 
 |VEGETABLE| GROW TIME (days)| VITAMINS| COLD HARDNESS | WHEN TO WATER |
 |---| ---| ---| ---| ---|
-| Carrots  | 70-80  | 	A, C, K, and B6|	Half-hardy | Only during drought conditions |
 | Broccoli  | 100-150  | 	A, E, B1, and B6|	Hardy | Only during drought conditions |
-| Pumpkins  | 90-100  | 	Fiber, C, and Potassium|	Tender | Only during drought conditions |
+| Carrots  | 70-80  | 	A, C, K, and B6|	Half-hardy | Only during drought conditions |
 | Peppers  | 60-90 | 	 A, C, B6, B2, and E|	Very tender | Once a week |
-| Zucchini  | 50-60  | 	 A, B1, B6, and B2 | Very tender | Frequently, especially when fruits form |
-| Tomatoes  | 65-85  | 	 A, C, K, and B6|	Tender | Twice a week |
 | Potatoes  | 90-120  | 	B6 and C|	Half-hardy | Regularly, when tubers start to form |
+| Pumpkins  | 90-100  | 	Fiber, C, and Potassium|	Tender | Only during drought conditions |
+| Tomatoes  | 65-85  | 	 A, C, K, and B6|	Tender | Twice a week |
+| Zucchini  | 50-60  | 	 A, B1, B6, and B2 | Very tender | Frequently, especially when fruits form |
 
 ### Easy-to-grow plants
 
