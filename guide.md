@@ -172,7 +172,29 @@ Genres: Animation | Action | Adventure | Comedy | Drama | Fantasy | Sci-Fi | Thr
 
 Image source and info [imdb](https://www.imdb.com/title/tt7441658/?ref_=nv_sr_srsg_0)
 
+### The Seven Deadly Sins (From 2014)
+<img width="600" height="700" src="media/images/thesevendeadlysins.png">
 
+**Storyline**
+
+The Seven Deadly Sins were once an active group of knights in the region of Britannia, who disbanded after they supposedly plotted to overthrow the Liones Kingdom. Their supposed defeat came at the hands of the Holy Knights, but rumors continued to persist that they were still alive. Ten years later, the Holy Knights staged a coup d'état and captured the king, becoming the new, tyrannical rulers of the kingdom. The third princess, Elizabeth, then starts out on a journey to find the Seven Deadly Sins and enlist their help in taking back the kingdom.
+
+Genres: Animation | Action | Adventure | Comedy | Fantasy
+
+Image source and info [imdb](https://www.imdb.com/title/tt3909224/?ref_=tt_mv_close)
+
+
+### Fullmetal Alchemist: Brotherhood (2009-2012)
+
+<img width="600" height="700" src="media/images/fullmetalalchemist.jpg">
+
+**Storyline**
+
+Two brothers lose their mother to an incurable disease. With the power of "alchemy", they use taboo knowledge to resurrect her. The process fails, and as a toll for using this type of alchemy, the older brother, Edward Elric loses his left leg while the younger brother, Alphonse Elric loses his entire body. To save his brother, Edward sacrifices his right arm and is able to affix his brother's soul to a suit of armor. With the help of a family friend, Edward receives metal limbs - "automail" - to replace his lost ones. With that, Edward vows to search for the Philosopher's Stone to return the brothers to their original bodies, even if it means becoming a "State Alchemist", one who uses his/her alchemy for the military.
+
+Genres: Animation | Action | Adventure | Comedy | Drama | Fantasy | Sci-Fi
+
+Image source and info [imdb](https://www.imdb.com/title/tt1355642/?ref_=nv_sr_srsg_0)
 
 ---
 
@@ -1321,9 +1343,11 @@ _The most common activity during lock-down has been watching movies. So here are
 |Jeffrey Epstein: Filthy Rich | Documentary / Crime | Netflix | 8/10 | 7.1/10|[TRAILER](https://www.youtube.com/watch?v=-j0rjlfmDx4 "Jeffrey Epstein: Filthy Rich")|[INFO](https://www.imdb.com/title/tt12312250/ "Jeffrey Epstein: Filthy Rich")|
 |Joker| Drama | Amazon | 10/10 | 8.4/10|[TRAILER](https://www.youtube.com/watch?v=zAGVQLHvwOY "Joker")|[INFO](https://www.imdb.com/title/tt7286456/?ref_=nv_sr_srsg_0 "Joker IMDb")|
 |La La Land| Film Musical | Stremio | 9/10 | 8/10 | [TRAILER](https://www.youtube.com/watch?v=0pdqf4P9MB8&ab_channel=LionsgateMovies) | [INFO](https://www.imdb.com/title/tt3783958/)|
+|Locke & Key | Fantasy, Horror, TV Series | Netflix | 8/10 | 7.4/10 | [TRAILER](https://www.imdb.com/video/vi91471641?playlistId=tt3007572&ref_=tt_ov_vi) | [INFO](https://www.imdb.com/title/tt3007572/?ref_=nv_sr_srsg_2)
 |Lupin| TV series| Netflix| 7.5/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=ga0iTWXCGa0&ab_channel=Netflix "Lupin")|[INFO](https://www.imdb.com/title/tt2531336/?ref_=nv_sr_srsg_0 "Lupin IMDb")|
 |Mindhunter | TV series | Netflix | 9.5/10 | 8.6/10|[TRAILER](https://www.youtube.com/watch?v=evdxH50J3rs "Mindhunter")|[INFO](https://www.imdb.com/title/tt5290382/?ref_=nv_sr_srsg_0 "Mindhunter IMDb")|
 |Miracle in Cell No. 7 (2019)| Drama | Netflix | 9/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=MHdBW0gSsjo "Miracle in Cell No. 7")|[INFO](https://www.imdb.com/title/tt2659414/?ref_=nv_sr_srsg_0 "Miracle in Cell No. 7 IMDb")|
+|Money Heist| Action, Crime, TV series | Netflix | 8/10 | 8.3/10|[TRAILER](https://www.imdb.com/video/vi2395387929?ref_=ttvi_vi_imdb_22)|[INFO](https://www.imdb.com/title/tt6468322/)|
 |Mr. Robot | TV series | Netflix | 10/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=xIBiJ_SzJTA "Mr. Robot")|[INFO](https://www.imdb.com/title/tt4158110/?ref_=fn_al_tt_1 "Mr. Robot IMDb")|
 |Night Stalker: The Hunt for a Serial Killer  | Documentary / Crime | Netflix | 9/10 | 7.5/10|[TRAILER](https://www.youtube.com/watch?v=Mva2nGveYss "Night Stalker: The Hunt for a Serial Killer")|[INFO](https://www.imdb.com/title/tt13651632/ "Night Stalker: The Hunt for a Serial Killer")|
 |Peaky Blinders | Documentary - TV series | Netflix | 8/10 | 8.8/10|[TRAILER](https://youtu.be/oVzVdvGIC7U "Peaky Blinders")|[INFO](https://www.imdb.com/title/tt2442560/?ref_=nv_sr_srsg_0 "Peaky Blinders IMDb")|
