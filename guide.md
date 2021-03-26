@@ -2157,7 +2157,7 @@ Image owned by: [mindful.org](https://www.mindful.org/use-breath-strengthen-mind
 * Drink Plenty of Water
 * Think Positive
 
-<img width="400" src="media/images/healthy.jpg">
+<img width="500" src="media/images/healthy.jpg">
 Image owned by:[indianfolk.com](https://www.indianfolk.com/effects-healthy-food-personal-life-environment-mahek/)
 
 <p align=”left” width=”700”>Being healthy should be part of your overall lifestyle. 
@@ -2166,7 +2166,7 @@ Living a healthy lifestyle can help prevent chronic diseases and long-term illne
 Feeling good about yourself and taking care of your health are important for your self-esteem and self-image. 
 
 Maintain a healthy lifestyle by doing what is right for your body.
-Now is the time to start caring about yourself by eating right and exercising regularly! You need to stay active and not sink in your couch. The lockdown is your chance to change the things you don't like about your life and yourself. You have more time than ever to learn about physical and mental health and find inner peace.</p>
+Now is the time to start caring about yourself by eating right and exercising regularly! You need to stay active and not sink into your couch. The lockdown is your chance to change the things you don't like about your life and yourself. You have more time than ever to learn about physical and mental health and find inner peace.</p>
 <img width="400" src="media/images/workout1.jfif">
 
 Image owned by: [blog.usejournal.com](https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
@@ -2187,17 +2187,15 @@ Working outside is an option during the lockdown so even though you can't go to 
 * how many days per week
 * what kind of workout each day
 
-There are apps that can help you track your progress and motivate you to keep going.
-([tomsguide.com](https://www.tomsguide.com/best-picks/best-workout-apps))
-To remind you to drink the appropriate amount of water and to count the calories intake per  day. ([healthline.com]( https://www.healthline.com/health/hydration-top-iphone-android-apps-drinking-water) , [learningenglish.voanews.com](https://learningenglish.voanews.com/a/personal-tech-healthy-eating-fitness-apps/3958706.html#:~:text=MyFitnessPal%20is%20an%20app%20that,more%20information%20about%20healthy%20eating.))</p>
+There are apps that can help you track your progress and motivate you to keep going
+([tomsguide.com](https://www.tomsguide.com/best-picks/best-workout-apps)).
+To remind you to drink the appropriate amount of water and to count the calories intake per  day. ([healthline.com]( https://www.healthline.com/health/hydration-top-iphone-android-apps-drinking-water) , [learningenglish.voanews.com](https://learningenglish.voanews.com/a/personal-tech-healthy-eating-fitness-apps/3958706.html#:~:text=MyFitnessPal%20is%20an%20app%20that,more%20information%20about%20healthy%20eating.)).</p>
 
-<img width="400" src="media/images/healthylife.jpg">
-Image owned by: [dreamstime.com](https://www.dreamstime.com/photos-images/healthy-life)
-
-<b></b>
 Check out [health.gov](https://health.gov/myhealthfinder/topics/health-conditions/diabetes/eat-healthy#:~:text=A%20healthy%20eating%20pattern%20can%20help%20keep%20you%20healthy.&text=Making%20smart%20food%20choices%20can,Heart%20disease), [medicalnewstoday.com]( https://www.medicalnewstoday.com/articles/322268), [everydayhealth.com]( https://www.everydayhealth.com/diet-nutrition/importance-healthy-eating-habits/) to learn why you need o stay healthy and how.
-
 Also [greatist.com](https://greatist.com/fitness/best-health-fitness-apps#other) has may apps to suggest depending on your food and fitness interests. Check it out and start living your new life.
+
+Image owned by: [dreamstime.com](https://www.dreamstime.com/photos-images/healthy-life)
+<img width="500" src="media/images/healthylife.jpg">
 
 Source: <https://www.foundationforpn.org/living-well/lifestyle/#:~:text=Being%20healthy%20should%20be%20>
 
