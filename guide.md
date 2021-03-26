@@ -2043,6 +2043,10 @@ Sources: [thebest.gr](https://www.thebest.gr/article/412935-), [tripadvisor](htt
 <img align="left" width="40" height="40" src="media/icons/avoid.png">
 
 ## <a name="whattoavoid"></a> What to avoid
+<img src="media/images/couch-potato.png" alt="couch-potato" width="400"/>
+
+Photo owned by: [are you a couch potato](https://areyouacouchpotato.com/)
+
 Being isolated all day long can make you a person, that you in the future would be ashamed for. To prevent such a situation, make sure you avoid the following.
 
 * Reality TV Shows:
@@ -2052,6 +2056,11 @@ Being isolated all day long can make you a person, that you in the future would 
   
 * Fast food
 * Recommended youtube videos
+* Too much time on social media
+* Arguing about COVID and taking things way too personally (everyone is in the same situation)
+* Watching one more episode
+* Believing in conspiracy theories
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/car.jpg">
