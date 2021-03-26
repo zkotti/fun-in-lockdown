@@ -2126,6 +2126,12 @@ Create a balanced diet that suits your needs and will eventually help you reach 
 Working outside is an option during the lockdown so even thogh you can't go to the gym, you can still go for a run, get some fresh air and power your Mental Health battaries.
 You need to stay active and not sink in your couch. Thiw is a chance to change the things you don't like about your life and yourself. 
 
+Quarantine comes with many challenges regarding your health. It’s hard to maintain a balanced diet when you are home for most of the day, with a reduced social life and not much to do. That can lead to decreased productivity  and a pessimistic attitude to life. That’s why it is important to keep taking care of yourself. Learn to appreciate the value of sleep and don’t forget to go out for a walk or a quick run at least once a day. Create a daily routine that you enjoy to follow and learn to love your body and yourself.
+
+Check out [health.gov]( https://health.gov/myhealthfinder/topics/health-conditions/diabetes/eat-healthy#:~:text=A%20healthy%20eating%20pattern%20can%20help%20keep%20you%20healthy.&text=Making%20smart%20food%20choices%20can,Heart%20disease), [medicalnewstoday.com]( https://www.medicalnewstoday.com/articles/322268), [everydayhealth.com]( https://www.everydayhealth.com/diet-nutrition/importance-healthy-eating-habits/) to learn why you need o stay healthy and how.
+
+Also [greatist.com]( https://greatist.com/fitness/best-health-fitness-apps#other) has may apps to suggest depending on your food and fitness interests. Check it out and start living your new life.
+
 Source: <https://www.foundationforpn.org/living-well/lifestyle/#:~:text=Being%20healthy%20should%20be%20>
 
 ---
