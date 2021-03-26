@@ -765,6 +765,20 @@ Click **here** for tutorial:
 - [here](https://www.youtube.com/watch?v=udFxKZRyQt4&t=27s)
 
 
+### Recommended Reading: Astrophysics for people in a hurry
+
+<img align="center" width="300" height="300" src="media/images/astrophysics.jpeg">
+
+If you feel overwhelmed by the infromation provided above, I assure you you're not the only one! However, you may still want to know about the mysteries and the wonders of our universe without having to crack your head.
+
+This book explains some of the most complex astrophysics concepts in layman's terms by maintaining as chatty a tone as possible as it tries to make these important principles comprehensible to the uninitiated. It's quite the ideal book to get your journey of exploring the universe started.
+
+Written by the one and only, the master of communicating science to the public, Dr Neil de Grasse Tyson. Buckle up and enjoy the ride to the cosmos!
+
+Click **here** to purchase this book:
+- [here](https://www.amazon.com/Astrophysics-People-Hurry-deGrasse-Tyson/dp/0393609391)
+
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/pizza.png">
