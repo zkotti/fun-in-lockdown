@@ -2171,7 +2171,7 @@ Check out [health.gov](https://health.gov/myhealthfinder/topics/health-condition
 Also [greatist.com](https://greatist.com/fitness/best-health-fitness-apps#other) has may apps to suggest depending on your food and fitness interests. Check it out and start living your new life.
 
 Image owned by: [dreamstime.com](https://www.dreamstime.com/photos-images/healthy-life)
-<img width="500" src="media/images/healthylife.jpg">
+<img align="left" width="500" src="media/images/healthylife.jpg">
 
 Source: <https://www.foundationforpn.org/living-well/lifestyle/#:~:text=Being%20healthy%20should%20be%20>
 
