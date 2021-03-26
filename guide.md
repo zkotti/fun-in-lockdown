@@ -355,7 +355,10 @@ photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/
 | Bloody Mary| Vodka| [video](https://www.youtube.com/watch?v=rpEzoWNbgSk&t=2s)|
 | Caipirinha| Cachaça (Brazilian Rum)| [video](https://www.youtube.com/watch?v=alEN21hwRYI)|
 | Cosmopolitan| Vodka| [video](https://www.youtube.com/watch?v=TnkMtoDNgxE)|
+| Cuba Libre| Rum| [video](https://www.youtube.com/watch?v=aYeDFsBBgog)|
 | Daiquiri| Rum| [video](https://www.youtube.com/watch?v=ofwTyfKo8Mg)|
+| Long Island Iced Tea| Vodka, Rum, Gin and Tequila| [video](https://www.youtube.com/watch?v=Kq9uYfJvtG4)|
+| Mai Tai| Rum| [video](https://www.youtube.com/watch?v=2z9Es6UieyE)|
 | Manhattan| Whiskey| [video](https://www.youtube.com/watch?v=TFWPtkNoF4Y)|
 | Margarita| Tequila| [video](https://www.youtube.com/watch?v=lNwNvq8Kxl8)|
 | Martini| Vodka or Gin| [video](https://www.youtube.com/watch?v=hiQ57jbFY5s)|
@@ -890,6 +893,8 @@ The games begin, and the first players in line race to down their drinks, and th
 *What you need: A deck of cards.*
 * **Never Have I Ever:** This is an awesome drinking game to get to know your drinking partners better. Everyone needs a drink and their memory to be sharp. Players take turns calling experiences they have never had. Anyone that has had the called experience has to take a sip of their drink. Be careful though! Crazy people will probably get drunk quickly while the shier ones stay sober.\
 *What you need: Your drinks and a good mood.*
+* **Impostor:** Fill all the shot glasses with water and just one with vodka. Then, place the glasses on a circular rotating surface and gather around it. As the surface rotates close your eyes in order to forget the position of the vodka glass. When the surface stops spinning, players begin to drink the shot glass in front of them in a row. When all the players have had their shot, you start voting who is the impostor (the one with the vodka shot). If the majority votes for the impostor, he drinks two shots, otherwise all the other players, except the impostor, drink one shot. If no one votes for the impostor you have to drink two shots instead of one.\
+*What you need: A circular rotating surface and shot glasses.*
 
 
 
