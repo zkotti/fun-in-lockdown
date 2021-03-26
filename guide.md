@@ -334,6 +334,11 @@ Photo owned by [elearningindustry.com](https://elearningindustry.com/top-10-book
 <img align="left" width="40" height="40" src="media/icons/todo.png">
 
 ## <a name="clean"></a> Clean and organize
+
+<img src="media/images/Cleaning-Routines.jpg" alt="Clean House" width="300"/>
+
+Photo owned by [amazon.com](https://www.amazon.com/Keeping-House-Hints-clean-well-organized/dp/184975666X)
+
 This is a great opportunity for you to clean and organize your space. Declutter, get rid of all the things you never use and organize the ones that you use. It will make you feel useful and you will have a clean, organized space at the end of the day. 
 
 You can also write down your to-dos and organize your schedule and notes. It is best that you stay organized in order to achieve high productivity!
@@ -357,7 +362,9 @@ Tips to Organize your Bedroom:
 7. Go Minimalist
 8. Use Personal Items as Decor
 9. Store Your Hats on a Wall
-* Information was taken from [here.](https://www.extraspace.com/blog/home-organization/room-organization/bedroom-organization-ideas-tips-hacks/)
+
+Source : [extraspace.com](https://www.extraspace.com/blog/home-organization/room-organization/bedroom-organization-ideas-tips-hacks/)
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/cocktail.png">
