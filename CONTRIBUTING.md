@@ -1,4 +1,4 @@
-# How To Contribute To Fun in Lockdown
+# How To Contribute To Fun in Lockdown <kbd>[<img title="Ελληνικά" alt="Ελληνικά" src="media/icons/greece.png" width="24">](CONTRIBUTING-gr.md)</kbd>
 First off, thank you for the help!
 
 Fun in Lockdown is a guide that can give you unique ideas about how to spend your time during lockdown period.
@@ -26,3 +26,5 @@ Don't forget to add the required references to your content.
 Do you think that the content is fun, but the appearance isn't ? Add images or videos and create beautiful content for everyone to see.
 
 When adding media, do not forget to add the references to the original source. Try to be creative!
+
+_Greek flag emoji owned by [Pichon](https://icons8.com/app/windows)_
