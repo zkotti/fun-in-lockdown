@@ -2072,11 +2072,11 @@ Feeling good about yourself and taking care of your health are important for you
 Maintain a healthy lifestyle by doing what is right for your body.
 Now is the time to start caring about yourself by eating right and exercising regularly!
 
-<img height="150" width="150" src="media/images/workout1.jfif">
+<img height="350" width="500" src="media/images/workout1.jfif">
 
 Image owned by:[blog.usejournal.com] (https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
 
-<img height="500" width="500" src="media/images/workout2.jfif">
+<img height="400" width="500" src="media/images/workout2.jfif">
 
 Image owned by:[stack.com] (https://www.stack.com/a/how-to-become-a-morning-workout-person)
 
