@@ -107,7 +107,7 @@ Recommended for Beginners
 Image Source for pictures is  [IMBd](https://www.imdb.com)
 
 ### Attack on titan (From 2013)
-<img width="500" height="600" src="media/images/Attack on titan (2013).jpg">
+<img width="500" height="600" src="media/images/Attack on Titan (2013).jpg">
 
 **Storyline**
 
@@ -119,7 +119,7 @@ Image source and info [imdb](https://www.imdb.com/title/tt2560140/)
 
 ### Jujutsu Kaisen (From 2020)
 
-<img width="500" height="600" src="media/images/jujutsuKaisen.png">
+<img width="500" height="600" src="media/images/JujutsuKaisen.png">
 
 **Storyline**
 
