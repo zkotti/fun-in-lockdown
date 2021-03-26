@@ -2112,26 +2112,24 @@ __Editing__ and __Writing__ are not the same thing. Whenever you write something
 ## <a name="health"></a> Lead a Healthy Life
 
 Image owned by: [mindful.org](https://www.mindful.org/use-breath-strengthen-mind/)
+<img align="left" width="70" height="60" src="media/icons/lungs-1.png">
 
-*Exercise Regularly
-*Eat Heathy
-*Drink Plenty of Water
-*Think Positive
+## <a name="health"></a> Lead a Healthy Life
+Image owned by: [mindful.org](https://www.mindful.org/use-breath-strengthen-mind/)
+
+*[Exercise Regularly]
+*[Eat Heathy]
+*[Drink Plenty of Water]
+*[Think Positive]
 
 <img width="400" src="media/images/healthy.jpg">
 Image owned by:[](https://www.indianfolk.com/effects-healthy-food-personal-life-environment-mahek/)
 
-*Exercise Regularly
-*Eat Heathy
-*Drink Plenty of Water
-*Think Positive
-
-Being healthy should be part of your overall lifestyle. 
+<p align=”left” width=”700”>Being healthy should be part of your overall lifestyle. 
 Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses.
 Feeling good about yourself and taking care of your health are important for your self-esteem and self-image. 
 Maintain a healthy lifestyle by doing what is right for your body.
-Now is the time to start caring about yourself by eating right and exercising regularly! You need to stay active and not sink in your couch. The lockdown is your chance to change the things you don't like about your life and yourself. You have more time than ever to learn about physical and mental health and find inner peace.
-
+Now is the time to start caring about yourself by eating right and exercising regularly! You need to stay active and not sink in your couch. The lockdown is your chance to change the things you don't like about your life and yourself. You have more time than ever to learn about physical and mental health and find inner peace.</p>
 <img width="400" src="media/images/workout1.jfif">
 
 Image owned by: [blog.usejournal.com](https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
