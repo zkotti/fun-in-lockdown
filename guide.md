@@ -2030,9 +2030,11 @@ Feeling good about yourself and taking care of your health are important for you
 Maintain a healthy lifestyle by doing what is right for your body.
 Now is the time to start caring about yourself by eating right and exercising regularly!
 
-<img src="media/icons/lungs-1.png">
+<img src="media/icons/Morning-Workout.png">
 Image owner: <https://www.stack.com/a/how-to-become-a-morning-workout-person>
-Create a balanced diet that suits your needs and will eventually help you reach your goal; and follow a weekly workout routine
+Create a balanced diet that suits your needs and will eventually help you reach your goal; and follow a weekly workout routine.
+Working outside is an option during the lockdown so even thogh you can't go to the gym, you can still go for a run, get some fresh air and power your Mental Health battaries.
+You need to stay active and not sink in your couch. Thiw is a chance to change the things you don't like about your life and yourself. 
 
 Source: <https://www.foundationforpn.org/living-well/lifestyle/#:~:text=Being%20healthy%20should%20be%20>
 ---
