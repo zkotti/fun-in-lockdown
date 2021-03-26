@@ -324,7 +324,7 @@ First things first; Before you start your mixing experiments, you need to set up
 Sources: [glimpose.blog](https://www.glimpsecorp.com/bar-tools-and-equipment-and-their-uses/), [the spruce eats](https://www.thespruceeats.com/essential-distilled-spirits-and-mixers-760741)
 
 ### Before you start: some important guidelines
-After you have collected all the essential equipment needed for starting your cocktail career, you might want to take some time to take a look at this section. Making a cocktail is undoubtedly a whole process, which may involves specific ingredients you have to make on your own. On the other hand, bartenders use so many tools that none knows how to deal with them in the appropriate way. All this might look a whole different world, but I assure you there is no reason to worry about! It will take only a little of your time to learn how to use each element of your working station and perform successfully some basic ingredients of cocktails, as well as a true bartender!
+After you have collected all the essential equipment needed for starting your cocktail career, you might want to take some time to take a look at this section. Making a cocktail is undoubtedly a whole process, which may involve specific ingredients you have to make on your own. On the other hand, bartenders use so many tools that none knows how to deal with them in the appropriate way. All this might look a whole different world, but I assure you there is no reason to worry about! It will take only a little of your time to learn how to use each element of your working station and perform successfully some basic ingredients of cocktails, as well as a true bartender!
 
 Enough talking, let's get into action!
 
@@ -530,7 +530,7 @@ One of the most broad categories of apps, that can be integrated in a site like 
 
 * Music Streaming App
 
-React applications are perfect for streaming video content, aswell as music. Music apps have a similar structure to video sharing apps and they may or may not allow the user to upload their own music. You can listen to a song, comment on it, or even purchase it. Try to combine elemnts of a video sharing service and of an e-commerce app.
+React applications are perfect for streaming video content, as well as music. Music apps have a similar structure to video sharing apps and they may or may not allow the user to upload their own music. You can listen to a song, comment on it, or even purchase it. Try to combine elements of a video sharing service and of an e-commerce app.
 
 Source : https://www.freecodecamp.org/news/react-projects-you-should-build-this-year/
 
@@ -541,7 +541,7 @@ Source : https://www.freecodecamp.org/news/react-projects-you-should-build-this-
 ## <a name="cooking"></a>Cooking
 Enjoy different kind of meals from around the world!
 
-In the following table, you can view recipes from different countries, along with the reccommender's personal rating.
+In the following table, you can view recipes from different countries, along with the recommender’s  personal rating.
 
 <img src="media/images/food-around-the-world.png" alt="Food around the world" width="500"/>
 
@@ -589,7 +589,7 @@ It is very important to eat healthily in a daily basis so that we give our body 
 | Banana Oatmeal Pancakes| [recipe here](https://www.youtube.com/watch?v=y8kvazx1C6I)| Serve with honey and blueberries|
 | Healthy Chocolate Cupcakes | [recipe here](https://www.youtube.com/watch?v=_Oe_EGO9xsc)| Go crazy on the decoration|
 | Special Overnight Oats 5 ways| [recipe here](https://www.youtube.com/watch?v=3uiaaiugNdE&t=314s)| Best combo is choco & PB|
-| Banana Bread| [recipe here](https://www.youtube.com/watch?v=zYHYrkdVQ38)| Do not forget to incude some extra choco chips|
+| Banana Bread| [recipe here](https://www.youtube.com/watch?v=zYHYrkdVQ38)| Do not forget to include some extra choco chips|
 | Healthy Salted Caramel Popcorn| [recipe here](https://laurenslatest.com/healthy-caramel-corn/)| Enjoy them!|
 | Berry Smoothie Bowl| [recipe here](https://www.youtube.com/watch?v=b_h0-IHvvAw)| Add peanut butter as a topping|
 | Greek Chicken Grain Bowl| [recipe here](https://www.goodhousekeeping.com/food-recipes/a35353557/greek-chicken-grain-bowl-recipe/)| Enjoy!|
