@@ -2077,6 +2077,10 @@ Now is the time to start caring about yourself by eating right and exercising re
 
 Image owned by: [blog.usejournal.com](https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
 
+We all have different needs according to our workout and diet habits. 
+Since this section is all about the motivation of the reader we would say that it focuses more on the needs of the inactive rather than the active people.
+Workout and diet plans should be decided after consideration of the short term goals. For example a currently inactive person except of becoming gaining stamina and endurance, he might also want to  lose some weight. Also, he might not be concerned about weight loss and just want to build muscle strength. Or maybe he just want to create a healthy and balanced lifestyle due to eating disorders.  On that account, different short term goals require different meal and workout plans. Although it is possible even during the lockdown to visit a dietitian there are plenty of applications or websites, free or with a monthly/yearly subscription to help you create a plan and stick to it.
+
 <img width="500" src="media/images/workout2.jfif">
 
 Image owned by: [stack.com](https://www.stack.com/a/how-to-become-a-morning-workout-person)
