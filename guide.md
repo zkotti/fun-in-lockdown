@@ -2064,7 +2064,7 @@ __Editing__ and __Writing__ are not the same thing. Whenever you write something
 
 ## <a name="health"></a> Lead a Healthy Life
 
-Image owner:Stephany Tlalka <https://www.mindful.org/use-breath-strengthen-mind/>
+Image owned by:Stephany Tlalka [mindful.org] (https://www.mindful.org/use-breath-strengthen-mind/)
 
 Being healthy should be part of your overall lifestyle. 
 Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses.
@@ -2072,13 +2072,13 @@ Feeling good about yourself and taking care of your health are important for you
 Maintain a healthy lifestyle by doing what is right for your body.
 Now is the time to start caring about yourself by eating right and exercising regularly!
 
-<img src="media/images/workout1.jfif">
+<img height="150" width="150" src="media/images/workout1.jfif">
 
-Image owner:<https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4>
+Image owned by:[blog.usejournal.com] (https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
 
-<img src="media/images/workout2.jfif">
+<img height="150" width="150" src="media/images/workout2.jfif">
 
-Image owner: <https://www.stack.com/a/how-to-become-a-morning-workout-person>
+Image owned by:[stack.com] (https://www.stack.com/a/how-to-become-a-morning-workout-person)
 
 Create a balanced diet that suits your needs and will eventually help you reach your goal; and follow a weekly workout routine.
 Working outside is an option during the lockdown so even thogh you can't go to the gym, you can still go for a run, get some fresh air and power your Mental Health battaries.
