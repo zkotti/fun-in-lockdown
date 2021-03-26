@@ -33,6 +33,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Outdoor Activities with Friends](#outdoor_activities)
 * [Plan your Erasmus](#erasmus)
 * [Plan your next trip](#trips)
+* [Pranks](#pranks)
 * [Social Movements](#social-movements)
 * [Start a new Project](#projects)
 * [Start listening to Podcasts](#podcasts)
@@ -1611,6 +1612,32 @@ You can book tickets connecting one country to another and enjoy the beautiful E
 
 Do you want to explore Europe on a ship? There are many companies offering cruises in the European seas. For those that prefer a luxurius trip, [Celebrity Cruises](https://www.royalcaribbean.com/european-cruises)
 offers a wide range of different cruise packages, from the Mediterranean to the Baltic sea. 
+
+---
+
+<img align="left" width="40" height="40" src="media/icons/prankster.png">
+
+## <a name="pranks"></a>Pranks
+Playing some innocent pranks on friends and family shouldn't be reserved  for April's first , we are all desperate for a good laugh in these hard times and some innocent or not so innocent pranks without long term harm of course , could provide exactly that. We shall now see some suggestion's 
+
+### Innocent Pranks
+* **Hide 2 , search for 3** Play a hidden treasure game with your family or roommates , hide 2 objects inside your house and tell them they will get rewarded once they find all 3 items , make sure you don't let it drag for ever for your own good.
+*  **Replace family photos** Replace family photos in places they don't look very often with complete strangers or celebrities and watch their faces when they realize grandpa's photo has been replaced Yoda for the past 6 months.
+*  **Wakey Wakey**  Change your mom's ( advising against playing this prank on your dad) clock alarm for 6pm in the morning , people who love their sleep will not enjoy this .
+
+
+
+
+
+
+
+
+
+
+
+### Notable Channels
+
+
 
 ---
 <img align="left" width="40" height="40" src="media/icons/social-movement.jpeg">
