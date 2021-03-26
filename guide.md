@@ -1635,19 +1635,6 @@ Playing some innocent pranks on friends and family shouldn't be reserved  for Ap
 *  **Wakey Wakey**  Change your mom's ( advising against playing this prank on your dad) clock alarm for 6pm in the morning , people who love their sleep will not enjoy this .
 
 
-
-
-
-
-
-
-
-
-
-### Notable Channels
-
-
-
 ---
 <img align="left" width="40" height="40" src="media/icons/social-movement.jpeg">
 
