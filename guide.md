@@ -2032,7 +2032,9 @@ Feeling good about yourself and taking care of your health are important for you
 Maintain a healthy lifestyle by doing what is right for your body.
 Now is the time to start caring about yourself by eating right and exercising regularly!
 
-<img src="media/icons/Morning.png">
+<img src="media/images/workout1.png">
+
+<img src="media/images/workout2.png">
 
 Image owner: <https://www.stack.com/a/how-to-become-a-morning-workout-person>
 
