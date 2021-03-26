@@ -2133,8 +2133,9 @@ Image owned by: [mindful.org](https://www.mindful.org/use-breath-strengthen-mind
 * Drink Plenty of Water
 * Think Positive
 
-<img width="500" src="media/images/healthy.jpg">
 Image owned by:[indianfolk.com](https://www.indianfolk.com/effects-healthy-food-personal-life-environment-mahek/)
+<img width="500" src="media/images/healthy.jpg">
+
 
 <p align=”left” width=”700”>Being healthy should be part of your overall lifestyle. 
 Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses.
