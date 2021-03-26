@@ -600,6 +600,14 @@ It is very important to eat healthily in a daily basis so that we give our body 
 | Healthy Salted Caramel Popcorn| [recipe here](https://laurenslatest.com/healthy-caramel-corn/)| Enjoy them!|
 | Special Overnight Oats 5 ways| [recipe here](https://www.youtube.com/watch?v=3uiaaiugNdE&t=314s)| Best combo is choco & PB|
 
+### Make sure you don't skip breakfast
+
+Breakfast is known as one of the most important meals of the day, if not the most important, as many suggest. It boosts your energy levels and improves your ability to concentrate, while refueling your body with vital nutrients. To sum up, breakfast helps both your brain and body to stay alert during your rough daily routine. 
+
+So, why do you keep skipping it? Quarantine is the perfect time to adopt new habits and you have to add breakfast in your everyday list!
+
+In order to convince you that breakfast is not always a time-consuming process, here is a list of easy-to-make and interesting breakfast ideas:
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/coronavirus.png">
