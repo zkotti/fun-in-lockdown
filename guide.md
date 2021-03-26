@@ -337,7 +337,7 @@ Photo owned by [elearningindustry.com](https://elearningindustry.com/top-10-book
 
 <img src="media/images/Cleaning-Routines.jpg" alt="Clean House" width="300"/>
 
-Photo owned by [amazon.com](https://www.amazon.com/Keeping-House-Hints-clean-well-organized/dp/184975666X)
+Photo owned by [getorganizedwizard.com](https://www.getorganizedwizard.com/blog/2016/06/simple-routines-that-keep-y-our-house-spotless/)
 
 This is a great opportunity for you to clean and organize your space. Declutter, get rid of all the things you never use and organize the ones that you use. It will make you feel useful and you will have a clean, organized space at the end of the day. 
 
