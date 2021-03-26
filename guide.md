@@ -213,6 +213,7 @@ Photo owned by [elearningindustry.com](https://elearningindustry.com/top-10-book
 
 |TITLE| TOPIC | AUTHOR | AVAILABLE ON| MY RATING| LINK |
 |---| ---| ---| ---| ---| ---|
+|Animal Farm | Classic Literature| Orwell George | Public | 9.3/10 | [Link](https://www.public.gr/product/books/idiotika-sholeia-kolegia/international-baccalaureate/animal-farm/prod82326pp/ "Animal Farm")|
 |1984 | Classic Literature| Orwell George | Public | 9/10 | [Link](https://www.public.gr/product/books/greek-books/literature/translated-literature/1984/prod254453/?gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQisl4ukxjR0JQ1OTTY7rRJF_Pxphu9OZteR2mxrzxVa-igf_gz4PJC0aAvXyEALw_wcB "1984")|
 |21 Lessons for the 21st Century | Non-Fiction | Yuval Noah Harrari | Amazon | 9/10 | [Link](https://www.amazon.com/gp/product/B079WM7KLS/ref=dbs_a_def_rwt_bibl_vppi_i1)|
 |Algorithms to Live By: The Computer Science of Human Decisions | Non-Fiction | Brian Christian & Tom Griffiths | Amazon | 9.5/10 | [Link](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)|
