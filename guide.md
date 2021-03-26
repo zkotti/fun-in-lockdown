@@ -2143,7 +2143,7 @@ Living a healthy lifestyle can help prevent chronic diseases and long-term illne
 Feeling good about yourself and taking care of your health are important for your self-esteem and self-image. 
 
 Maintain a healthy lifestyle by doing what is right for your body.
-Now is the time to start caring about yourself by eating right and exercising regularly! You need to stay active and not sink into your couch. The lockdown is your chance to change the things you don't like about your life and yourself. You have more time than ever to learn about physical and mental health and find inner peace.</p>
+Now is the time to start caring about yourself by eating right and exercising regularly! You need to stop sinking into your couch and become active. The lockdown is your chance to change the things you don't like about your life and yourself. You have more time than ever to learn about physical and mental health and find inner peace.</p>
 
 <img width="400" src="media/images/workout1.jfif">
 
