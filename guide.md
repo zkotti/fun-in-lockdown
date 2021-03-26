@@ -2114,17 +2114,19 @@ Image owned by: [mindful.org](https://www.mindful.org/use-breath-strengthen-mind
 
 
 
-* [Exercise Regularly]
-* [Eat Heathy]
-* [Drink Plenty of Water]
-* [Think Positive]
+* Exercise Regularly
+* Eat Heathy
+* Drink Plenty of Water
+* Think Positive
 
 <img width="400" src="media/images/healthy.jpg">
 Image owned by:[indianfolk.com](https://www.indianfolk.com/effects-healthy-food-personal-life-environment-mahek/)
 
 <p align=”left” width=”700”>Being healthy should be part of your overall lifestyle. 
 Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses.
+
 Feeling good about yourself and taking care of your health are important for your self-esteem and self-image. 
+
 Maintain a healthy lifestyle by doing what is right for your body.
 Now is the time to start caring about yourself by eating right and exercising regularly! You need to stay active and not sink in your couch. The lockdown is your chance to change the things you don't like about your life and yourself. You have more time than ever to learn about physical and mental health and find inner peace.</p>
 <img width="400" src="media/images/workout1.jfif">
@@ -2142,8 +2144,8 @@ Quarantine comes with many challenges regarding your health. It’s hard to main
 
 <p align=”left” width=”700”>Create a balanced diet that suits your needs and will eventually help you reach your goal. Follow a weekly workout routine.
 Working outside is an option during the lockdown so even though you can't go to the gym, you can still go for a run, get some fresh air and power your Mental Health batteries. Some yoga is always a good workout option to strengthen your body and relax. Depending on your skills there are many workout programmes depending on your current level (beginner to intermediate). Create your plan:
-*how many days per week
-*what kind of workout each day
+* how many days per week
+* what kind of workout each day
 There are apps that can help you track your progress and motivate you to keep going. [tomsguide.com]( https://www.tomsguide.com/best-picks/best-workout-apps) 
 To remind you to drink the appropriate amount of water and to count the calories intake per  day. [healthline.com]( https://www.healthline.com/health/hydration-top-iphone-android-apps-drinking-water) , [learningenglish.voanews.com]( https://learningenglish.voanews.com/a/personal-tech-healthy-eating-fitness-apps/3958706.html#:~:text=MyFitnessPal%20is%20an%20app%20that,more%20information%20about%20healthy%20eating.)</p>
 
