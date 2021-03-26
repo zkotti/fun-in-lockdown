@@ -608,6 +608,10 @@ So, why do you keep skipping it? Quarantine is the perfect time to adopt new hab
 
 In order to convince you that breakfast is not always a time-consuming process, here is a list of easy-to-make and interesting breakfast ideas:
 
+| DISH| RECIPE| COOKS IN| DIFFICULTY|
+|---| ---| ---| ---|
+| Fluffy Flourless Pancakes| [recipe](https://www.jamieoliver.com/recipes/breakfast-recipes/fluffy-flourless-pancakes/)| 10 minutes| Not too tricky|
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/coronavirus.png">
