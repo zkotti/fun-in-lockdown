@@ -2034,6 +2034,8 @@ Now is the time to start caring about yourself by eating right and exercising re
 
 <img src="media/images/workout1.jfif">
 
+Image owner:<https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4>
+
 <img src="media/images/workout2.jfif">
 
 Image owner: <https://www.stack.com/a/how-to-become-a-morning-workout-person>
