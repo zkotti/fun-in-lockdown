@@ -1310,7 +1310,7 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Sleep on the Floor, Lumineers [listen here](https://www.youtube.com/watch?v=v4pi1LxuDHc)
 * Space Song, by Beach House [listen here](https://www.youtube.com/watch?v=RBtlPT23PTM&list=PLRQDSvpEpYzBUdlMzMhAWSD4TyE0ga7Et&index=4)
 * Spring 1, recomposed by Max Richter (original by Vivaldi) [listen here](https://www.youtube.com/watch?v=41IOkVjy3MM)
-* Stangers In The Night, Frank Sinatra [listen here](https://www.youtube.com/watch?v=ZwAERaRUsp0)
+* Strangers In The Night, Frank Sinatra [listen here](https://www.youtube.com/watch?v=ZwAERaRUsp0)
 * Summer Breeze, Seals and Crofts [listen here](https://www.youtube.com/watch?v=GQQbjpomexo)
 * Survival, Muse [listen here](https://www.youtube.com/watch?v=bKFhS0cQLE8)
 * TOP OF THE WORLD, ZAYDE WOLF [listen here](https://www.youtube.com/watch?v=Sdy9PY0CVQ0)
