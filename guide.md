@@ -2173,6 +2173,7 @@ Also [greatist.com](https://greatist.com/fitness/best-health-fitness-apps#other)
 Image owned by: [dreamstime.com](https://www.dreamstime.com/photos-images/healthy-life)
 <img align="left" width="500" src="media/images/healthylife.jpg">
 
+<p></p>
 Source: <https://www.foundationforpn.org/living-well/lifestyle/#:~:text=Being%20healthy%20should%20be%20>
 
 ---
