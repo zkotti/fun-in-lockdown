@@ -1257,14 +1257,14 @@ Music is probably the best way to survive while at home. Whether you headbang wh
 
 ### Playlists 
 You can have an amazing time just by relaxing and listening to your favorite music. Here are some music playlists you might enjoy:
+* Ambient Study Music [listen here](https://www.youtube.com/watch?v=sjkrrmBnpGE)
 * Cozy evenings (a chill mix) [listen here](https://www.youtube.com/watch?v=tHNSzNlgRZA&t=217s)
-* Top 40 songs of 2020 2021 [listen here](https://www.youtube.com/watch?v=_pLO4jFDeIc)
+* Greek "Plintirio* playlist [listen here](https://open.spotify.com/playlist/0X4ZYdFFZKnizCaT2WCro9?si=ghSDdd5tQwOhHPgLbhFikA)
 * Italian songs to dance to [listen here](https://www.youtube.com/watch?v=dsb9Fakq1A8)
 * Piano Acoustic Music [listen here](https://www.youtube.com/watch?v=wmFz6CD-MTE)
-* Ambient Study Music [listen here](https://www.youtube.com/watch?v=sjkrrmBnpGE)
 * Relaxing Jazz Music [listen here](https://www.youtube.com/watch?v=neV3EPgvZ3g)
+* Top 40 songs of 2020 2021 [listen here](https://www.youtube.com/watch?v=_pLO4jFDeIc)
 * Top techno songs [listen here](https://open.spotify.com/playlist/6g7ZfOfEqqSR4o7iPVZggC?si=jDMehvIDSweA0UJqu4Vhng)
-* Greek "Plintirio* playlist [listen here](https://open.spotify.com/playlist/0X4ZYdFFZKnizCaT2WCro9?si=ghSDdd5tQwOhHPgLbhFikA)
 
 
 ### Songs
