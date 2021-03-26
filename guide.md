@@ -2133,7 +2133,7 @@ Image owned by: [mindful.org](https://www.mindful.org/use-breath-strengthen-mind
 * Drink Plenty of Water
 * Think Positive
 
-<img width="500" src="media/images/healthy.jpg">
+<img align="center" width="500" src="media/images/healthy.jpg">
 Image owned by:[indianfolk.com](https://www.indianfolk.com/effects-healthy-food-personal-life-environment-mahek/)
 
 <p align=”left” width=”700”>Being healthy should be part of your overall lifestyle. 
@@ -2171,9 +2171,9 @@ Check out [health.gov](https://health.gov/myhealthfinder/topics/health-condition
 Also [greatist.com](https://greatist.com/fitness/best-health-fitness-apps#other) has may apps to suggest depending on your food and fitness interests. Check it out and start living your new life.
 
 Image owned by: [dreamstime.com](https://www.dreamstime.com/photos-images/healthy-life)
-<img align="left" width="500" src="media/images/healthylife.jpg">
+<img align="center" width="500" src="media/images/healthylife.jpg">
 
-<p></p>
+
 Source: <https://www.foundationforpn.org/living-well/lifestyle/#:~:text=Being%20healthy%20should%20be%20>
 
 ---
