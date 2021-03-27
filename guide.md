@@ -1121,7 +1121,6 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * Ab workout (NO EQUIPMENT) [video](https://www.youtube.com/watch?v=LND6Y5a3ks8)
 * 50 min leg day workout [video](https://www.youtube.com/watch?v=9fiP1q2SWwM&t=46s)
 * Arms and shoulders workout [video](https://www.youtube.com/watch?v=ME0cj3FTbms)
-* Home Chest Workout (INTENSE) [video](https://www.youtube.com/watch?v=rxEMKXW2Wqs)
 
 **Full body workouts:**
 
@@ -1129,7 +1128,6 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * 20 Minute easy mode (NO EQUIPMENT) [video](https://youtu.be/oAPCPjnU1wA)
 * 20 Minute hard mode (NO EQUIPMENT) [video](https://youtu.be/yDQQVU__6Uc)
 * Full body Dumbbell workout [video](https://www.youtube.com/watch?v=i-Kq8loq7fA)
-* The PERFECT Home Workout (INTENSE) [video](https://www.youtube.com/watch?v=vc1E5CfRfos)
 
 **HIIT workouts:**
 
@@ -2327,13 +2325,18 @@ That being said, incorporating all three aspects of fitness (cardio, strength tr
 
 First you need to pick your training goal. Is it to lose weight, gain lean muscle, become more flexible, or maintain your current weight? Whichever goal it is you want to make one type of training your main focus and use the others to supplement.
 
-#### It's time to find yourself. Do it now. You have the time. All you need is inspiration, will and discipline.
+
+### It's time to find yourself. Do it now. You have the time. All you need is inspiration, will and discipline.
+
+And most importantly... have Fun!
 <image width="500" src="media/images/healthylife.jpg">
 
 Image owned by: [dreamstime.com](https://www.dreamstime.com/photos-images/healthy-life)
 
 Source: <https://www.foundationforpn.org/living-well/lifestyle/#:~:text=Being%20healthy%20should%20be%20>
+
 Source: <https://www.healthline.com/nutrition/meal-plans#TOC_TITLE_HDR_6>
+
 Source: <https://www.scorchfitness.com/blog/movement/how-much-and-what-type-of-exercise-for-your-goals>
 
 ---
