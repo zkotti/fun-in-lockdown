@@ -2404,7 +2404,7 @@ First you need to pick your training goal. Is it to lose weight, gain lean muscl
 ## <a name="sleep_quality"></a>Sleep Quality 
 
 No copyright needed for this image :smiley: 
-<img width="300" height="500" src="media/images/mil.jpg">
+<img width="300" height="300" src="media/images/mil.jpg">
 
 ### Tips to Sleep Better at night:
 
