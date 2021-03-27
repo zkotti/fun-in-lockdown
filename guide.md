@@ -2423,7 +2423,7 @@ First you need to pick your training goal. Is it to lose weight, gain lean muscl
 ## <a name="sleep_quality"></a>Sleep Quality
 
 Image owned by: [skipprichard.com](https://www.skipprichard.com/a-holistic-approach-to-resolve-your-sleep-issues/)
-<img width="400" src="media/images/workout1.jfif">
+<img width="400" src="media/images/sleep.jpg">
 
 ### Tips to Sleep Better at night:
 
