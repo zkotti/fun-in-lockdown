@@ -27,6 +27,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Facetime your long-distance friends](#facetime)
 * [Gardening](#gardening)
 * [Learn a new skill](#new-skill)
+* [Magic tricks](#magic-tricks)
 * [Meditation](#meditation)
 * [Movies-Documentaries-Series](#movies-docum-series)
 * [Music](#music)
@@ -1393,6 +1394,26 @@ Great ideas to learn new skills:
 
 ---
 
+<img align="left" width="40" height="40" src="media/icons/hat.png">
+
+## <a name="=magic-trick"></a>Magic tricks
+Learning magic tricks can be a fun and challenging skill to learn during lockdown. The only thing you need is a deck of cards and you are set to go!
+
+**Skills to learn**
+
+if you learn this skills you will be able to perform and have a basic understanding of most magic tricks.
+
+* [The double lift](https://www.youtube.com/watch?v=Gjd4EDm3EWU): the most common and usefull skill in magic tricks with cards
+* [False cuts](https://www.youtube.com/results?search_query=false+cut): ways to shuffle the deck without actually shuffling it, thus tricking your audience
+* [Riffle shuffle](https://www.youtube.com/watch?v=f6ZD1lDbW3M): quick and fast way to shuffle the deck. Can be tricky at the start but with a little practise you will get it just right
+* [Overhand shuffle](https://www.youtube.com/watch?v=JlG3lT0RKOw): the easiest way of shuffling a deck
+
+
+Icon source https://www.flaticon.com
+
+
+---
+
 <img align="left" width="40" height="40" src="media/icons/meditation.png">
 
 ## <a name="meditation"></a>Meditation
@@ -1508,6 +1529,7 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Faith, by the Weeknd [listen here](https://www.youtube.com/watch?v=RcS_8-a-sMg&ab_channel=TheWeekndVEVO)
 * Flatlands, The Aristocrats [listen here](https://www.youtube.com/watch?v=fW0p5SB52sI&list=LL&index=39)
 * From the Woods, James Vincent McMorrow [listen here](https://www.youtube.com/watch?v=ntZG2InulxE)
+* FO SHO, good job nicky[listen here](https://www.youtube.com/watch?v=KATnt8pH2SI)
 * Girls Like You, Maroon 5 ft. Cardi B [listen here](https://www.youtube.com/watch?v=aJOTlE1K90k)
 * Glassy Sky, Donna Burke [listen here](https://www.youtube.com/watch?v=vvvvcpwFw5o)
 * Grey Area, by Sam Tsui [listen here](https://www.youtube.com/watch?v=GNOUmctP3Yo)
