@@ -1271,6 +1271,8 @@ Icon source: [thenounproject.com ](https://thenounproject.com/term/gardening/)
 
 ### Herbs 
 
+<img src="media/images/Herbs.jpg" width="500"/>
+
 | PLANT NAME | SUN EXPOSURE | SOIL MOISTURE |
 |---|---|---|
 |Sage|Full sun or partial shade|Moist but well-drained|
@@ -1298,7 +1300,7 @@ Sourse:[Here](https://www.daviddomoney.com/how-to-grow-a-beginners-herb-garden/)
 Great ideas to learn new skills:
 
 * Learn a new programming language
-* Learn a new foreign language
+* Learn a [new foreign language](https://www.duolingo.com/)
 * Learn how to draw
 * Learn how to speak in public
 * Learn basic home repairs
