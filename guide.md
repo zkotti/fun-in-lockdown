@@ -1933,7 +1933,7 @@ Gif owned by [giphy.com](https://giphy.com/ "giphy.com")
 ---
 
 
-<img align="left" width="40" height="40" src="media/icons/videoGames.png">
+<img align="left" width="40" height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.considerable.com%2Fhealth%2Faging%2Freminiscing-categories%2F&psig=AOvVaw26zTmNpyCjatkwlfkG7NiY&ust=1616957139208000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCzkrCS0e8CFQAAAAAdAAAAABAD">
 
 ## <a name="past"></a>Take a look at the past
 
