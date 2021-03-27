@@ -19,6 +19,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Coding Projects](#coding-projects)
 * [Cooking](#cooking)
 * [Covid-19 Infection](#covid-infection)
+* [Diet](#diet)
 * [Discover Space](#Discover-Space)
 * [Down the rabbit hole](#conspiracies)
 * [Drinking games](#drinking-games)
@@ -45,6 +46,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Create your own Video Game](#create-video-game)
 * [Walks in Town](#walks)
 * [What to avoid](#whattoavoid)
+* [Wikipedia Contributing](#wikicontr)
 * [Work with cars](#Work-with-cars)
 * [Writing](#writing)
 * [Healthy Lifestyle](#health) ([Diet](#diet), [Workout](#workout))
@@ -324,7 +326,7 @@ Photo owned by [elearningindustry.com](https://elearningindustry.com/top-10-book
 |Algorithms to Live By: The Computer Science of Human Decisions | Non-Fiction | Brian Christian & Tom Griffiths | Amazon | 9.5/10 | [Link](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)|
 |Animal Farm | Classic Literature| Orwell George | Public | 9.3/10 | [Link](https://www.public.gr/product/books/idiotika-sholeia-kolegia/international-baccalaureate/animal-farm/prod82326pp/ "Animal Farm")|
 |Atlantis | Historical Novel | David Gibbins | Amazon| 10/10| [Link](https://www.amazon.com/gp/product/0755324226/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0755324226&SubscriptionId=1MGPYB6YW3HWK55XCGG2) |
-|Capital: Volume 1| Political Economy| Karl Marx| online| 5/10| [Link](https://github.com/zkotti/fun-in-lockdown/blob/main/guide.md#social-movements "Uncle Karl wouldn't want his manuscripts become a commodity")|
+|Capital: Volume 1| Political Economy| Karl Marx| Online| 5/10| [Link](https://github.com/zkotti/fun-in-lockdown/blob/main/guide.md#social-movements "Uncle Karl wouldn't want his manuscripts become a commodity")|
 |Chaos | History & Science | James Gleik | bookstores | 7/10 | [Link](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453) |
 |Crime and Punishment | Crime fiction | Fyodor Dostoevsky | Amazon| 9/10| [Link](https://www.amazon.com/Crime-Punishment-Volokhonsky-Translation-Classics/dp/0679734503/ref=sr_1_1?crid=2ECOFGIAH7E7F&dchild=1&keywords=crime+and+punishment&qid=1616082855&sprefix=crime+and%2Caps%2C312&sr=8-1)|
 |Factfulness | Non-Fiction | Hans Rosling | Amazon | 9/10 | [Link](https://www.amazon.com/Factfulness-Reasons-World-Things-Better/dp/1250123828/ref=sr_1_1?crid=AWTNDRHKCZMH&dchild=1&keywords=factfulness&qid=1616416120&s=books&sprefix=factful%2Cstripbooks-intl-ship%2C266&sr=1-1)|
@@ -345,6 +347,7 @@ Photo owned by [elearningindustry.com](https://elearningindustry.com/top-10-book
 |The Secret History | Modern Literature | Donna Tartt | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/modern-literature/the-secret-history/prod141934/)|
 |The Selfish Gene | Non-Fiction | Richard Dawkins | Amazon | 10/10 | [Link](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Paperback/dp/B0722G5V92/ref=sr_1_2?crid=1Q7ZO9QVZSHC0&dchild=1&keywords=the+selfish+gene&qid=1616416041&s=books&sprefix=the+shelfi%2Cstripbooks-intl-ship%2C269&sr=1-2)|
 |The Sixth Man: A Memoir | Autobiography| Andre Iguodala | Amazon| 9.5/10| [Link](https://www.amazon.com/The-Sixth-Man-audiobook/dp/B07N487TMC/ref=sr_1_1?crid=12L3C7BF27NT6&dchild=1&keywords=the+sixth+man+iguodala&qid=1616082921&sprefix=the+sixth+man+iguo%2Caps%2C384&sr=8-1)|
+|The State and Revolution| Politics| Vladimir Lenin| Online| 6/10| [Link](https://www.marxists.org/archive/lenin/works/1917/staterev/ "If only Stalin hadn't messed this up")|
 |The Unbearable Lightness of Being | Modern Literature | Milan Kundera | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/modern-literature/the-unbearable-lightness-of-being/prod140346/)|
 |Thinking, Fast and Slow | Psychology | Daniel Kahneman | Amazon | 9/10| [Link](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=391NW1M3NG4SX&dchild=1&keywords=think+fast+and+slow&qid=1616005195&sprefix=think+fast%2Caps%2C216&sr=8-1 "Thinking, Fast and Slow")|
 |Thus Spoke Zaratustra | Philosophy | Friedrich Nietzsche | Amazon | 8.5/10| [Link](https://www.amazon.com/Thus-Spoke-Zarathustra-Thrifty-Book/dp/1604598824)|
@@ -771,6 +774,49 @@ In order to convince you that breakfast is not always a time-consuming process, 
 Information was taken from [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 
 ---
+
+## <a name="diet"></a>Diet
+
+Image owned by: [onlymyhealth.com]( https://www.onlymyhealth.com/importance-balanced-diet-1298540964)
+<img width="400" src="media/images/diet.jpg">
+
+### Want to change your diet?
+
+Maybe you can start by choosing one of the five diets that are listed below.
+
+1. Low-carb, whole-food diet
+The low-carb, whole-food diet is perfect for people who need to lose weight, optimize health, and lower their risk of disease.
+It’s flexible, allowing you to fine-tune your carb intake depending on your goals.
+This diet is high in vegetables, meat, fish, eggs, fruits, nuts, and fats but low in starches, sugars, and processed foods.
+
+2. Mediterranean diet
+The Mediterranean diet is an excellent diet that has been thoroughly studied. It’s particularly effective for heart disease prevention.
+It emphasizes foods that were commonly eaten around the Mediterranean region during the 20th century and earlier.
+As such, it includes plenty of vegetables, fruits, fish, poultry, whole grains, legumes, dairy products, and extra virgin olive oil.
+HEALTHLINE RESOURCES
+Get free, 5-minute custom snack recipes
+Let Healthline's team of nutritionists recommend snacks based on your dietary restrictions and food preferences
+TRY IT
+
+3. Paleo diet
+The paleo diet is a very popular diet that is effective for weight loss and general health improvement. It’s currently the world’s most popular diet.
+It centers on unprocessed foods believed to resemble those available to some of humanity’s paleolithic ancestors.
+
+4. Vegan diet
+The vegan diet has become increasingly popular in the past decade. It’s linked to a number of health benefits, including weight loss, improved heart health, and better blood sugar control.
+The diet is based exclusively on plant foods and eliminates all animal products.
+
+5. Gluten-free diet
+The gluten-free diet is essential for people who are intolerant to gluten, a protein that is found in wheat, rye, and barley.
+For optimal health, you should focus on whole foods that are naturally gluten-free. Gluten-free junk food is still junk food.
+The bottom line
+
+So many diets exist that it can feel overwhelming to simply find a single one to try.
+However, it’s important to note that some eating patterns have more scientific backing than others. Whether you’re looking to lose weight or simply boost your overall health, try to find diets that are supported by research.
+The five examples listed above are a good place to start.
+
+---
+
 <img align="left" width="40" height="40" src="media/icons/alien.png">
 
 ## <a name="Discover-Space"></a> **Discover Space**
@@ -2186,6 +2232,15 @@ Being isolated all day long can make you a person, that you in the future would 
 
 <img align="left" width="40" height="40" src="media/icons/car.jpg">
 
+## <a name="wikicontr"></a> Wikipedia Contributing
+
+<img src="media/images/contributetowiki.jpg" alt="wiki" width="400"/>
+
+Photo owned by: [Wikipedia](https://en.wikipedia.org/wiki/Help:Introduction_to_Wikipedia)
+
+
+
+
 ## <a name="Work-with-cars"></a> Work with cars!
 Do you like cars? Of course you do! Who doesn't?
 
@@ -2303,46 +2358,7 @@ Image owned by: [depositphotos.com](https://depositphotos.com/stock-photos/water
 Check out [health.gov](https://health.gov/myhealthfinder/topics/health-conditions/diabetes/eat-healthy#:~:text=A%20healthy%20eating%20pattern%20can%20help%20keep%20you%20healthy.&text=Making%20smart%20food%20choices%20can,Heart%20disease), [medicalnewstoday.com]( https://www.medicalnewstoday.com/articles/322268), [everydayhealth.com]( https://www.everydayhealth.com/diet-nutrition/importance-healthy-eating-habits/) to learn why you need o stay healthy and how.
 Also [greatist.com](https://greatist.com/fitness/best-health-fitness-apps#other) has may apps to suggest depending on your food and fitness interests. Check it out and start living your new life.
 
-
-## <a name="diet"></a>Diet
-
-Image owned by: [onlymyhealth.com]( https://www.onlymyhealth.com/importance-balanced-diet-1298540964)
-<img width="400" src="media/images/diet.jpg">
-
-### Want to change your diet?
-
-Maybe you can start by choosing one of the five diets that are listed below.
-
-1. Low-carb, whole-food diet
-The low-carb, whole-food diet is perfect for people who need to lose weight, optimize health, and lower their risk of disease.
-It’s flexible, allowing you to fine-tune your carb intake depending on your goals.
-This diet is high in vegetables, meat, fish, eggs, fruits, nuts, and fats but low in starches, sugars, and processed foods.
-
-2. Mediterranean diet
-The Mediterranean diet is an excellent diet that has been thoroughly studied. It’s particularly effective for heart disease prevention.
-It emphasizes foods that were commonly eaten around the Mediterranean region during the 20th century and earlier.
-As such, it includes plenty of vegetables, fruits, fish, poultry, whole grains, legumes, dairy products, and extra virgin olive oil.
-HEALTHLINE RESOURCES
-Get free, 5-minute custom snack recipes
-Let Healthline's team of nutritionists recommend snacks based on your dietary restrictions and food preferences
-TRY IT
-
-3. Paleo diet
-The paleo diet is a very popular diet that is effective for weight loss and general health improvement. It’s currently the world’s most popular diet.
-It centers on unprocessed foods believed to resemble those available to some of humanity’s paleolithic ancestors.
-
-4. Vegan diet
-The vegan diet has become increasingly popular in the past decade. It’s linked to a number of health benefits, including weight loss, improved heart health, and better blood sugar control.
-The diet is based exclusively on plant foods and eliminates all animal products.
-
-5. Gluten-free diet
-The gluten-free diet is essential for people who are intolerant to gluten, a protein that is found in wheat, rye, and barley.
-For optimal health, you should focus on whole foods that are naturally gluten-free. Gluten-free junk food is still junk food.
-The bottom line
-
-So many diets exist that it can feel overwhelming to simply find a single one to try.
-However, it’s important to note that some eating patterns have more scientific backing than others. Whether you’re looking to lose weight or simply boost your overall health, try to find diets that are supported by research.
-The five examples listed above are a good place to start.
+---
 
 ## <a name="workout"></a>Workout
 
