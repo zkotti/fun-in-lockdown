@@ -2049,6 +2049,10 @@ First of all, we strongly suggest you have a look on the [online exhibition](htt
 
 However, the museums offering virtual tours are so many that we think it's best to provide you the following list and let you pick the ones you perceive as the more interesting:
 
+| Museum| Location| Interesting Infos| Virtual Exhibition|
+|---| ---| ---| ---|
+|Museum of Modern Art-MoMA|New York|Hosts some of contemporary art history's most famous paintings|[virtual tour](https://artsandculture.google.com/partner/moma-the-museum-of-modern-art?hl=en)|
+
 Some of us are _bored in the house-in the house bored_!
 
 [WindowSwap](https://www.window-swap.com/) is a quarantine project which gives you the opportunity to enjoy the view from windows around the world!
