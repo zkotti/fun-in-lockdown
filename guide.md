@@ -2234,6 +2234,7 @@ Being isolated all day long can make you a person, that you in the future would 
 ## <a name="wikicontr"></a> Wikipedia Contributing
 
 <img src="media/images/contributetowiki.jpg" alt="wiki" width="400"/>
+
 Photo owned by: [Wikipedia](https://en.wikipedia.org/wiki/Help:Introduction_to_Wikipedia)
 
 Don't be afraid to edit – Anyone can edit almost every page; just find something that can be improved and make it better! You can add content (preferably with references), upload images, correct spelling and grammar mistakes, improve prose to make it more readable, or any number of other tasks. It's normal for new contributors to feel a little overwhelmed by all of our policies, but don't worry if you don't understand everything at first; it's fine to use common sense as you edit, and if you accidentally mess something up, another editor can always fix or improve it later. So go ahead, edit an article and help make Wikipedia the world's best information source!
@@ -2241,7 +2242,9 @@ Don't be afraid to edit – Anyone can edit almost every page; just find somethi
 Suggest improvements – Each article also has a "Talk" page, where you can suggest improvements and corrections to the article.
 
 Donate – Wikipedia is free to use and edited entirely by volunteers, but it relies on donations to keep the servers running. Please consider donating to help fund the project's maintenance and development costs.
+
 More info on : [Wikipedia]("https://en.wikipedia.org/wiki/Help:Introduction_to_Wikipedia")
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/car.jpg">
