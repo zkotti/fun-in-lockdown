@@ -2246,6 +2246,7 @@ There are apps that can help you track your progress and motivate you to keep go
 To remind you to drink the appropriate amount of water and to count the calories intake per  day. ([healthline.com]( https://www.healthline.com/health/hydration-top-iphone-android-apps-drinking-water) , [learningenglish.voanews.com](https://learningenglish.voanews.com/a/personal-tech-healthy-eating-fitness-apps/3958706.html#:~:text=MyFitnessPal%20is%20an%20app%20that,more%20information%20about%20healthy%20eating.)).</p>
 
 Image owned by: [depositphotos.com](https://depositphotos.com/stock-photos/water.html)
+
 <img width="400" src="media/images/water.jpg">
 
 Check out [health.gov](https://health.gov/myhealthfinder/topics/health-conditions/diabetes/eat-healthy#:~:text=A%20healthy%20eating%20pattern%20can%20help%20keep%20you%20healthy.&text=Making%20smart%20food%20choices%20can,Heart%20disease), [medicalnewstoday.com]( https://www.medicalnewstoday.com/articles/322268), [everydayhealth.com]( https://www.everydayhealth.com/diet-nutrition/importance-healthy-eating-habits/) to learn why you need o stay healthy and how.
