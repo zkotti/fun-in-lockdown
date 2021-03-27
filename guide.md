@@ -2212,7 +2212,7 @@ Image owned by: [mindful.org](https://www.mindful.org/use-breath-strengthen-mind
 * Drink Plenty of Water
 * Think Positive
 
-<img width="500" src="media/images/healthy.jpg">
+<img width="800" src="media/images/healthy.jpg">
 
 Image owned by:[indianfolk.com](https://www.indianfolk.com/effects-healthy-food-personal-life-environment-mahek/)
 
@@ -2229,7 +2229,7 @@ Now is the time to start caring about yourself by eating right and exercising re
 Since this section is all about the motivation of the reader we would say that it focuses more on the needs of the inactive rather than the active people.
 Workout and diet plans should be decided after consideration of our short term goals. For example a currently inactive person except of gaining stamina and endurance, he might also want to  lose some weight. Or somebody might not be concerned about weight loss and just want to build muscle strength. Or maybe he just wants to create a healthy and balanced lifestyle due to eating disorders.  On that account, different short term goals require different meal and workout plans. Although it is possible even during the lockdown to visit a dietitian there are plenty of applications or websites, free or with a monthly/yearly subscription (probably more accurate) to help you create a plan and stick to it.</p>
 
-<img width="400" src="media/images/workout2.jfif">
+<img width="300" src="media/images/workout2.jfif">
 
 Image owned by: [stack.com](https://www.stack.com/a/how-to-become-a-morning-workout-person)
 
@@ -2256,7 +2256,7 @@ Also [greatist.com](https://greatist.com/fitness/best-health-fitness-apps#other)
 ## <a name="diet"></a>Diet
 
 Image owned by: [onlymyhealth.com]( https://www.onlymyhealth.com/importance-balanced-diet-1298540964)
-<img width="400" src="media/images/diet.jpg">
+<img width="300" src="media/images/diet.jpg">
 
 ### Want to change your diet?
 Now is the time to start eating right.
