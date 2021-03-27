@@ -38,6 +38,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Start a new Project](#projects)
 * [Start listening to Podcasts](#podcasts)
 * [Trippy Gifs](#trippygifs)
+* [Take a Look at the Past](#past)
 * [Video Games](#video-games)
 * [Video Making](#videomaking)
 * [Virtual Tours-Trips](#trips-tours)
@@ -1430,9 +1431,6 @@ You can have an amazing time just by relaxing and listening to your favorite mus
 * Relaxing Jazz Music [listen here](https://www.youtube.com/watch?v=neV3EPgvZ3g)
 * Top 40 songs of 2020 2021 [listen here](https://www.youtube.com/watch?v=_pLO4jFDeIc)
 * Top techno songs [listen here](https://open.spotify.com/playlist/6g7ZfOfEqqSR4o7iPVZggC?si=jDMehvIDSweA0UJqu4Vhng)
-* Classic Rap & Hip-Hop [listen here](https://www.youtube.com/watch?v=4qZMSYJ9yu4&t=1110s)
-* Dybbuk Playlist [listen here](https://open.spotify.com/playlist/6S1tF3Kw7qDzCFV0fiJrz9?si=xI5vuMFCTuy7QiLN3ioB6w)
-* Chill rock [listen here](https://open.spotify.com/playlist/1XZD7lHeGlvM778Coh51ez?si=0uNS44EoTT-wfuHBo6DsGA)
 
 
 ### Songs
@@ -1937,6 +1935,18 @@ Gif owned by [giphy.com](https://giphy.com/ "giphy.com")
 
 <img align="left" width="40" height="40" src="media/icons/videoGames.png">
 
+## <a name="past"></a>Take a look at the past
+
+Everyone has made his own journey leading him to where he is now. But how did you come here? What is your story? What remarkable memories have you forgotten because of the high speed routine that you are leading nowadays?
+
+The lockdown period is a great opportunity for you and your closest people to take a look at the past. You will be surprised of the things that you have forgotten along the way and the way things used to be. What a better way to spend some quality time with your family, than to sit together and reminisce by watching photos and old videos together. This material usually sparks storytelling times that can be most amusing and sometimes even didactic!
+
+Here are some ways to visit the past:
+* Ask your parents to find old photo galleries or video tapes. For example, you could find yourself making your first baby steps in there!
+* Gather all the photos saved digitally, like the ones in your phone, tablet, pc etc. Trust me, you will be surprised by the volume of neglected memories stored in there.
+* Go through all the media shared between you and your friends on the messenger app. You can see how to do that [here](https://www.facebook.com/help/messenger-app/566167593908940). 
+* Ask your relatives to tell you a story from their past. They will deifinitely have some funny or exciting story to tell you and you will end up learning exciting stuff about them!
+
 ## <a name="video-games"></a>Video Games
 
 Amazing video games you must try out:
@@ -2023,21 +2033,15 @@ Why don't you take a virtual tour via **youtube**?
 
 [Come and relax on youtube's virtual trips now!](https://www.youtube.com/watch?v=2Qcf1K3hP2g)
 
-### Explore Cities & Countries
-
 Do you want to drive around your favorite cities while listening to their local radios?
 If yes, then you should definitely try the [Drive & Listen APP](https://driveandlisten.herokuapp.com/?fbclid=IwAR2jQV27oRk5A4UmCgGNEKwu2JXxDCuqm-6sqKrmLalAnO2N7bjXGVgcnhg)!
 
 Take a look at any country from a drone's perspective! If you prefer exploring a country from above, visit [Fly & Listen](http://flyandlisten.com/?fbclid=IwAR2uuxF_Xd0vKNfpXIlh9N5f4nItuzQ-Lbhbj4WpC4CMWHgKd-EeVrYlvwg). You can choose
 a destination, pick a local radio station and enjoy your virtual trip. Fly and listen offers you a great variety of places to visit and a lot of different options regarding the local radio station. You are free to pick your favorite, sit back and relax!
 
-### Take a look around museums
+Due to the Covid-19 pandemic museums remain closed. Don't worry, art lovers!
 
-Due to the Covid-19 pandemic museums remain closed. Don't worry, art lovers! During quarantine you might have plenty of time to visit virtually some of your favorite museums, or even some you would like to visit but don't have the possibility due to Covid-19 infection. That's why virtual tours in museums of your preference is the perfect alternative! 
-
-First of all, we strongly suggest you have a look on the [online exhibition](https://www.vangoghmuseum.nl/en) offered by the Vincent van Gogh Museum in Amsterdam. You will definitely be excited by the paintings of this museum. 
-
-However, the museums offering virtual tours are so many that we think it's best to provide you the following list and let you pick the ones you perceive as the more interesting:
+You can have a look on the [online exhibition](https://www.vangoghmuseum.nl/en) offered by the Vincent van Gogh Museum in Amsterdam.
 
 Some of us are _bored in the house-in the house bored_!
 
@@ -2221,7 +2225,7 @@ Image owned by: [mindful.org](https://www.mindful.org/use-breath-strengthen-mind
 * Drink Plenty of Water
 * Think Positive
 
-<img width="850" src="media/images/healthy.jpg">
+<img width="500" src="media/images/healthy.jpg">
 
 Image owned by:[indianfolk.com](https://www.indianfolk.com/effects-healthy-food-personal-life-environment-mahek/)
 
@@ -2238,7 +2242,7 @@ Now is the time to start caring about yourself by eating right and exercising re
 Since this section is all about the motivation of the reader we would say that it focuses more on the needs of the inactive rather than the active people.
 Workout and diet plans should be decided after consideration of our short term goals. For example a currently inactive person except of gaining stamina and endurance, he might also want to  lose some weight. Or somebody might not be concerned about weight loss and just want to build muscle strength. Or maybe he just wants to create a healthy and balanced lifestyle due to eating disorders.  On that account, different short term goals require different meal and workout plans. Although it is possible even during the lockdown to visit a dietitian there are plenty of applications or websites, free or with a monthly/yearly subscription (probably more accurate) to help you create a plan and stick to it.</p>
 
-<img width="300" src="media/images/workout2.jfif">
+<img width="400" src="media/images/workout2.jfif">
 
 Image owned by: [stack.com](https://www.stack.com/a/how-to-become-a-morning-workout-person)
 
@@ -2256,7 +2260,7 @@ To remind you to drink the appropriate amount of water and to count the calories
 
 Image owned by: [depositphotos.com](https://depositphotos.com/stock-photos/water.html)
 
-<img width="300" src="media/images/water.jpg">
+<img width="400" src="media/images/water.jpg">
 
 Check out [health.gov](https://health.gov/myhealthfinder/topics/health-conditions/diabetes/eat-healthy#:~:text=A%20healthy%20eating%20pattern%20can%20help%20keep%20you%20healthy.&text=Making%20smart%20food%20choices%20can,Heart%20disease), [medicalnewstoday.com]( https://www.medicalnewstoday.com/articles/322268), [everydayhealth.com]( https://www.everydayhealth.com/diet-nutrition/importance-healthy-eating-habits/) to learn why you need o stay healthy and how.
 Also [greatist.com](https://greatist.com/fitness/best-health-fitness-apps#other) has may apps to suggest depending on your food and fitness interests. Check it out and start living your new life.
@@ -2268,7 +2272,7 @@ Image owned by: [onlymyhealth.com]( https://www.onlymyhealth.com/importance-bala
 <img width="400" src="media/images/diet.jpg">
 
 ### Want to change your diet?
-Now is the time to start eating right.
+
 Maybe you can start by choosing one of the five diets that are listed below.
 
 1. Low-carb, whole-food diet
@@ -2307,9 +2311,7 @@ The five examples listed above are a good place to start.
 Image owned by: [usejournal.com](https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
 <img width="400" src="media/images/workout1.jfif">
 
-### Now is the time to start exercising 
-
-Types of exercise:
+### Types of exercise:
 
 1. CARDIO
 There is multiple types of cardiovascular training but two types that should be in your plan for best results are high intensity intervals and long slow distance. The combination of these is important for any training plan.
@@ -2337,10 +2339,9 @@ That being said, incorporating all three aspects of fitness (cardio, strength tr
 First you need to pick your training goal. Is it to lose weight, gain lean muscle, become more flexible, or maintain your current weight? Whichever goal it is you want to make one type of training your main focus and use the others to supplement.
 
 
-It's time to find yourself. Do it now. You have the time. All you need is will and discipline.
+### It's time to find yourself. Do it now. You have the time. All you need is inspiration, will and discipline.
 
-### And most importantly... have Fun!
-
+And most importantly... have Fun!
 <image width="500" src="media/images/healthylife.jpg">
 
 Image owned by: [dreamstime.com](https://www.dreamstime.com/photos-images/healthy-life)
