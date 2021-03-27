@@ -2225,10 +2225,6 @@ Image owned by:[indianfolk.com](https://www.indianfolk.com/effects-healthy-food-
 Maintain a healthy lifestyle by doing what is right for your body.
 Now is the time to start caring about yourself by eating right and exercising regularly. You need to stop sinking into your couch and become active. The lockdown is your chance to change the things you don't like about your life and yourself. You have more time than ever to learn about physical and mental health and find inner peace.</p>
 
-<img width="400" src="media/images/workout1.jfif">
-
-Image owned by: [blog.usejournal.com](https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
-
 <p align=”left” width=”700”>We all have different needs according to our workout and diet habits. 
 Since this section is all about the motivation of the reader we would say that it focuses more on the needs of the inactive rather than the active people.
 Workout and diet plans should be decided after consideration of our short term goals. For example a currently inactive person except of gaining stamina and endurance, he might also want to  lose some weight. Or somebody might not be concerned about weight loss and just want to build muscle strength. Or maybe he just wants to create a healthy and balanced lifestyle due to eating disorders.  On that account, different short term goals require different meal and workout plans. Although it is possible even during the lockdown to visit a dietitian there are plenty of applications or websites, free or with a monthly/yearly subscription (probably more accurate) to help you create a plan and stick to it.</p>
@@ -2249,11 +2245,18 @@ There are apps that can help you track your progress and motivate you to keep go
 ([tomsguide.com](https://www.tomsguide.com/best-picks/best-workout-apps)).
 To remind you to drink the appropriate amount of water and to count the calories intake per  day. ([healthline.com]( https://www.healthline.com/health/hydration-top-iphone-android-apps-drinking-water) , [learningenglish.voanews.com](https://learningenglish.voanews.com/a/personal-tech-healthy-eating-fitness-apps/3958706.html#:~:text=MyFitnessPal%20is%20an%20app%20that,more%20information%20about%20healthy%20eating.)).</p>
 
+<img width="400" src="media/images/water.jpq">
+Image owned by: [depositphotos.com](https://depositphotos.com/stock-photos/water.html)
+
 Check out [health.gov](https://health.gov/myhealthfinder/topics/health-conditions/diabetes/eat-healthy#:~:text=A%20healthy%20eating%20pattern%20can%20help%20keep%20you%20healthy.&text=Making%20smart%20food%20choices%20can,Heart%20disease), [medicalnewstoday.com]( https://www.medicalnewstoday.com/articles/322268), [everydayhealth.com]( https://www.everydayhealth.com/diet-nutrition/importance-healthy-eating-habits/) to learn why you need o stay healthy and how.
 Also [greatist.com](https://greatist.com/fitness/best-health-fitness-apps#other) has may apps to suggest depending on your food and fitness interests. Check it out and start living your new life.
 
 
 ## <a name="diet"></a>Diet
+
+<img width="100" src="media/images/diet.jpq">
+Image owned by: [onlymyhealth.com]( https://www.onlymyhealth.com/importance-balanced-diet-1298540964)
+
 Want to change your diet?
 Maybe you can start by choosing one of the five diets that are listed below
 
@@ -2289,6 +2292,10 @@ However, it’s important to note that some eating patterns have more scientific
 The five examples listed above are a good place to start.
 
 ## <a name="workout"></a>Workout
+
+<img width="400" src="media/images/workout1.jfif">
+
+Image owned by: [blog.usejournal.com](https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
 
 TYPES OF EXERCISE:
 
