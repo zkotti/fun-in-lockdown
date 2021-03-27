@@ -7,13 +7,13 @@ Keep reading to discover ways in which you can contribute to the guide!
 **Important:** Before contributing, make sure that you operate on the newest version of the guide and that your idea hasn't been added by anyone else.
 Again, thank you for offering your unique and fun ideas for everyone to see!
 
-## Add new categories
+## <img align="left" width="30" height="30" src="media/icons/index.png"> Add new categories
 
 Do you think that something is missing? Feel free to add a high-level category and inspire others to add more content.
 
 You should always check the current version of the guide to ensure that no one has already added your idea.
 
-## Add content to the existing categories
+## <img align="left" width="30" height="30" src="media/icons/category.png"> Add content to the existing categories
 
 Do you have any ideas about an existing category? Share them under the specific category and let us know how you spend your time.
 
@@ -21,10 +21,12 @@ When adding content, don't hesitate to be as thorough as possible. In that way y
 
 Don't forget to add the required references to your content.
 
-## Add media
+## <img align="left" width="30" height="30" src="media/icons/images-folder.png"> Add media
 
 Do you think that the content is fun, but the appearance isn't ? Add images or videos and create beautiful content for everyone to see.
 
 When adding media, do not forget to add the references to the original source. Try to be creative!
 
-_Greek flag emoji owned by [Pichon](https://icons8.com/app/windows)_
+---
+
+_Icons owned by [icons8.com](https://icons8.com/app/windows)_

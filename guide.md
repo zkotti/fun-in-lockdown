@@ -47,6 +47,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Work with cars](#Work-with-cars)
 * [Writing](#writing)
 * [Healthy Lifestyle](#health)
+* [Find your pet friend](#pet)
 
 [Note : Before you head outside](#note)
 
@@ -172,29 +173,7 @@ Genres: Animation | Action | Adventure | Comedy | Drama | Fantasy | Sci-Fi | Thr
 
 Image source and info [imdb](https://www.imdb.com/title/tt7441658/?ref_=nv_sr_srsg_0)
 
-### The Seven Deadly Sins (From 2014)
-<img width="600" height="700" src="media/images/thesevendeadlysins.png">
 
-**Storyline**
-
-The Seven Deadly Sins were once an active group of knights in the region of Britannia, who disbanded after they supposedly plotted to overthrow the Liones Kingdom. Their supposed defeat came at the hands of the Holy Knights, but rumors continued to persist that they were still alive. Ten years later, the Holy Knights staged a coup d'état and captured the king, becoming the new, tyrannical rulers of the kingdom. The third princess, Elizabeth, then starts out on a journey to find the Seven Deadly Sins and enlist their help in taking back the kingdom.
-
-Genres: Animation | Action | Adventure | Comedy | Fantasy
-
-Image source and info [imdb](https://www.imdb.com/title/tt3909224/?ref_=tt_mv_close)
-
-
-### Fullmetal Alchemist: Brotherhood (2009-2012)
-
-<img width="600" height="700" src="media/images/fullmetalalchemist.jpg">
-
-**Storyline**
-
-Two brothers lose their mother to an incurable disease. With the power of "alchemy", they use taboo knowledge to resurrect her. The process fails, and as a toll for using this type of alchemy, the older brother, Edward Elric loses his left leg while the younger brother, Alphonse Elric loses his entire body. To save his brother, Edward sacrifices his right arm and is able to affix his brother's soul to a suit of armor. With the help of a family friend, Edward receives metal limbs - "automail" - to replace his lost ones. With that, Edward vows to search for the Philosopher's Stone to return the brothers to their original bodies, even if it means becoming a "State Alchemist", one who uses his/her alchemy for the military.
-
-Genres: Animation | Action | Adventure | Comedy | Drama | Fantasy | Sci-Fi
-
-Image source and info [imdb](https://www.imdb.com/title/tt1355642/?ref_=nv_sr_srsg_0)
 
 ---
 
@@ -257,6 +236,7 @@ Below you may find some interesting websites where you can play different board 
 
 * [Among Us](https://www.bluestacks.com/apps/action/among-us-on-pc.html): The game takes place in a space-themed setting, in which players each take on one of two roles, most being Crewmates, and a predetermined number being Impostors. The goal of the Crewmates is to identify the Impostors, eliminate them, and complete tasks around the map; the Impostors' goal is to covertly sabotage and kill the Crewmates before they complete all of their tasks. Players suspected to be Impostors may be eliminated via a plurality vote, which any player may initiate by calling an emergency meeting (except during a crisis) or reporting a dead body. Crewmates win if all Impostors are eliminated or all tasks are completed whereas Impostors win if there is an equal number of Impostors and Crewmates, or if a critical sabotage goes unresolved.
 * [Chess](https://www.chess.com/): Probably the most famous strategy game.
+* [Codenames](https://codenames.game/): Two rival spymasters -red and blue- know the secret identities of 25 agents. Their teammates know the agents only by their codenames. To win the game, a team will need to contact all of its agents in the field before the other team finds their own agents by guessing correctly the hint their spymaster gave them and sellecting the right cards of the corresponding color. In case of contacting the assassin instead of the agents the team instantly loses! 
 * [GeoGuessr](https://www.geoguessr.com/): The goal of this game is to guess the location of a specific spot on the globe presented to you via google maps street view. You can either play alone, or with friends. The closer your guess to the selected location, the more point you gather. The winner of the game is the person with the most points at the end of a specified number of rounds.
 * [League of legends: Wild Rift](https://wildrift.leagueoflegends.com/en-gb/): A 5v5 MOBA experience of League of Legends, now built from the ground up for mobile and console. With fresh controls and fast-paced games, players of every level can team up with friends, lock in their champion, and go for the big plays
 * [Password](https://www.thegamegal.com/2017/11/10/password): The goal of this game is to get your partner to guess the password by giving him a one word and only one word clue. First, you divide yourselves into 2 teams and in each round one of the members from each team will be given a password. If your partner guesses the password then your team wins the points of the round, but if he doesn't, then it's the other team’s turn. If their team gets the password, they get the points. If the other team also doesn’t get the word you get another try. So, this goes on for 3 times till someone gets the password and then the next round starts. It's a really entertaining game to play with your friends. **Pro Tip**: Turn this into a drinking game and you'll maximize the fun!*([download it here](https://play.google.com/store/apps/details?id=in.androidmate.password_game))*
@@ -350,12 +330,27 @@ Photo owned by [elearningindustry.com](https://elearningindustry.com/top-10-book
 |Προς τ'άστρα| Science| Παύλος Καστανάς| Public| 9/10|  [Link](https://www.public.gr/product/books/greek-books/natural-science/popular-science/pros-t-astra/prod12560011pp/?gclid=Cj0KCQjwjPaCBhDkARIsAISZN7SI5pPnqJ68ac1tcRHg9hRMr2VHwHRsfXB6iRGCm2eAJV3lH2N346YaAglmEALw_wcB "Προς τ'άστρα")
 |Big Bang| Science| Simon Singh| Public |10/10| [Link](https://www.public.gr/product/big-bang/prod249173/?gclid=Cj0KCQjwjPaCBhDkARIsAISZN7TMTFMAJATZov3gBLTDVN6wgpI6tKZy6OQ21KzfgbF-3-QXS1BHDiYaArXoEALw_wcB "Big Bang")
 
+###### Public Domain Books
+
+The public domain consists of all the creative work to which no exclusive intellectual property rights apply. Those rights may have expired,been forfeited, expressly waived, or may be inapplicable. So, a public-domain book is a book with no copyright, a book that was created without a license, or a book where its copyrights expired or have been forfeited.
+
+In most countries the term of protection of copyright expires on the first day of January, 70 years after the death of the latest living author. The longest copyright term is in Mexico, which has life plus 100 years for all deaths since July 1928. A notable exception is the United States, where every book and tale published prior to 1926 is in the public domain; American copyrights last for 95 years for books originally published between 1925 and 1978 if the copyright was properly registered and maintained.For example: the works of Jane Austen, Lewis Carroll, Machado de Assis, Olavo Bilac and Edgar Allan Poe are in the public domain worldwide as they all died over 100 years ago.
+
+sourse:[Wikipedia](https://en.wikipedia.org/wiki/Public_domain#Public_Domain_Day)
+
+[Project Gutenberg](https://www.gutenberg.org/) makes tens of thousands of public domain books available online as ebooks. Also, [Open Library](https://openlibrary.org/) has many books as well and for audiobooks you can visit [Librivox](https://librivox.org/).
+
 ---
 
 
 <img align="left" width="40" height="40" src="media/icons/todo.png">
 
 ## <a name="clean"></a> Clean and organize
+
+<img src="media/images/Cleaning-Routines.jpg" alt="Clean House" width="300"/>
+
+Photo owned by [getorganizedwizard.com](https://www.getorganizedwizard.com/blog/2016/06/simple-routines-that-keep-y-our-house-spotless/)
+
 This is a great opportunity for you to clean and organize your space. Declutter, get rid of all the things you never use and organize the ones that you use. It will make you feel useful and you will have a clean, organized space at the end of the day. 
 
 You can also write down your to-dos and organize your schedule and notes. It is best that you stay organized in order to achieve high productivity!
@@ -379,7 +374,9 @@ Tips to Organize your Bedroom:
 7. Go Minimalist
 8. Use Personal Items as Decor
 9. Store Your Hats on a Wall
-* Information was taken from [here.](https://www.extraspace.com/blog/home-organization/room-organization/bedroom-organization-ideas-tips-hacks/)
+
+Source : [extraspace.com](https://www.extraspace.com/blog/home-organization/room-organization/bedroom-organization-ideas-tips-hacks/)
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/cocktail.png">
@@ -1272,6 +1269,29 @@ Here are some of the vegetables that you can begin with!
 Photo owned by [kellogggarden.com](https://www.kellogggarden.com/wp-content/uploads/2017/07/Leafy-Vegetable-Garden.jpg)  
 Icon source: [thenounproject.com ](https://thenounproject.com/term/gardening/) 
 
+### Herbs 
+
+<img src="media/images/Herbs.jpg" width="500"/>
+
+| PLANT NAME | SUN EXPOSURE | SOIL MOISTURE |
+|---|---|---|
+|Sage|Full sun or partial shade|Moist but well-drained|
+|Parsley|Full sun or partial shade|Moist but well-drained|
+|Oregano|Full sun or partial shade|Well-drained|
+|Mint|Full sun or partial shade|Moist but well-drained| 
+|Coriander|Full sun or partial shade|Moist but well-drained|
+|Basil|Full sun|Well-drained|
+|Chives|Full sun or partial shade|Moist but well-drained|
+|Dill|Full sun|Well-drained|
+|Fennel|Full sun or partial shade|Moist but well-drained|
+|Rosemary|Full sun|Moist but well-drained|
+|Lemon Balm|Full sun or partial shade|Moist but well-drained|
+|Levander|Full sun|Well-drained|
+|Thyme|Full sun|Well-drained|
+|Bay|Full sun|Well-drained|
+
+Sourse:[Here](https://www.daviddomoney.com/how-to-grow-a-beginners-herb-garden/)
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/skill.png">
@@ -1280,7 +1300,7 @@ Icon source: [thenounproject.com ](https://thenounproject.com/term/gardening/)
 Great ideas to learn new skills:
 
 * Learn a new programming language
-* Learn a new foreign language
+* Learn a [new foreign language](https://www.duolingo.com/)
 * Learn how to draw
 * Learn how to speak in public
 * Learn basic home repairs
@@ -1343,11 +1363,9 @@ _The most common activity during lock-down has been watching movies. So here are
 |Jeffrey Epstein: Filthy Rich | Documentary / Crime | Netflix | 8/10 | 7.1/10|[TRAILER](https://www.youtube.com/watch?v=-j0rjlfmDx4 "Jeffrey Epstein: Filthy Rich")|[INFO](https://www.imdb.com/title/tt12312250/ "Jeffrey Epstein: Filthy Rich")|
 |Joker| Drama | Amazon | 10/10 | 8.4/10|[TRAILER](https://www.youtube.com/watch?v=zAGVQLHvwOY "Joker")|[INFO](https://www.imdb.com/title/tt7286456/?ref_=nv_sr_srsg_0 "Joker IMDb")|
 |La La Land| Film Musical | Stremio | 9/10 | 8/10 | [TRAILER](https://www.youtube.com/watch?v=0pdqf4P9MB8&ab_channel=LionsgateMovies) | [INFO](https://www.imdb.com/title/tt3783958/)|
-|Locke & Key | Fantasy, Horror, TV Series | Netflix | 8/10 | 7.4/10 | [TRAILER](https://www.imdb.com/video/vi91471641?playlistId=tt3007572&ref_=tt_ov_vi) | [INFO](https://www.imdb.com/title/tt3007572/?ref_=nv_sr_srsg_2)
 |Lupin| TV series| Netflix| 7.5/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=ga0iTWXCGa0&ab_channel=Netflix "Lupin")|[INFO](https://www.imdb.com/title/tt2531336/?ref_=nv_sr_srsg_0 "Lupin IMDb")|
 |Mindhunter | TV series | Netflix | 9.5/10 | 8.6/10|[TRAILER](https://www.youtube.com/watch?v=evdxH50J3rs "Mindhunter")|[INFO](https://www.imdb.com/title/tt5290382/?ref_=nv_sr_srsg_0 "Mindhunter IMDb")|
 |Miracle in Cell No. 7 (2019)| Drama | Netflix | 9/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=MHdBW0gSsjo "Miracle in Cell No. 7")|[INFO](https://www.imdb.com/title/tt2659414/?ref_=nv_sr_srsg_0 "Miracle in Cell No. 7 IMDb")|
-|Money Heist| Action, Crime, TV series | Netflix | 8/10 | 8.3/10|[TRAILER](https://www.imdb.com/video/vi2395387929?ref_=ttvi_vi_imdb_22)|[INFO](https://www.imdb.com/title/tt6468322/)|
 |Mr. Robot | TV series | Netflix | 10/10 | 8.5/10|[TRAILER](https://www.youtube.com/watch?v=xIBiJ_SzJTA "Mr. Robot")|[INFO](https://www.imdb.com/title/tt4158110/?ref_=fn_al_tt_1 "Mr. Robot IMDb")|
 |Night Stalker: The Hunt for a Serial Killer  | Documentary / Crime | Netflix | 9/10 | 7.5/10|[TRAILER](https://www.youtube.com/watch?v=Mva2nGveYss "Night Stalker: The Hunt for a Serial Killer")|[INFO](https://www.imdb.com/title/tt13651632/ "Night Stalker: The Hunt for a Serial Killer")|
 |Peaky Blinders | Documentary - TV series | Netflix | 8/10 | 8.8/10|[TRAILER](https://youtu.be/oVzVdvGIC7U "Peaky Blinders")|[INFO](https://www.imdb.com/title/tt2442560/?ref_=nv_sr_srsg_0 "Peaky Blinders IMDb")|
@@ -2059,7 +2077,10 @@ Photo owned by [adornosuites.com](https://www.adornosuites.com/top-10-best-thing
 
 * Explore the magical streets of Mykonos town ([map](https://www.google.com/maps/place/Mikonos+846+00/@37.444457,25.3180739,14z/data=!3m1!4b1!4m5!3m4!1s0x14a2bf06bf0fdd37:0xfaa85debe77b7a44!8m2!3d37.4467185!4d25.3288623?hl=en))
 * Walk around the square of Ano Mera village ([map](https://www.google.com/maps?q=ano+mera+mykonos&source=lmns&bih=722&biw=1519&hl=en&sa=X&ved=2ahUKEwie4pvDls7vAhWT0oUKHTp1BuAQ_AUoAnoECAEQAg))
-* Enjoy your walk around Kanalia while enjoying the fabulous Mykonos sunset ([map](https://www.google.com/maps/search/kanalia+mykonos/@37.4342891,25.3077225,16z/data=!3m1!4b1?hl=en))
+* Enjoy your walk around Kanalia while being mesmerized by the fabulous Mykonos sunset ([map](https://www.google.com/maps/search/kanalia+mykonos/@37.4342891,25.3077225,16z/data=!3m1!4b1?hl=en))
+* Disover the beautiful windmills of Mykonos where you can take unforgettable photos ([map](https://www.google.com/maps/place/The+windmills+of+Mykonos/@37.444317,25.324378,17z/data=!4m8!1m2!2m1!1swindmills+mykonos!3m4!1s0x0:0x979ee1c2b9f4448e!8m2!3d37.4445883!4d25.3255422))
+* Walk from Platis Gialos all the way to Paradise beach following the coastline trails for an remarkable mix of beauty, party and nature ([map](https://www.google.com/maps/place/Platis+Gialos+846+00/@37.4146737,25.3387635,14.96z/data=!4m5!3m4!1s0x14a2be932e977835:0xefa69bf8a4abfa2a!8m2!3d37.413752!4d25.3470226))
+* Explore the north side of Mykonos and end up at Armenistis Lighthouse for an amazing sunset view ([map](https://www.google.com/maps/place/Armenistis+Lighthouse/@37.4846789,25.3132782,14z/data=!4m13!1m7!3m6!1s0x14a2c079d0db8d13:0x1a3e1975418809e!2sFaros+Armenistis+846+00!3b1!8m2!3d37.4849334!4d25.3170935!3m4!1s0x14a2c07849f0afc9:0xc2fcb9239549d45!8m2!3d37.4896444!4d25.3144969))
 
 Sources: [thebest.gr](https://www.thebest.gr/article/412935-), [tripadvisor](https://www.tripadvisor.com/Attractions-g189488-Activities-c47-t76-Patras_Achaea_Region_West_Greece.html)
 
@@ -2067,6 +2088,10 @@ Sources: [thebest.gr](https://www.thebest.gr/article/412935-), [tripadvisor](htt
 <img align="left" width="40" height="40" src="media/icons/avoid.png">
 
 ## <a name="whattoavoid"></a> What to avoid
+<img src="media/images/couch-potato.png" alt="couch-potato" width="400"/>
+
+Photo owned by: [are you a couch potato](https://areyouacouchpotato.com/)
+
 Being isolated all day long can make you a person, that you in the future would be ashamed for. To prevent such a situation, make sure you avoid the following.
 
 * Reality TV Shows:
@@ -2076,6 +2101,11 @@ Being isolated all day long can make you a person, that you in the future would 
   
 * Fast food
 * Recommended youtube videos
+* Too much time on social media
+* Arguing about COVID and taking things way too personally (everyone is in the same situation)
+* Watching one more episode
+* Believing in conspiracy theories
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/car.jpg">
@@ -2158,15 +2188,18 @@ Image owned by: [mindful.org](https://www.mindful.org/use-breath-strengthen-mind
 * Think Positive
 
 <img width="500" src="media/images/healthy.jpg">
+
 Image owned by:[indianfolk.com](https://www.indianfolk.com/effects-healthy-food-personal-life-environment-mahek/)
 
 <p align=”left” width=”700”>Being healthy should be part of your overall lifestyle. 
-Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses.
 
-Feeling good about yourself and taking care of your health are important for your self-esteem and self-image. 
++ Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses.
+
++ Feeling good about yourself and taking care of your health are important for your self-esteem and self-image. 
 
 Maintain a healthy lifestyle by doing what is right for your body.
-Now is the time to start caring about yourself by eating right and exercising regularly! You need to stay active and not sink into your couch. The lockdown is your chance to change the things you don't like about your life and yourself. You have more time than ever to learn about physical and mental health and find inner peace.</p>
+Now is the time to start caring about yourself by eating right and exercising regularly. You need to stop sinking into your couch and become active. The lockdown is your chance to change the things you don't like about your life and yourself. You have more time than ever to learn about physical and mental health and find inner peace.</p>
+
 <img width="400" src="media/images/workout1.jfif">
 
 Image owned by: [blog.usejournal.com](https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
@@ -2194,14 +2227,37 @@ To remind you to drink the appropriate amount of water and to count the calories
 Check out [health.gov](https://health.gov/myhealthfinder/topics/health-conditions/diabetes/eat-healthy#:~:text=A%20healthy%20eating%20pattern%20can%20help%20keep%20you%20healthy.&text=Making%20smart%20food%20choices%20can,Heart%20disease), [medicalnewstoday.com]( https://www.medicalnewstoday.com/articles/322268), [everydayhealth.com]( https://www.everydayhealth.com/diet-nutrition/importance-healthy-eating-habits/) to learn why you need o stay healthy and how.
 Also [greatist.com](https://greatist.com/fitness/best-health-fitness-apps#other) has may apps to suggest depending on your food and fitness interests. Check it out and start living your new life.
 
-Image owned by: [dreamstime.com](https://www.dreamstime.com/photos-images/healthy-life)
-<img align="left" width="500" src="media/images/healthylife.jpg">
+<image width="500" src="media/images/healthylife.jpg">
 
-<p></p>
+Image owned by: [dreamstime.com](https://www.dreamstime.com/photos-images/healthy-life)
+
 Source: <https://www.foundationforpn.org/living-well/lifestyle/#:~:text=Being%20healthy%20should%20be%20>
 
 ---
+<img align="left" width="40" height="40" src="media/icons/pets.png">
 
+## <a name="pet"></a>Find your pet friend
+Dog or cat? A question that concerns many people!
+lockdown is a good chance to buy or better to adopt a new pet, dog or cat, and spend quality time with it.
+In order to show your pet your love and care, there are some specific things you can do.
+
+* __Exercise your pet__
+
+Exercise is a vital part of enriching your pets’ lives. Walking, running, playing fetch or tug, and learning agility or flyball are all great ways to keep your dog physically fit. For cats, try interactive play with wand toys or balls. Some cats can be taught to enjoy walks outdoors wearing a harness and leash. Many of these activities have the added benefit of exercising humans, too.
+
+* __Visit the vet for a checkup__
+
+Let’s face it. Few of us like going to the doctor, and our pets are no different. But you can teach your pets to tolerate going to the vet by doling out delicious treats that make the experience more enjoyable. Many clinics will allow you to simply come and visit, so that later on when an appointment is necessary, your pet will have a more positive association with medical care.
+
+* __Healthy food__
+
+Just like humans, pets thrive when they have a healthy diet. A healthy and balanced diet is essential for a healthy and happy pet. Not only will it provide your pet with enough energy for his day to day activities, but it is also vital for proper brain function.
+
+* __Training__
+
+Are you ready to start training your pet? Proper training and socialization are among your pet's basic needs. It's important to start training your pet as soon as possible.At first, pet training can seem pretty overwhelming, especially if this is your first pet. The truth is that training your pet is a very big project. If you take it step by step(watching videos on youtube), you will find the task to be far less daunting.
+
+---
 <img align="left" width="40" height="40" src="media/icons/warning-shield.png">
 
 
@@ -2237,4 +2293,4 @@ regulations that are currently active on every Greek regional unit. For informat
 
 ---
 
-_Section icons owned by [Pichon](https://icons8.com/app/windows)_
+_Section icons owned by [icons8.com](https://icons8.com/app/windows)_
