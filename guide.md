@@ -2071,9 +2071,11 @@ However, the museums offering virtual tours are so many that we think it's best 
 
 Sources: [Robb Report](https://robbreport.com/lifestyle/news/14-virtual-museum-to-visit-during-social-distancing-and-quarantine-2905827/)
 
-Some of us are _bored in the house-in the house bored_!
+### View from around the World
 
 [WindowSwap](https://www.window-swap.com/) is a quarantine project which gives you the opportunity to enjoy the view from windows around the world!
+
+Some of us are _bored in the house-in the house bored_!
 
 ---
 
