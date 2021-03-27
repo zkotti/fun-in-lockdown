@@ -61,7 +61,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 
 ### What is Anime
 
-Anime describes all animated work , despite of style and origin until early 2000's anime was produced strictly by and for Japan , in the last 20 years we have seen anime growing into a worldwide phenomenon creating a fanbase of millions and being translated into numerous languages . A whole generation of viewers myself included have grown watching their favorite anime , turning what was once "branded" as child-show and cartoon into a something everyone can and should enjoy in their free time. 
+Anime describes all animated work , despite of style and origin until early 2000's anime was produced strictly by and for Japan , in the last 20 years we have seen anime growing into a worldwide phenomenon creating a fanbase of millions and being translated into numerous languages . A whole generation of viewers myself included have grown watching their favorite anime , turning what was once "branded" as child-show and cartoon into a something everyone can and should enjoy in their free time.
 
 
 ### My Hero Academia (from 2016)
@@ -69,10 +69,10 @@ Anime describes all animated work , despite of style and origin until early 2000
 <img width="500" height="500" src="media/images/myhacademia.jpg">
 
 **My Hero Academia (僕のヒーローアカデミア)** continues to be one of the most popular ongoing anime getting traction incredibly fast . A Shonen anime about a young boy called Izuku born without power's in a world dominated by heroes
-and villains that are born with extraordinary power's ,called quirks what is going to happen when he will inherit the world's strongest power by the world's strongest hero All Might? 
+and villains that are born with extraordinary power's ,called quirks what is going to happen when he will inherit the world's strongest power by the world's strongest hero All Might?
 
 
-Air Dates: from 2016| 
+Air Dates: from 2016|
 Genre: Action, Fantasy|
 Recommended for Beginners
 
@@ -83,7 +83,7 @@ Pictures Taken from IMBd
 
 <img width="500" height="500" src="media/images/deathnote.jpg">
 
-**Death Note (デスノート)** is a mystery/horror anime , based loosely on the manga published in the period 2003-2006 receiving great reviews by both japan and international viewers alike. A well elaborated but short story that is sure to keep you on your toes. Light Yagami is the protagonist that develops a god syndrome after discovering a notebook that kills whoever gets their name written on it. 
+**Death Note (デスノート)** is a mystery/horror anime , based loosely on the manga published in the period 2003-2006 receiving great reviews by both japan and international viewers alike. A well elaborated but short story that is sure to keep you on your toes. Light Yagami is the protagonist that develops a god syndrome after discovering a notebook that kills whoever gets their name written on it.
 
 
 Air Dates: 2006-2007|
@@ -121,7 +121,7 @@ Picture taken from Imbd
 
 **One Piece (東京喰種ワンピース)** is one of the most popular manga and anime series of all time. The story is about the adventures of  Monkey D. Luffy, a young ambitious pirate whose body attained the properties of rubber after accidentally eating a Devil Fruit. With his pirate crew called Straw Hat Pirates, Luffy sets sail in pursuit of the world's most valuable treasure known as "One Piece" aiming to eventually be the next King of Pirates. One Piece has released more than 965 episodes and is still releasing new ones every week. Both the anime and the manga have received multiple awards over the course of years.
 
-Air Dates: from 1997 
+Air Dates: from 1997
 Genre: Adventure, Fantasy, Action
 Recommended for Beginners
 
@@ -130,7 +130,7 @@ Image Source for One Piece pictures is  [One Piece Fandom Wiki](https://onepiece
 ### Dragonball (From 1984)
 <img width="500" height="500" src="media/images/dragonball.jpg">
 
-**Dragonball (東京喰種トーキョーグール)** is perhaps the most well-known anime in the western world releasing episodes for more than 35 years , and for good reason it is a fan favorite and the easiest way to get your friends into anime. The story depicts the life of Goku an alien from the planet Vegeta , with super-powers following him in his adventures and the everlasting responsibility of protecting earth whom he dearly loves. 
+**Dragonball (東京喰種トーキョーグール)** is perhaps the most well-known anime in the western world releasing episodes for more than 35 years , and for good reason it is a fan favorite and the easiest way to get your friends into anime. The story depicts the life of Goku an alien from the planet Vegeta , with super-powers following him in his adventures and the everlasting responsibility of protecting earth whom he dearly loves.
 
 
 Air Dates: Action, Adventure
@@ -205,9 +205,9 @@ Image source and info [imdb](https://www.imdb.com/title/tt1355642/?ref_=nv_sr_sr
 <img align="left" width="40" height="40" src="media/icons/art.png">
 
 ## <a name="art"></a>Art
-Creating art can be of so many different types. It can be painting, constructing some art piece from recycled 
-materials, or also decorating your apartment/room. Especially painting can calm you really down and give you the 
-opportunity to express your feelings and emotions by using colors. The following tutorials will help you to make 
+Creating art can be of so many different types. It can be painting, constructing some art piece from recycled
+materials, or also decorating your apartment/room. Especially painting can calm you really down and give you the
+opportunity to express your feelings and emotions by using colors. The following tutorials will help you to make
 the first step to become an artist and use the time during the pandemic more efficiently:
 
 * [Acrylic Painting Tutorial - Ocean Sunset (Beginner to Intermediate)](https://www.youtube.com/watch?v=VjCGJb5ltZM "Acrylic Painting")
@@ -224,7 +224,7 @@ the first step to become an artist and use the time during the pandemic more eff
 <img align="left" width="40" height="40" src="media/icons/youtubeicon.png">
 
 ## <a name="youtube"></a>Binge Youtube
-Youtube is an American owned video-sharing platform with headquarters located in California . Being the second most visited website in 2020 it has long evolved from it's days of being a platform for users to upload random content they thought was funny or interesting , nowadays it can provide meaningful content that could surely accompany us in the lonely days the quarantine has given us.Below you can find some channels I thought could interest you. 
+Youtube is an American owned video-sharing platform with headquarters located in California . Being the second most visited website in 2020 it has long evolved from it's days of being a platform for users to upload random content they thought was funny or interesting , nowadays it can provide meaningful content that could surely accompany us in the lonely days the quarantine has given us.Below you can find some channels I thought could interest you.
 
 ### Notable Channels
 
@@ -260,7 +260,7 @@ Below you may find some interesting websites where you can play different board 
 
 * [Among Us](https://www.bluestacks.com/apps/action/among-us-on-pc.html): The game takes place in a space-themed setting, in which players each take on one of two roles, most being Crewmates, and a predetermined number being Impostors. The goal of the Crewmates is to identify the Impostors, eliminate them, and complete tasks around the map; the Impostors' goal is to covertly sabotage and kill the Crewmates before they complete all of their tasks. Players suspected to be Impostors may be eliminated via a plurality vote, which any player may initiate by calling an emergency meeting (except during a crisis) or reporting a dead body. Crewmates win if all Impostors are eliminated or all tasks are completed whereas Impostors win if there is an equal number of Impostors and Crewmates, or if a critical sabotage goes unresolved.
 * [Chess](https://www.chess.com/): Probably the most famous strategy game.
-* [Codenames](https://codenames.game/): Two rival spymasters -red and blue- know the secret identities of 25 agents. Their teammates know the agents only by their codenames. To win the game, a team will need to contact all of its agents in the field before the other team finds their own agents by guessing correctly the hint their spymaster gave them and sellecting the right cards of the corresponding color. In case of contacting the assassin instead of the agents the team instantly loses! 
+* [Codenames](https://codenames.game/): Two rival spymasters -red and blue- know the secret identities of 25 agents. Their teammates know the agents only by their codenames. To win the game, a team will need to contact all of its agents in the field before the other team finds their own agents by guessing correctly the hint their spymaster gave them and sellecting the right cards of the corresponding color. In case of contacting the assassin instead of the agents the team instantly loses!
 * [GeoGuessr](https://www.geoguessr.com/): The goal of this game is to guess the location of a specific spot on the globe presented to you via google maps street view. You can either play alone, or with friends. The closer your guess to the selected location, the more point you gather. The winner of the game is the person with the most points at the end of a specified number of rounds.
 * [League of legends: Wild Rift](https://wildrift.leagueoflegends.com/en-gb/): A 5v5 MOBA experience of League of Legends, now built from the ground up for mobile and console. With fresh controls and fast-paced games, players of every level can team up with friends, lock in their champion, and go for the big plays
 * [Password](https://www.thegamegal.com/2017/11/10/password): The goal of this game is to get your partner to guess the password by giving him a one word and only one word clue. First, you divide yourselves into 2 teams and in each round one of the members from each team will be given a password. If your partner guesses the password then your team wins the points of the round, but if he doesn't, then it's the other team’s turn. If their team gets the password, they get the points. If the other team also doesn’t get the word you get another try. So, this goes on for 3 times till someone gets the password and then the next round starts. It's a really entertaining game to play with your friends. **Pro Tip**: Turn this into a drinking game and you'll maximize the fun!*([download it here](https://play.google.com/store/apps/details?id=in.androidmate.password_game))*
@@ -278,13 +278,13 @@ Seterra includes fun quizzes that help familiarize you with countries, capital c
 If you are stuck at home with your family or your roommate(s), you could try one of these fun board games:
 
 * [Bang!](https://en.wikipedia.org/wiki/Bang!_(card_game)): In this Wild-West themed game, a sheriff and a deputy sheriff are trying to uncover the outlaws. It sounds easy, but what happens when you don't know who the outlaws are?
-* [Battleship](https://en.wikipedia.org/wiki/Battleship_(game)): A strategy type guessing game for two players. It is played on ruled grids (paper or board) on which each player's fleet of ships (including battleships) are marked. The locations of the fleets are concealed from the other player. Players alternate turns calling "shots" at the other player's ships, and the objective of the game is to destroy the opposing player's fleet. 
+* [Battleship](https://en.wikipedia.org/wiki/Battleship_(game)): A strategy type guessing game for two players. It is played on ruled grids (paper or board) on which each player's fleet of ships (including battleships) are marked. The locations of the fleets are concealed from the other player. Players alternate turns calling "shots" at the other player's ships, and the objective of the game is to destroy the opposing player's fleet.
 * [Citadels](https://en.wikipedia.org/wiki/Citadels_(card_game)): A card game in which on each round, players pick a role, build districts and make actions according to their role.
 * [Cluedo](https://en.wikipedia.org/wiki/Cluedo): A suspenseful murder mystery game that turns everyone into a detective.
 * [Halli Galli](https://www.ultraboardgames.com/halli-galli/game-rules.php): A fast game in which you have to ring the bell as soon as 5 same fruits appear. Just watch for your hands!
 * [Jenga](https://en.wikipedia.org/wiki/Jenga): Jenga is a game of physical skill. Players take turns removing one block at a time from a tower constructed of 54 blocks.
 * [Munchkin](https://en.wikipedia.org/wiki/Munchkin_(card_game)): Munchkin is a dedicated deck card game by Steve Jackson Games, written by Steve Jackson and illustrated by John Kovalic. It is a humorous take on role-playing games, based on the concept of munchkins (immature role-players, playing only to "win" by having the most powerful character possible).In Munchkin, all players start at level 1, with the goal of reaching level 10 (or level 20 in Epic Level games). Players primarily progress by killing monsters, and level up every time they kill a monster. However, players can freely use cards against monsters and other players during play, allowing them to either assist or to sabotage others during their turn. Each person's turn begins when they "kick down the door" by drawing a Door Card face-up. A Door Card can be one of the following types: a Monster Card, which the player must engage by fighting or fleeing; a Curse Card, which applies an effect; or an Item Card, Race Card, or Class Card, which the player adds to their hand. If the card drawn is not a Monster Card, the player can either "loot the room" by drawing a face-down door card and adding it to their hand, or "look for trouble" by playing a Monster Card from their hand to fight it.
-* [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)): The classical buying and trading properties game. 
+* [Monopoly](https://en.wikipedia.org/wiki/Monopoly_(game)): The classical buying and trading properties game.
 * [Risk](https://en.wikipedia.org/wiki/Risk_(game)): A strategy board game which combines war, debate, diplomacy, conflicts, and luck. Each player has a quest to complete (usually to take over a continent) but so do your opponents. 2-6 Players, 1-8 hours. Do not play this game with your best friends, it will be the end of a friendship...  
 * [Scrabble](https://en.wikipedia.org/wiki/Scrabble): A game in which you use random letters to create words.
 * [Stratego](https://en.wikipedia.org/wiki/Stratego): A Napoleonic version of capture the flag!
@@ -293,8 +293,8 @@ If you are stuck at home with your family or your roommate(s), you could try one
 * [Ticket to Ride](https://en.wikipedia.org/wiki/Ticket_to_Ride_(board_game)): A strategy game in which players collect train cards and use them in order to create train routes across a real world map and collect points. The purpose of the game is to collect the most points. This can be achieved by creating long railways and connecting remote cities which are determined by drawing ticket cards. This board game is ideal for people who like strategy, and love using..... Optimization Methods. :stuck_out_tongue:
 * [Trivial Pursuit](https://en.wikipedia.org/wiki/Trivial_Pursuit): A game to test your knowledge about things around the globe.
 * [Twister](https://en.wikipedia.org/wiki/Twister_(game)): As the box promises, have you twisted up in knots and probably doubled over laughing, too.
-* [Wizard](https://en.wikipedia.org/wiki/Wizard_(card_game)): A fun card game that comes with a set of tricky rules. Each player has guess the results of the game and the winner is the one who makes the best guesses. 
-  
+* [Wizard](https://en.wikipedia.org/wiki/Wizard_(card_game)): A fun card game that comes with a set of tricky rules. Each player has guess the results of the game and the winner is the one who makes the best guesses.
+
 ### Puzzles' Bestsellers
 
 * Katosca 1,000 Piece Jigsaw Puzzle. [Buy it from amazon.](https://www.amazon.com/Katosca-Jigsaw-Puzzles-Astronaut-Educational/dp/B07RHSKLYL)
@@ -303,7 +303,7 @@ If you are stuck at home with your family or your roommate(s), you could try one
 * Custom Hometown Map Puzzle. [Buy it from amazon.](https://www.amazon.com/Personalized-Hometown-Map-Jigsaw-Mapping/dp/B00LLDPQ22)
 * New York Times Custom Front Page Puzzle. [Buy it from uncommongoods.](https://www.uncommongoods.com/product/new-york-times-custom-front-page-puzzle)
 
-Source:[today.com](https://www.today.com/shop/best-puzzles-adults-2020-t171244) 
+Source:[today.com](https://www.today.com/shop/best-puzzles-adults-2020-t171244)
 
 ---
 
@@ -376,7 +376,7 @@ sourse:[Wikipedia](https://en.wikipedia.org/wiki/Public_domain#Public_Domain_Day
 
 Photo owned by [getorganizedwizard.com](https://www.getorganizedwizard.com/blog/2016/06/simple-routines-that-keep-y-our-house-spotless/)
 
-This is a great opportunity for you to clean and organize your space. Declutter, get rid of all the things you never use and organize the ones that you use. It will make you feel useful and you will have a clean, organized space at the end of the day. 
+This is a great opportunity for you to clean and organize your space. Declutter, get rid of all the things you never use and organize the ones that you use. It will make you feel useful and you will have a clean, organized space at the end of the day.
 
 You can also write down your to-dos and organize your schedule and notes. It is best that you stay organized in order to achieve high productivity!
 
@@ -407,13 +407,13 @@ Source : [extraspace.com](https://www.extraspace.com/blog/home-organization/room
 <img align="left" width="40" height="40" src="media/icons/cocktail.png">
 
 ## <a name="cocktails"></a> Cocktail Adventures!
-Let's be honest, Covid-19 pandemic and its several back-to-back lockdowns have been harsh for the most of us. Being in front of a screen for hours, unable to get in physical touch with our beloved ones and having our favorite restaurants and bars closed is an everyday struggle. After all that, the need to pour a glass (or two) of wine before bedtime comes naturally. 
+Let's be honest, Covid-19 pandemic and its several back-to-back lockdowns have been harsh for the most of us. Being in front of a screen for hours, unable to get in physical touch with our beloved ones and having our favorite restaurants and bars closed is an everyday struggle. After all that, the need to pour a glass (or two) of wine before bedtime comes naturally.
 
-So, we are here to just say that we understand and that it's time to level up the game; Cocktail adventure nights! Do you want to advance your bartender skills or feel like a little kid again? Well, as you discover new tasty horizons and mix up your favorite ingredients, the art of mixology will start to unfold and we promise you to enjoy those lockdown days as they are passing by. 
+So, we are here to just say that we understand and that it's time to level up the game; Cocktail adventure nights! Do you want to advance your bartender skills or feel like a little kid again? Well, as you discover new tasty horizons and mix up your favorite ingredients, the art of mixology will start to unfold and we promise you to enjoy those lockdown days as they are passing by.
 
 ### Organize your space.
 First things first; Before you start your mixing experiments, you need to set up your working station. There are not many things required for that, just the basic bar essentials and spirits of your preference.  
-- Bar tool essentials: 
+- Bar tool essentials:
   1. Bar Spoons. You may already have some long-handle teaspoons but if you don't, you can find them [here](https://www.amazon.com/Hiware-Stirring-Stainless-Cocktail-Pattern/dp/B01EL7NAYU/ref=sr_1_9?keywords=bar+spoons&qid=1567433894&s=gateway&sr=8-9).
   2. Bottle opener & corkscrew. We are pretty sure everyone has at least one bottle opener of any kind. [Here](https://www.amazon.com/WHELVE-Mounted-Magnetic-Functional-Upcycled/dp/B07NQRGVTR/ref=sr_1_19_sspa?keywords=wall+mounted+bar+bottle+opener&qid=1567439614&s=gateway&sr=8-19-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQlU3VFdCSTJUT1E0JmVuY3J5cHRlZElkPUEwMTc3NjgzMVRYV0VQWFJVSjIxWCZlbmNyeXB0ZWRBZElkPUEwNDk1MjY2M1FHM0hTV0ZPM0VFVSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) is an extra idea if you are looking for something new.
   3. Cocktail shaker. Maybe the most important thing in a bar. For your homemade cocktails you probably won't need more than one shaker, which you can purchase [here](https://www.amazon.com/Boston-Cocktail-Shaker-Unweighted-Professional/dp/B07QFT835K/ref=sr_1_7?keywords=bar+cocktail+shaker&qid=1567440752&s=gateway&sr=8-7).
@@ -443,7 +443,7 @@ First things first; Before you start your mixing experiments, you need to set up
   4. Bitters: It is amazing what a dash or two of bitters can do to the flavor of almost any cocktail. To start, you'll find that aromatic and orange bitters are used most often and a bottle of each can last years.
   5. Simple Syrup: Sugar and water, that's it. This is the best way to sweeten cocktails and it's incredibly simple to make yourself.
   6. Grenadine: That famous red syrup, it's essential for many great drinks. You can buy or make this one yourself.
-  7. Garnishes: lime, lemon, orange and any other fruit slices you prefer, cinnamon sticks to add flavor to any cocktail especially warm ones, mint and DO NOT forget to stock salt and sugar (extra tip: try adding brown sugar) 
+  7. Garnishes: lime, lemon, orange and any other fruit slices you prefer, cinnamon sticks to add flavor to any cocktail especially warm ones, mint and DO NOT forget to stock salt and sugar (extra tip: try adding brown sugar)
 
 
 Sources: [glimpose.blog](https://www.glimpsecorp.com/bar-tools-and-equipment-and-their-uses/), [the spruce eats](https://www.thespruceeats.com/essential-distilled-spirits-and-mixers-760741)
@@ -470,11 +470,11 @@ Sources: [Absolut](https://www.absolutdrinks.com/en/learn/)
 
 <img src="media/images/cocktails.jpg" alt="Cocktails" width="500"/>
 
-photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/) 
+photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/)
 
 
-|Name| Primary Alcohol | How to make | 
-|---| ---| ---| 
+|Name| Primary Alcohol | How to make |
+|---| ---| ---|
 | Aperol Spritz| Prosecco, Aperol| [video](https://www.youtube.com/watch?v=z1adrnWCfvg)|
 | Bloody Mary| Vodka| [video](https://www.youtube.com/watch?v=rpEzoWNbgSk&t=2s)|
 | Caipirinha| Cachaça (Brazilian Rum)| [video](https://www.youtube.com/watch?v=alEN21hwRYI)|
@@ -495,7 +495,7 @@ photo owned by [Pinterest.com](https://www.pinterest.com/pin/434597432784096336/
 | Tequila Sunrise| Tequila| [video](https://www.youtube.com/watch?v=QmBkd_Zxv8k)|
 | Tom Collins| Gin| [video](https://www.youtube.com/watch?v=bK_kBsqqA0I)|
 | White Russian| Vodka and coffe| [video](https://www.youtube.com/watch?v=Z0zqXFpuolw)|
-| Zombie| Rum| [video](https://www.youtube.com/watch?v=RebrdfQnMNs)| 
+| Zombie| Rum| [video](https://www.youtube.com/watch?v=RebrdfQnMNs)|
 
 ### Cocktails for the Adventurous Drinker
 
@@ -505,8 +505,8 @@ image source [here](https://www.thespruceeats.com/unique-cocktails-for-adventuro
 
 Unusual flavor combinations that actually work in drinks. Be sure to test them yourself!
 
-|Name| Primary Alcohol | How to make | 
-|---| ---| ---| 
+|Name| Primary Alcohol | How to make |
+|---| ---| ---|
 | Bacon Me Angry | Vodka | [recipe](https://bacontoday.com/2015/01/19/bacon-me-angry-angry-orchard-cocktail/)|
 | Butternut Old Fashioned | Whiskey | [recipe](https://www.thespruceeats.com/little-doms-butternut-old-fashioned-recipe-761338)|
 | Coconut Martini | Vodka | [recipe](https://www.thespruceeats.com/coconut-martini-recipe-759080)|
@@ -521,7 +521,7 @@ For more details don't forget to check [this](https://www.thespruceeats.com/uniq
 
 If you are not in the mood for alcohol, be sure to try these non-alcoholic cocktails. We are sure that they'll surprise you!
 
-|Name| Difficulty | How to make | 
+|Name| Difficulty | How to make |
 |---| ---| ---|
 | Blueberry Maple Mojito | Easy | [recipe](https://www.healthyrecipeecstasy.com/blueberry-maple-mojito-mocktal-gender-reveal/) |
 | Citrus Strawberry Mocktail | Easy | [recipe](https://www.playpartyplan.com/citrus-strawberry-mocktail-recipe) |
@@ -578,7 +578,7 @@ Source : https://careerkarma.com/blog/python-projects-beginners/
 
 * Temperature Converter Tool
 
-This is a simple project to help you practice your Java skills. It just requires the basic mathematic skills that will help you build the logic of the program. 
+This is a simple project to help you practice your Java skills. It just requires the basic mathematic skills that will help you build the logic of the program.
 Tip: you can use the javafx package to build the tools interface.
 
 * Percentage Calculator
@@ -724,7 +724,7 @@ It is very important to eat healthily in a daily basis so that we give our body 
 
 ### Make sure you don't skip breakfast
 
-Breakfast is known as one of the most important meals of the day, if not the most important, as many suggest. It boosts your energy levels and improves your ability to concentrate, while refueling your body with vital nutrients. To sum up, breakfast helps both your brain and body to stay alert during your rough daily routine. 
+Breakfast is known as one of the most important meals of the day, if not the most important, as many suggest. It boosts your energy levels and improves your ability to concentrate, while refueling your body with vital nutrients. To sum up, breakfast helps both your brain and body to stay alert during your rough daily routine.
 
 So, why do you keep skipping it? Quarantine is the perfect time to adopt new habits and you have to add breakfast in your everyday list!
 
@@ -777,14 +777,14 @@ Information was taken from [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-
 A lockdown can cause a sudden increase in leisure and boredom at the same time. So, why not take advantage of this time to discover many aspects of the world that can cause awe and the feeling of how small and fragile we are in this world, and killing our boredom.
 
 ### **What is space?**
-Space is the boundless three-dimensional extent in which objects and events have relative position and direction. Physical space is often conceived in three linear dimensions, although modern physicists usually consider it, with time, to be part of a boundless four-dimensional continuum known as spacetime. 
+Space is the boundless three-dimensional extent in which objects and events have relative position and direction. Physical space is often conceived in three linear dimensions, although modern physicists usually consider it, with time, to be part of a boundless four-dimensional continuum known as spacetime.
 
 Source: [https://en.wikipedia.org/wiki/Space](https://en.wikipedia.org/wiki/Space)
 
 
 ### **Dark Matter and Dark Energy**
 
-Dark matter is an undiscovered yet matter way different from the normal matter or anti-matter, that interact with gravity and doesn't reflect any light, so, as a result, it is, also, invisible and that's why it's called 'Dark' matter. 
+Dark matter is an undiscovered yet matter way different from the normal matter or anti-matter, that interact with gravity and doesn't reflect any light, so, as a result, it is, also, invisible and that's why it's called 'Dark' matter.
 
  Its presence is implied in a variety of astrophysical observations, including gravitational effects, that cannot be explained by accepted theories of gravity, unless more matter is present than can be seen. For this reason, most experts think that dark matter is abundant in the universe and that it has had a strong influence on its structure and evolution.
 
@@ -838,8 +838,8 @@ Source: [https://phys.org/news/2021-01-extreme-black-holes-hair.html](https://ph
    #### How they are created and what are they
    A black hole is an extremely dense astronomical object from which nothing can escape, not even light. When a star explodes in a supernova, a black hole can be left behind. Alternatively, a supermassive star can burn through its fuel quickly and turn into a black hole, no explosion needed.
 
-   According to Einstein's theory of special relativity, nothing can travel faster through space than the speed of light. This means a black hole's event horizon is essentially the point from which nothing can return. The name refers to the impossibility of witnessing any event taking place inside that border, the horizon beyond which one cannot see. 
-   
+   According to Einstein's theory of special relativity, nothing can travel faster through space than the speed of light. This means a black hole's event horizon is essentially the point from which nothing can return. The name refers to the impossibility of witnessing any event taking place inside that border, the horizon beyond which one cannot see.
+
    "The event horizon is the ultimate prison wall — one can get in but never get out," Avi Loeb, chair of astronomy at Harvard University, told Space.com.
 
    Source:
@@ -882,7 +882,7 @@ Source: [https://phys.org/news/2021-01-extreme-black-holes-hair.html](https://ph
    #### **Gamma Ray burst (Quazars)**
 
    <img align="center" width="300" height="300" src="media/images/quazar.jpg">
-   
+
    Source: [https://www.efreenews.com/a/are-gamma-ray-bursts-powered-by-a-star-s-collapsing-magnetic-fields](https://www.efreenews.com/a/are-gamma-ray-bursts-powered-by-a-star-s-collapsing-magnetic-fields)
 
    When a massive star in a distant galaxy collapses, forming a black hole, two giant jets of light-emitting plasma shoot from its core. These extremely bright gamma-ray bursts (GRBs) are the most powerful explosions in the universe, and when a jet points towards Earth, the afterglow can be detected from ground and space-borne telescopes. Material does not simply catapult from an exploding star, it accelerates to ultra-high speeds along the narrow beam of the gamma-ray jet, leaving astrophysics puzzled over the power source driving these extraordinary explosions.
@@ -969,9 +969,9 @@ Image Source : https://theconversation.com/flat-earthers-vs-climate-change-scept
 
 QAnon is a baseless far-right conspiracy theory that claims President Donald Trump is secretly fighting a "deep state" cabal of satanic pedophiles and cannibals.
 
-The conspiracy theory dates back to 2017 when a supposed high-level government official posted details of the inner workings of the government on the anonymous messaging board 4chan. The person identified themselves simply as "Q." From there, the far-right group of people known as QAnon was born. 
+The conspiracy theory dates back to 2017 when a supposed high-level government official posted details of the inner workings of the government on the anonymous messaging board 4chan. The person identified themselves simply as "Q." From there, the far-right group of people known as QAnon was born.
 
-While QAnon started as a niche online forum, it has turned into a mainstream belief system for some conservatives, according to The Washington Post. 
+While QAnon started as a niche online forum, it has turned into a mainstream belief system for some conservatives, according to The Washington Post.
 
 However, the claims within the conspiracy theories are not supported by evidence.
 
@@ -1048,10 +1048,10 @@ The games begin, and the first players in line race to down their drinks, and th
 <img align="left" width="40" height="40" src="media/icons/exercise.png">
 
 
-## <a name="exercise"></a>Exercise 
+## <a name="exercise"></a>Exercise
 My gym is closed for almost 6 months now, and I think yours is, too.
 
-If you are lucky to continue your workout via online courses, then, maybe, you won’t be interested in this section. 
+If you are lucky to continue your workout via online courses, then, maybe, you won’t be interested in this section.
 
 If not, below there are some recommendations and really helpful videos.
 
@@ -1144,7 +1144,7 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * 30 min Power pilates workout [video](https://www.youtube.com/watch?v=oLuq_J_ptVw)
 * 50 min Power pilates and cardio workout [video](https://www.youtube.com/watch?v=hNfsWaT00rw)
 
-**Dance workouts (Have the best time and burn calories!):** 
+**Dance workouts (Have the best time and burn calories!):**
 * 10 min R&B Dance [video](https://www.youtube.com/watch?v=89lzERjtwqE&t=305s)
 * 15 min Happy Dance [video](https://www.youtube.com/watch?v=Cw-Wt4xKD2s)
 * 10 min Happy Cardio (AMAZIIIIIING) [video](https://www.youtube.com/watch?v=QPKXw8XEQiA)
@@ -1203,7 +1203,7 @@ You may also find some really useful running guides and training plans for begin
 
 **Cycling:**
 
-The quarantine is definitely the perfect period to exercise more and even adopt new ways of exercise. Cycling during the hard times of quarantine can easily boost your mood while improving your stamina, strength and aerobic fitness as well. Don't forget that with a bike you can explore many hidden gems of Athens that you had no idea of. 
+The quarantine is definitely the perfect period to exercise more and even adopt new ways of exercise. Cycling during the hard times of quarantine can easily boost your mood while improving your stamina, strength and aerobic fitness as well. Don't forget that with a bike you can explore many hidden gems of Athens that you had no idea of.
 So, what are you waiting? Take your dusty bike and start cycling this moment!
 
 In case you don't already own a bicycle don't worry, you can buy one without much effort. Below, you may easily find some useful tips:
@@ -1235,19 +1235,19 @@ Do you remember the nights when you used to hang out for hours with your friends
 - Or check out these [open source alternatives](https://opensource.com/alternatives/skype)
 
 Virtual Activities:
-- Sing karaoke 
+- Sing karaoke
 
 This is pretty much self-explanatory. Pick a song, find its karaoke version on YouTube and sing along! Tip: make sure everyone else's microphones are mute.
 
-- Disguised party 
+- Disguised party
 
 This can go in two ways. You can discuss with the group the theme of disguise for your next group call and everyone dresses accordingly OR each person picks their costume individually. It feels just like Halloween! How fun!
 
-- PowerPoint party 
+- PowerPoint party
 
 Essentially, everyone picks a topic near and dear to their heart —the more niche, the better— and prepare a five-minute PowerPoint presentation on it. Here's some fun and interesting ideas: Drunk history, The best [whatever] of all time, Ranking and rating my exes, How HSM changed my life
 
-- Movie/series night 
+- Movie/series night
 
 Watch a movie or a series with your group of friends without leaving your home, just by screen sharing in a video call or using streaming platforms like Netflix Party. Plus, you can comment on it in chat without disturbing others.
 
@@ -1261,7 +1261,7 @@ Who says you have to be in the same space to have fun? Gather your friends and p
 
 ## <a name="gardening"></a> Gardening
 Gardening is a very unique hobby to relax, feel creative and spend your time.
-Here are some of the vegetables that you can begin with! 
+Here are some of the vegetables that you can begin with!
 
 <img src="media/images/vegetables.jpg" alt="Food around the world" width="500"/>
 
@@ -1292,9 +1292,9 @@ Here are some of the vegetables that you can begin with!
 |Yucca | Herbaceous perennials | Mid-summer to early fall | Full sun or bright, indirect sun | [More info](https://www.thespruce.com/grow-yucca-inside-1902500)|
 
 Photo owned by [kellogggarden.com](https://www.kellogggarden.com/wp-content/uploads/2017/07/Leafy-Vegetable-Garden.jpg)  
-Icon source: [thenounproject.com ](https://thenounproject.com/term/gardening/) 
+Icon source: [thenounproject.com ](https://thenounproject.com/term/gardening/)
 
-### Herbs 
+### Herbs
 
 <img src="media/images/Herbs.jpg" width="500"/>
 
@@ -1303,7 +1303,7 @@ Icon source: [thenounproject.com ](https://thenounproject.com/term/gardening/)
 |Sage|Full sun or partial shade|Moist but well-drained|
 |Parsley|Full sun or partial shade|Moist but well-drained|
 |Oregano|Full sun or partial shade|Well-drained|
-|Mint|Full sun or partial shade|Moist but well-drained| 
+|Mint|Full sun or partial shade|Moist but well-drained|
 |Coriander|Full sun or partial shade|Moist but well-drained|
 |Basil|Full sun|Well-drained|
 |Chives|Full sun or partial shade|Moist but well-drained|
@@ -1413,6 +1413,7 @@ _The most common activity during lock-down has been watching movies. So here are
 |The Shawshank Redemption | Drama | Netflix | 9.5/10 | 9.3/10|[TRAILER](https://www.youtube.com/watch?v=6hB3S9bIaco)|[INFO](https://www.imdb.com/title/tt0111161/?ref_=nv_sr_srsg_0)|
 |The Shutter Island | Thriller/ Mystery | Netflix | 8.5/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=5iaYLCiq5RM "The Shutter Island")|[INFO](https://www.imdb.com/title/tt1130884/ "The Shutter Island IMDb")|
 |The Social Dilemma| Documentary| Netflix| 7/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=uaaC57tcci0&ab_channel=Netflix "The Social Dilemma")|[INFO](https://www.imdb.com/title/tt11464826/?ref_=nv_sr_srsg_0 "The Social Dilemma IMDb")|
+|Trainspotting|  Drama| Amazon Prime|[TRAILER](https://www.imdb.com/video/vi2148899865?playlistId=tt0117951&ref_=tt_ov_vi) "Trainspotting"|[INFO](https://www.imdb.com/title/tt0117951/) "Trainspotting IMDb"
 |Unsolved Mysteries| Documentary - TV series| Netflix| 9/10| 7.3/10|[TRAILER](https://www.youtube.com/watch?v=oZ4FrgGILM8&ab_channel=Netflix "Unsolved Mysteries")|[INFO](https://www.imdb.com/title/tt9642938/?ref_=nv_sr_srsg_3 "Unsolved Mysteries IMDb")|
 |World's Most Wanted| Documentary / Crime| Netflix| 7.5/10| 7.2/10|[TRAILER](https://www.youtube.com/watch?v=TFOYTE3RtCs "World's Most Wanted")|[INFO](https://www.imdb.com/title/tt12753698/ "World's Most Wanted")|
 
@@ -1424,7 +1425,7 @@ _The most common activity during lock-down has been watching movies. So here are
 ## <a name="music"></a>Music
 Music is probably the best way to survive while at home. Whether you headbang while doing your assignments, sing in the shower or leave the computer to stretch your fingers with that chord, you have probably already noticed that slight brightening to your soul.
 
-### Playlists 
+### Playlists
 You can have an amazing time just by relaxing and listening to your favorite music. Here are some music playlists you might enjoy:
 * Ambient Study Music [listen here](https://www.youtube.com/watch?v=sjkrrmBnpGE)
 * Cozy evenings (a chill mix) [listen here](https://www.youtube.com/watch?v=tHNSzNlgRZA&t=217s)
@@ -1451,7 +1452,7 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Cat People, David Bowie [listen here](https://www.youtube.com/watch?v=A9I7U4nuR_I)
 * Closer, by Chainsmokers [listen here](https://www.youtube.com/watch?v=PT2_F-1esPk)
 * Demons, by Imagine Dragons [listen here](https://www.youtube.com/watch?v=mWRsgZuwf_8)
-* FEVER, by Megan Nicole [listen here](https://www.youtube.com/watch?v=DV30BtjNNIU) 
+* FEVER, by Megan Nicole [listen here](https://www.youtube.com/watch?v=DV30BtjNNIU)
 * Faith, by the Weeknd [listen here](https://www.youtube.com/watch?v=RcS_8-a-sMg&ab_channel=TheWeekndVEVO)
 * Flatlands, The Aristocrats [listen here](https://www.youtube.com/watch?v=fW0p5SB52sI&list=LL&index=39)
 * From the Woods, James Vincent McMorrow [listen here](https://www.youtube.com/watch?v=ntZG2InulxE)
@@ -1472,7 +1473,7 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * New Rules, John Legend [listen here](https://www.youtube.com/watch?v=k2qgadSvNyU)
 * Nothing Around us, Mathame [listen here](https://www.youtube.com/watch?v=C0pRbPlTVbo)
 * Obsesión, by Aventura ft. Judy Santos [listen here](https://www.youtube.com/watch?v=8_QY5gFQUTg)
-* Paralyzed, Against The Current [listen here](https://www.youtube.com/watch?v=PvVhUo-PvVI) 
+* Paralyzed, Against The Current [listen here](https://www.youtube.com/watch?v=PvVhUo-PvVI)
 * Porcelain, Moby [listen here](https://www.youtube.com/watch?v=13EifDb4GYs)
 * Put Your Hands Up, by Boiling Point Band [listen here](https://www.youtube.com/watch?v=57SKB6Er88c)
 * Respect Is What you Hear, The Weather Underground [listen here](https://www.youtube.com/watch?v=DcjdVsx-VoE)
@@ -1527,7 +1528,7 @@ There are 3 major guitar types:
 
 * *Nylon acoustic (classical):* It produces a mellow sound and it's ideal for beginners, as the strings are easy to pick and it is lightweight and cheap. However, it has wider fretboard.
 * *Steel string acoustic:* The strings produce a brighter tone and they are ideal for strumming. However, building calluses can be really painful for beginners.
-* *Electric:* You will need at least an amp as the sound is produced from electric signals. It also uses steel strings and it is a bit heavier. Nonetheless, it is great for creativity with many technics and effects. 
+* *Electric:* You will need at least an amp as the sound is produced from electric signals. It also uses steel strings and it is a bit heavier. Nonetheless, it is great for creativity with many technics and effects.
 
 Source: https://www.artistguitars.com.au/buying/how-to-choose-a-guitar-in-2-simple-steps
 
@@ -1576,14 +1577,14 @@ Additionally, MuseScore offers a large database of free-to-access sheet music. Y
 
 <img align="left" width="40" height="40" src="media/icons/online_course.png">
 
-## <a name="online_course"></a>Study online Courses 
+## <a name="online_course"></a>Study online Courses
 Take advantage of quarantine by investing in yourself!
 Learn a topic that interests you from an online class! Below you can find various sites for online courses as well as examples of online courses.  
 
 <img src="media/images/online_course.jpg" alt="online course" width="500"/>
 
 
-Sites for online courses: 
+Sites for online courses:
 * [Academic Earth](https://academicearth.org/)
 * [Adobe](https://learning.adobe.com/)
 * [ALISON](https://alison.com/)
@@ -1603,7 +1604,7 @@ Sites for online courses:
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com/)
 
-Online courses: 
+Online courses:
 |TITLE|LENGTH|PRICE|INSTITUTION|LEVEL | LANGUAGE| HOST SITE| LINK|
 |---| ---|  ---| ---|---|---|---|---|
 |Bitcoin and Cryptocurrencies|30 hours|Free|BerkleyX|Introductory|English|[edX](https://www.edx.org/)|[COURSE](https://www.edx.org/course/bitcoin-and-cryptocurrencies?index=product&queryID=b3b6160e788842372317117050e9c774&position=1 "Bitcoin and Cryptocurrencies")|
@@ -1615,7 +1616,7 @@ Online courses:
 
 
 Photo owned by [transform-elearning.com](https://www.transform-elearning.com/build-online-course-guide/)  
-Icon source: [iconscout.com ](https://iconscout.com/icon/online-course-8) 
+Icon source: [iconscout.com ](https://iconscout.com/icon/online-course-8)
 
 ---
 
@@ -1630,7 +1631,7 @@ Get two friends who you live close to and arrange a fun activity to do together.
 
 * __Hoops__
 
-   Remember when as kids we used to run around all the time and actually played games like basketball, volleyball and football? 
+   Remember when as kids we used to run around all the time and actually played games like basketball, volleyball and football?
 
    Going for hoops with a friend or two will get your spirits up (without tiring you much) and definitely make you feel nostalgic of your childhood.
 
@@ -1647,9 +1648,9 @@ Get two friends who you live close to and arrange a fun activity to do together.
    If you'd like to exercise but can't find the motivation to do so, try with a friend. Go jogging together at a slow pace and watch each other getting fitter and fitter everyday.
 
 * __Setting goals__
-   
-   Have a chat with your friend and see what you'd like to have achieved in the next year. Set common goals and discuss your progress every week. Try to motivate each other. 
-   
+
+   Have a chat with your friend and see what you'd like to have achieved in the next year. Set common goals and discuss your progress every week. Try to motivate each other.
+
    This guide offers many suggestions for what those goals could be about.
 
 ---
@@ -1679,7 +1680,7 @@ Photo owned by [ied.eu](https://ied.eu/blog/the-erasmus-plus-programme/)
 ## <a name="trips"></a>Plan your next trip
 Tired of daydreaming about future trips? Get hands-on and start organizing your next journey!
 
-You could start by selecting your travel destination. There are a lot of websites, like [Triptile](https://triptile.com/), 
+You could start by selecting your travel destination. There are a lot of websites, like [Triptile](https://triptile.com/),
 that let you plan your trip by first selecting a country or a city that you would like to visit (you could also add multiple stops to your trip)
 and then select among a number of activities that you could engage in during your trip. Triptile also recommends hotels to stay in and then
 calculates your estimated cost, depending on the days you spend on each city, the hotel room price per day and the extra activities that you have added on your trip.
@@ -1687,18 +1688,18 @@ calculates your estimated cost, depending on the days you spend on each city, th
 ### Planning a trip in Europe
 In Europe, you have many options regarding the places you can visit. However, traveling from one country to another is relatively easy.
 
-[Rail Europe](https://www.raileurope.com/) is a great option for adventurous people that want to have a truly memorable experience. 
+[Rail Europe](https://www.raileurope.com/) is a great option for adventurous people that want to have a truly memorable experience.
 You can book tickets connecting one country to another and enjoy the beautiful European landscapes.
 
 Do you want to explore Europe on a ship? There are many companies offering cruises in the European seas. For those that prefer a luxurius trip, [Celebrity Cruises](https://www.royalcaribbean.com/european-cruises)
-offers a wide range of different cruise packages, from the Mediterranean to the Baltic sea. 
+offers a wide range of different cruise packages, from the Mediterranean to the Baltic sea.
 
 ---
 
 <img align="left" width="40" height="40" src="media/icons/prankster.png">
 
 ## <a name="pranks"></a>Pranks
-Playing some innocent pranks on friends and family shouldn't be reserved  for April's first , we are all desperate for a good laugh in these hard times and some innocent or not so innocent pranks without long term harm of course , could provide exactly that. We shall now see some suggestion's 
+Playing some innocent pranks on friends and family shouldn't be reserved  for April's first , we are all desperate for a good laugh in these hard times and some innocent or not so innocent pranks without long term harm of course , could provide exactly that. We shall now see some suggestion's
 
 ### Innocent Pranks
 * **Hide 2 , search for 3** Play a hidden treasure game with your family or roommates , hide 2 objects inside your house and tell them they will get rewarded once they find all 3 items , make sure you don't let it drag for ever for your own good.
@@ -1947,7 +1948,7 @@ The lockdown period is a great opportunity for you and your closest people to ta
 Here are some ways to visit the past:
 * Ask your parents to find old photo galleries or video tapes. For example, you could find yourself making your first baby steps in there!
 * Gather all the photos saved digitally, like the ones in your phone, tablet, pc etc. Trust me, you will be surprised by the volume of neglected memories stored in there.
-* Go through all the media shared between you and your friends on the messenger app. You can see how to do that [here](https://www.facebook.com/help/messenger-app/566167593908940). 
+* Go through all the media shared between you and your friends on the messenger app. You can see how to do that [here](https://www.facebook.com/help/messenger-app/566167593908940).
 * Ask your relatives to tell you a story from their past. They will deifinitely have some funny or exciting story to tell you and you will end up learning exciting stuff about them!
 
 ## <a name="video-games"></a>Video Games
@@ -2020,7 +2021,7 @@ If you are a fan of video games, you can create your own game. All it takes is c
 |[CryEngine](https://www.cryengine.com/ "CryEngine Home Page")|2002| Ryse: Son of Rome |
 
 <br />
-More info: 
+More info:
 
 [What Are the Most Popular Game Engines?](https://www.perforce.com/blog/vcs/most-popular-game-engines)
 
@@ -2046,9 +2047,9 @@ a destination, pick a local radio station and enjoy your virtual trip. Fly and l
 
 ### Take a look around museums
 
-Due to the Covid-19 pandemic museums remain closed. Don't worry, art lovers! During quarantine you might have plenty of time to visit virtually some of your favorite museums, or even some you would like to visit but don't have the possibility due to Covid-19 infection. That's why virtual tours in museums of your preference is the perfect alternative! 
+Due to the Covid-19 pandemic museums remain closed. Don't worry, art lovers! During quarantine you might have plenty of time to visit virtually some of your favorite museums, or even some you would like to visit but don't have the possibility due to Covid-19 infection. That's why virtual tours in museums of your preference is the perfect alternative!
 
-First of all, we strongly suggest you have a look on the [online exhibition](https://www.vangoghmuseum.nl/en) offered by the Vincent van Gogh Museum in Amsterdam. You will definitely be excited by the paintings of this museum. 
+First of all, we strongly suggest you have a look on the [online exhibition](https://www.vangoghmuseum.nl/en) offered by the Vincent van Gogh Museum in Amsterdam. You will definitely be excited by the paintings of this museum.
 
 However, the museums offering virtual tours are so many that we think it's best to provide you the following list and let you pick the ones you perceive as the more interesting:
 
@@ -2082,7 +2083,7 @@ Some of us are _bored in the house-in the house bored_!
 <img align="left" width="40" height="40" src="media/icons/walk.png">
 
 ## <a name="walks"></a>Walks in Town
-Here a some sights and places which are definitely worth to make a walk at: 
+Here a some sights and places which are definitely worth to make a walk at:
 
 ### Athens
 
@@ -2163,10 +2164,10 @@ Photo owned by: [are you a couch potato](https://areyouacouchpotato.com/)
 Being isolated all day long can make you a person, that you in the future would be ashamed for. To prevent such a situation, make sure you avoid the following.
 
 * Reality TV Shows:
-  
+
   * Survivor
   * Battle of the couples
-  
+
 * Fast food
 * Recommended youtube videos
 * Too much time on social media
@@ -2199,7 +2200,7 @@ Section icon Source: https://2sleepylagoonter.info/car-news/best-cars/top-10-bes
 
 * [1320video](https://www.youtube.com/user/1320video/videos)
 * [Car Throttle](https://www.youtube.com/user/CarThrottle/videos)
-* [CARWOW](https://www.youtube.com/channel/UCUhFaUpnq31m6TNX2VKVSVA) (Highly recommended) 
+* [CARWOW](https://www.youtube.com/channel/UCUhFaUpnq31m6TNX2VKVSVA) (Highly recommended)
 * [ChrisFix](https://www.youtube.com/user/PaintballOO7/videos)
 * [DRIVE](https://www.youtube.com/user/drive/videos)
 * [Jay Leno's Garage](https://www.youtube.com/user/JayLenosGarage/videos)
@@ -2259,16 +2260,16 @@ Image owned by: [mindful.org](https://www.mindful.org/use-breath-strengthen-mind
 
 Image owned by:[indianfolk.com](https://www.indianfolk.com/effects-healthy-food-personal-life-environment-mahek/)
 
-<p align=”left” width=”700”>Being healthy should be part of your overall lifestyle. 
+<p align=”left” width=”700”>Being healthy should be part of your overall lifestyle.
 
 + Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses.
 
-+ Feeling good about yourself and taking care of your health are important for your self-esteem and self-image. 
++ Feeling good about yourself and taking care of your health are important for your self-esteem and self-image.
 
 Maintain a healthy lifestyle by doing what is right for your body.
 Now is the time to start caring about yourself by eating right and exercising regularly. You need to stop sinking into your couch and become active. The lockdown is your chance to change the things you don't like about your life and yourself. You have more time than ever to learn about physical and mental health and find inner peace.</p>
 
-<p align=”left” width=”700”>We all have different needs according to our workout and diet habits. 
+<p align=”left” width=”700”>We all have different needs according to our workout and diet habits.
 Since this section is all about the motivation of the reader we would say that it focuses more on the needs of the inactive rather than the active people.
 Workout and diet plans should be decided after consideration of our short term goals. For example a currently inactive person except of gaining stamina and endurance, he might also want to  lose some weight. Or somebody might not be concerned about weight loss and just want to build muscle strength. Or maybe he just wants to create a healthy and balanced lifestyle due to eating disorders.  On that account, different short term goals require different meal and workout plans. Although it is possible even during the lockdown to visit a dietitian there are plenty of applications or websites, free or with a monthly/yearly subscription (probably more accurate) to help you create a plan and stick to it.</p>
 
@@ -2431,13 +2432,13 @@ The SMS must be in the following format:
 
         Movement [blank] X [blank] full name and address of residence
 
-    *Source:* https://forma.gov.gr/en/ 
-    
+    *Source:* https://forma.gov.gr/en/
+
     *Tip:* In case you have a foreign phone number - not starting with 003069...- the SMS process will not work, you are obligated to print and carry this page https://forma.gov.gr/docs/permit-extraordinary-movement-en.pdf an tick the number that complies with the type of your movement.
 3. *Be sure to comply with the law*: (description needed)
 
 **Important:** Depending on your area of residence, a different type of lockdown may be imposed.
-Before any outdoor activity, you should visit [the official Covid-19 map](https://covid19.gov.gr/covid-map/), which contains information about the different safety 
+Before any outdoor activity, you should visit [the official Covid-19 map](https://covid19.gov.gr/covid-map/), which contains information about the different safety
 regulations that are currently active on every Greek regional unit. For information in english check out the [ESN Greece website](https://esngreece.gr/covid-19-official-announcements-news?fbclid=IwAR2oBA5IpSgOAEUHQpEcHa3UwRY3XgJDFZZ9GtFot1GrPDaxrb775dnh_oM)
 
 ---
