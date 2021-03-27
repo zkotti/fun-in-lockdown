@@ -1430,6 +1430,9 @@ You can have an amazing time just by relaxing and listening to your favorite mus
 * Relaxing Jazz Music [listen here](https://www.youtube.com/watch?v=neV3EPgvZ3g)
 * Top 40 songs of 2020 2021 [listen here](https://www.youtube.com/watch?v=_pLO4jFDeIc)
 * Top techno songs [listen here](https://open.spotify.com/playlist/6g7ZfOfEqqSR4o7iPVZggC?si=jDMehvIDSweA0UJqu4Vhng)
+* Classic Rap & Hip-Hop [listen here](https://www.youtube.com/watch?v=4qZMSYJ9yu4&t=1110s)
+* Dybbuk Playlist [listen here](https://open.spotify.com/playlist/6S1tF3Kw7qDzCFV0fiJrz9?si=xI5vuMFCTuy7QiLN3ioB6w)
+* Chill rock [listen here](https://open.spotify.com/playlist/1XZD7lHeGlvM778Coh51ez?si=0uNS44EoTT-wfuHBo6DsGA)
 
 
 ### Songs
