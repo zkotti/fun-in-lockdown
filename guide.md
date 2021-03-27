@@ -1394,7 +1394,7 @@ Great ideas to learn new skills:
 
 ---
 
-<img align="left" width="40" height="40" src="media/icons/skill.png">
+<img align="left" width="40" height="40" src="media/icons/hat.png">
 
 ## <a name="=magic-trick"></a>Magic tricks
 Learning magic tricks can be a fun and challenging skill to learn during lockdown. The only thing you need is a deck of cards and you are set to go!
@@ -1409,6 +1409,7 @@ if you learn this skills you will be able to perform and have a basic understand
 * [Overhand shuffle](https://www.youtube.com/watch?v=JlG3lT0RKOw): the easiest way of shuffling a deck
 
 
+Icon source https://www.flaticon.com
 
 ---
 
