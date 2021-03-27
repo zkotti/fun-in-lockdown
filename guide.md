@@ -2051,6 +2051,14 @@ First of all, we strongly suggest you have a look on the [online exhibition](htt
 
 However, the museums offering virtual tours are so many that we think it's best to provide you the following list and let you pick the ones you perceive as the more interesting:
 
+| Museum| Location| Interesting Infos| Virtual Exhibition|
+|---| ---| ---| ---|
+|Museum of Modern Art-MoMA|New York|Houses some of modern art history's most famous paintings.|[virtual tour](https://artsandculture.google.com/partner/moma-the-museum-of-modern-art?hl=en)|
+|Musée d’Orsay|Paris|Exhibits art collection from 1848 to 1914.|[virtual tour](https://artsandculture.google.com/partner/musee-dorsay-paris?hl=en)|
+|Uffizi Gallery|Florence|Its belongings include some of Italy's most important works.|[virtual tour](https://artsandculture.google.com/partner/uffizi-gallery?hl=en)|
+|The J. Paul Getty Museum|Los Angeles|Hosts pieces of art from the eighth through to the 21st century.|[virtual tour](https://artsandculture.google.com/partner/the-j-paul-getty-museum?hl=en)|
+|National Museum|New Delhi|Home to paintings, sculptures, jewellery, ancient texts, armors and decorative arts.|[virtual tour](https://artsandculture.google.com/partner/national-museum-delhi?hl=en)|
+
 Some of us are _bored in the house-in the house bored_!
 
 [WindowSwap](https://www.window-swap.com/) is a quarantine project which gives you the opportunity to enjoy the view from windows around the world!
