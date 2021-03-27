@@ -2212,7 +2212,7 @@ Image owned by: [mindful.org](https://www.mindful.org/use-breath-strengthen-mind
 * Drink Plenty of Water
 * Think Positive
 
-<img width="800" src="media/images/healthy.jpg">
+<img width="850" src="media/images/healthy.jpg">
 
 Image owned by:[indianfolk.com](https://www.indianfolk.com/effects-healthy-food-personal-life-environment-mahek/)
 
@@ -2247,7 +2247,7 @@ To remind you to drink the appropriate amount of water and to count the calories
 
 Image owned by: [depositphotos.com](https://depositphotos.com/stock-photos/water.html)
 
-<img width="400" src="media/images/water.jpg">
+<img width="300" src="media/images/water.jpg">
 
 Check out [health.gov](https://health.gov/myhealthfinder/topics/health-conditions/diabetes/eat-healthy#:~:text=A%20healthy%20eating%20pattern%20can%20help%20keep%20you%20healthy.&text=Making%20smart%20food%20choices%20can,Heart%20disease), [medicalnewstoday.com]( https://www.medicalnewstoday.com/articles/322268), [everydayhealth.com]( https://www.everydayhealth.com/diet-nutrition/importance-healthy-eating-habits/) to learn why you need o stay healthy and how.
 Also [greatist.com](https://greatist.com/fitness/best-health-fitness-apps#other) has may apps to suggest depending on your food and fitness interests. Check it out and start living your new life.
@@ -2256,7 +2256,7 @@ Also [greatist.com](https://greatist.com/fitness/best-health-fitness-apps#other)
 ## <a name="diet"></a>Diet
 
 Image owned by: [onlymyhealth.com]( https://www.onlymyhealth.com/importance-balanced-diet-1298540964)
-<img width="300" src="media/images/diet.jpg">
+<img width="400" src="media/images/diet.jpg">
 
 ### Want to change your diet?
 Now is the time to start eating right.
