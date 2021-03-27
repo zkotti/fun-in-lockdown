@@ -2328,7 +2328,7 @@ That being said, incorporating all three aspects of fitness (cardio, strength tr
 First you need to pick your training goal. Is it to lose weight, gain lean muscle, become more flexible, or maintain your current weight? Whichever goal it is you want to make one type of training your main focus and use the others to supplement.
 
 
-It's time to find yourself. Do it now. You have the time. All you need is inspiration, will and discipline.
+It's time to find yourself. Do it now. You have the time. All you need is will and discipline.
 
 ### And most importantly... have Fun!
 
