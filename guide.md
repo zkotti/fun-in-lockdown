@@ -2035,7 +2035,9 @@ a destination, pick a local radio station and enjoy your virtual trip. Fly and l
 
 Due to the Covid-19 pandemic museums remain closed. Don't worry, art lovers! During quarantine you might have plenty of time to visit virtually some of your favorite museums, or even some you would like to visit but don't have the possibility due to Covid-19 infection. That's why virtual tours in museums of your preference is the perfect alternative! 
 
-You can have a look on the [online exhibition](https://www.vangoghmuseum.nl/en) offered by the Vincent van Gogh Museum in Amsterdam.
+First of all, we strongly suggest you have a look on the [online exhibition](https://www.vangoghmuseum.nl/en) offered by the Vincent van Gogh Museum in Amsterdam. You will definitely be excited by the paintings of this museum. 
+
+However, the museums offering virtual tours are so many that we think it's best to provide you the following list and let you pick the ones you perceive as the more interesting:
 
 Some of us are _bored in the house-in the house bored_!
 
