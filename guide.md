@@ -2230,7 +2230,6 @@ Being isolated all day long can make you a person, that you in the future would 
 
 ---
 
-<img align="left" width="40" height="40" src="media/icons/car.jpg">
 
 ## <a name="wikicontr"></a> Wikipedia Contributing
 
@@ -2240,6 +2239,7 @@ Photo owned by: [Wikipedia](https://en.wikipedia.org/wiki/Help:Introduction_to_W
 
 
 
+<img align="left" width="40" height="40" src="media/icons/car.jpg">
 
 ## <a name="Work-with-cars"></a> Work with cars!
 Do you like cars? Of course you do! Who doesn't?
