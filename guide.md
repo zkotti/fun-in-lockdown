@@ -1492,6 +1492,7 @@ You can have an amazing time just by relaxing and listening to your favorite mus
 ### Songs
 Most of us can't imagine how lockdown would be like without our favorite songs. Here are some great songs you may not know:
 <!--- It would be nice to add songs that aren't widely known! In this way we can discover new music :) -->
+* A Good Night, John Legend, BloodPop [listen here](https://www.youtube.com/watch?v=KQRq9FZqNj0)
 * All Around Me, by Aaronya [listen here](https://www.youtube.com/watch?v=min5dZxrXLQ&ab_channel=Aaronya-Topic)
 * All Time, by Tyler Ward, Mike Tompkins and KHS [listen here](https://www.youtube.com/watch?v=dkcs-26PBjY)
 * All of Me, John Legend [listen here](https://www.youtube.com/watch?v=73_DOquGBD4)
@@ -1529,6 +1530,7 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Porcelain, Moby [listen here](https://www.youtube.com/watch?v=13EifDb4GYs)
 * Put Your Hands Up, by Boiling Point Band [listen here](https://www.youtube.com/watch?v=57SKB6Er88c)
 * Respect Is What you Hear, The Weather Underground [listen here](https://www.youtube.com/watch?v=DcjdVsx-VoE)
+* Save Room, John Legend [listen here](https://www.youtube.com/watch?v=iOmnGzAKLvg)
 * Sleep on the Floor, Lumineers [listen here](https://www.youtube.com/watch?v=v4pi1LxuDHc)
 * Space Song, by Beach House [listen here](https://www.youtube.com/watch?v=RBtlPT23PTM&list=PLRQDSvpEpYzBUdlMzMhAWSD4TyE0ga7Et&index=4)
 * Spring 1, recomposed by Max Richter (original by Vivaldi) [listen here](https://www.youtube.com/watch?v=41IOkVjy3MM)
@@ -1539,6 +1541,7 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Te Quiero Más, TINI and Nacho [listen here](https://www.youtube.com/watch?v=95IaQ8vyqHg)
 * The Best (feat. Alice Merton), by Awolnation [listen here](https://www.youtube.com/watch?v=l-A43Av9ICo&list=PLRQDSvpEpYzBUdlMzMhAWSD4TyE0ga7Et&index=6)
 * The Fuss, Against The Current [listen here](https://www.youtube.com/watch?v=y_Qsrt6c9_k)
+* The Less I Know the Better, Tame Impala [listen here](https://www.youtube.com/watch?v=2SUwOgmvzK4)
 * The Logical Song, Supertramp [listen here](https://www.youtube.com/watch?v=low6Coqrw9Y)
 * Una volta ancora, by Fred De Palma [listen here](https://www.youtube.com/watch?v=4R5mDpIgwUs)
 * United States of Eurasia, Muse [listen here](https://www.youtube.com/watch?v=-5-K51jHQ6k)
@@ -2404,7 +2407,7 @@ First you need to pick your training goal. Is it to lose weight, gain lean muscl
 ## <a name="sleep_quality"></a>Sleep Quality 
 
 No copyright needed for this image :smiley: 
-<img width="300" height="300" src="media/images/mil.jpg">
+<img width="300" height="350" src="media/images/mil.jpg">
 
 ### Tips to Sleep Better at night:
 
