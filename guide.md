@@ -2257,7 +2257,7 @@ Also [greatist.com](https://greatist.com/fitness/best-health-fitness-apps#other)
 Image owned by: [onlymyhealth.com]( https://www.onlymyhealth.com/importance-balanced-diet-1298540964)
 <img width="400" src="media/images/diet.jpg">
 
-#### Want to change your diet?
+### Want to change your diet?
 
 Maybe you can start by choosing one of the five diets that are listed below.
 
@@ -2297,7 +2297,7 @@ The five examples listed above are a good place to start.
 Image owned by: [usejournal.com](https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
 <img width="400" src="media/images/workout1.jfif">
 
-#### Types of exercise:
+### Types of exercise:
 
 1. CARDIO
 There is multiple types of cardiovascular training but two types that should be in your plan for best results are high intensity intervals and long slow distance. The combination of these is important for any training plan.
