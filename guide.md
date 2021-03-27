@@ -46,7 +46,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [What to avoid](#whattoavoid)
 * [Work with cars](#Work-with-cars)
 * [Writing](#writing)
-* [Healthy Lifestyle](#health)
+* [Healthy Lifestyle](#health) ([Diet](#diet), [Workout](#workout))
 * [Find your pet friend](#pet)
 
 [Note : Before you head outside](#note)
@@ -2252,12 +2252,48 @@ To remind you to drink the appropriate amount of water and to count the calories
 Check out [health.gov](https://health.gov/myhealthfinder/topics/health-conditions/diabetes/eat-healthy#:~:text=A%20healthy%20eating%20pattern%20can%20help%20keep%20you%20healthy.&text=Making%20smart%20food%20choices%20can,Heart%20disease), [medicalnewstoday.com]( https://www.medicalnewstoday.com/articles/322268), [everydayhealth.com]( https://www.everydayhealth.com/diet-nutrition/importance-healthy-eating-habits/) to learn why you need o stay healthy and how.
 Also [greatist.com](https://greatist.com/fitness/best-health-fitness-apps#other) has may apps to suggest depending on your food and fitness interests. Check it out and start living your new life.
 
+
+## <a name="diet"></a>Diet
+Want to change your diet?
+Maybe you can start by choosing one of the five diets that are listed below
+
+1. Low-carb, whole-food diet
+The low-carb, whole-food diet is perfect for people who need to lose weight, optimize health, and lower their risk of disease.
+It’s flexible, allowing you to fine-tune your carb intake depending on your goals.
+This diet is high in vegetables, meat, fish, eggs, fruits, nuts, and fats but low in starches, sugars, and processed foods.
+
+2. Mediterranean diet
+The Mediterranean diet is an excellent diet that has been thoroughly studied. It’s particularly effective for heart disease prevention.
+It emphasizes foods that were commonly eaten around the Mediterranean region during the 20th century and earlier.
+As such, it includes plenty of vegetables, fruits, fish, poultry, whole grains, legumes, dairy products, and extra virgin olive oil.
+HEALTHLINE RESOURCES
+Get free, 5-minute custom snack recipes
+Let Healthline's team of nutritionists recommend snacks based on your dietary restrictions and food preferences
+TRY IT
+
+3. Paleo diet
+The paleo diet is a very popular diet that is effective for weight loss and general health improvement. It’s currently the world’s most popular diet.
+It centers on unprocessed foods believed to resemble those available to some of humanity’s paleolithic ancestors.
+
+4. Vegan diet
+The vegan diet has become increasingly popular in the past decade. It’s linked to a number of health benefits, including weight loss, improved heart health, and better blood sugar control.
+The diet is based exclusively on plant foods and eliminates all animal products.
+
+5. Gluten-free diet
+The gluten-free diet is essential for people who are intolerant to gluten, a protein that is found in wheat, rye, and barley.
+For optimal health, you should focus on whole foods that are naturally gluten-free. Gluten-free junk food is still junk food.
+The bottom line
+So many diets exist that it can feel overwhelming to simply find a single one to try.
+However, it’s important to note that some eating patterns have more scientific backing than others. Whether you’re looking to lose weight or simply boost your overall health, try to find diets that are supported by research.
+The five examples listed above are a good place to start.
+
+
 <image width="500" src="media/images/healthylife.jpg">
 
 Image owned by: [dreamstime.com](https://www.dreamstime.com/photos-images/healthy-life)
 
 Source: <https://www.foundationforpn.org/living-well/lifestyle/#:~:text=Being%20healthy%20should%20be%20>
-
+Source: <https://www.healthline.com/nutrition/meal-plans#TOC_TITLE_HDR_6>
 ---
 <img align="left" width="40" height="40" src="media/icons/pets.png">
 
