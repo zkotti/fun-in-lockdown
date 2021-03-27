@@ -2254,8 +2254,8 @@ Also [greatist.com](https://greatist.com/fitness/best-health-fitness-apps#other)
 
 ## <a name="diet"></a>Diet
 
+Image owned by: [onlymyhealth.com]( https://www.onlymyhealth.com/importance-balanced-diet-1298540964)
 <img width="400" src="media/images/diet.jpg">
-Image owned by: <https://www.onlymyhealth.com/importance-balanced-diet-1298540964>
 
 #### Want to change your diet?
 
@@ -2294,8 +2294,8 @@ The five examples listed above are a good place to start.
 
 ## <a name="workout"></a>Workout
 
+Image owned by: [usejournal.com](https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
 <img width="400" src="media/images/workout1.jfif">
-Image owned by: <https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4>
 
 #### Types of exercise:
 
