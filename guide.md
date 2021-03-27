@@ -45,6 +45,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Create your own Video Game](#create-video-game)
 * [Walks in Town](#walks)
 * [What to avoid](#whattoavoid)
+* [Wikipedia Contributing](#wikicontr)
 * [Work with cars](#Work-with-cars)
 * [Writing](#writing)
 * [Healthy Lifestyle](#health) ([Diet](#diet), [Workout](#workout))
@@ -2180,6 +2181,15 @@ Being isolated all day long can make you a person, that you in the future would 
 ---
 
 <img align="left" width="40" height="40" src="media/icons/car.jpg">
+
+## <a name="wikicontr"></a> Wikipedia Contributing
+
+<img src="media/images/contributetowiki.jpg" alt="wiki" width="400"/>
+
+Photo owned by: [Wikipedia](https://en.wikipedia.org/wiki/Help:Introduction_to_Wikipedia)
+
+
+
 
 ## <a name="Work-with-cars"></a> Work with cars!
 Do you like cars? Of course you do! Who doesn't?
