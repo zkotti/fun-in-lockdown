@@ -2321,8 +2321,8 @@ First you need to pick your training goal. Is it to lose weight, gain lean muscl
 Image owned by: [dreamstime.com](https://www.dreamstime.com/photos-images/healthy-life)
 
 Source: <https://www.foundationforpn.org/living-well/lifestyle/#:~:text=Being%20healthy%20should%20be%20>
-
 Source: <https://www.healthline.com/nutrition/meal-plans#TOC_TITLE_HDR_6>
+Source: <https://www.scorchfitness.com/blog/movement/how-much-and-what-type-of-exercise-for-your-goals>
 
 ---
 <img align="left" width="40" height="40" src="media/icons/pets.png">
