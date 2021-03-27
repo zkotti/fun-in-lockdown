@@ -2283,17 +2283,21 @@ The diet is based exclusively on plant foods and eliminates all animal products.
 The gluten-free diet is essential for people who are intolerant to gluten, a protein that is found in wheat, rye, and barley.
 For optimal health, you should focus on whole foods that are naturally gluten-free. Gluten-free junk food is still junk food.
 The bottom line
+
 So many diets exist that it can feel overwhelming to simply find a single one to try.
 However, it’s important to note that some eating patterns have more scientific backing than others. Whether you’re looking to lose weight or simply boost your overall health, try to find diets that are supported by research.
 The five examples listed above are a good place to start.
 
+## <a name="workout"></a>Workout
 
 <image width="500" src="media/images/healthylife.jpg">
 
 Image owned by: [dreamstime.com](https://www.dreamstime.com/photos-images/healthy-life)
 
 Source: <https://www.foundationforpn.org/living-well/lifestyle/#:~:text=Being%20healthy%20should%20be%20>
+
 Source: <https://www.healthline.com/nutrition/meal-plans#TOC_TITLE_HDR_6>
+
 ---
 <img align="left" width="40" height="40" src="media/icons/pets.png">
 
