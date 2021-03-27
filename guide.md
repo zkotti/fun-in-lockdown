@@ -1073,6 +1073,8 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * Stay Hydrated
 * Listen to music
 * Don't forget to stretch!
+* Trust the progress, hard work pays off
+* Use proper form, especially while lifting
 
 **Workout motivation quotes:**
 
@@ -1124,6 +1126,7 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * Ab workout (NO EQUIPMENT) [video](https://www.youtube.com/watch?v=LND6Y5a3ks8)
 * 50 min leg day workout [video](https://www.youtube.com/watch?v=9fiP1q2SWwM&t=46s)
 * Arms and shoulders workout [video](https://www.youtube.com/watch?v=ME0cj3FTbms)
+* Chest home workout [video](https://www.youtube.com/watch?v=EHR3Rl26-4A&t=396s)
 
 **Full body workouts:**
 
@@ -1131,6 +1134,7 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * 20 Minute easy mode (NO EQUIPMENT) [video](https://youtu.be/oAPCPjnU1wA)
 * 20 Minute hard mode (NO EQUIPMENT) [video](https://youtu.be/yDQQVU__6Uc)
 * Full body Dumbbell workout [video](https://www.youtube.com/watch?v=i-Kq8loq7fA)
+* Full body home workout [video](https://www.youtube.com/watch?v=vc1E5CfRfos)
 
 **HIIT workouts:**
 
