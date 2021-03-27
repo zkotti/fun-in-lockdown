@@ -1269,12 +1269,12 @@ Here are some of the vegetables that you can begin with!
 Photo owned by [kellogggarden.com](https://www.kellogggarden.com/wp-content/uploads/2017/07/Leafy-Vegetable-Garden.jpg)  
 Icon source: [thenounproject.com ](https://thenounproject.com/term/gardening/) 
 
-##### Herbs 
+### Herbs 
 
 | PLANT NAME | SUN EXPOSURE | SOIL MOISTURE |
 |---|---|---|
 |Sage|Full sun or partial shade|Moist but well-drained|
-|Parsley||Full sun or partial shade|Moist but well-drained|
+|Parsley|Full sun or partial shade|Moist but well-drained|
 |Oregano|Full sun or partial shade|Well-drained|
 |Mint|Full sun or partial shade|Moist but well-drained| 
 |Coriander|Full sun or partial shade|Moist but well-drained|
