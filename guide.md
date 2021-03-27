@@ -1384,6 +1384,7 @@ _The most common activity during lock-down has been watching movies. So here are
 |How I met your mother | Comedy / TV Series | Netflix | 9/10 | 8.3/10|[TRAILER](https://www.youtube.com/watch?v=aJtVL2_fA5w "How I met your mother")|[INFO](https://www.imdb.com/title/tt0460649/ "How I met your mother")|
 |Infinity War | Action / Adventure / Sci-Fi | Disney+ |10/10 | 8.4/10|[TRAILER](https://youtu.be/6ZfuNTqbHE8 "Infinity War")|[INFO](https://www.imdb.com/title/tt4154756/?ref_=nv_sr_srsg_0 "Infinity War IMDb")|
 |It's Okay to Not be Okay | Drama | Netflix | 9.5/10 | 8.7/10 | [TRAILER](https://www.youtube.com/watch?v=50ek4HQo0Bc&ab_channel=TheSwoon "It's Okay to Not be Okay")|[INFO](https://www.imdb.com/title/tt12451520/ "It's Okay to Not be Okay")|
+|interstellar | Adventure / Drama /  Sci-fi | Amazon Prime | 9.3/10 | 8.6/10 | [TRAILER](https://www.youtube.com/watch?v=zSWdZVtXT7E)|[INFO](https://www.imdb.com/title/tt0816692/?ref_=nv_sr_srsg_0)|
 |Jeffrey Epstein: Filthy Rich | Documentary / Crime | Netflix | 8/10 | 7.1/10|[TRAILER](https://www.youtube.com/watch?v=-j0rjlfmDx4 "Jeffrey Epstein: Filthy Rich")|[INFO](https://www.imdb.com/title/tt12312250/ "Jeffrey Epstein: Filthy Rich")|
 |Joker| Drama | Amazon | 10/10 | 8.4/10|[TRAILER](https://www.youtube.com/watch?v=zAGVQLHvwOY "Joker")|[INFO](https://www.imdb.com/title/tt7286456/?ref_=nv_sr_srsg_0 "Joker IMDb")|
 |La La Land| Film Musical | Stremio | 9/10 | 8/10 | [TRAILER](https://www.youtube.com/watch?v=0pdqf4P9MB8&ab_channel=LionsgateMovies) | [INFO](https://www.imdb.com/title/tt3783958/)|
@@ -1408,6 +1409,7 @@ _The most common activity during lock-down has been watching movies. So here are
 |The Last Dance| Documentary - TV series| Netflix| 9.5/10| 9.1/10|[TRAILER](https://www.youtube.com/watch?v=N9Z9JtNcCWY&ab_channel=ESPN "The Last Dance")|[INFO](https://www.imdb.com/title/tt8420184/?ref_=fn_al_tt_1 "The Last Dance IMDb")
 |The Name of the Rose|  Crime, Drama, Mystery| Cinobo| 7/10 | 7.7/10 | [TRALER](https://www.youtube.com/watch?v=7-yYJgpQ-CE&ab_channel=MovieclipsClassicTrailers) | [INFO](https://www.imdb.com/title/tt0091605/?ref_=rt_li_tt) |
 |The Queen's Gambit | TV series | Netflix | 9/10 | 8.6/10|[TRAILER](https://www.youtube.com/watch?v=CDrieqwSdgI "The Queen's Gambit")|[INFO](https://www.imdb.com/title/tt10048342/?ref_=nv_sr_srsg_0 "The Queen's Gambit IMDb")|
+|The Shawshank Redemption | Drama | Netflix | 9.5/10 | 9.3/10|[TRAILER](https://www.youtube.com/watch?v=6hB3S9bIaco)|[INFO](https://www.imdb.com/title/tt0111161/?ref_=nv_sr_srsg_0)|
 |The Shutter Island | Thriller/ Mystery | Netflix | 8.5/10 | 8.2/10|[TRAILER](https://www.youtube.com/watch?v=5iaYLCiq5RM "The Shutter Island")|[INFO](https://www.imdb.com/title/tt1130884/ "The Shutter Island IMDb")|
 |The Social Dilemma| Documentary| Netflix| 7/10| 7.6/10|[TRAILER](https://www.youtube.com/watch?v=uaaC57tcci0&ab_channel=Netflix "The Social Dilemma")|[INFO](https://www.imdb.com/title/tt11464826/?ref_=nv_sr_srsg_0 "The Social Dilemma IMDb")|
 |Unsolved Mysteries| Documentary - TV series| Netflix| 9/10| 7.3/10|[TRAILER](https://www.youtube.com/watch?v=oZ4FrgGILM8&ab_channel=Netflix "Unsolved Mysteries")|[INFO](https://www.imdb.com/title/tt9642938/?ref_=nv_sr_srsg_3 "Unsolved Mysteries IMDb")|
@@ -2048,10 +2050,6 @@ Due to the Covid-19 pandemic museums remain closed. Don't worry, art lovers! Dur
 First of all, we strongly suggest you have a look on the [online exhibition](https://www.vangoghmuseum.nl/en) offered by the Vincent van Gogh Museum in Amsterdam. You will definitely be excited by the paintings of this museum. 
 
 However, the museums offering virtual tours are so many that we think it's best to provide you the following list and let you pick the ones you perceive as the more interesting:
-
-| Museum| Location| Interesting Infos| Virtual Exhibition|
-|---| ---| ---| ---|
-|Museum of Modern Art-MoMA|New York|Hosts some of contemporary art history's most famous paintings|[virtual tour](https://artsandculture.google.com/partner/moma-the-museum-of-modern-art?hl=en)|
 
 Some of us are _bored in the house-in the house bored_!
 
