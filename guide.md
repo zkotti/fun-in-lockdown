@@ -1411,6 +1411,7 @@ if you learn this skills you will be able to perform and have a basic understand
 
 Icon source https://www.flaticon.com
 
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/meditation.png">
@@ -1528,6 +1529,7 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Faith, by the Weeknd [listen here](https://www.youtube.com/watch?v=RcS_8-a-sMg&ab_channel=TheWeekndVEVO)
 * Flatlands, The Aristocrats [listen here](https://www.youtube.com/watch?v=fW0p5SB52sI&list=LL&index=39)
 * From the Woods, James Vincent McMorrow [listen here](https://www.youtube.com/watch?v=ntZG2InulxE)
+* FO SHO, good job nicky[listen here](https://www.youtube.com/watch?v=KATnt8pH2SI)
 * Girls Like You, Maroon 5 ft. Cardi B [listen here](https://www.youtube.com/watch?v=aJOTlE1K90k)
 * Glassy Sky, Donna Burke [listen here](https://www.youtube.com/watch?v=vvvvcpwFw5o)
 * Grey Area, by Sam Tsui [listen here](https://www.youtube.com/watch?v=GNOUmctP3Yo)
