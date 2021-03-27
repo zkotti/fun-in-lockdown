@@ -2290,6 +2290,32 @@ The five examples listed above are a good place to start.
 
 ## <a name="workout"></a>Workout
 
+1. TYPES OF EXERCISE:
+CARDIO
+There is multiple types of cardiovascular training but two types that should be in your plan for best results are high intensity intervals and long slow distance. The combination of these is important for any training plan.
+
+2. HIGH INTENSITY INTERVALS
+ This type of cardio consists of short fast bursts of power followed by a recovery period. The purpose is to spike your heart rate higher than it could be during a normal long run to over train heart rate and body. These types of workouts usually are less than 30 minutes. The primary muscle fibers used during this type of training are Type 2 fast twitch fibers, which use energy called ATP made by the mitochondria in the muscles to perform. This ATP power producer is known as the anaerobic system, and it causes your body to burn fat for 24-48 hours after you finish your training.
+
+3. LONG SLOW DISTANCE
+Any cardio performed at a steady heart rate for 30+ minutes is considered long slow distance. The primary muscle type used during this cardio is Type 1 slow twitch fibers which uses primarily oxygen. This type of cardio burns fat during your workout which is why its important to do no less than 30 minutes at a heart rate in the fat burning zone, which is 60-70% of your max heart rate.
+
+4. STRENGTH TRAINING
+Strength training in this case is considered resistance training. For something to be called resistance training your body has to resist an added stressor. Think weight lifting. Your body’s job is to resist the weight crushing you to the ground. When you practice resistance training your muscles break down and with proper recovery rebuild stronger than before; hence it gets the name strength training. Strength training is important for bone, muscle and cardiovascular health but its claim to fame when adding it into your training plan is the spike in your body’s metabolism since muscle burns more calories at rest than fat.
+
+5. FLEXIBILITY
+This can be broken down in different forms, from yoga to pilates to barre. Flexibility is extremely important because it gives the muscles the ability to move through a full range of motion. When the body is unable to move through its full range of motion, injury is more likely to occur.
+
+So the question is, how much of what should you do? Since all components mentioned above should be in a structured training plan, we have to look at what goals each person has, what fits into their schedule, and to me the biggest thing is how your body recovers.
+
+The biggest thing I see as a trainer is people tend to put more on their plate than their bodies can handle.
+
+At first, this will bring quick results. Those results though are usually not sustainable over the long term. The whole goal of exercise is to break down muscle tissue to rebuild it during rest to make it stronger. Overloading yourself with too many workouts will end up having the opposite of the desired effect since your muscles will never have time to rebuild.
+
+That being said, incorporating all three aspects of fitness (cardio, strength training, and flexibility) can be done in a safe and effective manner if it is properly planned out.
+
+First you need to pick your training goal. Is it to lose weight, gain lean muscle, become more flexible, or maintain your current weight? Whichever goal it is you want to make one type of training your main focus and use the others to supplement.
+
 <image width="500" src="media/images/healthylife.jpg">
 
 Image owned by: [dreamstime.com](https://www.dreamstime.com/photos-images/healthy-life)
