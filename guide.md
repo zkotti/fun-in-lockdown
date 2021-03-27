@@ -2259,7 +2259,7 @@ Image owned by: [onlymyhealth.com]( https://www.onlymyhealth.com/importance-bala
 <img width="400" src="media/images/diet.jpg">
 
 ### Want to change your diet?
-
+Now is the time to start eating right.
 Maybe you can start by choosing one of the five diets that are listed below.
 
 1. Low-carb, whole-food diet
@@ -2298,7 +2298,9 @@ The five examples listed above are a good place to start.
 Image owned by: [usejournal.com](https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
 <img width="400" src="media/images/workout1.jfif">
 
-### Types of exercise:
+### Now is the time to start exercising 
+
+Types of exercise:
 
 1. CARDIO
 There is multiple types of cardiovascular training but two types that should be in your plan for best results are high intensity intervals and long slow distance. The combination of these is important for any training plan.
