@@ -1384,7 +1384,7 @@ _The most common activity during lock-down has been watching movies. So here are
 |How I met your mother | Comedy / TV Series | Netflix | 9/10 | 8.3/10|[TRAILER](https://www.youtube.com/watch?v=aJtVL2_fA5w "How I met your mother")|[INFO](https://www.imdb.com/title/tt0460649/ "How I met your mother")|
 |Infinity War | Action / Adventure / Sci-Fi | Disney+ |10/10 | 8.4/10|[TRAILER](https://youtu.be/6ZfuNTqbHE8 "Infinity War")|[INFO](https://www.imdb.com/title/tt4154756/?ref_=nv_sr_srsg_0 "Infinity War IMDb")|
 |It's Okay to Not be Okay | Drama | Netflix | 9.5/10 | 8.7/10 | [TRAILER](https://www.youtube.com/watch?v=50ek4HQo0Bc&ab_channel=TheSwoon "It's Okay to Not be Okay")|[INFO](https://www.imdb.com/title/tt12451520/ "It's Okay to Not be Okay")|
-|interstellar | Adventure / Drama /  Sci-fi | Amazon Prime | 9.3/10 | 8.6/10 | [TRAILER](https://www.youtube.com/watch?v=zSWdZVtXT7E)|[INFO](https://www.imdb.com/title/tt0816692/?ref_=nv_sr_srsg_0)|
+|Interstellar | Adventure / Drama /  Sci-fi | Amazon Prime | 9.3/10 | 8.6/10 | [TRAILER](https://www.youtube.com/watch?v=zSWdZVtXT7E)|[INFO](https://www.imdb.com/title/tt0816692/?ref_=nv_sr_srsg_0)|
 |Jeffrey Epstein: Filthy Rich | Documentary / Crime | Netflix | 8/10 | 7.1/10|[TRAILER](https://www.youtube.com/watch?v=-j0rjlfmDx4 "Jeffrey Epstein: Filthy Rich")|[INFO](https://www.imdb.com/title/tt12312250/ "Jeffrey Epstein: Filthy Rich")|
 |Joker| Drama | Amazon | 10/10 | 8.4/10|[TRAILER](https://www.youtube.com/watch?v=zAGVQLHvwOY "Joker")|[INFO](https://www.imdb.com/title/tt7286456/?ref_=nv_sr_srsg_0 "Joker IMDb")|
 |La La Land| Film Musical | Stremio | 9/10 | 8/10 | [TRAILER](https://www.youtube.com/watch?v=0pdqf4P9MB8&ab_channel=LionsgateMovies) | [INFO](https://www.imdb.com/title/tt3783958/)|
