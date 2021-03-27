@@ -2109,20 +2109,20 @@ However, the museums offering virtual tours are so many that we think it's best 
 
 | Museum| Location| Interesting Infos| Virtual Exhibition|
 |---| ---| ---| ---|
+|Detroit Institute of Arts|Detroit|Known as one of the Midwest's artistic crown jewels, houses one of the top six collections in the United States.|[virtual tour](https://artsandculture.google.com/partner/detroit-institute-of-arts?hl=en)|
+|Georgia O'Keefe Museum|Santa Fe|Its holdings are the paintings of the famous American artist.|[virtual tour](https://artsandculture.google.com/partner/georgia-o-keeffe-museum?hl=en)|
+|La Galleria Nazionale|Rome|Home of pieces from antiquity to works from the Futurism and Surrealism movements.|[virtual tour](https://artsandculture.google.com/partner/La-Galleria-Nazionale?hl=en)|
+|Museo Frida Kahlo|Mexico City|Known as "La Casa Azul", it honors the life of the famous artist and her legacy.|[virtual tour](https://artsandculture.google.com/partner/museo-frida-kahlo?hl=en)|
 |Museum of Modern Art-MoMA|New York|Houses some of modern art history's most famous paintings.|[virtual tour](https://artsandculture.google.com/partner/moma-the-museum-of-modern-art?hl=en)|
 |Musée d’Orsay|Paris|Exhibits art collection from 1848 to 1914.|[virtual tour](https://artsandculture.google.com/partner/musee-dorsay-paris?hl=en)|
-|Uffizi Gallery|Florence|Its belongings include some of Italy's most important works.|[virtual tour](https://artsandculture.google.com/partner/uffizi-gallery?hl=en)|
-|The J. Paul Getty Museum|Los Angeles|Hosts pieces of art from the eighth through to the 21st century.|[virtual tour](https://artsandculture.google.com/partner/the-j-paul-getty-museum?hl=en)|
 |National Museum|New Delhi|Home to paintings, sculptures, jewellery, ancient texts, armors and decorative arts.|[virtual tour](https://artsandculture.google.com/partner/national-museum-delhi?hl=en)|
-|The Art Institute of Chicago|Chicago|Houses one of the largest permanent collections of anu museum in the United States.|[virtual tour](https://artsandculture.google.com/partner/the-art-institute-of-chicago?hl=en)|
-|Georgia O'Keefe Museum|Santa Fe|Its holdings are the paintings of the famous American artist.|[virtual tour](https://artsandculture.google.com/partner/georgia-o-keeffe-museum?hl=en)|
-|Detroit Institute of Arts|Detroit|Known as one of the Midwest's artistic crown jewels, houses one of the top six collections in the United States.|[virtual tour](https://artsandculture.google.com/partner/detroit-institute-of-arts?hl=en)|
-|The Metropolitan Museum of Art|New York|America's premier museum with one of the most celebrated collections anywhere in the world.|[virtual tour](https://artsandculture.google.com/partner/the-metropolitan-museum-of-art?hl=en)|
-|Museo Frida Kahlo|Mexico City|Known as "La Casa Azul", it honors the life of the famous artist and her legacy.|[virtual tour](https://artsandculture.google.com/partner/museo-frida-kahlo?hl=en)|
-|Tate Britain|London|Its British holdings date back to the Tudor era.|[virtual tour](https://artsandculture.google.com/partner/tate-britain?hl=en)|
-|La Galleria Nazionale|Rome|Home of pieces from antiquity to works from the Futurism and Surrealism movements.|[virtual tour](https://artsandculture.google.com/partner/La-Galleria-Nazionale?hl=en)|
 |Rijks Museum|Amsterdam|Exhibits works of Vermeer and Rembrandt among its collection.|[virtual tour](https://artsandculture.google.com/partner/rijksmuseum?hl=en)|
 |Solomon R. Guggenheim Museum|New York|Houses both contemporary art and architecture.|[virtual tour](https://artsandculture.google.com/partner/solomon-r-guggenheim-museum?hl=en)|
+|Tate Britain|London|Its British holdings date back to the Tudor era.|[virtual tour](https://artsandculture.google.com/partner/tate-britain?hl=en)|
+|The Art Institute of Chicago|Chicago|Houses one of the largest permanent collections of anu museum in the United States.|[virtual tour](https://artsandculture.google.com/partner/the-art-institute-of-chicago?hl=en)|
+|The J. Paul Getty Museum|Los Angeles|Hosts pieces of art from the eighth through to the 21st century.|[virtual tour](https://artsandculture.google.com/partner/the-j-paul-getty-museum?hl=en)|
+|The Metropolitan Museum of Art|New York|America's premier museum with one of the most celebrated collections anywhere in the world.|[virtual tour](https://artsandculture.google.com/partner/the-metropolitan-museum-of-art?hl=en)|
+|Uffizi Gallery|Florence|Its belongings include some of Italy's most important works.|[virtual tour](https://artsandculture.google.com/partner/uffizi-gallery?hl=en)|
 
 Sources: [Robb Report](https://robbreport.com/lifestyle/news/14-virtual-museum-to-visit-during-social-distancing-and-quarantine-2905827/)
 
