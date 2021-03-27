@@ -319,10 +319,10 @@ Photo owned by [elearningindustry.com](https://elearningindustry.com/top-10-book
 
 |TITLE| TOPIC | AUTHOR | AVAILABLE ON| MY RATING| LINK |
 |---| ---| ---| ---| ---| ---|
-|Animal Farm | Classic Literature| Orwell George | Public | 9.3/10 | [Link](https://www.public.gr/product/books/idiotika-sholeia-kolegia/international-baccalaureate/animal-farm/prod82326pp/ "Animal Farm")|
 |1984 | Classic Literature| Orwell George | Public | 9/10 | [Link](https://www.public.gr/product/books/greek-books/literature/translated-literature/1984/prod254453/?gclid=Cj0KCQjwo-aCBhC-ARIsAAkNQisl4ukxjR0JQ1OTTY7rRJF_Pxphu9OZteR2mxrzxVa-igf_gz4PJC0aAvXyEALw_wcB "1984")|
 |21 Lessons for the 21st Century | Non-Fiction | Yuval Noah Harrari | Amazon | 9/10 | [Link](https://www.amazon.com/gp/product/B079WM7KLS/ref=dbs_a_def_rwt_bibl_vppi_i1)|
 |Algorithms to Live By: The Computer Science of Human Decisions | Non-Fiction | Brian Christian & Tom Griffiths | Amazon | 9.5/10 | [Link](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)|
+|Animal Farm | Classic Literature| Orwell George | Public | 9.3/10 | [Link](https://www.public.gr/product/books/idiotika-sholeia-kolegia/international-baccalaureate/animal-farm/prod82326pp/ "Animal Farm")|
 |Atlantis | Historical Novel | David Gibbins | Amazon| 10/10| [Link](https://www.amazon.com/gp/product/0755324226/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0755324226&SubscriptionId=1MGPYB6YW3HWK55XCGG2) |
 |Capital: Volume 1| Political Economy| Karl Marx| online| 5/10| [Link](https://github.com/zkotti/fun-in-lockdown/blob/main/guide.md#social-movements "Uncle Karl wouldn't want his manuscripts become a commodity")|
 |Chaos | History & Science | James Gleik | bookstores | 7/10 | [Link](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453) |
