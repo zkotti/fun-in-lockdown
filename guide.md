@@ -243,8 +243,6 @@ Youtube is an American owned video-sharing platform with headquarters located in
 |Based Zeus|Life Advice for Men| 1.400.000| [Link](https://www.youtube.com/channel/UC1PkRYud11ogYDqgdqd23Zw)|
 |Astronio|Making Astronomy Fun| 193.000| [Link](https://www.youtube.com/channel/UCYhH65nE2M8rGwMWvAlVu2A)|
 |Netwix|Greek Comedy Videos| 615.000| [Link](https://www.youtube.com/channel/UCLexrmd9Dn8SnzdsZZcavYQ)|
-|Marques Brownlee| Technology| 13.800.000| [Link](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ)|
-|iJustine| Technology| 6.083.000| [Link](https://www.youtube.com/user/ijustine)|
 
 
 Don't be hesitant to enrich the list with your favorite channels ,sharing is caring in these hard times.
@@ -348,6 +346,7 @@ Photo owned by [elearningindustry.com](https://elearningindustry.com/top-10-book
 |The Sixth Man: A Memoir | Autobiography| Andre Iguodala | Amazon| 9.5/10| [Link](https://www.amazon.com/The-Sixth-Man-audiobook/dp/B07N487TMC/ref=sr_1_1?crid=12L3C7BF27NT6&dchild=1&keywords=the+sixth+man+iguodala&qid=1616082921&sprefix=the+sixth+man+iguo%2Caps%2C384&sr=8-1)|
 |The Unbearable Lightness of Being | Modern Literature | Milan Kundera | Public | 9.5/10 | [Link](https://www.public.gr/product/books/english/literature/modern-literature/the-unbearable-lightness-of-being/prod140346/)|
 |Thinking, Fast and Slow | Psychology | Daniel Kahneman | Amazon | 9/10| [Link](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=391NW1M3NG4SX&dchild=1&keywords=think+fast+and+slow&qid=1616005195&sprefix=think+fast%2Caps%2C216&sr=8-1 "Thinking, Fast and Slow")|
+|Thus Spoke Zaratustra | Philosophy | Friedrich Nietzsche | Amazon | 8.5/10| [Link](https://www.amazon.com/Thus-Spoke-Zarathustra-Thrifty-Book/dp/1604598824)|
 |To Kill a Mocking Bird | Classic Literature | Harper Lee | Public | 9.5/10| [Link](https://www.public.gr/product/to-kill-a-mockingbird/prod1260555pp/) |
 |We Hope This Reaches You in Time| poetry | Sin r.h. , King Holmes Samantha | Public | 9/10| [Link](https://www.public.gr/product/we-hope-this-reaches-you-in-time/prod10270092pp/ "We Hope This Reaches You in Time")|
 |We Were Liars | Young Adult Fiction | E. Lockhart. | Amazon | 9/10 | [Link](https://www.amazon.com/We-Were-Liars-Lockhart/dp/0385741278/ref=sr_1_1?dchild=1&keywords=we+were+liars&qid=1616411727&s=books&sr=1-1)|
