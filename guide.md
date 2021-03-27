@@ -329,6 +329,14 @@ Photo owned by [elearningindustry.com](https://elearningindustry.com/top-10-book
 |Προς τ'άστρα| Science| Παύλος Καστανάς| Public| 9/10|  [Link](https://www.public.gr/product/books/greek-books/natural-science/popular-science/pros-t-astra/prod12560011pp/?gclid=Cj0KCQjwjPaCBhDkARIsAISZN7SI5pPnqJ68ac1tcRHg9hRMr2VHwHRsfXB6iRGCm2eAJV3lH2N346YaAglmEALw_wcB "Προς τ'άστρα")
 |Big Bang| Science| Simon Singh| Public |10/10| [Link](https://www.public.gr/product/big-bang/prod249173/?gclid=Cj0KCQjwjPaCBhDkARIsAISZN7TMTFMAJATZov3gBLTDVN6wgpI6tKZy6OQ21KzfgbF-3-QXS1BHDiYaArXoEALw_wcB "Big Bang")
 
+Public Domain Books
+
+The public domain consists of all the creative work to which no exclusive intellectual property rights apply. Those rights may have expired,been forfeited, expressly waived, or may be inapplicable. So, a public-domain book is a book with no copyright, a book that was created without a license, or a book where its copyrights expired or have been forfeited.
+
+In most countries the term of protection of copyright expires on the first day of January, 70 years after the death of the latest living author. The longest copyright term is in Mexico, which has life plus 100 years for all deaths since July 1928. A notable exception is the United States, where every book and tale published prior to 1926 is in the public domain; American copyrights last for 95 years for books originally published between 1925 and 1978 if the copyright was properly registered and maintained.For example: the works of Jane Austen, Lewis Carroll, Machado de Assis, Olavo Bilac and Edgar Allan Poe are in the public domain worldwide as they all died over 100 years ago.
+
+Project Gutenberg makes tens of thousands of public domain books available online as ebooks. 
+
 ---
 
 
