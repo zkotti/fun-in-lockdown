@@ -2290,8 +2290,9 @@ The five examples listed above are a good place to start.
 
 ## <a name="workout"></a>Workout
 
-1. TYPES OF EXERCISE:
-CARDIO
+TYPES OF EXERCISE:
+
+1. CARDIO
 There is multiple types of cardiovascular training but two types that should be in your plan for best results are high intensity intervals and long slow distance. The combination of these is important for any training plan.
 
 2. HIGH INTENSITY INTERVALS
