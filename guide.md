@@ -329,7 +329,7 @@ Photo owned by [elearningindustry.com](https://elearningindustry.com/top-10-book
 |Προς τ'άστρα| Science| Παύλος Καστανάς| Public| 9/10|  [Link](https://www.public.gr/product/books/greek-books/natural-science/popular-science/pros-t-astra/prod12560011pp/?gclid=Cj0KCQjwjPaCBhDkARIsAISZN7SI5pPnqJ68ac1tcRHg9hRMr2VHwHRsfXB6iRGCm2eAJV3lH2N346YaAglmEALw_wcB "Προς τ'άστρα")
 |Big Bang| Science| Simon Singh| Public |10/10| [Link](https://www.public.gr/product/big-bang/prod249173/?gclid=Cj0KCQjwjPaCBhDkARIsAISZN7TMTFMAJATZov3gBLTDVN6wgpI6tKZy6OQ21KzfgbF-3-QXS1BHDiYaArXoEALw_wcB "Big Bang")
 
-Public Domain Books
+###### Public Domain Books
 
 The public domain consists of all the creative work to which no exclusive intellectual property rights apply. Those rights may have expired,been forfeited, expressly waived, or may be inapplicable. So, a public-domain book is a book with no copyright, a book that was created without a license, or a book where its copyrights expired or have been forfeited.
 
@@ -337,7 +337,7 @@ In most countries the term of protection of copyright expires on the first day o
 
 sourse:[Wikipedia](https://en.wikipedia.org/wiki/Public_domain#Public_Domain_Day)
 
-[Project Gutenberg](https://www.gutenberg.org/) makes tens of thousands of public domain books available online as ebooks. Also, [Open Library](https://openlibrary.org/) has many books as well and for audiobooks you can visit [Librivox](https://librivox.org/)
+[Project Gutenberg](https://www.gutenberg.org/) makes tens of thousands of public domain books available online as ebooks. Also, [Open Library](https://openlibrary.org/) has many books as well and for audiobooks you can visit [Librivox](https://librivox.org/).
 
 ---
 
