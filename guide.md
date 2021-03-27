@@ -47,6 +47,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Work with cars](#Work-with-cars)
 * [Writing](#writing)
 * [Healthy Lifestyle](#health)
+* [Find your pet friend](#pet)
 
 [Note : Before you head outside](#note)
 
@@ -2199,7 +2200,30 @@ Image owned by: [dreamstime.com](https://www.dreamstime.com/photos-images/health
 Source: <https://www.foundationforpn.org/living-well/lifestyle/#:~:text=Being%20healthy%20should%20be%20>
 
 ---
+<img align="left" width="40" height="40" src="media/icons/pets.png">
 
+## <a name="pet"></a>Find your pet friend
+Dog or cat? A question that concerns many people!
+lockdown is a good chance to buy or better to adopt a new pet, dog or cat, and spend quality time with it.
+In order to show your pet your love and care, there are some specific things you can do.
+
+* __Exercise your pet__
+
+Exercise is a vital part of enriching your pets’ lives. Walking, running, playing fetch or tug, and learning agility or flyball are all great ways to keep your dog physically fit. For cats, try interactive play with wand toys or balls. Some cats can be taught to enjoy walks outdoors wearing a harness and leash. Many of these activities have the added benefit of exercising humans, too.
+
+* __Visit the vet for a checkup__
+
+Let’s face it. Few of us like going to the doctor, and our pets are no different. But you can teach your pets to tolerate going to the vet by doling out delicious treats that make the experience more enjoyable. Many clinics will allow you to simply come and visit, so that later on when an appointment is necessary, your pet will have a more positive association with medical care.
+
+* __Healthy food__
+
+Just like humans, pets thrive when they have a healthy diet. A healthy and balanced diet is essential for a healthy and happy pet. Not only will it provide your pet with enough energy for his day to day activities, but it is also vital for proper brain function.
+
+* __Training__
+
+Are you ready to start training your pet? Proper training and socialization are among your pet's basic needs. It's important to start training your pet as soon as possible.At first, pet training can seem pretty overwhelming, especially if this is your first pet. The truth is that training your pet is a very big project. If you take it step by step(watching videos on youtube), you will find the task to be far less daunting.
+
+---
 <img align="left" width="40" height="40" src="media/icons/warning-shield.png">
 
 
