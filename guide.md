@@ -30,7 +30,6 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Gardening](#gardening)
 * [Healthy Lifestyle](#health) ([Diet](#diet), [Workout](#workout), [Sleep Quality](#sleep_quality))
 * [Learn a new skill](#new-skill)
-* [Magic tricks](#magic-tricks)
 * [Meditation](#meditation)
 * [Movies-Documentaries-Series](#movies-docum-series)
 * [Music](#music)
@@ -1394,26 +1393,6 @@ Great ideas to learn new skills:
 
 ---
 
-<img align="left" width="40" height="40" src="media/icons/hat.png">
-
-## <a name="=magic-trick"></a>Magic tricks
-Learning magic tricks can be a fun and challenging skill to learn during lockdown. The only thing you need is a deck of cards and you are set to go!
-
-**Skills to learn**
-
-if you learn this skills you will be able to perform and have a basic understanding of most magic tricks.
-
-* [The double lift](https://www.youtube.com/watch?v=Gjd4EDm3EWU): the most common and usefull skill in magic tricks with cards
-* [False cuts](https://www.youtube.com/results?search_query=false+cut): ways to shuffle the deck without actually shuffling it, thus tricking your audience
-* [Riffle shuffle](https://www.youtube.com/watch?v=f6ZD1lDbW3M): quick and fast way to shuffle the deck. Can be tricky at the start but with a little practise you will get it just right
-* [Overhand shuffle](https://www.youtube.com/watch?v=JlG3lT0RKOw): the easiest way of shuffling a deck
-
-
-Icon source https://www.flaticon.com
-
-
----
-
 <img align="left" width="40" height="40" src="media/icons/meditation.png">
 
 ## <a name="meditation"></a>Meditation
@@ -1529,7 +1508,6 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Faith, by the Weeknd [listen here](https://www.youtube.com/watch?v=RcS_8-a-sMg&ab_channel=TheWeekndVEVO)
 * Flatlands, The Aristocrats [listen here](https://www.youtube.com/watch?v=fW0p5SB52sI&list=LL&index=39)
 * From the Woods, James Vincent McMorrow [listen here](https://www.youtube.com/watch?v=ntZG2InulxE)
-* FO SHO, good job nicky[listen here](https://www.youtube.com/watch?v=KATnt8pH2SI)
 * Girls Like You, Maroon 5 ft. Cardi B [listen here](https://www.youtube.com/watch?v=aJOTlE1K90k)
 * Glassy Sky, Donna Burke [listen here](https://www.youtube.com/watch?v=vvvvcpwFw5o)
 * Grey Area, by Sam Tsui [listen here](https://www.youtube.com/watch?v=GNOUmctP3Yo)
@@ -2423,14 +2401,14 @@ That being said, incorporating all three aspects of fitness (cardio, strength tr
 
 First you need to pick your training goal. Is it to lose weight, gain lean muscle, become more flexible, or maintain your current weight? Whichever goal it is you want to make one type of training your main focus and use the others to supplement.
 
-## <a name="sleep_quality"></a>Sleep Quality
+## <a name="sleep_quality"></a>Sleep Quality 
 
-No copyright need for this image :smiley: 
-<img width="400" src="media/images/Milou.jpg">
+No copyright needed for this image :smiley: 
+<img width="400" height="500" src="media/images/Milou.jpg">
 
 ### Tips to Sleep Better at night:
 
-##### 1. Increase bright light exposure during the day 
+#### 1. Increase bright light exposure during the day 
 
 Your body has a natural time-keeping clock known as your circadian rhythm.
 
@@ -2438,7 +2416,7 @@ It affects your brain, body, and hormones, helping you stay awake and telling yo
 
 Natural sunlight or bright light during the day helps keep your circadian rhythm healthy. This improves daytime energy, as well as nighttime sleep quality and duration
 
-##### 2. Reduce blue light exposure in the evening
+#### 2. Reduce blue light exposure in the evening
 
 Exposure to light during the day is beneficial, but nighttime light exposure has the opposite effect.
 
@@ -2448,17 +2426,17 @@ Blue light — which electronic devices like smartphones and computers emit in l
 
 There are several popular **methods you can use to reduce nighttime blue light exposure**. These include:
 
-..* Wear glasses that block blue light (24Trusted Source, 25Trusted Source).
-..* Switch on the night light mode on your phone or pc every evening
-..* Stop watching TV and turn off any bright lights 2 hours before heading to bed.
+- Wear glasses that block blue light (24Trusted Source, 25Trusted Source).
+- Switch on the night light mode on your phone or pc every evening
+- Stp watching TV and turn off any bright lights 2 hours before heading to bed.
 
-##### 3. Try to sleep and wake at consistent times
+#### 3. Try to sleep and wake at consistent times
 
 Your body’s circadian rhythm functions on a set loop, aligning itself with sunrise and sunset.
 
 Being consistent with your sleep and waking times can aid long-term sleep quality.
 
-##### 4. Optimize your bedroom environment
+#### 4. Optimize your bedroom environment
 
 Many people believe that the bedroom environment and its setup are key factors in getting a good night’s sleep.
 
