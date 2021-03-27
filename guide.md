@@ -2245,8 +2245,8 @@ There are apps that can help you track your progress and motivate you to keep go
 ([tomsguide.com](https://www.tomsguide.com/best-picks/best-workout-apps)).
 To remind you to drink the appropriate amount of water and to count the calories intake per  day. ([healthline.com]( https://www.healthline.com/health/hydration-top-iphone-android-apps-drinking-water) , [learningenglish.voanews.com](https://learningenglish.voanews.com/a/personal-tech-healthy-eating-fitness-apps/3958706.html#:~:text=MyFitnessPal%20is%20an%20app%20that,more%20information%20about%20healthy%20eating.)).</p>
 
-<img width="400" src="media/images/water.jpg">
 Image owned by: [depositphotos.com](https://depositphotos.com/stock-photos/water.html)
+<img width="400" src="media/images/water.jpg">
 
 Check out [health.gov](https://health.gov/myhealthfinder/topics/health-conditions/diabetes/eat-healthy#:~:text=A%20healthy%20eating%20pattern%20can%20help%20keep%20you%20healthy.&text=Making%20smart%20food%20choices%20can,Heart%20disease), [medicalnewstoday.com]( https://www.medicalnewstoday.com/articles/322268), [everydayhealth.com]( https://www.everydayhealth.com/diet-nutrition/importance-healthy-eating-habits/) to learn why you need o stay healthy and how.
 Also [greatist.com](https://greatist.com/fitness/best-health-fitness-apps#other) has may apps to suggest depending on your food and fitness interests. Check it out and start living your new life.
@@ -2255,10 +2255,11 @@ Also [greatist.com](https://greatist.com/fitness/best-health-fitness-apps#other)
 ## <a name="diet"></a>Diet
 
 <img width="400" src="media/images/diet.jpg">
-Image owned by: [onlymyhealth.com](https://www.onlymyhealth.com/importance-balanced-diet-1298540964)
+Image owned by: <https://www.onlymyhealth.com/importance-balanced-diet-1298540964>
 
-Want to change your diet?
-Maybe you can start by choosing one of the five diets that are listed below
+#### Want to change your diet?
+
+Maybe you can start by choosing one of the five diets that are listed below.
 
 1. Low-carb, whole-food diet
 The low-carb, whole-food diet is perfect for people who need to lose weight, optimize health, and lower their risk of disease.
@@ -2294,9 +2295,9 @@ The five examples listed above are a good place to start.
 ## <a name="workout"></a>Workout
 
 <img width="400" src="media/images/workout1.jfif">
-Image owned by: [blog.usejournal.com](https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
+Image owned by: <https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4>
 
-TYPES OF EXERCISE:
+#### Types of exercise:
 
 1. CARDIO
 There is multiple types of cardiovascular training but two types that should be in your plan for best results are high intensity intervals and long slow distance. The combination of these is important for any training plan.
