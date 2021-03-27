@@ -27,6 +27,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Facetime your long-distance friends](#facetime)
 * [Gardening](#gardening)
 * [Learn a new skill](#new-skill)
+* [Magic tricks](#magic-tricks)
 * [Meditation](#meditation)
 * [Movies-Documentaries-Series](#movies-docum-series)
 * [Music](#music)
@@ -1390,6 +1391,24 @@ Great ideas to learn new skills:
 * Learn to type, [here is a useful platform](https://www.typingclub.com/)
 * Learn [how to cook, easily among the best!](https://akispetretzikis.com/ "Akis Petretzikis")
 * Learn one easy [magic trick](https://www.youtube.com/watch?v=lhu2hGLz0FY) that will impress everyone
+
+---
+
+<img align="left" width="40" height="40" src="media/icons/skill.png">
+
+## <a name="=magic-trick"></a>Magic tricks
+Learning magic tricks can be a fun and challenging skill to learn during lockdown. The only thing you need is a deck of cards and you are set to go!
+
+**Skills to learn**
+
+if you learn this skills you will be able to perform and have a basic understanding of most magic tricks.
+
+* [The double lift](https://www.youtube.com/watch?v=Gjd4EDm3EWU): the most common and usefull skill in magic tricks with cards
+* [False cuts](https://www.youtube.com/results?search_query=false+cut): ways to shuffle the deck without actually shuffling it, thus tricking your audience
+* [Riffle shuffle](https://www.youtube.com/watch?v=f6ZD1lDbW3M): quick and fast way to shuffle the deck. Can be tricky at the start but with a little practise you will get it just right
+* [Overhand shuffle](https://www.youtube.com/watch?v=JlG3lT0RKOw): the easiest way of shuffling a deck
+
+
 
 ---
 
