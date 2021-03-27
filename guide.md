@@ -2059,6 +2059,10 @@ However, the museums offering virtual tours are so many that we think it's best 
 |Uffizi Gallery|Florence|Its belongings include some of Italy's most important works.|[virtual tour](https://artsandculture.google.com/partner/uffizi-gallery?hl=en)|
 |The J. Paul Getty Museum|Los Angeles|Hosts pieces of art from the eighth through to the 21st century.|[virtual tour](https://artsandculture.google.com/partner/the-j-paul-getty-museum?hl=en)|
 |National Museum|New Delhi|Home to paintings, sculptures, jewellery, ancient texts, armors and decorative arts.|[virtual tour](https://artsandculture.google.com/partner/national-museum-delhi?hl=en)|
+|The Art Institute of Chicago|Chicago|Houses one of the largest permanent collections of anu museum in the United States.|[virtual tour](https://artsandculture.google.com/partner/the-art-institute-of-chicago?hl=en)|
+|Georgia O'Keefe Museum|Santa Fe|Its holdings are the paintings of the famous American artist.|[virtual tour](https://artsandculture.google.com/partner/georgia-o-keeffe-museum?hl=en)|
+|Detroit Institute of Arts|Detroit|Known as one of the Midwest's artistic crown jewels, houses one of the top six collections in the United States.|[virtual tour](https://artsandculture.google.com/partner/detroit-institute-of-arts?hl=en)|
+|The Metropolitan Museum of Art|New York|America's premier mmuseum with one of the most celebrated collections anywhere in the world.|[virtual tour](https://artsandculture.google.com/partner/the-metropolitan-museum-of-art?hl=en)|
 
 Some of us are _bored in the house-in the house bored_!
 
