@@ -1269,6 +1269,27 @@ Here are some of the vegetables that you can begin with!
 Photo owned by [kellogggarden.com](https://www.kellogggarden.com/wp-content/uploads/2017/07/Leafy-Vegetable-Garden.jpg)  
 Icon source: [thenounproject.com ](https://thenounproject.com/term/gardening/) 
 
+##### Herbs 
+
+| PLANT NAME | SUN EXPOSURE | SOIL MOISTURE |
+|---|---|---|
+|Sage|Full sun or partial shade|Moist but well-drained|
+|Parsley||Full sun or partial shade|Moist but well-drained|
+|Oregano|Full sun or partial shade|Well-drained|
+|Mint|Full sun or partial shade|Moist but well-drained| 
+|Coriander|Full sun or partial shade|Moist but well-drained|
+|Basil|Full sun|Well-drained|
+|Chives|Full sun or partial shade|Moist but well-drained|
+|Dill|Full sun|Well-drained|
+|Fennel|Full sun or partial shade|Moist but well-drained|
+|Rosemary|Full sun|Moist but well-drained|
+|Lemon Balm|Full sun or partial shade|Moist but well-drained|
+|Levander|Full sun|Well-drained|
+|Thyme|Full sun|Well-drained|
+|Bay|Full sun|Well-drained|
+
+Sourse:[Here](https://www.daviddomoney.com/how-to-grow-a-beginners-herb-garden/)
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/skill.png">
