@@ -47,7 +47,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [What to avoid](#whattoavoid)
 * [Work with cars](#Work-with-cars)
 * [Writing](#writing)
-* [Healthy Lifestyle](#health) ([Diet](#diet), [Workout](#workout))
+* [Healthy Lifestyle](#health) ([Diet](#diet), [Workout](#workout), [Sleep Quality](#sleep_quality))
 * [Find your pet friend](#pet)
 
 [Note : Before you head outside](#note)
@@ -2370,6 +2370,44 @@ That being said, incorporating all three aspects of fitness (cardio, strength tr
 
 First you need to pick your training goal. Is it to lose weight, gain lean muscle, become more flexible, or maintain your current weight? Whichever goal it is you want to make one type of training your main focus and use the others to supplement.
 
+## <a name="sleep_quality"></a>Sleep Quality
+
+Image owned by: [skipprichard.com](https://www.skipprichard.com/a-holistic-approach-to-resolve-your-sleep-issues/)
+<img width="400" src="media/images/workout1.jfif">
+
+### Tips to Sleep Better at night:
+
+1. INCREASE BRIGHT LIGHT EXPOSURE DURING THE DAY 
+
+Your body has a natural time-keeping clock known as your circadian rhythm.
+
+It affects your brain, body, and hormones, helping you stay awake and telling your body when it’s time to sleep.
+
+Natural sunlight or bright light during the day helps keep your circadian rhythm healthy. This improves daytime energy, as well as nighttime sleep quality and duration
+
+2. REDUCE BLUE LIGHT EXPOSURE IN THE EVENING
+
+Exposure to light during the day is beneficial, but nighttime light exposure has the opposite effect.
+
+Again, this is due to its effect on your circadian rhythm, tricking your brain into thinking it’s still daytime. This reduces hormones like melatonin, which help you relax and get deep sleep (23Trusted Source, 24Trusted Source).
+
+Blue light — which electronic devices like smartphones and computers emit in large amounts — is the worst in this regard.
+
+There are several popular methods you can use to reduce nighttime blue light exposure. These include:
+
+..*Wear glasses that block blue light (24Trusted Source, 25Trusted Source).
+..*Switch on the night light mode on your phone or pc every evening
+..*Stop watching TV and turn off any bright lights 2 hours before heading to bed.
+
+3. TRY TO SLEEP AND WAKE AT COSNISTENT TIMES
+Your body’s circadian rhythm functions on a set loop, aligning itself with sunrise and sunset.
+
+Being consistent with your sleep and waking times can aid long-term sleep quality.
+
+4. OPTIMIZE YOUR BEDROOM ENVIRONMENT
+Many people believe that the bedroom environment and its setup are key factors in getting a good night’s sleep.
+
+These factors include temperature, noise, external lights, and furniture arrangement .
 
 ### It's time to find yourself. Do it now. You have the time. All you need is inspiration, will and discipline.
 
@@ -2383,6 +2421,8 @@ Source: <https://www.foundationforpn.org/living-well/lifestyle/#:~:text=Being%20
 Source: <https://www.healthline.com/nutrition/meal-plans#TOC_TITLE_HDR_6>
 
 Source: <https://www.scorchfitness.com/blog/movement/how-much-and-what-type-of-exercise-for-your-goals>
+
+Source: <https://www.healthline.com/nutrition/17-tips-to-sleep-better#_noHeaderPrefixedContent>
 
 ---
 <img align="left" width="40" height="40" src="media/icons/pets.png">
