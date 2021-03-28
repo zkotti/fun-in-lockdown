@@ -2514,7 +2514,14 @@ Source: https://www.podcastinsights.com/start-a-podcast/
 
 **Computer Science** 
 - Alan turing
-
+**Philosophy**
+- Socrates
+**Physics**  
+- Albert Einstein
+**Politics**
+- Diogenes of Sinope
+**Art**
+- Pablo Picasso 
 ---
 
 <img align="left" width="40" height="40" src="media/gifs/trippy.gif">
