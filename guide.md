@@ -261,6 +261,10 @@ In case you are a nature lover the special idea for you would be to invest in bu
 
 If yes is the answer, then mirrors would be by far the best way to decorate your bedroom. Either a big mirror, or even a large variety of smaller ones will be perfect for your room, making it look bigger too.
 
+* ### Are you obsessed with color?
+
+Choose your favorite colors, combine them and use them to paint the walls in your bedroom. We assure you that you will be astonished by the result. However, in case you don't want to make such a drastic change in your bedroom, you can also invest in wallpapers or buy many pillows of the colors you want, rugs, curtains or  lamps to add some color.
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/youtubeicon.png">
