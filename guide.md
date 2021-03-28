@@ -245,6 +245,13 @@ Your room is probably the place you spend the most time of your day during all q
 
 Make a start right this moment!
 
+Of course, the decoration of your room is your choice and only you have a word. However, you might don't know where to start, so it's a good idea to provide you some tips and let you take them to the next level!
+
+Here's a small list of ideas you can use to redecorate your room:
+
+* Invest in frames with your most lovable photographs, paintings, even some of your artistic creations or ones you can buy online. Arrange them in a pattern of your preference and the outcome would really add beauty in your room.
+
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/youtubeicon.png">
