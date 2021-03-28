@@ -239,6 +239,12 @@ the first step to become an artist and use the time during the pandemic more eff
 * [Adult Colouring Books](https://www.amazon.com/s?k=adult+coloring+book&crid=3S3IZCUX5I7KQ&sprefix=adult+colo%2Caps%2C193&ref=nb_sb_noss_2)
 * [Beginner's guide to Digital Art](https://www.youtube.com/watch?v=5pmIYH1ugtk&ab_channel=Nadiaxel)
 
+### Redecorate your room
+
+Your room is probably the place you spend the most time of your day during all quarantine period. Consequently, your room should be decorated in a way that suits your character and makes you willing to spend your whole day in it. So, why don't you redecorate it and transform it into a place you feel it expresses you?
+
+Make a start right this moment!
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/youtubeicon.png">
