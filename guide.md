@@ -107,6 +107,18 @@ Recommended for Anime Fans/Anime Freaks|
 
 Pictures Taken from IMBd
 
+### One Punch Man (from 2015)
+
+<img width="500" height="500" src="media/images/onePunchMan.jpg">
+
+**One-Punch Man (ワンパンマン)** tells the story of Saitama, a superhero who can defeat any opponent with a single punch after following a hard training. He seeks to find a worthy opponent after growing bored by a lack of challenge due to his overwhelming strength. 
+
+Pictures Taken from IMBd
+
+Air Dates: from 2015
+Genre: Adventure, Comedy
+Recommended for Beginners
+
 ### Naruto (2007-2017)
 <img width="500" height="500" src="media/images/naruto.jpg">
 
