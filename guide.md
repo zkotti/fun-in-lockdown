@@ -1259,6 +1259,11 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * Full body HIIT (NO EQUIPMENT) [video](https://www.youtube.com/watch?v=ec_buXYn9So)
 * 40 min HIIT full body sculpt [video](https://www.youtube.com/watch?v=D2D9NUptqfk)
 * 45 min full body HIIT workout [video](https://www.youtube.com/watch?v=pAOPPQFQgcQ&t=6s)
+* 10 min HIIT [video](https://www.youtube.com/watch?v=zr08J6wB53Y)
+* 10 min Hardcore HIIT [video](https://www.youtube.com/watch?v=uHx6nbdSlAg)
+* 15 min Full Body HIIT [video](https://www.youtube.com/watch?v=1skBf6h2ksI)
+* 10 min Best of HIIT [video](https://www.youtube.com/watch?v=k7nV8Gyn56o)
+* 30 min Low Impact Full Body HIIT [video](https://www.youtube.com/watch?v=MiJ2OtqhJGw)
 
 **Pilates workouts:**
 
