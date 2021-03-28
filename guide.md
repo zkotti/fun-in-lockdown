@@ -1280,7 +1280,7 @@ Once you have all the equipment needed, take many water bottles, maybe a sibling
 * Top Tips for Cycling in Athens [Link](https://www.thisisathens.org/activities/sports-outdoors/biking-cycling)
 
 ---
-<img align="left" width="40" height="40" src="media/icons/explore.jpg">
+<img align="left" width="40" height="40" src="media/images/explore.jpg">
 
 ## <a name="exploretw"></a>Explore the world
 Exploring the world from home seems impossible or not? Lets see what technology offer us,so that we do not get bored and learn about other places and cultures of the world.
@@ -1291,7 +1291,7 @@ Exploring the world from home seems impossible or not? Lets see what technology 
 **Google Earth** provides search capabilities and the ability to pan,zoom,rotate, and tilt the view of the Earth. You can even find your home except the exotic beaches of carribean sea. Check it [here](https://www.google.com/earth/)
 
 ### Radio Garden
-<img width="500" height="500" src="media/icons/images/radio-garden.jpg">
+<img width="500" height="500" src="media/images/radio-garden.jpg">
 
 **Garden radio** is an application that allows you to have access to almost every radio station around the globe. Do you want to check what they are listening while they're  drinking their coffee in Egypt? Want to know Whats the most common music in Thailand? Check it [here](http://radio.garden/).
 
