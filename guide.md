@@ -25,6 +25,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Down the rabbit hole](#conspiracies)
 * [Drinking games](#drinking-games)
 * [Exercise](#exercise)
+* [Explore the world](#exploretw)
 * [Facetime your long-distance friends](#facetime)
 * [Find your pet friend](#pet)
 * [Gardening](#gardening)
@@ -52,7 +53,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Wikipedia Contributing](#wikicontr)
 * [Work with cars](#Work-with-cars)
 * [Writing](#writing)
-* [Explore the world](#exploretw)
+
 
 
 [Note : Before you head outside](#note)
@@ -1277,8 +1278,27 @@ Once you have all the equipment needed, take many water bottles, maybe a sibling
 * Top Tips for Cycling in Athens [Link](https://www.thisisathens.org/activities/sports-outdoors/biking-cycling)
 
 ---
+<img align="left" width="40" height="40" src="media/icons/explore.png">
+
+## <a name="exploretw"></a>Explore the world
+Exploring the world from home seems impossible or not? Lets see what technology offer us,so that we do not get bored and learn about other places and cultures of the world.
+
+### Google Earth
+<img width="500" height="500" src="media/images/google-earth.jpg">
+
+**Google Earth** provides search capabilities and the ability to pan,zoom,rotate, and tilt the view of the Earth. You can even find your home except the exotic beaches of carribean sea. Check it [here](https://www.google.com/earth/)
+
+### Radio Garden
+<img width="500" height="500" src="media/images/garden-radio.jpg">
+
+**Garden radio** is an application that allows you to have access to almost every radio station around the globe. Do you want to check what they are listening while they're  drinking their coffee in Egypt? Want to know Whats the most common music in Thailand? Check it [here](http://radio.garden/).
+
+Images Source are  https://www.123rf.com/  
+                  https://www.google.com
+                  http://radio.garden/
 
 <img align="left" width="40" height="40" src="media/icons/videocall.png">
+---
 
 ## <a name="facetime"></a>Video call your long-distance friends
 Do you remember the nights when you used to hang out for hours with your friends? Since that is not possible any more you can use the following software to replicate the group feeling:
@@ -2902,24 +2922,7 @@ regulations that are currently active on every Greek regional unit. For informat
 
 ---
 
-<img align="left" width="40" height="40" src="media/icons/explore.png">
 
-## <a name="exploretw"></a>Explore the world
-Exploring the world from home seems impossible or not? Lets see what technology offer us,so that we do not get bored and learn about other places and cultures of the world.
-
-### Google Earth
-<img width="500" height="500" src="media/images/google-earth.jpg">
-
-**Google Earth** provides search capabilities and the ability to pan,zoom,rotate, and tilt the view of the Earth. You can even find your home except the exotic beaches of carribean sea. Check it [here](https://www.google.com/earth/)
-
-### Radio Garden
-<img width="500" height="500" src="media/images/garden-radio.jpg">
-
-**Garden radio** is an application that allows you to have access to almost every radio station around the globe. Do you want to check what they are listening while they're  drinking their coffee in Egypt? Want to know Whats the most common music in Thailand? Check it [here](http://radio.garden/).
-
-Images Source are  https://www.123rf.com/  
-                  https://www.google.com
-                  http://radio.garden/
 
 
 ---
