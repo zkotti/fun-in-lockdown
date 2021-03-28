@@ -1101,7 +1101,7 @@ Source : https://en.wikipedia.org/wiki/List_of_conspiracy_theories
 <img align="left" width="40" height="40" src="media/icons/drinking-games.png">
 
 ## <a name="drinking-games"></a>Drinking Games
-Drinking games offer the opportunity to come closer with your friends and have a a great time **(Drink responsibly).**
+Drinking games offer the opportunity to come closer with your friends and have a great time **(Drink responsibly).**
 * **Flip cup:** This is a team game, where two opposing groups stand on opposite sides of a table or counter, with a full cup in front of each player.
 The games begin, and the first players in line race to down their drinks, and then place their empty cups upside down on the edge of the surface. They then have to successfully flip their cups the right way up – not so easy once you've had a few – at which point the next player in line has to do the same. It's a relay, so the first team to get to the end wins!\
 *What you need: Large plastic cups(can also be used for [beerpong](#beerpong))*
@@ -1117,8 +1117,10 @@ The games begin, and the first players in line race to down their drinks, and th
 *What you need: Your drinks and a good mood.*
 * **Impostor:** Fill all the shot glasses with water and just one with vodka. Then, place the glasses on a circular rotating surface and gather around it. As the surface rotates close your eyes in order to forget the position of the vodka glass. When the surface stops spinning, players begin to drink the shot glass in front of them in a row. When all the players have had their shot, you start voting who is the impostor (the one with the vodka shot). If the majority votes for the impostor, he drinks two shots, otherwise all the other players, except the impostor, drink one shot. If no one votes for the impostor you have to drink two shots instead of one.\
 *What you need: A circular rotating surface and shot glasses.*
-
-
+* **Buzz:** Buzz is one of the easiest drinking games, in which each player starts counting aloud, except a number (e.g 7) and its multiples, in which case, you say buzz. If you don't, you drink. Very simple!
+*What you need: Only drinks.*
+* **Most Likely:** This is a quick and funny game. The group sits in a circle and asks a 'most likely' question. For example, "Who would be most likely to sleep on the train?" After counting to three, everyone points at a person who they think are most likely to do so. The person who has the maximum number of fingers pointed at them, drinks as many drinks.
+*What you need: Your drinks and a good mood.*
 
 **Note:** In order to make small gatherings safe please consider [this](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays/small-gatherings.html) tips.
 
