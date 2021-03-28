@@ -1232,10 +1232,12 @@ Whether you have worked out or not, don't forget to stretch daily! It will make 
 
 Quarantine gives you  a great opportunity to feel healthy again.These apps will make you fall in love with exercising.
 
-* Plank Workout at Home-30 days Plank Challenge[Link](https://play.google.com/store/apps/details?id=fat.burnning.plank.fitness.loseweight&hl=el&gl=US)
-* Flexibility Training & Stretching Exercise at Home[Link](https://play.google.com/store/apps/details?id=com.fitifyapps.bwstretching&hl=en_US&gl=US)
-* Yoga daily fitness - Yoga workout plan[Link](https://play.google.com/store/apps/details?id=com.ssstudio.yogadailyfitness&hl=en_US&gl=US)
+* Plank Workout at Home-30 days Plank Challenge [Link](https://play.google.com/store/apps/details?id=fat.burnning.plank.fitness.loseweight&hl=el&gl=US)
+* Flexibility Training & Stretching Exercise at Home [Link](https://play.google.com/store/apps/details?id=com.fitifyapps.bwstretching&hl=en_US&gl=US)
+* Yoga daily fitness - Yoga workout plan [Link](https://play.google.com/store/apps/details?id=com.ssstudio.yogadailyfitness&hl=en_US&gl=US)
 * Yoga Workout-Yoga&Meditation for Daily Fitness [Link](https://play.google.com/store/apps/details?id=com.homefit.yoga.health&hl=en_US&gl=US)
+* Yoga for Beginners-Yoga Exercises at Home [Link](https://play.google.com/store/apps/details?id=yogaworkouts.dailyyoga.yogafitness)
+* Pilates Exercises-Pilates at Home [Link](https://play.google.com/store/apps/details?id=pilatesworkouts.loseweight.dailyyoga)
 
 **Running:**
 
