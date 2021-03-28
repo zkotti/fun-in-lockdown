@@ -31,6 +31,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Gardening](#gardening)
 * [Healthy Lifestyle](#health) ([Diet](#diet), [Workout](#workout), [Sleep Quality](#sleep_quality))
 * [Learn a new skill](#new-skill)
+* [Magic Tricks](#magic-tricks)
 * [Meditation](#meditation)
 * [Movies-Documentaries-Series](#movies-docum-series)
 * [Mums helper with the children](#mum)
@@ -110,6 +111,18 @@ Genre: Dark Fantasy|
 Recommended for Anime Fans/Anime Freaks|
 
 Pictures Taken from IMBd
+
+### One Punch Man (from 2015)
+
+<img width="250" height="500" src="media/images/onePunchMan.jpg">
+
+**One-Punch Man (ワンパンマン)** tells the story of Saitama, a superhero who can defeat any opponent with a single punch after following a hard training. He seeks to find a worthy opponent after growing bored by a lack of challenge due to his overwhelming strength. 
+
+Pictures Taken from IMBd
+
+Air Dates: from 2015|
+Genre: Adventure, Comedy|
+Recommended for Beginners
 
 ### Naruto (2007-2017)
 <img width="500" height="500" src="media/images/naruto.jpg">
@@ -1416,6 +1429,26 @@ Great ideas to learn new skills:
 * Learn to type, [here is a useful platform](https://www.typingclub.com/)
 * Learn [how to cook, easily among the best!](https://akispetretzikis.com/ "Akis Petretzikis")
 * Learn one easy [magic trick](https://www.youtube.com/watch?v=lhu2hGLz0FY) that will impress everyone
+
+---
+
+<img align="left" width="40" height="40" src="media/icons/hat.png">
+
+## <a name="=magic-trick"></a>Magic tricks
+Learning magic tricks can be a fun and challenging skill to learn during lockdown. The only thing you need is a deck of cards and you are set to go!
+
+**Skills to learn**
+
+if you learn this skills you will be able to perform and have a basic understanding of most magic tricks.
+
+* [The double lift](https://www.youtube.com/watch?v=Gjd4EDm3EWU): the most common and usefull skill in magic tricks with cards
+* [False cuts](https://www.youtube.com/results?search_query=false+cut): ways to shuffle the deck without actually shuffling it, thus tricking your audience
+* [Riffle shuffle](https://www.youtube.com/watch?v=f6ZD1lDbW3M): quick and fast way to shuffle the deck. Can be tricky at the start but with a little practise you will get it just right
+* [Overhand shuffle](https://www.youtube.com/watch?v=JlG3lT0RKOw): the easiest way of shuffling a deck
+
+
+Icon source https://www.flaticon.com
+
 
 ---
 
