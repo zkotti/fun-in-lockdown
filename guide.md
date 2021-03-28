@@ -26,8 +26,10 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Exercise](#exercise)
 * [Explore the world](#exploretw)
 * [Facetime your long-distance friends](#facetime)
+* [Find your pet friend](#pet)
 * [Gardening](#gardening)
 * [Learn a new skill](#new-skill)
+* [Make Money in the Quarantine](#mkmoney)
 * [Magic Tricks](#magic-tricks)
 * [Meditation](#meditation)
 * [Movies-Documentaries-Series](#movies-docum-series)
@@ -54,8 +56,6 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Work with cars](#Work-with-cars)
 * [Writing](#writing)
 * [Healthy Lifestyle](#health) ([Diet](#diet), [Workout](#workout), [Sleep Quality](#sleep_quality))
-* [Find your pet friend](#pet)
-* [Make Money in the Quarantine](#mkmoney)
 
 [Note : Before you head outside](#note)
 
@@ -1414,6 +1414,31 @@ Who says you have to be in the same space to have fun? Gather your friends and p
 
 ---
 
+<img align="left" width="40" height="40" src="media/icons/pets.png">
+
+## <a name="pet"></a>Find your pet friend
+Dog or cat? A question that concerns many people!
+lockdown is a good chance to buy or better to adopt a new pet, dog or cat, and spend quality time with it.
+In order to show your pet your love and care, there are some specific things you can do.
+
+* __Exercise your pet__
+
+Exercise is a vital part of enriching your pets’ lives. Walking, running, playing fetch or tug, and learning agility or flyball are all great ways to keep your dog physically fit. For cats, try interactive play with wand toys or balls. Some cats can be taught to enjoy walks outdoors wearing a harness and leash. Many of these activities have the added benefit of exercising humans, too.
+
+* __Visit the vet for a checkup__
+
+Let’s face it. Few of us like going to the doctor, and our pets are no different. But you can teach your pets to tolerate going to the vet by doling out delicious treats that make the experience more enjoyable. Many clinics will allow you to simply come and visit, so that later on when an appointment is necessary, your pet will have a more positive association with medical care.
+
+* __Healthy food__
+
+Just like humans, pets thrive when they have a healthy diet. A healthy and balanced diet is essential for a healthy and happy pet. Not only will it provide your pet with enough energy for his day to day activities, but it is also vital for proper brain function.
+
+* __Training__
+
+Are you ready to start training your pet? Proper training and socialization are among your pet's basic needs. It's important to start training your pet as soon as possible.At first, pet training can seem pretty overwhelming, especially if this is your first pet. The truth is that training your pet is a very big project. If you take it step by step(watching videos on youtube), you will find the task to be far less daunting.
+
+---
+
 <img align="left" width="40" height="40" src="media/icons/gardening.png">
 
 ## <a name="gardening"></a> Gardening
@@ -1495,6 +1520,23 @@ Great ideas to learn new skills:
 * Learn to type, [here is a useful platform](https://www.typingclub.com/)
 * Learn [how to cook, easily among the best!](https://akispetretzikis.com/ "Akis Petretzikis")
 * Learn one easy [magic trick](https://www.youtube.com/watch?v=lhu2hGLz0FY) that will impress everyone
+
+---
+
+
+
+<img align="left" width="40" height="40" src="media/icons/money-flat.png">
+
+## <a name ="mkmoney"></a> Make Money in the Quarantine
+Quarantine or not, having some extra income is never a bad choice. Especially now, that societies are tumbling down economically, because of the government decisions to sustain the pandemic.
+
+Some options for making money online.
+|Name|Short Description| 
+|---|---|
+|[Prolific](https://www.unrealengine.com/en-US/)|Take part in surveys and receive rewards| 
+|[OnlyFans](https://unity.com/)| Share content on subscribtion - Start your own web series|
+|[Coinbase](https://www.coinbase.com/)| Trade cryptocurrencies|
+
 
 ---
 
@@ -3019,46 +3061,6 @@ Source: <https://www.healthline.com/nutrition/meal-plans#TOC_TITLE_HDR_6>
 Source: <https://www.scorchfitness.com/blog/movement/how-much-and-what-type-of-exercise-for-your-goals>
 
 Source: <https://www.healthline.com/nutrition/17-tips-to-sleep-better#_noHeaderPrefixedContent>
-
----
-<img align="left" width="40" height="40" src="media/icons/pets.png">
-
-## <a name="pet"></a>Find your pet friend
-Dog or cat? A question that concerns many people!
-lockdown is a good chance to buy or better to adopt a new pet, dog or cat, and spend quality time with it.
-In order to show your pet your love and care, there are some specific things you can do.
-
-* __Exercise your pet__
-
-Exercise is a vital part of enriching your pets’ lives. Walking, running, playing fetch or tug, and learning agility or flyball are all great ways to keep your dog physically fit. For cats, try interactive play with wand toys or balls. Some cats can be taught to enjoy walks outdoors wearing a harness and leash. Many of these activities have the added benefit of exercising humans, too.
-
-* __Visit the vet for a checkup__
-
-Let’s face it. Few of us like going to the doctor, and our pets are no different. But you can teach your pets to tolerate going to the vet by doling out delicious treats that make the experience more enjoyable. Many clinics will allow you to simply come and visit, so that later on when an appointment is necessary, your pet will have a more positive association with medical care.
-
-* __Healthy food__
-
-Just like humans, pets thrive when they have a healthy diet. A healthy and balanced diet is essential for a healthy and happy pet. Not only will it provide your pet with enough energy for his day to day activities, but it is also vital for proper brain function.
-
-* __Training__
-
-Are you ready to start training your pet? Proper training and socialization are among your pet's basic needs. It's important to start training your pet as soon as possible.At first, pet training can seem pretty overwhelming, especially if this is your first pet. The truth is that training your pet is a very big project. If you take it step by step(watching videos on youtube), you will find the task to be far less daunting.
-
----
-
-
-<img align="left" width="40" height="40" src="media/icons/money-flat.png">
-
-## <a name ="mkmoney"></a> Make Money in the Quarantine
-Quarantine or not, having some extra income is never a bad choice. Especially now, that societies are tumbling down economically, because of the government decisions to sustain the pandemic.
-
-Some options for making money online.
-|Name|Short Description| 
-|---|---|
-|[Prolific](https://www.unrealengine.com/en-US/)|Take part in surveys and receive rewards| 
-|[OnlyFans](https://unity.com/)| Share content on subscribtion - Start your own web series|
-|[Coinbase](https://www.coinbase.com/)| Trade cryptocurrencies|
-
 
 ---
 
