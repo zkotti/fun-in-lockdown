@@ -2509,8 +2509,8 @@ Here are a few simple steps to help you start:
 Source: https://www.podcastinsights.com/start-a-podcast/
 
 ---
-
-### <a name="thinkers"> Great thinkers to study in plenty of fields!
+##<a name="thinkers"> Important thinkers to study in plenty of fields!
+### Study the greats, become greater
 
 - Computer Science
   - Alan turing
