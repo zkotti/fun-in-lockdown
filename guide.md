@@ -1291,7 +1291,7 @@ Exploring the world from home seems impossible or not? Lets see what technology 
 **Google Earth** provides search capabilities and the ability to pan,zoom,rotate, and tilt the view of the Earth. You can even find your home except the exotic beaches of carribean sea. Check it [here](https://www.google.com/earth/)
 
 ### Radio Garden
-<img width="500" height="500" src="media/images/radio-garden.jpg">
+<img width="500" height="500" src="media/icons/images/radio-garden.jpg">
 
 **Garden radio** is an application that allows you to have access to almost every radio station around the globe. Do you want to check what they are listening while they're  drinking their coffee in Egypt? Want to know Whats the most common music in Thailand? Check it [here](http://radio.garden/).
 
