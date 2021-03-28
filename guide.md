@@ -19,7 +19,6 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Coding Projects](#coding-projects)
 * [Cooking](#cooking)
 * [Covid-19 Infection](#covid-infection)
-* [Create your own Video Game](#create-video-game)
 * [Diet](#diet)
 * [Discover Space](#Discover-Space)
 * [Down the rabbit hole](#conspiracies)
@@ -27,9 +26,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Exercise](#exercise)
 * [Explore the world](#exploretw)
 * [Facetime your long-distance friends](#facetime)
-* [Find your pet friend](#pet)
 * [Gardening](#gardening)
-* [Healthy Lifestyle](#health) ([Diet](#diet), [Workout](#workout), [Sleep Quality](#sleep_quality))
 * [Learn a new skill](#new-skill)
 * [Magic Tricks](#magic-tricks)
 * [Meditation](#meditation)
@@ -45,19 +42,19 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Social Movements](#social-movements)
 * [Start a new Project](#projects)
 * [Start listening to Podcasts](#podcasts)
-* [Take a Look at the Past](#past)
 * [Trippy Gifs](#trippygifs)
+* [Take a Look at the Past](#past)
 * [Video Games](#video-games)
 * [Video Making](#videomaking)
+* [Create your own Video Game](#create-video-game)
 * [Virtual Tours-Trips](#trips-tours)
 * [Walks in Town](#walks)
 * [What to avoid](#whattoavoid)
 * [Wikipedia Contributing](#wikicontr)
 * [Work with cars](#Work-with-cars)
 * [Writing](#writing)
-
-
-
+* [Healthy Lifestyle](#health) ([Diet](#diet), [Workout](#workout), [Sleep Quality](#sleep_quality))
+* [Find your pet friend](#pet)
 [Note : Before you head outside](#note)
 
 
@@ -65,7 +62,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 ---
 <img align="left" width="40" height="40" src="media/icons/animeicon2.jpg">
 
-## <a name="art"></a>Anime
+## <a name="anime"></a>Anime
 
 ### What is Anime
 
@@ -616,8 +613,16 @@ Creating an alarm clock is a cool way of demonstrating your coding skills. To be
 
 Create a python program with a complete GUI, that gives you a random sentence, and tests your typing speed. It is an advanced project but you can learn a lot about design.
 
+* Web Crawler
 
-Source : https://careerkarma.com/blog/python-projects-beginners/
+A web crawler is an automated program script that surfs the internet and stores the content of a particular webpage. You will need to use a multi-thread concept for such a program. You can use Python’s request module to make the crawler bot, or you can use Scrapy. 
+
+* Spin a Yarn
+
+The program first prompts the user to enter a series of inputs. These can be an adjective, a preposition, a proper noun, etc. Once all the inputs are in place, they are placed in a premade story template using concatenation. In the end, the full story is printed out to read some misintended madness!
+
+
+Sources : https://careerkarma.com/blog/python-projects-beginners/ , https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/
 
 <img align="left" width="40" height="40" src="media/icons/java.jpg">
 
