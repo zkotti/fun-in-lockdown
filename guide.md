@@ -1492,6 +1492,7 @@ You can have an amazing time just by relaxing and listening to your favorite mus
 ### Songs
 Most of us can't imagine how lockdown would be like without our favorite songs. Here are some great songs you may not know:
 <!--- It would be nice to add songs that aren't widely known! In this way we can discover new music :) -->
+* Afousis, Kaisaras Kikis [listen here](https://www.youtube.com/watch?v=brD4ufFMA1A)
 * A Good Night, John Legend, BloodPop [listen here](https://www.youtube.com/watch?v=KQRq9FZqNj0)
 * All Around Me, by Aaronya [listen here](https://www.youtube.com/watch?v=min5dZxrXLQ&ab_channel=Aaronya-Topic)
 * All Time, by Tyler Ward, Mike Tompkins and KHS [listen here](https://www.youtube.com/watch?v=dkcs-26PBjY)
@@ -1503,8 +1504,10 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Brain Damage, Pink Floyd [listen here](https://www.youtube.com/watch?v=BhYKN21olBw)
 * CLOUDS, by NF [listen here](https://www.youtube.com/watch?v=fibYknUCIU4)
 * Cat People, David Bowie [listen here](https://www.youtube.com/watch?v=A9I7U4nuR_I)
+* Catch The Rainbow, Rainbow [listen here](https://www.youtube.com/watch?v=V5QukAC-jqE)
 * Closer, by Chainsmokers [listen here](https://www.youtube.com/watch?v=PT2_F-1esPk)
 * Demons, by Imagine Dragons [listen here](https://www.youtube.com/watch?v=mWRsgZuwf_8)
+* Dreamer Deceiver, Judas Priest [listen here](https://www.youtube.com/watch?v=tbrq_23nrwg)
 * FEVER, by Megan Nicole [listen here](https://www.youtube.com/watch?v=DV30BtjNNIU)
 * Faith, by the Weeknd [listen here](https://www.youtube.com/watch?v=RcS_8-a-sMg&ab_channel=TheWeekndVEVO)
 * Flatlands, The Aristocrats [listen here](https://www.youtube.com/watch?v=fW0p5SB52sI&list=LL&index=39)
@@ -1531,7 +1534,9 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Put Your Hands Up, by Boiling Point Band [listen here](https://www.youtube.com/watch?v=57SKB6Er88c)
 * Respect Is What you Hear, The Weather Underground [listen here](https://www.youtube.com/watch?v=DcjdVsx-VoE)
 * Save Room, John Legend [listen here](https://www.youtube.com/watch?v=iOmnGzAKLvg)
+* School, Supertramp [listen here](https://www.youtube.com/watch?v=SUPJJqGRiK4)
 * Sleep on the Floor, Lumineers [listen here](https://www.youtube.com/watch?v=v4pi1LxuDHc)
+* Soldier Of Fortune, Deep Purple [listen here](https://www.youtube.com/watch?v=znW-P7lMKjU)
 * Space Song, by Beach House [listen here](https://www.youtube.com/watch?v=RBtlPT23PTM&list=PLRQDSvpEpYzBUdlMzMhAWSD4TyE0ga7Et&index=4)
 * Spring 1, recomposed by Max Richter (original by Vivaldi) [listen here](https://www.youtube.com/watch?v=41IOkVjy3MM)
 * Strangers In The Night, Frank Sinatra [listen here](https://www.youtube.com/watch?v=ZwAERaRUsp0)
@@ -1543,6 +1548,7 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * The Fuss, Against The Current [listen here](https://www.youtube.com/watch?v=y_Qsrt6c9_k)
 * The Less I Know the Better, Tame Impala [listen here](https://www.youtube.com/watch?v=2SUwOgmvzK4)
 * The Logical Song, Supertramp [listen here](https://www.youtube.com/watch?v=low6Coqrw9Y)
+* The Pot & Kettle, The Rumjacks [listen here](https://www.youtube.com/watch?v=HNCb-ByT6yQ)
 * Una volta ancora, by Fred De Palma [listen here](https://www.youtube.com/watch?v=4R5mDpIgwUs)
 * United States of Eurasia, Muse [listen here](https://www.youtube.com/watch?v=-5-K51jHQ6k)
 * War of Change, Thousand Foot Krutch [listen here](https://www.youtube.com/watch?v=HdnTSXUWd3E)
@@ -1556,6 +1562,7 @@ A subsection to add your favorite Music Albums
 
 * A night at the opera (2011 Remaster), by Queen [listen here](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx?si=bcOcHr7lSbS2PGYLVyT-XQ)
 * American Idiot (2004), by Green Day [listen here](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke?si=4eMZxuPfQE6YsZkQLZTTsw)
+* Folk is Rock (2019), by Pentaichon [listen here](https://open.spotify.com/album/7oOjNgvaPiv8DiUovcO8V5?si=ddZTINRvReibQzflo9HoUA)
 * IIII (2021), by Robin Schulz [listen here](https://open.spotify.com/album/2QC9gnxGo0MnJ98mLTOf6c)
 * La La Land (2016), by Justin Hurwitz [listen here](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S)
 * Les Misérables (1985), by London Cast Recording [listen here](https://open.spotify.com/album/3QnkeixkKiKpP3ObLb7DtT)
