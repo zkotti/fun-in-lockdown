@@ -31,6 +31,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Gardening](#gardening)
 * [Healthy Lifestyle](#health) ([Diet](#diet), [Workout](#workout), [Sleep Quality](#sleep_quality))
 * [Learn a new skill](#new-skill)
+* [Magic Tricks](#magic-tricks)
 * [Meditation](#meditation)
 * [Movies-Documentaries-Series](#movies-docum-series)
 * [Music](#music)
