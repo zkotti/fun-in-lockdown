@@ -2509,6 +2509,10 @@ Source: https://www.podcastinsights.com/start-a-podcast/
 
 ---
 
+### Great thinkers to study in plenty of fields!
+1. Alan turing
+---
+
 <img align="left" width="40" height="40" src="media/gifs/trippy.gif">
 
 ## <a name="trippygifs"></a> Trippy Gifs!
