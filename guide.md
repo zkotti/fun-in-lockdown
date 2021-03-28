@@ -55,6 +55,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Writing](#writing)
 * [Healthy Lifestyle](#health) ([Diet](#diet), [Workout](#workout), [Sleep Quality](#sleep_quality))
 * [Find your pet friend](#pet)
+* [Make Money in the Quarantine](#mkmoney)
 
 [Note : Before you head outside](#note)
 
@@ -3021,8 +3022,25 @@ Just like humans, pets thrive when they have a healthy diet. A healthy and balan
 Are you ready to start training your pet? Proper training and socialization are among your pet's basic needs. It's important to start training your pet as soon as possible.At first, pet training can seem pretty overwhelming, especially if this is your first pet. The truth is that training your pet is a very big project. If you take it step by step(watching videos on youtube), you will find the task to be far less daunting.
 
 ---
-<img align="left" width="40" height="40" src="media/icons/warning-shield.png">
 
+
+<img align="left" width="40" height="40" src="media/icons/money-flat.png">
+
+## <a name ="mkmoney"></a> Make Money in the Quarantine
+Quarantine or not, having some extra income is never a bad choice. Especially now, that societies are tumbling down economically, because of the government decisions to sustain the pandemic.
+
+Some options for making money online.
+|Name|Short Description| 
+|---|---|
+|[Prolific](https://www.unrealengine.com/en-US/)|Take part in surveys and receive rewards| 
+|[OnlyFans](https://unity.com/)|2005| Share content on subscribtion - Start your own web series|
+|[Coinbase](https://www.coinbase.com/)| Trade cryptocurrencies|
+
+
+---
+
+
+<img align="left" width="40" height="40" src="media/icons/warning-shield.png">
 
 ## <a name="note"></a>Note : Before you head outside
 1. *Be sure you wear a mask*
