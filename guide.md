@@ -55,6 +55,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Writing](#writing)
 * [Healthy Lifestyle](#health) ([Diet](#diet), [Workout](#workout), [Sleep Quality](#sleep_quality))
 * [Find your pet friend](#pet)
+
 [Note : Before you head outside](#note)
 
 
