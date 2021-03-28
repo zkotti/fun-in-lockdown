@@ -1709,6 +1709,10 @@ You can have an amazing time just by relaxing and listening to your favorite mus
 * Relaxing Jazz Music [listen here](https://www.youtube.com/watch?v=neV3EPgvZ3g)
 * Top 40 songs of 2020 2021 [listen here](https://www.youtube.com/watch?v=_pLO4jFDeIc)
 * Top techno songs [listen here](https://open.spotify.com/playlist/6g7ZfOfEqqSR4o7iPVZggC?si=jDMehvIDSweA0UJqu4Vhng)
+* Relaxing Piano Pieces [listen here](https://www.youtube.com/watch?v=WJ3-F02-F_Y)
+* Work and Study Lo-fi Jazz [listen here](https://www.youtube.com/watch?v=CfPxlb8-ZQ0)
+* Workout Mix [listen here](https://www.youtube.com/watch?v=VdxDnuXj4yc)
+* Relaxing Sleep Music [listen here](https://www.youtube.com/watch?v=1ZYbU82GVz4)
 
 
 ### Songs
