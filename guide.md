@@ -1476,7 +1476,7 @@ Here are some of the vegetables that you can begin with!
 
 
 
-|VEGETABLE| GROW TIME (days)| VITAMINS| COLD HARDNESS | WHEN TO WATER |
+|VEGETABLE NAME| GROW TIME (days)| VITAMINS| COLD HARDNESS | WHEN TO WATER |
 |---| ---| ---| ---| ---|
 | Broccoli  | 100-150  | 	A, E, B1, and B6|	Hardy | Only during drought conditions |
 | Carrots  | 70-80  | 	A, C, K, and B6|	Half-hardy | Only during drought conditions |
@@ -1524,7 +1524,7 @@ Icon source: [thenounproject.com ](https://thenounproject.com/term/gardening/)
 |Thyme|Full sun|Well-drained|
 |Bay|Full sun|Well-drained|
 
-Sourse:[Here](https://www.daviddomoney.com/how-to-grow-a-beginners-herb-garden/)
+Source: [How to grow a beginner's herb garden](https://www.daviddomoney.com/how-to-grow-a-beginners-herb-garden/)
 
 ---
 
