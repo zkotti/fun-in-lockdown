@@ -840,6 +840,21 @@ In order to convince you that breakfast is not always a time-consuming process, 
 
 Information was taken from [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 
+**Get Informed!**
+
+Stay up to date with all the latest news on the pandemic, read articles and statistics about the number of infections and in general, be informed
+about the extend of the virus outbreak. Being informed helps you understand the situation better and be prepared physically and psychologically
+about the next phases of the pandemic. This way, you will always be aware of the dangers and protect yourself and your contacts.
+
+**You are not alone!**
+
+Everyone is struggling under these cicrcumstances. Many people are experiencing a really rough time lately, feeling depressed and hopeless. It is absotely logical
+to feel this way, thus talking to friends and family makes the situation much easier for all of you.It is during times like this, that an opportunity to become more
+adaptive and resilient, as well as to reflect on ourselves appears. We will come through this crisis stronger than ever
+and most probably all aspects of our lives will thrive again. If you bear that in mind, I hope it gives you as much hope as it gives myself.
+
+Stay safe, stay positive!
+
 ---
 
 <img align="left" width="40" height="40" src="media/icons/avocando.png">
