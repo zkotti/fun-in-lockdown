@@ -1253,6 +1253,10 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * 20 Minute hard mode (NO EQUIPMENT) [video](https://youtu.be/yDQQVU__6Uc)
 * Full body Dumbbell workout [video](https://www.youtube.com/watch?v=i-Kq8loq7fA)
 * Full body home workout [video](https://www.youtube.com/watch?v=vc1E5CfRfos)
+* 20 min Full Body intense [video](https://www.youtube.com/watch?v=Y2eOW7XYWxc&t=499s)
+* 20 min Full Body Beginner [video](https://www.youtube.com/watch?v=UItWltVZZmE&t=363s)
+* 15 min Full Body Beginner [video](https://www.youtube.com/watch?v=F8v9SA4Ptu4)
+* 20 min Full Body [video](https://www.youtube.com/watch?v=oKfNUOWuZV8)
 
 **HIIT workouts:**
 
