@@ -1641,7 +1641,7 @@ Additionally, MuseScore offers a large database of free-to-access sheet music. Y
 
 ---
 
-<img align="left" width="40" height="40" src="media/icons/Question_mark_icon_fofmid.png">
+<img align="left" width="40" height="40" src="media/icons/Question_mark_icon_fofmid.jpg">
 
 ## <a name="1fact"></a> 1 Interesting Fact About Every Country in Europe
 
