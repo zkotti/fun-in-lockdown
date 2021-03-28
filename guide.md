@@ -2195,6 +2195,8 @@ Photo owned by [zoogla.gr](https://www.zougla.gr/greece/article/i-patrini-gourou
 * Walk alongside a patras' beach. [See all patras' beaches in the map.](https://www.google.com/search?tbs=lf:1,lf_ui:1&tbm=lcl&sxsrf=ALeKk02rgnIi8Y5qwuvlA3J3QMbb-wIFxA:1616521647696&q=patras+beaches&rflfq=1&num=10&ved=2ahUKEwjBlNS0_MbvAhWJlqQKHQwnD_gQtgN6BAgyEAc)
 * Explore Patras Mycenaean Park-Voundeni [(map](https://www.google.com/maps/place/%CE%9C%CF%85%CE%BA%CE%B7%CE%BD%CE%B1%CF%8A%CE%BA%CF%8C+%CE%9D%CE%B5%CE%BA%CF%81%CE%BF%CF%84%CE%B1%CF%86%CE%B5%CE%AF%CE%BF+%CE%92%CE%BF%CF%8D%CE%BD%CF%84%CE%B5%CE%BD%CE%B7%CF%82/@38.252451,21.7826245,15z/data=!4m2!3m1!1s0x0:0xeff6c71133ac1c90?sa=X&ved=2ahUKEwiDj6qY-8bvAhXT8eAKHc4yChQQ_BIwG3oECCkQBQ))
 
+Patras' walks sources: [thebest.gr](https://www.thebest.gr/article/412935-), [tripadvisor](https://www.tripadvisor.com/Attractions-g189488-Activities-c47-t76-Patras_Achaea_Region_West_Greece.html)
+
 ### Mykonos
 
 <img src="media/images/mykonos.jpg" alt="Mykonos" width="500"/>
@@ -2204,13 +2206,15 @@ Photo owned by [adornosuites.com](https://www.adornosuites.com/top-10-best-thing
 * Explore the magical streets of Mykonos town ([map](https://www.google.com/maps/place/Mikonos+846+00/@37.444457,25.3180739,14z/data=!3m1!4b1!4m5!3m4!1s0x14a2bf06bf0fdd37:0xfaa85debe77b7a44!8m2!3d37.4467185!4d25.3288623?hl=en))
 * Walk around the square of Ano Mera village ([map](https://www.google.com/maps?q=ano+mera+mykonos&source=lmns&bih=722&biw=1519&hl=en&sa=X&ved=2ahUKEwie4pvDls7vAhWT0oUKHTp1BuAQ_AUoAnoECAEQAg))
 * Enjoy your walk around Kanalia while being mesmerized by the fabulous Mykonos sunset ([map](https://www.google.com/maps/search/kanalia+mykonos/@37.4342891,25.3077225,16z/data=!3m1!4b1?hl=en))
-* Disover the beautiful windmills of Mykonos where you can take unforgettable photos ([map](https://www.google.com/maps/place/The+windmills+of+Mykonos/@37.444317,25.324378,17z/data=!4m8!1m2!2m1!1swindmills+mykonos!3m4!1s0x0:0x979ee1c2b9f4448e!8m2!3d37.4445883!4d25.3255422))
+* Discover the beautiful windmills of Mykonos where you can take unforgettable photos ([map](https://www.google.com/maps/place/The+windmills+of+Mykonos/@37.444317,25.324378,17z/data=!4m8!1m2!2m1!1swindmills+mykonos!3m4!1s0x0:0x979ee1c2b9f4448e!8m2!3d37.4445883!4d25.3255422))
 * Walk from Platis Gialos all the way to Paradise beach following the coastline trails for an remarkable mix of beauty, party and nature ([map](https://www.google.com/maps/place/Platis+Gialos+846+00/@37.4146737,25.3387635,14.96z/data=!4m5!3m4!1s0x14a2be932e977835:0xefa69bf8a4abfa2a!8m2!3d37.413752!4d25.3470226))
 * Explore the north side of Mykonos and end up at Armenistis Lighthouse for an amazing sunset view ([map](https://www.google.com/maps/place/Armenistis+Lighthouse/@37.4846789,25.3132782,14z/data=!4m13!1m7!3m6!1s0x14a2c079d0db8d13:0x1a3e1975418809e!2sFaros+Armenistis+846+00!3b1!8m2!3d37.4849334!4d25.3170935!3m4!1s0x14a2c07849f0afc9:0xc2fcb9239549d45!8m2!3d37.4896444!4d25.3144969))
 
-Sources: [thebest.gr](https://www.thebest.gr/article/412935-), [tripadvisor](https://www.tripadvisor.com/Attractions-g189488-Activities-c47-t76-Patras_Achaea_Region_West_Greece.html)
-
 ### Rhodes
+
+<img src="media/images/rhodes.jpeg" alt="Rhodes" width="500"/>
+
+Photo owned by [insightguides.com](https://www.insightguides.com/inspire-me/blog/top-5-things-to-do-in-rhodes)
 
 * Discover monastery of Prophet Elias ([map](https://www.google.com/maps/place/%CE%A3%CE%B1%CE%BB%CE%AC%CE%BA%CE%BF%CF%82+851+06/@36.288831,27.3831885,9z/data=!4m5!3m4!1s0x149575e1967786ff:0xf4f6da4220376f7b!8m2!3d36.2895582!4d27.943339))
 * Walk around the Valley of the Butterflies ([map](https://www.google.gr/maps/place/%CE%9A%CE%BF%CE%B9%CE%BB%CE%AC%CE%B4%CE%B1+%CE%A0%CE%B5%CF%84%CE%B1%CE%BB%CE%BF%CF%8D%CE%B4%CF%89%CE%BD/@36.340023,28.0576926,17z/data=!3m1!4b1!4m5!3m4!1s0x14957081f6bf6bc1:0xece283cdb05d1514!8m2!3d36.3400187!4d28.0598813?hl=el))
