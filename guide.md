@@ -65,7 +65,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 ---
 <img align="left" width="40" height="40" src="media/icons/animeicon2.jpg">
 
-## <a name="art"></a>Anime
+## <a name="anime"></a>Anime
 
 ### What is Anime
 
