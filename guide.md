@@ -19,6 +19,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Coding Projects](#coding-projects)
 * [Cooking](#cooking)
 * [Covid-19 Infection](#covid-infection)
+* [Create your own Video Game](#create-video-game)
 * [Diet](#diet)
 * [Discover Space](#Discover-Space)
 * [Down the rabbit hole](#conspiracies)
@@ -48,7 +49,6 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Take a Look at the Past](#past)
 * [Video Games](#video-games)
 * [Video Making](#videomaking)
-* [Create your own Video Game](#create-video-game)
 * [Virtual Tours-Trips](#trips-tours)
 * [Walks in Town](#walks)
 * [What to avoid](#whattoavoid)
@@ -840,6 +840,28 @@ In order to convince you that breakfast is not always a time-consuming process, 
 14. Clean all “high-touch” surfaces everyday!
 
 Information was taken from [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
+
+---
+
+<img align="left" width="40" height="40" src="media/icons/controller.png">
+
+## <a name="create-video-game"></a>Create your own video game
+If you are a fan of video games, you can create your own game. All it takes is creativity and willpower.
+Ηere you can find the most famous [game engines](https://en.wikipedia.org/wiki/Game_engine "What is game engine?") that will help you develop your own game.
+
+|Name|Since| Famous Games |
+|---|---|---|
+|[Unreal](https://www.unrealengine.com/en-US/ "Unreal Home Page")|1998| Borderlands 2 |
+|[Unity](https://unity.com/ "Unity Home Page")|2005| Rust |
+|[Amazon Lumberyard](https://aws.amazon.com/lumberyard/ "Lumberyard Home Page")|2016|
+|[CryEngine](https://www.cryengine.com/ "CryEngine Home Page")|2002| Ryse: Son of Rome |
+
+<br />
+More info:
+
+[What Are the Most Popular Game Engines?](https://www.perforce.com/blog/vcs/most-popular-game-engines)
+
+
 
 ---
 
@@ -2631,29 +2653,6 @@ Section icon owned by [freepik](https://www.freepik.com/).
 
 ---
 
-
-
-<img align="left" width="40" height="40" src="media/icons/controller.png">
-
-## <a name="create-video-game"></a>Create your own video game
-If you are a fan of video games, you can create your own game. All it takes is creativity and willpower.
-Ηere you can find the most famous [game engines](https://en.wikipedia.org/wiki/Game_engine "What is game engine?") that will help you develop your own game.
-
-|Name|Since| Famous Games |
-|---|---|---|
-|[Unreal](https://www.unrealengine.com/en-US/ "Unreal Home Page")|1998| Borderlands 2 |
-|[Unity](https://unity.com/ "Unity Home Page")|2005| Rust |
-|[Amazon Lumberyard](https://aws.amazon.com/lumberyard/ "Lumberyard Home Page")|2016|
-|[CryEngine](https://www.cryengine.com/ "CryEngine Home Page")|2002| Ryse: Son of Rome |
-
-<br />
-More info:
-
-[What Are the Most Popular Game Engines?](https://www.perforce.com/blog/vcs/most-popular-game-engines)
-
-
-
----
 
 <img align="left" width="40" height="40" src="media/icons/vr.png">
 
