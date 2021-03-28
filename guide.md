@@ -55,12 +55,14 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Writing](#writing)
 * [Healthy Lifestyle](#health) ([Diet](#diet), [Workout](#workout), [Sleep Quality](#sleep_quality))
 * [Find your pet friend](#pet)
+* [Make Money in the Quarantine](#mkmoney)
+
 [Note : Before you head outside](#note)
 
 
 
 ---
-<img align="left" width="40" height="40" src="media/icons/animeicon2.jpg">
+<img align="left" width="40" height="40" src="media/icons/animeicon.png">
 
 ## <a name="anime"></a>Anime
 
@@ -592,10 +594,13 @@ Image source: https://www.talkingretail.com/products-news/alcohol/new-formula-1-
 
 ## <a name="coding-projects"></a>Coding Projects
 
-<img align="left" width="40" height="40" src="media/icons/python.jpeg">
+<br/>
 
-### **Python**
+<img align="left" width="40" height="40" src="media/icons/python.png">
 
+### **Python**       
+
+<br/>
 
 * Rock, Paper, Scissors Game
 
@@ -624,9 +629,14 @@ The program first prompts the user to enter a series of inputs. These can be an 
 
 Sources : https://careerkarma.com/blog/python-projects-beginners/ , https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/
 
-<img align="left" width="40" height="40" src="media/icons/java.jpg">
+<br/>
+
+<img align="left" width="40" height="40" src="media/icons/java.png">
+
 
 ### **Java**
+
+<br/>
 
 
 * Temperature Converter Tool
@@ -669,9 +679,13 @@ The admin will add all the relevant details to be shown on the id card like phot
 
 Source: https://data-flair.training/blogs/java-project-ideas/
 
+<br/>
+
 <img align="left" width="40" height="40" src="media/icons/react.png">
 
 ### **React**
+
+<br/>
 
 * Realtime Chat App
 
@@ -824,6 +838,8 @@ In order to convince you that breakfast is not always a time-consuming process, 
 Information was taken from [here.](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 
 ---
+
+<img align="left" width="40" height="40" src="media/icons/avocando.png">
 
 ## <a name="diet"></a>Diet
 
@@ -1116,7 +1132,7 @@ Image Source : https://www.scientificamerican.com/article/what-are-chemtrails-ma
 Source : https://en.wikipedia.org/wiki/List_of_conspiracy_theories
 
 ---
-<img align="left" width="40" height="40" src="media/icons/drinking-games.png">
+<img align="left" width="40" height="40" src="media/icons/beer.png">
 
 ## <a name="drinking-games"></a>Drinking Games
 Drinking games offer the opportunity to come closer with your friends and have a great time **(Drink responsibly).**
@@ -1327,7 +1343,7 @@ Once you have all the equipment needed, take many water bottles, maybe a sibling
 * Top Tips for Cycling in Athens [Link](https://www.thisisathens.org/activities/sports-outdoors/biking-cycling)
 
 ---
-<img align="left" width="40" height="40" src="media/images/explore.jpg">
+<img align="left" width="40" height="40" src="media/icons/world.png">
 
 ## <a name="exploretw"></a>Explore the world
 Exploring the world from home seems impossible or not? Lets see what technology offer us,so that we do not get bored and learn about other places and cultures of the world.
@@ -1346,8 +1362,11 @@ Images Source are  https://www.123rf.com/
                   https://www.google.com/
                   http://radio.garden/
 
-<img align="left" width="40" height="40" src="media/icons/videocall.png">
+
 ---
+
+<img align="left" width="40" height="40" src="media/icons/videocall.png">
+
 
 ## <a name="facetime"></a>Video call your long-distance friends
 Do you remember the nights when you used to hang out for hours with your friends? Since that is not possible any more you can use the following software to replicate the group feeling:
@@ -1562,7 +1581,7 @@ _The most common activity during lock-down has been watching movies. So here are
 |World's Most Wanted| Documentary / Crime| Netflix| 7.5/10| 7.2/10|[TRAILER](https://www.youtube.com/watch?v=TFOYTE3RtCs "World's Most Wanted")|[INFO](https://www.imdb.com/title/tt12753698/ "World's Most Wanted")|
 
 ---       
-<img align="left" width="40" height="40" src="media/images/mum-helper.jpg">
+<img align="left" width="40" height="40" src="media/icons/mum.png">
 
 ## <a name="mum"></a>Mums helper with the children
 
@@ -1585,6 +1604,7 @@ Bring the party to your living room with Kidz Bop or Zouzounia , a YouTube chann
 #References
 Info Source  [here](https://www.netdoctor.co.uk/parenting/baby-and-toddler/a35137593/lockdown-activities-kids/).
 Pic Source [here](https://www.facebook.com/Desperatesmoms/photos/).
+
 ---
 
 
@@ -1756,7 +1776,7 @@ Additionally, MuseScore offers a large database of free-to-access sheet music. Y
 
 ---
 
-<img align="left" width="40" height="40" src="media/icons/Question_mark_icon_fofmid.jpg">
+<img align="left" width="40" height="40" src="media/icons/question.png">
 
 ## <a name="1fact"></a> 1 Interesting Fact About Every Country in Europe
 
@@ -2107,6 +2127,7 @@ Population: 799
 The smallest recognized independent country in the world uses the euro as its currency even though it’s not part of the Eurozone or European Union. And like other countries, it mints its own euro coins and issues its own stamps.
 
 Source [https://www.farandwide.com/](https://www.farandwide.com/s/facts-every-country-europe-9dcfe11348ac4fa7)
+
 ---
 
 
@@ -2243,7 +2264,8 @@ Playing some innocent pranks on friends and family shouldn't be reserved  for Ap
 
 
 ---
-<img align="left" width="40" height="40" src="media/icons/social-movement.jpeg">
+
+<img align="left" width="40" height="40" src="media/icons/social_movement.png">
 
 ## <a name="social-movements"></a>Social Movements
 
@@ -2334,7 +2356,7 @@ My recommendations for kids' projects from raspberrypi.org:
 * Start a Wordpress blog.
 
 ---
-<img align="left" width="40" height="40" src="media/icons/podcasts.jpg">
+<img align="left" width="40" height="40" src="media/icons/podcast.png">
 
 ## <a name="podcasts"></a>Start listening to Podcasts
 Podcasts is a great way to learn from other people about things that interest you and share your thoughts and concerns on different issues with hosts from around the world. They cover a huge variety of topics you can choose from. Here are a few of them!
@@ -2472,7 +2494,7 @@ Gif owned by [giphy.com](https://giphy.com/ "giphy.com")
 ---
 
 
-<img align="left" width="40" height="40" src="https://i0.wp.com/thingsthatmakepeoplegoaww.com/wp-content/uploads/2018/09/819mxHNvDRL._SX679_.jpg?w=679&ssl=1">
+<img align="left" width="40" height="40" src="media/icons/treasure.png">
 
 ## <a name="past"></a>Take a look at the past
 
@@ -2485,6 +2507,11 @@ Here are some ways to visit the past:
 * Gather all the photos saved digitally, like the ones in your phone, tablet, pc etc. Trust me, you will be surprised by the volume of neglected memories stored in there.
 * Go through all the media shared between you and your friends on the messenger app. You can see how to do that [here](https://www.facebook.com/help/messenger-app/566167593908940).
 * Ask your relatives to tell you a story from their past. They will deifinitely have some funny or exciting story to tell you and you will end up learning exciting stuff about them!
+
+---
+
+
+<img align="left" width="40" height="40" src="media/icons/video-games.png">
 
 ## <a name="video-games"></a>Video Games
 
@@ -2728,6 +2755,7 @@ Being isolated all day long can make you a person, that you in the future would 
 
 ---
 
+<img align="left" width="40" height="40" src="media/icons/wikipedia.png">
 
 ## <a name="wikicontr"></a> Wikipedia Contributing
 
@@ -2745,7 +2773,7 @@ Source and where you can find more info : [Wikipedia](https://en.wikipedia.org/w
 
 ---
 
-<img align="left" width="40" height="40" src="media/icons/car.jpg">
+<img align="left" width="40" height="40" src="media/icons/car.png">
 
 ## <a name="Work-with-cars"></a> Work with cars!
 Do you like cars? Of course you do! Who doesn't?
@@ -2812,12 +2840,12 @@ Writing is most often a solitary activity, except for people who like to write i
 __Editing__ and __Writing__ are not the same thing. Whenever you write something, leave it for a few hours or maybe a few days. And then come back to it as an __editor__ to find ways to make it more captivating and understandable for the readers.
 
 ---
-<img align="left" width="70" height="60" src="media/icons/lungs-1.png">
+<img align="left" width="70" height="60" src="media/icons/lungs.png">
 
 ## <a name="health"></a> Lead a Healthy Life
-Image owned by: [mindful.org](https://www.mindful.org/use-breath-strengthen-mind/)
 
-
+<br/>
+<br/>
 
 * Exercise Regularly
 * Eat Heathy
@@ -2866,10 +2894,14 @@ Also [greatist.com](https://greatist.com/fitness/best-health-fitness-apps#other)
 
 ---
 
+<img align="left" width="40" height="40" src="media/icons/workout.png">
+
 ## <a name="workout"></a>Workout
 
-Image owned by: [usejournal.com](https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
+
 <img width="400" src="media/images/workout1.jfif">
+
+Image owned by: [usejournal.com](https://blog.usejournal.com/a-full-body-workout-you-can-do-anywhere-7c12513120c4)
 
 ### Types of exercise:
 
@@ -2898,10 +2930,17 @@ That being said, incorporating all three aspects of fitness (cardio, strength tr
 
 First you need to pick your training goal. Is it to lose weight, gain lean muscle, become more flexible, or maintain your current weight? Whichever goal it is you want to make one type of training your main focus and use the others to supplement.
 
+---
+
+<img align="left" width="40" height="40" src="media/icons/sleep.png">
+
 ## <a name="sleep_quality"></a>Sleep Quality
 
-No copyright needed for this image :smiley:
+
 <img width="300" height="350" src="media/images/mil.jpg">
+
+No copyright needed for this image :smiley:
+
 
 ### Tips to Sleep Better at night:
 
@@ -2980,8 +3019,25 @@ Just like humans, pets thrive when they have a healthy diet. A healthy and balan
 Are you ready to start training your pet? Proper training and socialization are among your pet's basic needs. It's important to start training your pet as soon as possible.At first, pet training can seem pretty overwhelming, especially if this is your first pet. The truth is that training your pet is a very big project. If you take it step by step(watching videos on youtube), you will find the task to be far less daunting.
 
 ---
-<img align="left" width="40" height="40" src="media/icons/warning-shield.png">
 
+
+<img align="left" width="40" height="40" src="media/icons/money-flat.png">
+
+## <a name ="mkmoney"></a> Make Money in the Quarantine
+Quarantine or not, having some extra income is never a bad choice. Especially now, that societies are tumbling down economically, because of the government decisions to sustain the pandemic.
+
+Some options for making money online.
+|Name|Short Description| 
+|---|---|
+|[Prolific](https://www.unrealengine.com/en-US/)|Take part in surveys and receive rewards| 
+|[OnlyFans](https://unity.com/)|2005| Share content on subscribtion - Start your own web series|
+|[Coinbase](https://www.coinbase.com/)| Trade cryptocurrencies|
+
+
+---
+
+
+<img align="left" width="40" height="40" src="media/icons/warning-shield.png">
 
 ## <a name="note"></a>Note : Before you head outside
 1. *Be sure you wear a mask*
