@@ -2510,6 +2510,8 @@ Source: https://www.podcastinsights.com/start-a-podcast/
 
 ---
 
+<img align="left" width="40" height="40" src="media/images/philosophy-icon.png">
+
 ## <a name="thinkers"> Important thinkers to study in plenty of fields!
 Study the greats, become greater
 
