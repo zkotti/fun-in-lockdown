@@ -1524,6 +1524,11 @@ Meditation is a fun and relaxing way to spend your time in quarantine. Try lying
 * 5-minute meditation - [link](https://www.youtube.com/watch?v=inpok4MKVLM&t=71s&ab_channel=Goodful)
 * 10-minute meditation - [link](https://www.youtube.com/watch?v=O-6f5wQXSu8&ab_channel=Goodful)
 * 20-minute meditation - [link](https://www.youtube.com/watch?v=-2zdUXve6fQ&ab_channel=TheMindfulMovement)
+* Meditation for Inner Peace - [Link](https://www.youtube.com/watch?v=d4S4twjeWTs)
+* Meditation for Self Love - [Link](https://www.youtube.com/watch?v=CqnWMPuyT0g)
+* Meditation for Mental Balance [Link](https://www.youtube.com/watch?v=x0nZ1ZLephQ&t=560s)
+* Meditation for Anxiety [Link](https://www.youtube.com/watch?v=4pLUleLdwY4&t=275s)
+
 >[Here is a good playlist to help you relax!](https://www.youtube.com/watch?v=oJnF5VxTO5g "Chill & Relax")
 
 #### If you are a beginner, here are a few steps to help you start:
