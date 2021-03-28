@@ -2512,24 +2512,24 @@ Source: https://www.podcastinsights.com/start-a-podcast/
 
 ### <a name="thinkers"> Great thinkers to study in plenty of fields!
 
-**Computer Science** 
-- Alan turing
-**Philosophy**
-- Socrates
-**Physics**  
-- Albert Einstein
-**Politics**
-- Diogenes of Sinope
-**Art**
-- Pablo Picasso 
-**Mathematics**
-- Pythagoras
-**Literature**
-- George Orwell
-**Economics**
-- Adam Smith
-**Polymaths**
-- Leonardo Da Vinci
+- Computer Science
+  - Alan turing
+- Philosophy
+  - Socrates
+- Physics
+  - Albert Einstein
+- Politics
+  - Diogenes of Sinope
+- Art
+  - Pablo Picasso 
+- Mathematics
+  - Pythagoras
+- Literature
+  - George Orwell
+- Economics
+  - Adam Smith
+- Polymaths
+  - Leonardo Da Vinci
 ---
 
 <img align="left" width="40" height="40" src="media/gifs/trippy.gif">
