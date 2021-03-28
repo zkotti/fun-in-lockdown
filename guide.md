@@ -45,6 +45,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Social Movements](#social-movements)
 * [Start a new Project](#projects)
 * [Start listening to Podcasts](#podcasts)
+* [Thinkers](#thinkers)
 * [Trippy Gifs](#trippygifs)
 * [Take a Look at the Past](#past)
 * [Video Games](#video-games)
