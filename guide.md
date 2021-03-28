@@ -2210,6 +2210,18 @@ Photo owned by [adornosuites.com](https://www.adornosuites.com/top-10-best-thing
 
 Sources: [thebest.gr](https://www.thebest.gr/article/412935-), [tripadvisor](https://www.tripadvisor.com/Attractions-g189488-Activities-c47-t76-Patras_Achaea_Region_West_Greece.html)
 
+### Rhodes
+
+* Discover monastery of Prophet Elias ([map](https://www.google.com/maps/place/%CE%A3%CE%B1%CE%BB%CE%AC%CE%BA%CE%BF%CF%82+851+06/@36.288831,27.3831885,9z/data=!4m5!3m4!1s0x149575e1967786ff:0xf4f6da4220376f7b!8m2!3d36.2895582!4d27.943339))
+* Walk around the Valley of the Butterflies ([map](https://www.google.gr/maps/place/%CE%9A%CE%BF%CE%B9%CE%BB%CE%AC%CE%B4%CE%B1+%CE%A0%CE%B5%CF%84%CE%B1%CE%BB%CE%BF%CF%8D%CE%B4%CF%89%CE%BD/@36.340023,28.0576926,17z/data=!3m1!4b1!4m5!3m4!1s0x14957081f6bf6bc1:0xece283cdb05d1514!8m2!3d36.3400187!4d28.0598813?hl=el))
+* Discover holy monastery of Panagia Tsambika ([map](https://www.google.gr/maps/place/%CE%99%CE%B5%CF%81%CE%AC+%CE%9C%CE%BF%CE%BD%CE%AE+%CE%A0%CE%B1%CE%BD%CE%B1%CE%B3%CE%AF%CE%B1%CF%82+%CE%A4%CF%83%CE%B1%CE%BC%CF%80%CE%AF%CE%BA%CE%B1%CF%82+(%CF%84%CE%B7%CF%82+K%CF%85%CF%81%CE%AC%CF%82+%CE%A8%CE%B7%CE%BB%CE%AE%CF%82)/@36.2358729,27.5892161,9z/data=!4m5!3m4!1s0x14956d3376065c7f:0xebef967a1fa16af!8m2!3d36.2358686!4d28.1495188?hl=el))
+* Explore the coastal path Rhodes - Kritika ([map](https://www.google.gr/maps/place/%CE%9A%CF%81%CE%B7%CF%84%CE%B9%CE%BA%CE%AC/@36.4355842,28.1994228,16z/data=!3m1!4b1!4m5!3m4!1s0x14956227becd1d0f:0x4292315ade419c97!8m2!3d36.4343382!4d28.203705?hl=el))
+* Climb to ancient Acropolis of Rhodes ([map](https://www.google.gr/maps/place/%CE%91%CE%BA%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7+%CF%84%CE%B7%CF%82+%CE%A1%CF%8C%CE%B4%CE%BF%CF%85/@36.4399184,28.2062703,16z/data=!4m8!1m2!2m1!1sarchaeological+site+of+the+medieval+moat+rhodes!3m4!1s0x1495618b76b18c47:0x98970e3bf47683c0!8m2!3d36.4399184!4d28.2106477?hl=el))
+* Stroll around the hill Filerimos in Ialyssos ([map](https://www.google.gr/maps/place/%CE%A6%CE%B9%CE%BB%CE%AD%CF%81%CE%B7%CE%BC%CE%BF%CF%82/@36.3991832,28.1362452,15z/data=!3m1!4b1!4m5!3m4!1s0x1495636282580a71:0x7007e35de76ad4b3!8m2!3d36.3991667!4d28.145?hl=el))
+* Discover Kallithea Springs ([map](https://www.google.gr/maps/place/%CE%A0%CE%B7%CE%B3%CE%AD%CF%82+%CE%9A%CE%B1%CE%BB%CE%BB%CE%B9%CE%B8%CE%AD%CE%B1%CF%82/@36.3782051,28.2357122,17z/data=!3m1!4b1!4m5!3m4!1s0x1495642b4d78c47b:0xf894d32dcf8ec635!8m2!3d36.3782008!4d28.2379009?hl=el))
+
+Rhodes' walks source : [rhodes.gr](https://www.rhodes.gr/tourist-guide/walking-routes/)
+
 ---
 <img align="left" width="40" height="40" src="media/icons/avoid.png">
 
