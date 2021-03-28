@@ -28,6 +28,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Facetime your long-distance friends](#facetime)
 * [Gardening](#gardening)
 * [Learn a new skill](#new-skill)
+* [Make Money in the Quarantine](#mkmoney)
 * [Magic Tricks](#magic-tricks)
 * [Meditation](#meditation)
 * [Movies-Documentaries-Series](#movies-docum-series)
@@ -55,7 +56,6 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Writing](#writing)
 * [Healthy Lifestyle](#health) ([Diet](#diet), [Workout](#workout), [Sleep Quality](#sleep_quality))
 * [Find your pet friend](#pet)
-* [Make Money in the Quarantine](#mkmoney)
 
 [Note : Before you head outside](#note)
 
@@ -1494,6 +1494,23 @@ Great ideas to learn new skills:
 * Learn to type, [here is a useful platform](https://www.typingclub.com/)
 * Learn [how to cook, easily among the best!](https://akispetretzikis.com/ "Akis Petretzikis")
 * Learn one easy [magic trick](https://www.youtube.com/watch?v=lhu2hGLz0FY) that will impress everyone
+
+---
+
+
+
+<img align="left" width="40" height="40" src="media/icons/money-flat.png">
+
+## <a name ="mkmoney"></a> Make Money in the Quarantine
+Quarantine or not, having some extra income is never a bad choice. Especially now, that societies are tumbling down economically, because of the government decisions to sustain the pandemic.
+
+Some options for making money online.
+|Name|Short Description| 
+|---|---|
+|[Prolific](https://www.unrealengine.com/en-US/)|Take part in surveys and receive rewards| 
+|[OnlyFans](https://unity.com/)| Share content on subscribtion - Start your own web series|
+|[Coinbase](https://www.coinbase.com/)| Trade cryptocurrencies|
+
 
 ---
 
@@ -3036,21 +3053,6 @@ Are you ready to start training your pet? Proper training and socialization are 
 
 ---
 
-
-<img align="left" width="40" height="40" src="media/icons/money-flat.png">
-
-## <a name ="mkmoney"></a> Make Money in the Quarantine
-Quarantine or not, having some extra income is never a bad choice. Especially now, that societies are tumbling down economically, because of the government decisions to sustain the pandemic.
-
-Some options for making money online.
-|Name|Short Description| 
-|---|---|
-|[Prolific](https://www.unrealengine.com/en-US/)|Take part in surveys and receive rewards| 
-|[OnlyFans](https://unity.com/)| Share content on subscribtion - Start your own web series|
-|[Coinbase](https://www.coinbase.com/)| Trade cryptocurrencies|
-
-
----
 
 
 <img align="left" width="40" height="40" src="media/icons/warning-shield.png">
