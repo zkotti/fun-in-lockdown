@@ -116,7 +116,7 @@ Pictures Taken from IMBd
 
 <img width="250" height="500" src="media/images/onePunchMan.jpg">
 
-**One-Punch Man (ワンパンマン)** tells the story of Saitama, a superhero who can defeat any opponent with a single punch after following a hard training. He seeks to find a worthy opponent after growing bored by a lack of challenge due to his overwhelming strength. 
+**One-Punch Man (ワンパンマン)** tells the story of Saitama, a superhero who can defeat any opponent with a single punch after following a hard training. He seeks to find a worthy opponent after growing bored by a lack of challenge due to his overwhelming strength.
 
 Pictures Taken from IMBd
 
@@ -1529,8 +1529,9 @@ _The most common activity during lock-down has been watching movies. So here are
 |World's Most Wanted| Documentary / Crime| Netflix| 7.5/10| 7.2/10|[TRAILER](https://www.youtube.com/watch?v=TFOYTE3RtCs "World's Most Wanted")|[INFO](https://www.imdb.com/title/tt12753698/ "World's Most Wanted")|
 
 ---       
-<img align="left" width="40" height="40" src="media/icons/mum-helper.jpg">
-## <a name="mum"></a> Mums helper with the children
+<img align="left" width="40" height="40" src="media/images/mum-helper.jpg">
+
+## <a name="mum"></a>Mums helper with the children
 
 During the lockdown, life can be hard. Especially for mums where they have to deal with super active kids inside the house. This topic is related to help mums to survive and find activities for kid throught the lockdown.
 
