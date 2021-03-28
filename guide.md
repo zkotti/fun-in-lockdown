@@ -1550,8 +1550,8 @@ That maybe seems a bit risky, but you dont need a science lab to experiment at h
 Bring the party to your living room with Kidz Bop or Zouzounia , a YouTube channel packed with dance-along videos and step-by-step tutorials. The dances are performed by kids, for kids – and often to chart hits, so they’re likely to know the words already. Find KIDZ BOP UK [here](https://www.youtube.com/channel/UCsMXYJDvYOAhpaDZ4QRuqVA) and zouzounia [here](https://www.youtube.com/user/ZouzouniaTV)
 
 #References
-Info Source  [here] (https://www.netdoctor.co.uk/parenting/baby-and-toddler/a35137593/lockdown-activities-kids/).
-Pic Source [here] (https://www.facebook.com/Desperatesmoms/photos/).
+Info Source  [here](https://www.netdoctor.co.uk/parenting/baby-and-toddler/a35137593/lockdown-activities-kids/).
+Pic Source [here](https://www.facebook.com/Desperatesmoms/photos/).
 ---
 
 
