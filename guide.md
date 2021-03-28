@@ -586,6 +586,7 @@ If you are not in the mood for alcohol, be sure to try these non-alcoholic cockt
 | Raw Raspberry Shrub | Easy | [recipe](https://www.bbcgoodfood.com/recipes/raw-raspberry-shrub) |
 | Shirley Temple | Easy | [recipe](https://www.delish.com/cooking/recipe-ideas/a29813919/shirley-temple-drink-recipe/) |
 | Summer Cup Mocktail | Easy | [recipe](https://www.bbcgoodfood.com/recipes/summer-cup-mocktail) |
+| Cranberry Sparkler | Easy | [recipe](https://cocktails.lovetoknow.com/Alcohol_Free_Cocktails) |
 
 <img src="media/images/drink.jpg" alt="Drink responsibly">
 
