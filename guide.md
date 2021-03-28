@@ -1283,6 +1283,11 @@ Photo owned by [openfit](https://www.openfit.com/20-motivational-quotes-to-help-
 * 30 min Yoga Flow (with Maldives in the background) [video](https://www.youtube.com/watch?v=5v1wqxnrmrk&t=831s)
 * 45 Minute Power Yoga Class with Ally Maz | lululemon [video](https://www.youtube.com/watch?v=lDbJdJWX82M)
 * 45 Minute Everyday Vinyasa Flow Yoga Class | lululemon [video](https://www.youtube.com/watch?v=_kl_DxglATI)
+* 20 min Full Body Flow [video](https://www.youtube.com/watch?v=b1H3xO3x_Js&t=248s)
+* Yoga to Feel your Best [video](https://www.youtube.com/watch?v=BPK9WNtpBgk)
+* 11 min Wake up Yoga [video](https://www.youtube.com/watch?v=UEEsdXn8oG8&t=91s)
+* 16 min Yoga for Flexibility [video](https://www.youtube.com/watch?v=Yzm3fA2HhkQ)
+
 
 or you can start a 30day Yoga Challenge with Adriene:
 * Day 0 [video](https://www.youtube.com/watch?v=AjhvRX57XkE)
