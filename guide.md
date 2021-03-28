@@ -33,6 +33,7 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Learn a new skill](#new-skill)
 * [Meditation](#meditation)
 * [Movies-Documentaries-Series](#movies-docum-series)
+* [Mums helper with the children](#mum)
 * [Music](#music)
 * [One (1) Interesting Fact About Every Country in Europe](#1fact)
 * [Online Courses](#online_course)
@@ -1494,7 +1495,28 @@ _The most common activity during lock-down has been watching movies. So here are
 |Unsolved Mysteries| Documentary - TV series| Netflix| 9/10| 7.3/10|[TRAILER](https://www.youtube.com/watch?v=oZ4FrgGILM8&ab_channel=Netflix "Unsolved Mysteries")|[INFO](https://www.imdb.com/title/tt9642938/?ref_=nv_sr_srsg_3 "Unsolved Mysteries IMDb")|
 |World's Most Wanted| Documentary / Crime| Netflix| 7.5/10| 7.2/10|[TRAILER](https://www.youtube.com/watch?v=TFOYTE3RtCs "World's Most Wanted")|[INFO](https://www.imdb.com/title/tt12753698/ "World's Most Wanted")|
 
----        
+---       
+<img align="left" width="40" height="40" src="media/icons/mum-helper.jpg">
+## <a name="mum"></a> Mums helper with the children
+
+During the lockdown, life can be hard. Especially for mums where they have to deal with super active kids inside the house. This topic is related to help mums to survive and find activities for kid throught the lockdown.
+
+### Learn to draw
+Drawing is a really good exercise to exploit kids fantasy and keep them busy , while mum has to cover other responsibilities as work,cook etc. A really good Youtube-series  is the "Draw with Rob" , where Rob chooses a character every week, such as an alien or a dragon and demonstrates how to draw it. You can find it [here](https://www.youtube.com/channel/UCBpgrJijMpk_pyp9uTbxLdg)  
+### Try a Lego challenges
+The lego challenge is a printable calendar containing theme tasks for every of the month. Kids can let their imagination run wild and create different structures as a hospital or a luna Park. If they break the 30-days challenge, dont be afraid, you can always  add one more day. You can find more details [here](https://www.freehomeschooldeals.com/free-printable-30-day-lego-challenge-instant-download/).
+### Make origami animals
+Keeping kids happy and entertained doesnt have to be costly. A piece of paper is enough to bring their favourite animals to lif in origami form. Kids can try to create a bat, fishes,Butterflies etc. Bonus points if they colour them in afterwards. Check it [here](https://www.origamiway.com/origami-animals.shtml).
+### Try creative writing
+All you need again is a paper and a pen. Spend some time brainstorming characters, settings, and plot ideas with your child. Once they've written their masterpiece , help them create a fairytale or an ebook.
+They can add a lot of different things , like images and videos. Find more about this [here](https://bookcreator.com/features/)
+### Do a science experiment
+That maybe seems a bit risky, but you dont need a science lab to experiment at home. You can try create a baking soda volcano, or turn a potato into a battery. Alternatively, you can mummify a hotdog or create a tornado in a bottle. Find more [here](https://www.weareteachers.com/easy-science-experiments/).
+### Learn to dance
+Bring the party to your living room with Kidz Bop or Zouzounia , a YouTube channel packed with dance-along videos and step-by-step tutorials. The dances are performed by kids, for kids – and often to chart hits, so they’re likely to know the words already. Find KIDZ BOP UK [here](https://www.youtube.com/channel/UCsMXYJDvYOAhpaDZ4QRuqVA) and zouzounia [here](https://www.youtube.com/user/ZouzouniaTV)
+
+
+---
 
 
 <img align="left" width="40" height="40" src="media/icons/music.png">
