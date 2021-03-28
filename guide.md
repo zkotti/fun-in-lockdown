@@ -2511,6 +2511,7 @@ Source: https://www.podcastinsights.com/start-a-podcast/
 ---
 
 ### Great thinkers to study in plenty of fields!
+<a name="thinkers">
 **Computer Science** 
 - Alan turing
 
