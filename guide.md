@@ -248,7 +248,7 @@ Youtube is an American owned video-sharing platform with headquarters located in
 |Based Zeus|Life Advice for Men| 1.400.000| [Link](https://www.youtube.com/channel/UC1PkRYud11ogYDqgdqd23Zw)|
 |Astronio|Making Astronomy Fun| 193.000| [Link](https://www.youtube.com/channel/UCYhH65nE2M8rGwMWvAlVu2A)|
 |Netwix|Greek Comedy Videos| 615.000| [Link](https://www.youtube.com/channel/UCLexrmd9Dn8SnzdsZZcavYQ)|
-
+|John Boursi| Greek Comedy Videos and Podcasts| 44.000 | [Link](https://www.youtube.com/user/MrPonzitv)|
 
 Don't be hesitant to enrich the list with your favorite channels ,sharing is caring in these hard times.
 
