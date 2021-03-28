@@ -778,6 +778,7 @@ Photo owned by [Shutterstock.com](https://www.shutterstock.com/de/image-photo/br
 | Pasta Salad | Italy | 10/10 | [Link](https://carlsbadcravings.com/italian-pasta-salad/) | Experiment with different kinds of pasta. |
 | Pastitsio | Greece | 10/10| [Link](https://akispetretzikis.com/en/categories/zymarika/to-pastitsio-toy-akh "How to Make Pastitsio")|It's all about the Bechamel sauce. |
 | Penne Arrabiata | Italy | 10/10 | [Link](https://www.aline-made.com/penne-arrabiata/) | Serve with parmesan. |
+| Potato Chips | Universal | 10/10 | [Link](https://akispetretzikis.com/en/categories/ryzi-amp-patates/spitika-tsips-patatas) | Cut the potato extra thin |
 | Soft Cookies| Universal | 10/10 | [Link](https://www.youtube.com/watch?v=K-YHpNU0Dbk) | Serve with milk. |
 | Sushi | Japan | 10/10| [Link](https://akispetretzikis.com/en/categories/ryzi-amp-patates/soysi "How to Make Sushi")| Experiment with different types of fish. |
 | Sweet & Sour Chicken | China | 10/10 | [Link](https://www.bbcgoodfood.com/recipes/sweet-sour-chicken) | Serve with rice. |
