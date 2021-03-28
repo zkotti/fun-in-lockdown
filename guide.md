@@ -1566,7 +1566,7 @@ Some options for making money online.
 |[Fiverr](https://www.fiverr.com/?source=top_nav) | Sell services based on your skillset|
 |Investing| Invest your money on stocks or ETFS. Learn more about investing basics on [Chris Tsounis](https://www.youtube.com/channel/UCthUKUdCLSe0P-wyVLE9XeQ)'s youtube channel|
 
-Some options for making money ofline.
+Some options for making money offline.
 |Name|Short Description| 
 |---|---|
 |Chores|If you live with your parents, you can possibly make an agreement that you'll to do some extra chores in exchange for money.|
