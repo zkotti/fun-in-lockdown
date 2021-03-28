@@ -2510,27 +2510,27 @@ Source: https://www.podcastinsights.com/start-a-podcast/
 
 ---
 
-##<a name="thinkers"> Important thinkers to study in plenty of fields!
+## <a name="thinkers"> Important thinkers to study in plenty of fields!
 Study the greats, become greater
 
 #### Computer Science
-  - Alan turing
+  - [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
 #### Philosophy
-  - Socrates
+  - [Socrates](https://en.wikipedia.org/wiki/Socrates)
 #### Physics
-  - Albert Einstein
+  - [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
 #### Politics
-  - Diogenes of Sinope
+  - [Diogenes of Sinope](https://en.wikipedia.org/wiki/Diogenes)
 #### Art
-  - Pablo Picasso 
+  - [Pablo Picasso](https://en.wikipedia.org/wiki/Pablo_Picasso)
 #### Mathematics
-  - Pythagoras
+  - [Pythagoras](https://en.wikipedia.org/wiki/Pythagoras)
 #### Literature
-  - George Orwell
+  - [George Orwell](https://en.wikipedia.org/wiki/George_Orwell)
 #### Economics
-  - Adam Smith
+  - [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith)
 #### Polymaths
-  - Leonardo Da Vinci
+  - [Leonardo Da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci)
 ---
 
 <img align="left" width="40" height="40" src="media/gifs/trippy.gif">
