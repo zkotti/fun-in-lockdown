@@ -1493,6 +1493,7 @@ You can have an amazing time just by relaxing and listening to your favorite mus
 ### Songs
 Most of us can't imagine how lockdown would be like without our favorite songs. Here are some great songs you may not know:
 <!--- It would be nice to add songs that aren't widely known! In this way we can discover new music :) -->
+* Afousis, Kaisaras Kikis [listen here](https://www.youtube.com/watch?v=brD4ufFMA1A)
 * A Good Night, John Legend, BloodPop [listen here](https://www.youtube.com/watch?v=KQRq9FZqNj0)
 * All Around Me, by Aaronya [listen here](https://www.youtube.com/watch?v=min5dZxrXLQ&ab_channel=Aaronya-Topic)
 * All Time, by Tyler Ward, Mike Tompkins and KHS [listen here](https://www.youtube.com/watch?v=dkcs-26PBjY)
@@ -1504,8 +1505,10 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Brain Damage, Pink Floyd [listen here](https://www.youtube.com/watch?v=BhYKN21olBw)
 * CLOUDS, by NF [listen here](https://www.youtube.com/watch?v=fibYknUCIU4)
 * Cat People, David Bowie [listen here](https://www.youtube.com/watch?v=A9I7U4nuR_I)
+* Catch The Rainbow, Rainbow [listen here](https://www.youtube.com/watch?v=V5QukAC-jqE)
 * Closer, by Chainsmokers [listen here](https://www.youtube.com/watch?v=PT2_F-1esPk)
 * Demons, by Imagine Dragons [listen here](https://www.youtube.com/watch?v=mWRsgZuwf_8)
+* Dreamer Deceiver, Judas Priest [listen here](https://www.youtube.com/watch?v=tbrq_23nrwg)
 * FEVER, by Megan Nicole [listen here](https://www.youtube.com/watch?v=DV30BtjNNIU)
 * Faith, by the Weeknd [listen here](https://www.youtube.com/watch?v=RcS_8-a-sMg&ab_channel=TheWeekndVEVO)
 * Flatlands, The Aristocrats [listen here](https://www.youtube.com/watch?v=fW0p5SB52sI&list=LL&index=39)
@@ -1534,7 +1537,9 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * Put Your Hands Up, by Boiling Point Band [listen here](https://www.youtube.com/watch?v=57SKB6Er88c)
 * Respect Is What you Hear, The Weather Underground [listen here](https://www.youtube.com/watch?v=DcjdVsx-VoE)
 * Save Room, John Legend [listen here](https://www.youtube.com/watch?v=iOmnGzAKLvg)
+* School, Supertramp [listen here](https://www.youtube.com/watch?v=SUPJJqGRiK4)
 * Sleep on the Floor, Lumineers [listen here](https://www.youtube.com/watch?v=v4pi1LxuDHc)
+* Soldier Of Fortune, Deep Purple [listen here](https://www.youtube.com/watch?v=znW-P7lMKjU)
 * Space Song, by Beach House [listen here](https://www.youtube.com/watch?v=RBtlPT23PTM&list=PLRQDSvpEpYzBUdlMzMhAWSD4TyE0ga7Et&index=4)
 * Spring 1, recomposed by Max Richter (original by Vivaldi) [listen here](https://www.youtube.com/watch?v=41IOkVjy3MM)
 * Strangers In The Night, Frank Sinatra [listen here](https://www.youtube.com/watch?v=ZwAERaRUsp0)
@@ -1546,6 +1551,7 @@ Most of us can't imagine how lockdown would be like without our favorite songs. 
 * The Fuss, Against The Current [listen here](https://www.youtube.com/watch?v=y_Qsrt6c9_k)
 * The Less I Know the Better, Tame Impala [listen here](https://www.youtube.com/watch?v=2SUwOgmvzK4)
 * The Logical Song, Supertramp [listen here](https://www.youtube.com/watch?v=low6Coqrw9Y)
+* The Pot & Kettle, The Rumjacks [listen here](https://www.youtube.com/watch?v=HNCb-ByT6yQ)
 * Una volta ancora, by Fred De Palma [listen here](https://www.youtube.com/watch?v=4R5mDpIgwUs)
 * United States of Eurasia, Muse [listen here](https://www.youtube.com/watch?v=-5-K51jHQ6k)
 * War of Change, Thousand Foot Krutch [listen here](https://www.youtube.com/watch?v=HdnTSXUWd3E)
@@ -1559,6 +1565,7 @@ A subsection to add your favorite Music Albums
 
 * A night at the opera (2011 Remaster), by Queen [listen here](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx?si=bcOcHr7lSbS2PGYLVyT-XQ)
 * American Idiot (2004), by Green Day [listen here](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke?si=4eMZxuPfQE6YsZkQLZTTsw)
+* Folk is Rock (2019), by Pentaichon [listen here](https://open.spotify.com/album/7oOjNgvaPiv8DiUovcO8V5?si=ddZTINRvReibQzflo9HoUA)
 * IIII (2021), by Robin Schulz [listen here](https://open.spotify.com/album/2QC9gnxGo0MnJ98mLTOf6c)
 * La La Land (2016), by Justin Hurwitz [listen here](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S)
 * Les Misérables (1985), by London Cast Recording [listen here](https://open.spotify.com/album/3QnkeixkKiKpP3ObLb7DtT)
@@ -2553,6 +2560,8 @@ Photo owned by [zoogla.gr](https://www.zougla.gr/greece/article/i-patrini-gourou
 * Walk alongside a patras' beach. [See all patras' beaches in the map.](https://www.google.com/search?tbs=lf:1,lf_ui:1&tbm=lcl&sxsrf=ALeKk02rgnIi8Y5qwuvlA3J3QMbb-wIFxA:1616521647696&q=patras+beaches&rflfq=1&num=10&ved=2ahUKEwjBlNS0_MbvAhWJlqQKHQwnD_gQtgN6BAgyEAc)
 * Explore Patras Mycenaean Park-Voundeni [(map](https://www.google.com/maps/place/%CE%9C%CF%85%CE%BA%CE%B7%CE%BD%CE%B1%CF%8A%CE%BA%CF%8C+%CE%9D%CE%B5%CE%BA%CF%81%CE%BF%CF%84%CE%B1%CF%86%CE%B5%CE%AF%CE%BF+%CE%92%CE%BF%CF%8D%CE%BD%CF%84%CE%B5%CE%BD%CE%B7%CF%82/@38.252451,21.7826245,15z/data=!4m2!3m1!1s0x0:0xeff6c71133ac1c90?sa=X&ved=2ahUKEwiDj6qY-8bvAhXT8eAKHc4yChQQ_BIwG3oECCkQBQ))
 
+Patras' walks sources: [thebest.gr](https://www.thebest.gr/article/412935-), [tripadvisor](https://www.tripadvisor.com/Attractions-g189488-Activities-c47-t76-Patras_Achaea_Region_West_Greece.html)
+
 ### Mykonos
 
 <img src="media/images/mykonos.jpg" alt="Mykonos" width="500"/>
@@ -2562,11 +2571,25 @@ Photo owned by [adornosuites.com](https://www.adornosuites.com/top-10-best-thing
 * Explore the magical streets of Mykonos town ([map](https://www.google.com/maps/place/Mikonos+846+00/@37.444457,25.3180739,14z/data=!3m1!4b1!4m5!3m4!1s0x14a2bf06bf0fdd37:0xfaa85debe77b7a44!8m2!3d37.4467185!4d25.3288623?hl=en))
 * Walk around the square of Ano Mera village ([map](https://www.google.com/maps?q=ano+mera+mykonos&source=lmns&bih=722&biw=1519&hl=en&sa=X&ved=2ahUKEwie4pvDls7vAhWT0oUKHTp1BuAQ_AUoAnoECAEQAg))
 * Enjoy your walk around Kanalia while being mesmerized by the fabulous Mykonos sunset ([map](https://www.google.com/maps/search/kanalia+mykonos/@37.4342891,25.3077225,16z/data=!3m1!4b1?hl=en))
-* Disover the beautiful windmills of Mykonos where you can take unforgettable photos ([map](https://www.google.com/maps/place/The+windmills+of+Mykonos/@37.444317,25.324378,17z/data=!4m8!1m2!2m1!1swindmills+mykonos!3m4!1s0x0:0x979ee1c2b9f4448e!8m2!3d37.4445883!4d25.3255422))
+* Discover the beautiful windmills of Mykonos where you can take unforgettable photos ([map](https://www.google.com/maps/place/The+windmills+of+Mykonos/@37.444317,25.324378,17z/data=!4m8!1m2!2m1!1swindmills+mykonos!3m4!1s0x0:0x979ee1c2b9f4448e!8m2!3d37.4445883!4d25.3255422))
 * Walk from Platis Gialos all the way to Paradise beach following the coastline trails for an remarkable mix of beauty, party and nature ([map](https://www.google.com/maps/place/Platis+Gialos+846+00/@37.4146737,25.3387635,14.96z/data=!4m5!3m4!1s0x14a2be932e977835:0xefa69bf8a4abfa2a!8m2!3d37.413752!4d25.3470226))
 * Explore the north side of Mykonos and end up at Armenistis Lighthouse for an amazing sunset view ([map](https://www.google.com/maps/place/Armenistis+Lighthouse/@37.4846789,25.3132782,14z/data=!4m13!1m7!3m6!1s0x14a2c079d0db8d13:0x1a3e1975418809e!2sFaros+Armenistis+846+00!3b1!8m2!3d37.4849334!4d25.3170935!3m4!1s0x14a2c07849f0afc9:0xc2fcb9239549d45!8m2!3d37.4896444!4d25.3144969))
 
-Sources: [thebest.gr](https://www.thebest.gr/article/412935-), [tripadvisor](https://www.tripadvisor.com/Attractions-g189488-Activities-c47-t76-Patras_Achaea_Region_West_Greece.html)
+### Rhodes
+
+<img src="media/images/rhodes.jpeg" alt="Rhodes" width="500"/>
+
+Photo owned by [insightguides.com](https://www.insightguides.com/inspire-me/blog/top-5-things-to-do-in-rhodes)
+
+* Discover monastery of Prophet Elias ([map](https://www.google.com/maps/place/%CE%A3%CE%B1%CE%BB%CE%AC%CE%BA%CE%BF%CF%82+851+06/@36.288831,27.3831885,9z/data=!4m5!3m4!1s0x149575e1967786ff:0xf4f6da4220376f7b!8m2!3d36.2895582!4d27.943339))
+* Walk around the Valley of the Butterflies ([map](https://www.google.gr/maps/place/%CE%9A%CE%BF%CE%B9%CE%BB%CE%AC%CE%B4%CE%B1+%CE%A0%CE%B5%CF%84%CE%B1%CE%BB%CE%BF%CF%8D%CE%B4%CF%89%CE%BD/@36.340023,28.0576926,17z/data=!3m1!4b1!4m5!3m4!1s0x14957081f6bf6bc1:0xece283cdb05d1514!8m2!3d36.3400187!4d28.0598813?hl=el))
+* Discover holy monastery of Panagia Tsambika ([map](https://www.google.gr/maps/place/%CE%99%CE%B5%CF%81%CE%AC+%CE%9C%CE%BF%CE%BD%CE%AE+%CE%A0%CE%B1%CE%BD%CE%B1%CE%B3%CE%AF%CE%B1%CF%82+%CE%A4%CF%83%CE%B1%CE%BC%CF%80%CE%AF%CE%BA%CE%B1%CF%82+(%CF%84%CE%B7%CF%82+K%CF%85%CF%81%CE%AC%CF%82+%CE%A8%CE%B7%CE%BB%CE%AE%CF%82)/@36.2358729,27.5892161,9z/data=!4m5!3m4!1s0x14956d3376065c7f:0xebef967a1fa16af!8m2!3d36.2358686!4d28.1495188?hl=el))
+* Explore the coastal path Rhodes - Kritika ([map](https://www.google.gr/maps/place/%CE%9A%CF%81%CE%B7%CF%84%CE%B9%CE%BA%CE%AC/@36.4355842,28.1994228,16z/data=!3m1!4b1!4m5!3m4!1s0x14956227becd1d0f:0x4292315ade419c97!8m2!3d36.4343382!4d28.203705?hl=el))
+* Climb to ancient Acropolis of Rhodes ([map](https://www.google.gr/maps/place/%CE%91%CE%BA%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7+%CF%84%CE%B7%CF%82+%CE%A1%CF%8C%CE%B4%CE%BF%CF%85/@36.4399184,28.2062703,16z/data=!4m8!1m2!2m1!1sarchaeological+site+of+the+medieval+moat+rhodes!3m4!1s0x1495618b76b18c47:0x98970e3bf47683c0!8m2!3d36.4399184!4d28.2106477?hl=el))
+* Stroll around the hill Filerimos in Ialyssos ([map](https://www.google.gr/maps/place/%CE%A6%CE%B9%CE%BB%CE%AD%CF%81%CE%B7%CE%BC%CE%BF%CF%82/@36.3991832,28.1362452,15z/data=!3m1!4b1!4m5!3m4!1s0x1495636282580a71:0x7007e35de76ad4b3!8m2!3d36.3991667!4d28.145?hl=el))
+* Discover Kallithea Springs ([map](https://www.google.gr/maps/place/%CE%A0%CE%B7%CE%B3%CE%AD%CF%82+%CE%9A%CE%B1%CE%BB%CE%BB%CE%B9%CE%B8%CE%AD%CE%B1%CF%82/@36.3782051,28.2357122,17z/data=!3m1!4b1!4m5!3m4!1s0x1495642b4d78c47b:0xf894d32dcf8ec635!8m2!3d36.3782008!4d28.2379009?hl=el))
+
+Rhodes' walks source : [rhodes.gr](https://www.rhodes.gr/tourist-guide/walking-routes/)
 
 ---
 <img align="left" width="40" height="40" src="media/icons/avoid.png">
