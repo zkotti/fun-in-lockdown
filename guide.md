@@ -1555,8 +1555,8 @@ Quarantine or not, having some extra income is never a bad choice. Especially no
 Some options for making money online.
 |Name|Short Description| 
 |---|---|
-|[Prolific](https://www.unrealengine.com/en-US/)|Take part in surveys and receive rewards| 
-|[OnlyFans](https://unity.com/)| Share content on subscribtion - Start your own web series|
+|[Prolific](https://www.prolific.co/)|Take part in surveys and receive rewards| 
+|[OnlyFans](https://onlyfans.com/)| Share content on subscribtion - Start your own web series|
 |[Coinbase](https://www.coinbase.com/)| Trade cryptocurrencies|
 
 
