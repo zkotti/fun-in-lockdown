@@ -2509,26 +2509,27 @@ Here are a few simple steps to help you start:
 Source: https://www.podcastinsights.com/start-a-podcast/
 
 ---
-##<a name="thinkers"> Important thinkers to study in plenty of fields!
-### Study the greats, become greater
 
-- Computer Science
+##<a name="thinkers"> Important thinkers to study in plenty of fields!
+Study the greats, become greater
+
+#### Computer Science
   - Alan turing
-- Philosophy
+#### Philosophy
   - Socrates
-- Physics
+#### Physics
   - Albert Einstein
-- Politics
+#### Politics
   - Diogenes of Sinope
-- Art
+#### Art
   - Pablo Picasso 
-- Mathematics
+#### Mathematics
   - Pythagoras
-- Literature
+#### Literature
   - George Orwell
-- Economics
+#### Economics
   - Adam Smith
-- Polymaths
+#### Polymaths
   - Leonardo Da Vinci
 ---
 
