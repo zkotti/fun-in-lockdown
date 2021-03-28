@@ -574,20 +574,23 @@ If you are not in the mood for alcohol, be sure to try these non-alcoholic cockt
 
 |Name| Difficulty | How to make |
 |---| ---| ---|
-| Blueberry Maple Mojito | Easy | [recipe](https://www.healthyrecipeecstasy.com/blueberry-maple-mojito-mocktal-gender-reveal/) |
-| Citrus Strawberry Mocktail | Easy | [recipe](https://www.playpartyplan.com/citrus-strawberry-mocktail-recipe) |
-| Chai Blossom | Easy | [recipe](https://www.bonappetit.com/recipe/chai-blossom) |
-| Drivers' punch | Easy | [recipe](https://www.bbcgoodfood.com/recipes/drivers-punch) |
-| Moscow Mule Mocktail | Easy | [recipe](https://themerrythought.com/diy/moscow-mule-mocktail/) |
-| New York Sour Mocktail | Easy | [recipe](https://www.bbcgoodfood.com/recipes/new-york-sour-mocktail) |
-| Pear & Rose Punch | Easy | [recipe](https://www.bbcgoodfood.com/recipes/pear-apple-rose-punch) |
-| Pinapple & Lime Mocktail | Easy | [recipe](https://www.bbcgoodfood.com/recipes/shine-light) |
-| Pomegranate Mojito Mocktail | Easy | [recipe](https://www.bbcgoodfood.com/recipes/pomegranate-mojito-mocktail) |
-| Popsicle Punch | Easy | [recipe](https://www.delish.com/cooking/recipe-ideas/a22805581/popsicle-punch-recipe/) |
-| Raw Raspberry Shrub | Easy | [recipe](https://www.bbcgoodfood.com/recipes/raw-raspberry-shrub) |
-| Shirley Temple | Easy | [recipe](https://www.delish.com/cooking/recipe-ideas/a29813919/shirley-temple-drink-recipe/) |
-| Summer Cup Mocktail | Easy | [recipe](https://www.bbcgoodfood.com/recipes/summer-cup-mocktail) |
-| Cranberry Sparkler | Easy | [recipe](https://cocktails.lovetoknow.com/Alcohol_Free_Cocktails) |
+| Blueberry Maple Mojito | Easy | [Recipe](https://www.healthyrecipeecstasy.com/blueberry-maple-mojito-mocktal-gender-reveal/) |
+| Citrus Strawberry Mocktail | Easy | [Recipe](https://www.playpartyplan.com/citrus-strawberry-mocktail-recipe) |
+| Chai Blossom | Easy | [Recipe](https://www.bonappetit.com/recipe/chai-blossom) |
+| Cranberry Sparkler | Rasy | [recipe](https://cocktails.lovetoknow.com/Alcohol_Free_Cocktails) |
+| Drivers' punch | Easy | [Recipe](https://www.bbcgoodfood.com/recipes/drivers-punch) |
+| Moscow Mule Mocktail | Easy | [Recipe](https://themerrythought.com/diy/moscow-mule-mocktail/) |
+| New York Sour Mocktail | Easy | [Recipe](https://www.bbcgoodfood.com/recipes/new-york-sour-mocktail) |
+| Orange-Mango Crush | Easy | [Recipe](https://www.taste.com.au/recipes/orange-mango-crush/WhTZJZao) |
+| Peach Melba Punch | Easy | [Recipe](https://www.taste.com.au/recipes/peach-melba-punch-recipe/bmoxmfqr) |
+| Pear & Rose Punch | Easy | [Recipe](https://www.bbcgoodfood.com/recipes/pear-apple-rose-punch) |
+| Pinapple & Lime Mocktail | Easy | [Recipe](https://www.bbcgoodfood.com/recipes/shine-light) |
+| Pomegranate Mojito Mocktail | Easy | [Recipe](https://www.bbcgoodfood.com/recipes/pomegranate-mojito-mocktail) |
+| Popsicle Punch | Easy | [Recipe](https://www.delish.com/cooking/recipe-ideas/a22805581/popsicle-punch-recipe/) |
+| Raw Raspberry Shrub | Easy | [Recipe](https://www.bbcgoodfood.com/recipes/raw-raspberry-shrub) |
+| Shirley Temple | Easy | [Recipe](https://www.delish.com/cooking/recipe-ideas/a29813919/shirley-temple-drink-recipe/) |
+| Summer Cup Mocktail | Easy | [Recipe](https://www.bbcgoodfood.com/recipes/summer-cup-mocktail) |
+| Watermelon Breeze | Easy | [Recipe](https://www.taste.com.au/recipes/watermelon-breeze/a0ad7341-0139-4ce4-93dd-30008853732f) |
 
 <img src="media/images/drink.jpg" alt="Drink responsibly">
 
