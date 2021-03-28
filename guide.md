@@ -52,6 +52,8 @@ Not sure how to spend time in lockdown? This guide contains a range of different
 * [Wikipedia Contributing](#wikicontr)
 * [Work with cars](#Work-with-cars)
 * [Writing](#writing)
+* [Explore the world](#exploretw)
+
 
 [Note : Before you head outside](#note)
 
@@ -1652,7 +1654,7 @@ The countries will be in descending order of their population
 
 Population: 145.9 million
 
-In 2012, Russian scientists were able to regenerate a plant from a seed found in Siberian permafrost that was (yes) more than 30,000 years old. It remains the oldest plant to ever be regenerated. 
+In 2012, Russian scientists were able to regenerate a plant from a seed found in Siberian permafrost that was (yes) more than 30,000 years old. It remains the oldest plant to ever be regenerated.
 
 <img align="left" width="40" height="40" src="media/icons/Germany.png">
  2. Germany
@@ -1682,18 +1684,18 @@ France is the most visited country in the world with 89 million annual tourists.
 
 Population: 60.6 million
 
-One of the most iconic foods in this nation is the tomato. But Italians have only been eating this fruit since the 1500s, when Spanish conquistadors brought it from Peru to Naples, which at the time was under Spanish rule. 
+One of the most iconic foods in this nation is the tomato. But Italians have only been eating this fruit since the 1500s, when Spanish conquistadors brought it from Peru to Naples, which at the time was under Spanish rule.
 
-Naples is, of course, also the birthplace of pizza. 
+Naples is, of course, also the birthplace of pizza.
 
 <img align="left" width="40" height="40" src="media/icons/Spain.png">
  6.Spain
 
 Population: 46.7 million
 
-This country is the birthplace of Miguel de Cervantes, whose iconic “Don Quixote” is considered the first modern novel. The first part was published in 1605 and the second 10 years later. 
+This country is the birthplace of Miguel de Cervantes, whose iconic “Don Quixote” is considered the first modern novel. The first part was published in 1605 and the second 10 years later.
 
-He published several other works but made almost no money off any of them. 
+He published several other works but made almost no money off any of them.
 
 
 
@@ -1719,7 +1721,7 @@ The humble but delicious bagel was invented in this country. It’s not known ex
 
 Population: 19.4 million
 
-The man who invented the steam espresso machine and the Illycaffe brand, Francesco Illy, was born in Romania in 1892. 
+The man who invented the steam espresso machine and the Illycaffe brand, Francesco Illy, was born in Romania in 1892.
 
 
 
@@ -1728,7 +1730,7 @@ The man who invented the steam espresso machine and the Illycaffe brand, Frances
 
 Population: 17.1 million
 
-Once considered some of the shortest people in the world, the Dutch are now the tallest. Men average just over 6 feet while women average 5 feet 6 inches. 
+Once considered some of the shortest people in the world, the Dutch are now the tallest. Men average just over 6 feet while women average 5 feet 6 inches.
 
 
 
@@ -1746,14 +1748,14 @@ Chocolate is huge in Belgium, which can produce some 600,000 tons of it per year
 
 Population: 10.7 million
 
-Built in 1410, the world’s oldest astronomical clock still in operation resides in Prague, the capital of this country. 
+Built in 1410, the world’s oldest astronomical clock still in operation resides in Prague, the capital of this country.
 
 <img align="left" width="40" height="40" src="media/icons/Greece.webp">
  13.Greece
 
 Population: 10.5 million
 
-In order to avoid excessive wear and tear to our historic monuments, we have banned high heels at archaeological sites. 
+In order to avoid excessive wear and tear to our historic monuments, we have banned high heels at archaeological sites.
 
 <img align="left" width="40" height="40" src="media/icons/Portugal.webp">
  14.Portugal
@@ -1774,42 +1776,42 @@ This Scandinavian country has not fought in a war in more than 200 years. It sat
 
 Population: 9.7 million
 
-The Rubik’s Cube was invented in Hungary by an architect who named it after himself. Erno Rubik never intended his creation to be a toy but rather a vehicle for helping to understand three-dimensional geometry. 
+The Rubik’s Cube was invented in Hungary by an architect who named it after himself. Erno Rubik never intended his creation to be a toy but rather a vehicle for helping to understand three-dimensional geometry.
 
 <img align="left" width="40" height="40" src="media/icons/Belarus.png">
  17.Belarus
 
 Population: 9.5 million
 
-The Soviet era never really ended in this country, and Belarus is often called Europe’s last dictatorship. The secret police are referred to as the KGB and communal farming is still practiced. President Alexander Lukashenko has been in office since the post was created in 1994, and he has staunchly retained the feel of the USSR. 
+The Soviet era never really ended in this country, and Belarus is often called Europe’s last dictatorship. The secret police are referred to as the KGB and communal farming is still practiced. President Alexander Lukashenko has been in office since the post was created in 1994, and he has staunchly retained the feel of the USSR.
 
 <img align="left" width="40" height="40" src="media/icons/Austria.webp">
  18.Austria
 
 Population: 9 million
 
-The world’s first zoo, founded in 1752, is still in operation here. 
+The world’s first zoo, founded in 1752, is still in operation here.
 
 <img align="left" width="40" height="40" src="media/icons/Serbia.png">
  19.Serbia
 
 Population: 8.8 million
 
-This former Yugoslavian republic was once the center of the Roman empire and it shows — there were 18 emperors born in what is now modern-day Serbia. The most famous of these was Constantine I, who founded Constantinople (Istanbul) and elevated Christianity to a state-level religion. 
+This former Yugoslavian republic was once the center of the Roman empire and it shows — there were 18 emperors born in what is now modern-day Serbia. The most famous of these was Constantine I, who founded Constantinople (Istanbul) and elevated Christianity to a state-level religion.
 
 <img align="left" width="40" height="40" src="media/icons/Switzerland.png">
  20.Switzerland
 
 Population: 8.6 million
 
-Everyone associates this nation with chocolate, and for good reason. Much of chocolate as we know it today was created in Switzerland, including milk chocolate, chocolate with hazelnuts and melting chocolate. 
+Everyone associates this nation with chocolate, and for good reason. Much of chocolate as we know it today was created in Switzerland, including milk chocolate, chocolate with hazelnuts and melting chocolate.
 
 <img align="left" width="40" height="40" src="media/icons/Bulgaria.png">
  21.Bulgaria
 
 Population: 7 million
 
-This ancient Balkan nation claims to have accidentally created yogurt some 4,000 years ago. Either way, the main fermentation bacteria in the creamy dairy product is named after Bulgaria, lactobacillus bulgaricus, and was first discovered in the region. 
+This ancient Balkan nation claims to have accidentally created yogurt some 4,000 years ago. Either way, the main fermentation bacteria in the creamy dairy product is named after Bulgaria, lactobacillus bulgaricus, and was first discovered in the region.
 
 
 
@@ -1818,7 +1820,7 @@ This ancient Balkan nation claims to have accidentally created yogurt some 4,000
 
 Population: 5.8 million
 
-Bicycles are much more prevalent than personal automobiles here. Only four out of 10 Danes own a vehicle, while nine out of 10 own a bike. 
+Bicycles are much more prevalent than personal automobiles here. Only four out of 10 Danes own a vehicle, while nine out of 10 own a bike.
 
 <img align="left" width="40" height="40" src="media/icons/Finland.png">
  23.Finland
@@ -1832,7 +1834,7 @@ The baby box has been a Finnish institution since the 1930s, when the country’
 
 Population: 5.5 million
 
-Bratislava, Slovakia's capital, is the only in the world that borders two other countries, Austria and Hungary. 
+Bratislava, Slovakia's capital, is the only in the world that borders two other countries, Austria and Hungary.
 
 
 
@@ -1841,7 +1843,7 @@ Bratislava, Slovakia's capital, is the only in the world that borders two other 
 
 Population: 5.4 million
 
-In the 1980s, Norway started selling salmon, one of its major exports, to Japan because that island nation was facing a seafood shortage. The Norwegians even suggested using it in sushi and sashimi. 
+In the 1980s, Norway started selling salmon, one of its major exports, to Japan because that island nation was facing a seafood shortage. The Norwegians even suggested using it in sushi and sashimi.
 
 Though the Japanese were hesitant at first, it became a raw-seafood staple for them by 1995.
 
@@ -1858,14 +1860,14 @@ Guinness is arguably this nation’s most recognizable beverage. When Arthur Gui
 
 Population: 4.1 million
 
-This former Yugoslavian republic on the Adriatic Sea is credited with inventing the necktie. During France’s 30-year war In the 17th century, King Louis XIII hired Croatian mercenaries who wore a piece of cloth around their necks that the king was particularly fond of. He called it La Cravate, which is still the French term for a necktie. 
+This former Yugoslavian republic on the Adriatic Sea is credited with inventing the necktie. During France’s 30-year war In the 17th century, King Louis XIII hired Croatian mercenaries who wore a piece of cloth around their necks that the king was particularly fond of. He called it La Cravate, which is still the French term for a necktie.
 
 <img align="left" width="40" height="40" src="media/icons/Moldova.png">
  28.Moldova
 
 Population: 4 million
 
-The world’s largest wine cellar is buried in Moldova. The Milestii Mici wine cellar contains nearly 2 million bottles and the tunnel system housing them stretches for 75 miles. Cars and bikes are needed to traverse it, and the same road rules apply underground as above ground. 
+The world’s largest wine cellar is buried in Moldova. The Milestii Mici wine cellar contains nearly 2 million bottles and the tunnel system housing them stretches for 75 miles. Cars and bikes are needed to traverse it, and the same road rules apply underground as above ground.
 
 <img align="left" width="40" height="40" src="media/icons/Bosnia_and_Herzegovina.png">
  29.Bosnia and Herzegovina
@@ -1897,7 +1899,7 @@ This former Soviet republic was the largest country in Europe in the 15th centur
 
 Population: 2.1 million
 
-Another former Yugoslavian republic, North Macedonia is the birthplace of the Cyrillic alphabet, which is used in more than 50 languages. It was created by brothers Saints Cyril and Methodius in the 9th century. 
+Another former Yugoslavian republic, North Macedonia is the birthplace of the Cyrillic alphabet, which is used in more than 50 languages. It was created by brothers Saints Cyril and Methodius in the 9th century.
 
 <img align="left" width="40" height="40" src="media/icons/Slovenia.png">
  33.Slovenia
@@ -1918,7 +1920,7 @@ The first time a conifer was decorated for Christmas in the style we know today 
 
 Population: 1.3 million
 
-This former republic of the Soviet Union is considered the most digitally advanced government in the world and was the first to offer its citizens online voting, all the way back in 2005. 
+This former republic of the Soviet Union is considered the most digitally advanced government in the world and was the first to offer its citizens online voting, all the way back in 2005.
 
 <img align="left" width="40" height="40" src="media/icons/Montenegro.png">
  36.Montenegro
@@ -1972,7 +1974,7 @@ The laws date to the introduction of gambling in the country in the mid-1800s to
 
 Population: 38,019
 
-This tiny country sandwiched between Austria and Switzerland is the world’s top producer of false teeth. Ivoclar Vivadent manufactures 60 million artificial teeth annually, which is 20 percent of all false teeth made worldwide. 
+This tiny country sandwiched between Austria and Switzerland is the world’s top producer of false teeth. Ivoclar Vivadent manufactures 60 million artificial teeth annually, which is 20 percent of all false teeth made worldwide.
 
 
 <img align="left" width="40" height="40" src="media/icons/San_Marino.png">
@@ -1982,7 +1984,7 @@ Population: 33,860
 
 Landlocked inside Italy, San Marino is an ancient and tiny country with one very famous honorary citizen: Abraham Lincoln.
 
-In 1861, Lincoln had just been sworn in as the 16th U.S. president and was receiving congratulatory letters from around the world. But the one that piqued his interest the most was from the world’s oldest republic, San Marino, wishing the U.S. well as the Civil War loomed and Lincoln tried to keep the peace. 
+In 1861, Lincoln had just been sworn in as the 16th U.S. president and was receiving congratulatory letters from around the world. But the one that piqued his interest the most was from the world’s oldest republic, San Marino, wishing the U.S. well as the Civil War loomed and Lincoln tried to keep the peace.
 
 <img align="left" width="40" height="40" src="media/icons/Vatican.png">
  44.Vatican
@@ -2783,14 +2785,14 @@ That being said, incorporating all three aspects of fitness (cardio, strength tr
 
 First you need to pick your training goal. Is it to lose weight, gain lean muscle, become more flexible, or maintain your current weight? Whichever goal it is you want to make one type of training your main focus and use the others to supplement.
 
-## <a name="sleep_quality"></a>Sleep Quality 
+## <a name="sleep_quality"></a>Sleep Quality
 
-No copyright needed for this image :smiley: 
+No copyright needed for this image :smiley:
 <img width="300" height="350" src="media/images/mil.jpg">
 
 ### Tips to Sleep Better at night:
 
-#### 1. Increase bright light exposure during the day 
+#### 1. Increase bright light exposure during the day
 
 Your body has a natural time-keeping clock known as your circadian rhythm.
 
@@ -2899,5 +2901,32 @@ Before any outdoor activity, you should visit [the official Covid-19 map](https:
 regulations that are currently active on every Greek regional unit. For information in english check out the [ESN Greece website](https://esngreece.gr/covid-19-official-announcements-news?fbclid=IwAR2oBA5IpSgOAEUHQpEcHa3UwRY3XgJDFZZ9GtFot1GrPDaxrb775dnh_oM)
 
 ---
+
+<img align="left" width="40" height="40" src="media/icons/explore.png">
+
+## <a name="exploretw"></a>Explore the world
+Exploring the world from home seems impossible or not? Lets see what technology offer us,so that we do not get bored and learn about other places and cultures of the world.
+
+### Google Earth
+<img width="500" height="500" src="media/images/google-earth.jpg">
+
+**Google Earth** provides search capabilities and the ability to pan,zoom,rotate, and tilt the view of the Earth. You can even find your home except the exotic beaches of carribean sea. Check it [here](https://www.google.com/earth/)
+
+### Radio Garden
+<img width="500" height="500" src="media/images/garden-radio.jpg">
+
+**Garden radio** is an application that allows you to have access to almost every radio station around the globe. Do you want to check what they are listening while they're  drinking their coffee in Egypt? Want to know Whats the most common music in Thailand? Check it [here](http://radio.garden/).
+
+Images Source are  https://www.123rf.com/  
+                  https://www.google.com
+                  http://radio.garden/
+
+
+---
+
+
+
+
+
 
 _Section icons owned by [icons8.com](https://icons8.com/app/windows)_
